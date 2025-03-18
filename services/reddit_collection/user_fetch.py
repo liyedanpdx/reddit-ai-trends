@@ -89,6 +89,42 @@ class RedditUserFetcher:
                 'fetch_time': datetime.now().isoformat()
             }
     
+    def get_user_trophies(self, username: str) -> List[Dict[str, Any]]:
+        """
+        Get trophies and awards earned by a Reddit user.
+        
+        Args:
+            username: Username of the Reddit user
+            
+        Returns:
+            List of dictionaries containing trophy information
+        """
+        logger.info(f"Fetching trophies for user: {username}")
+        
+        try:
+            # Get the Redditor object
+            user = self.reddit.redditor(username)
+            
+            # Get trophies
+            trophies = []
+            
+            for trophy in user.trophies():
+                trophy_data = {
+                    'name': trophy.name,
+                    'description': trophy.description if hasattr(trophy, 'description') else None,
+                    'award_id': trophy.award_id if hasattr(trophy, 'award_id') else None,
+                    'icon_70': trophy.icon_70 if hasattr(trophy, 'icon_70') else None,
+                    'granted_at': datetime.fromtimestamp(trophy.granted_utc).isoformat() if hasattr(trophy, 'granted_utc') and trophy.granted_utc else None
+                }
+                trophies.append(trophy_data)
+            
+            logger.info(f"Successfully fetched {len(trophies)} trophies for user: {username}")
+            return trophies
+        
+        except Exception as e:
+            logger.error(f"Error fetching trophies for user {username}: {e}")
+            return []
+    
     def get_user_submissions(self, username: str, limit: int = 50, time_filter: str = "year") -> List[Dict[str, Any]]:
         """
         Get submissions (posts) made by a Reddit user.
@@ -317,6 +353,116 @@ class RedditUserFetcher:
                 'analysis_time': datetime.now().isoformat()
             }
     
+    def analyze_user_expertise_with_trophies(self, username: str, time_period_days: int = 90) -> Dict[str, Any]:
+        """
+        Analyze a user's expertise including their trophies and awards.
+        
+        Args:
+            username: Username of the Reddit user
+            time_period_days: Number of days to analyze activity for
+            
+        Returns:
+            Dictionary containing comprehensive expertise analysis
+        """
+        logger.info(f"Analyzing expertise with trophies for user: {username}")
+        
+        try:
+            # Get basic contribution analysis
+            contribution_analysis = self.analyze_user_contributions(username, time_period_days)
+            
+            # Get user trophies
+            trophies = self.get_user_trophies(username)
+            
+            # Map trophies to expertise areas
+            expertise_trophies = []
+            for trophy in trophies:
+                trophy_name = trophy.get('name', '').lower()
+                trophy_relevance = None
+                
+                # Analyze trophy relevance to expertise
+                if any(term in trophy_name for term in ['gilding', 'gold', 'platinum', 'award']):
+                    trophy_relevance = 'Community Recognition'
+                elif any(term in trophy_name for term in ['best', 'top', 'excellent']):
+                    trophy_relevance = 'Quality Contribution'
+                elif 'verified' in trophy_name:
+                    trophy_relevance = 'Identity Verification'
+                elif any(term in trophy_name for term in ['mod', 'moderator']):
+                    trophy_relevance = 'Community Leadership'
+                elif any(term in trophy_name for term in ['year', 'veteran']):
+                    trophy_relevance = 'Experience'
+                
+                if trophy_relevance:
+                    expertise_trophies.append({
+                        'trophy': trophy,
+                        'relevance': trophy_relevance
+                    })
+            
+            # Calculate expertise score components
+            contribution_score = 0
+            if contribution_analysis.get('activity_summary'):
+                # Base on karma and frequency
+                summary = contribution_analysis['activity_summary']
+                contribution_score = (
+                    summary.get('submission_karma', 0) * 0.3 + 
+                    summary.get('comment_karma', 0) * 0.3 +
+                    summary.get('posting_frequency', 0) * 20 +
+                    summary.get('commenting_frequency', 0) * 10
+                ) / 100
+            
+            # Trophy score based on number and relevance
+            trophy_score = len(trophies) * 5
+            trophy_score += len([t for t in expertise_trophies if t['relevance'] in 
+                              ['Quality Contribution', 'Community Leadership']]) * 10
+            
+            # Combined expertise score
+            total_score = min(100, contribution_score + trophy_score)
+            
+            # Create final expertise analysis
+            expertise_analysis = {
+                'username': username,
+                'profile': contribution_analysis.get('profile', {}),
+                'expertise_score': round(total_score, 2),
+                'contribution_stats': contribution_analysis.get('activity_summary', {}),
+                'expertise_areas': contribution_analysis.get('potential_expertise', []),
+                'trophies': trophies,
+                'trophy_count': len(trophies),
+                'expertise_trophies': expertise_trophies,
+                'expertise_ranking': self._get_expertise_ranking(total_score),
+                'analysis_time': datetime.now().isoformat()
+            }
+            
+            logger.info(f"Successfully analyzed expertise with trophies for user: {username}")
+            return expertise_analysis
+        
+        except Exception as e:
+            logger.error(f"Error analyzing expertise with trophies for user {username}: {e}")
+            return {
+                'username': username,
+                'error': str(e),
+                'analysis_time': datetime.now().isoformat()
+            }
+    
+    def _get_expertise_ranking(self, score: float) -> str:
+        """
+        Convert numeric score to expertise ranking label.
+        
+        Args:
+            score: Numeric expertise score (0-100)
+            
+        Returns:
+            String ranking label
+        """
+        if score >= 80:
+            return "Expert"
+        elif score >= 60:
+            return "Authority"
+        elif score >= 40:
+            return "Contributor"
+        elif score >= 20:
+            return "Active Participant"
+        else:
+            return "Casual User"
+    
     def find_most_valuable_contributors(self, subreddit: str, time_filter: str = "month", limit: int = 25) -> List[Dict[str, Any]]:
         """
         Find the most valuable contributors in a subreddit based on post and comment karma.
@@ -457,4 +603,29 @@ if __name__ == "__main__":
     for i, contributor in enumerate(contributors, 1):
         print(f"{i}. u/{contributor.get('username')}")
         print(f"   - Total karma: {contributor.get('total_karma', 0)}")
-        print(f"   - Posts: {contributor.get('post_count', 0)}, Comments: {contributor.get('comment_count', 0)}") 
+        print(f"   - Posts: {contributor.get('post_count', 0)}, Comments: {contributor.get('comment_count', 0)}")
+    
+    # Example 5: Get user trophies and expertise analysis
+    print(f"\nFetching trophies and expertise analysis for {username}:")
+    trophies = user_fetcher.get_user_trophies(username)
+    
+    print(f"User has {len(trophies)} trophies:")
+    for i, trophy in enumerate(trophies, 1):
+        print(f"{i}. {trophy.get('name', 'Unknown Trophy')}")
+        if trophy.get('description'):
+            print(f"   - Description: {trophy.get('description')}")
+        if trophy.get('granted_at'):
+            print(f"   - Awarded: {trophy.get('granted_at')}")
+    
+    # Get comprehensive expertise analysis
+    expertise = user_fetcher.analyze_user_expertise_with_trophies(username)
+    print(f"\nExpertise Analysis for {username}:")
+    print(f"- Expertise Score: {expertise.get('expertise_score', 0)}/100")
+    print(f"- Expertise Ranking: {expertise.get('expertise_ranking', 'Unknown')}")
+    print(f"- Trophy Count: {expertise.get('trophy_count', 0)}")
+    
+    print("\nExpertise Trophies:")
+    for i, trophy_info in enumerate(expertise.get('expertise_trophies', []), 1):
+        if i <= 3:  # Show top 3
+            trophy = trophy_info.get('trophy', {})
+            print(f"{i}. {trophy.get('name', 'Unknown')} - {trophy_info.get('relevance', 'General')}") 
