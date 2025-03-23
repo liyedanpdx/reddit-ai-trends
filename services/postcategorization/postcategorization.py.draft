@@ -1,0 +1,147 @@
+import json
+import requests
+from typing import Dict, List, Tuple, Optional
+
+class AIPostClassifier:
+    """Reddit帖子AI主题智能分类器"""
+    
+    def __init__(self):
+        # 初始化预定义的主题类别
+        self.predefined_categories = {
+            "ai_general": "人工智能一般性讨论",
+            "llm": "大语言模型相关",
+            "ai_hardware": "AI硬件设备",
+            "ai_trends": "AI新趋势",
+            "non_ai": "非AI相关"
+        }
+        
+        # 动态发现的新主题
+        self.discovered_categories = {}
+        
+        # 类别关键词(可以不断扩充)
+        self.category_keywords = {
+            "ai_general": ["ai", "artificial intelligence", "机器学习", "深度学习"],
+            "llm": ["llm", "gpt", "claude", "large language model", "chatgpt", "大语言模型"],
+            "ai_hardware": ["r1", "rabbit", "humane", "ai pin", "hardware", "设备"],
+            "ai_trends": ["multimodal", "agent", "rag", "趋势", "新技术", "革新"]
+        }
+        
+    def classify_post(self, post_data: Dict) -> Dict:
+        """
+        分类一个Reddit帖子
+        
+        参数:
+            post_data: Reddit帖子的元数据
+            
+        返回:
+            分类结果字典
+        """
+        # 合并标题和内容文本
+        post_text = post_data["title"] + " " + (post_data.get("selftext", "") or "")
+        post_text = post_text.lower()
+        
+        # 1. 基于关键词的初步分类
+        initial_categories = self._keyword_classification(post_text)
+        
+        # 2. 深入分析 - 在实际应用中可以调用LLM API
+        is_ai_related = self._is_ai_related(post_text, initial_categories)
+        is_new_trend = self._is_new_trend(post_text) if is_ai_related else False
+        
+        # 3. 寻找可能的新主题类别
+        new_category = self._discover_new_category(post_text) if is_ai_related else None
+        
+        # 汇总结果
+        result = {
+            "is_ai_related": is_ai_related,
+            "is_new_trend": is_new_trend,
+            "categories": initial_categories,
+            "primary_category": max(initial_categories.items(), key=lambda x: x[1])[0] if initial_categories else "non_ai",
+            "confidence": max(initial_categories.values()) if initial_categories else 0,
+            "discovered_category": new_category
+        }
+        
+        return result
+    
+    def _keyword_classification(self, text: str) -> Dict[str, float]:
+        """基于关键词的分类"""
+        matches = {}
+        
+        for category, keywords in self.category_keywords.items():
+            category_score = 0
+            for keyword in keywords:
+                if keyword in text:
+                    # 可以根据关键词重要性设置不同权重
+                    category_score += 1
+            
+            if category_score > 0:
+                # 归一化为0-1之间的置信度
+                matches[category] = min(category_score / len(keywords) * 2, 1.0)
+        
+        return matches
+    
+    def _is_ai_related(self, text: str, initial_categories: Dict[str, float]) -> bool:
+        """判断是否与AI相关"""
+        # 简单版本: 如果有任何AI相关分类超过阈值
+        if any(score > 0.3 for category, score in initial_categories.items() if category != "non_ai"):
+            return True
+            
+        # 实际应用中，可以在这里调用LLM进行更准确的分类
+        # 例如:
+        # llm_result = self._call_llm_api(text, "这篇文章是否与人工智能相关?")
+        # return llm_result == "是"
+        
+        # 简单规则
+        ai_terms = ["ai", "artificial intelligence", "machine learning", "深度学习", 
+                   "chatgpt", "gpt", "llm", "claude", "agent"]
+        
+        return any(term in text for term in ai_terms)
+    
+    def _is_new_trend(self, text: str) -> bool:
+        """判断是否关于AI新趋势"""
+        # 实际应用中应该调用LLM判断
+        trend_indicators = ["new", "novel", "innovative", "breakthrough", "研究", "创新", 
+                           "最新", "突破", "frontier", "cutting edge", "前沿"]
+        
+        return any(indicator in text for indicator in trend_indicators)
+    
+    def _discover_new_category(self, text: str) -> Optional[str]:
+        """尝试发现新的AI主题类别"""
+        # 在实际应用中，可以使用主题建模或LLM来识别新类别
+        # 例如，可以检测文本中出现的、不在现有类别关键词中的技术术语
+        # 简化版本返回None
+        return None
+        
+    def _call_llm_api(self, text: str, prompt: str):
+        """
+        调用LLM API进行分类(示例函数)
+        
+        实际应用中需要替换为真实的API调用
+        """
+        # 这里是一个示例，实际需要替换为有效的LLM API调用
+        # api_url = "https://api.openai.com/v1/chat/completions"
+        # headers = {"Authorization": f"Bearer {API_KEY}"}
+        # data = {
+        #     "model": "gpt-4",
+        #     "messages": [
+        #         {"role": "system", "content": "You are a classifier for AI-related content."},
+        #         {"role": "user", "content": f"{prompt}\n\n文本: {text}"}
+        #     ]
+        # }
+        # response = requests.post(api_url, headers=headers, json=data)
+        # return response.json()["choices"][0]["message"]["content"]
+        pass
+
+# 使用示例
+classifier = AIPostClassifier()
+
+# 示例Reddit帖子
+sample_post = {
+    'post_id': '1e0avs6', 
+    'title': 'Has anyone actually gotten a refund for their R1?', 
+    'subreddit': 'Rabbitr1', 
+    'selftext': "Pretty much the title. I returned my R1 after realizing it couldn't really do anything useful. It's been 20 days since the r1 was delivered back to them, and I still haven't gotten a refund. Support isn't answering any of my emails, and I was just wondering if any of you have actually gotten a refund."
+}
+
+# 分类结果
+result = classifier.classify_post(sample_post)
+print(json.dumps(result, indent=2))
