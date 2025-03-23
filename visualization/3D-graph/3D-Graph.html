@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Neo4j Reddit Graph Visualization</title>
+  <script src="//cdn.jsdelivr.net/npm/3d-force-graph"></script>
+  <style>
+    body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+    #graph-container { width: 100%; height: 100vh; }
+    .info-panel {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(0, 0, 0, 0.7);
+      color: white;
+      padding: 10px;
+      border-radius: 5px;
+      z-index: 100;
+      max-width: 250px;
+    }
+    .loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 24px;
+      color: white;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      border-radius: 10px;
+      z-index: 100;
+    }
+  </style>
+</head>
+<body>
+  <div id="loading" class="loading">Loading data...</div>
+  <div class="info-panel">
+    <h3>Reddit AI Community Graph</h3>
+    <p>Node Colors:</p>
+    <ul>
+      <li style="color: red;">Posts</li>
+      <li style="color: blue;">Users</li>
+      <li style="color: green;">Subreddits</li>
+      <li style="color: orange;">Categories</li>
+    </ul>
+    <p><small>Data updated: <span id="update-time">Loading...</span></small></p>
+  </div>
+  <div id="graph-container"></div>
+
+  <script>
+    // Fetch graph data from local JSON file
+    async function fetchGraphData() {
+      try {
+        // Load data from graph_data.json file
+        const response = await fetch('graph_data.json');
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        const data = await response.json();
+        
+        // Update generation time
+        if (data.generated_at) {
+          const date = new Date(data.generated_at);
+          document.getElementById('update-time').textContent = date.toLocaleString();
+        }
+        
+        return data;
+      } catch (error) {
+        console.error('Error loading graph data:', error);
+        
+        // If loading fails, return simple example data
+        document.getElementById('update-time').textContent = 'Load failed - Showing sample data';
+        return {
+          nodes: [
+            { id: 'post1', name: 'GPT-5 Performance Analysis', group: 'Post', val: 1.5 },
+            { id: 'user1', name: 'ai_enthusiast', group: 'User', val: 1 },
+            { id: 'sub1', name: 'ArtificialIntelligence', group: 'Subreddit', val: 2 },
+            { id: 'cat1', name: 'LLM', group: 'Category', val: 1.2 }
+          ],
+          links: [
+            { source: 'user1', target: 'post1', type: 'POSTED' },
+            { source: 'post1', target: 'sub1', type: 'POSTED_IN' },
+            { source: 'post1', target: 'cat1', type: 'BELONGS_TO' }
+          ]
+        };
+      } finally {
+        // Hide loading indicator
+        document.getElementById('loading').style.display = 'none';
+      }
+    }
+
+    // Create graph visualization
+    async function createGraph() {
+      const data = await fetchGraphData();
+      
+      const Graph = ForceGraph3D()
+        .graphData(data)
+        .nodeId('id')
+        .nodeLabel('name')
+        .nodeVal('val')
+        .nodeColor(node => {
+          // Color nodes based on type
+          switch(node.group) {
+            case 'Post': return 'red';
+            case 'User': return 'blue';
+            case 'Subreddit': return 'green';
+            case 'Category': return 'orange';
+            default: return 'gray';
+          }
+        })
+        .linkLabel('type')
+        .linkDirectionalArrowLength(3.5)
+        .linkDirectionalArrowRelPos(1)
+        .linkCurvature(0.25)
+        .linkWidth(1)
+        .backgroundColor('#000011')
+        .showNavInfo(true)
+        (document.getElementById('graph-container'));
+    }
+
+    // Load the graph
+    createGraph();
+  </script>
+</body>
+</html>

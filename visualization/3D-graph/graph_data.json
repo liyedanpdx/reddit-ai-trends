@@ -1,0 +1,44 @@
+{
+  "nodes": [
+    { "id": "0", "name": "GPT-5 Performance Analysis", "group": "Post", "val": 2.5 },
+    { "id": "1", "name": "Ethics of AI in Healthcare", "group": "Post", "val": 2.2 },
+    { "id": "2", "name": "Latest Advancements in Computer Vision", "group": "Post", "val": 3.0 },
+    { "id": "3", "name": "Transformer Architecture Explained", "group": "Post", "val": 2.8 },
+    { "id": "4", "name": "OpenAI's New Research Paper", "group": "Post", "val": 3.5 },
+    { "id": "5", "name": "Reinforcement Learning in Robotics", "group": "Post", "val": 2.4 },
+    { "id": "6", "name": "ai_enthusiast", "group": "User", "val": 1 },
+    { "id": "7", "name": "tech_guru", "group": "User", "val": 1 },
+    { "id": "8", "name": "ml_researcher", "group": "User", "val": 1 },
+    { "id": "9", "name": "data_scientist", "group": "User", "val": 1 },
+    { "id": "10", "name": "ArtificialIntelligence", "group": "Subreddit", "val": 2 },
+    { "id": "11", "name": "MachineLearning", "group": "Subreddit", "val": 2 },
+    { "id": "12", "name": "OpenAI", "group": "Subreddit", "val": 2 },
+    { "id": "13", "name": "LLM", "group": "Category", "val": 1.2 },
+    { "id": "14", "name": "AI Ethics", "group": "Category", "val": 1.2 },
+    { "id": "15", "name": "Computer Vision", "group": "Category", "val": 1.2 },
+    { "id": "16", "name": "Reinforcement Learning", "group": "Category", "val": 1.2 }
+  ],
+  "links": [
+    { "source": "6", "target": "0", "type": "POSTED" },
+    { "source": "7", "target": "1", "type": "POSTED" },
+    { "source": "8", "target": "2", "type": "POSTED" },
+    { "source": "9", "target": "3", "type": "POSTED" },
+    { "source": "6", "target": "4", "type": "POSTED" },
+    { "source": "8", "target": "5", "type": "POSTED" },
+    
+    { "source": "0", "target": "10", "type": "POSTED_IN" },
+    { "source": "1", "target": "10", "type": "POSTED_IN" },
+    { "source": "2", "target": "11", "type": "POSTED_IN" },
+    { "source": "3", "target": "11", "type": "POSTED_IN" },
+    { "source": "4", "target": "12", "type": "POSTED_IN" },
+    { "source": "5", "target": "11", "type": "POSTED_IN" },
+    
+    { "source": "0", "target": "13", "type": "BELONGS_TO" },
+    { "source": "1", "target": "14", "type": "BELONGS_TO" },
+    { "source": "2", "target": "15", "type": "BELONGS_TO" },
+    { "source": "3", "target": "13", "type": "BELONGS_TO" },
+    { "source": "4", "target": "13", "type": "BELONGS_TO" },
+    { "source": "5", "target": "16", "type": "BELONGS_TO" }
+  ],
+  "generated_at": "2023-04-01T12:00:00Z"
+} 
