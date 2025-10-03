@@ -4,9 +4,11 @@ matplotlib==3.8.0
 python-dotenv==1.0.0
 pymongo==4.6.1
 groq==0.4.0
+openai>=1.0.0
 schedule==1.2.1
 gitpython==3.1.40
 markdown==3.5.1
 tqdm==4.66.1
 pytz==2023.3
-requests==2.31.0 
+requests==2.31.0
+jinja2>=3.1.0 

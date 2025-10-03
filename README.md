@@ -15,10 +15,17 @@ Automatically generate trend reports from AI-related Reddit communities, support
 - **Multi-community Analysis**: Collect data from various AI-related subreddits to provide a comprehensive view
 - **Detailed Trend Analysis**: Generate in-depth reports including today's highlights, weekly trend comparisons, monthly technology evolution, and more
 - **Bilingual Support**: Generate reports in both English and Chinese
+- **Multiple LLM Providers**: Supports both Groq and OpenRouter APIs
 - **Organized File Structure**: Store reports in year/month/day folders for easy access
 - **Automatic README Updates**: Automatically update links to the latest reports
 - **Docker Deployment**: Easy containerized deployment
 - **MongoDB Persistence**: Store all data for historical analysis
+
+## Recent Updates (2025-10-03)
+
+- Added OpenRouter API support with access to dozens of free and paid models (Gemini, DeepSeek, Qwen, etc.)
+- Improved code organization for better maintainability
+- Extracted prompts into separate template files for easier customization
 
 ## Directory Structure
 
@@ -39,7 +46,7 @@ reports/
 
 - Docker and Docker Compose
 - Reddit API credentials
-- Groq API key
+- LLM API key (Groq or OpenRouter)
 
 ### Environment Variables Setup
 
@@ -51,7 +58,7 @@ cp .env.example .env
 
 2. Edit the `.env` file with your API keys and other configurations:
 
-```
+```bash
 # Reddit API credentials
 REDDIT_CLIENT_ID=your_reddit_client_id
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
@@ -61,13 +68,27 @@ REDDIT_USER_AGENT=your_reddit_user_agent
 MONGODB_URI=mongodb://mongodb:27017
 MONGODB_DATABASE=reddit_trends
 
-# Groq API key
+# LLM Provider (groq or openrouter)
+LLM_PROVIDER=openrouter
+
+# Groq API (if using Groq)
 GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=llama-3.3-70b-versatile
+
+# OpenRouter API (if using OpenRouter)
+OPENROUTER_API_KEY=your_openrouter_api_key
+OPENROUTER_MODEL=deepseek/deepseek-r1-distill-llama-70b:free
+
+# LLM Settings
+LLM_TEMPERATURE=0.4
+LLM_MAX_TOKENS=4000
 
 # Report generation settings
 REPORT_GENERATION_TIME=06:00
 REPORT_LANGUAGES=en,zh
 ```
+
+**Note**: OpenRouter provides access to dozens of LLM models including free options (DeepSeek, Gemini, Qwen) and paid models. Get your API key at [openrouter.ai](https://openrouter.ai)
 
 ## Usage
 

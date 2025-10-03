@@ -153,3 +153,9 @@ backfill_report_*.md
 *_test_local.py
 test_local_*.py 
 *local*.py
+
+#tests
+/tests
+
+#CLAUDE
+CLAUDE.md

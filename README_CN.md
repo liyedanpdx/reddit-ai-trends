@@ -15,10 +15,17 @@
 - **多社区分析**：收集来自各种AI相关subreddit的数据，提供全面视图
 - **详细趋势分析**：生成深入报告，包括今日焦点、周趋势对比、月度技术演进等
 - **双语支持**：同时生成英文和中文报告
+- **多LLM提供商**：支持Groq和OpenRouter API
 - **有组织的文件结构**：按年/月/日存储报告，便于访问
 - **自动README更新**：自动更新指向最新报告的链接
 - **Docker部署**：简易容器化部署
 - **MongoDB持久化**：存储所有数据用于历史分析
+
+## 最新更新 (2025-10-03)
+
+- 新增OpenRouter API支持，可访问数十种免费和付费模型（Gemini、DeepSeek、Qwen等）
+- 优化代码结构，提升可维护性
+- 将提示词提取到独立模板文件，便于自定义
 
 ## 目录结构
 
@@ -39,7 +46,7 @@ reports/
 
 - Docker和Docker Compose
 - Reddit API凭证
-- Groq API密钥
+- LLM API密钥（Groq或OpenRouter）
 
 ### 环境变量设置
 
@@ -51,23 +58,37 @@ cp .env.example .env
 
 2. 编辑`.env`文件，填入您的API密钥和其他配置：
 
-```
-# Reddit API credentials
+```bash
+# Reddit API凭证
 REDDIT_CLIENT_ID=your_reddit_client_id
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
 REDDIT_USER_AGENT=your_reddit_user_agent
 
-# MongoDB connection
+# MongoDB连接
 MONGODB_URI=mongodb://mongodb:27017
 MONGODB_DATABASE=reddit_trends
 
-# Groq API key
-GROQ_API_KEY=your_groq_api_key
+# LLM提供商（groq或openrouter）
+LLM_PROVIDER=openrouter
 
-# Report generation settings
+# Groq API（如果使用Groq）
+GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=llama-3.3-70b-versatile
+
+# OpenRouter API（如果使用OpenRouter）
+OPENROUTER_API_KEY=your_openrouter_api_key
+OPENROUTER_MODEL=deepseek/deepseek-r1-distill-llama-70b:free
+
+# LLM设置
+LLM_TEMPERATURE=0.4
+LLM_MAX_TOKENS=4000
+
+# 报告生成设置
 REPORT_GENERATION_TIME=06:00
 REPORT_LANGUAGES=en,zh
 ```
+
+**注意**：OpenRouter提供数十种LLM模型，包括免费选项（DeepSeek、Gemini、Qwen）和付费模型。在 [openrouter.ai](https://openrouter.ai) 获取API密钥
 
 ## 使用方法
 
