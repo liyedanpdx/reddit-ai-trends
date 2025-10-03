@@ -4,68 +4,68 @@
 
 | Title | Community | Score | Comments | Category | Posted |
 |-------|-----------|-------|----------|----------|--------|
-| [Amazon\'s new AI framework just unlocked super agile huma...](https://www.reddit.com/comments/1nweon7) | [r/singularity](https://www.reddit.com/r/singularity) | 705 | 84 | Robotics | 2025-10-02 20:15 UTC |
-| [Granite 4.0 Language Models - a ibm-granite Collection](https://www.reddit.com/comments/1nw2wd6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 569 | 223 | New Model | 2025-10-02 12:51 UTC |
-| [Introducing Onyx - a fully open source chat UI with RAG, ...](https://www.reddit.com/comments/1nw52ad) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 399 | 116 | Resources | 2025-10-02 14:18 UTC |
-| [Terence Tao says ChatGPT helped him solve a MathOverflow ...](https://www.reddit.com/comments/1nwqqrj) | [r/singularity](https://www.reddit.com/r/singularity) | 386 | 105 | AI | 2025-10-03 05:33 UTC |
-| [Preview of Gemini 3.0 Pro](https://www.reddit.com/comments/1nwehc3) | [r/singularity](https://www.reddit.com/r/singularity) | 354 | 106 | AI | 2025-10-02 20:08 UTC |
-| [It\'s been a long time since Google released a new Gemma ...](https://www.reddit.com/comments/1nw5kkc) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 317 | 94 | Discussion | 2025-10-02 14:37 UTC |
-| [OpenAI closes $500B valuation round, employees hold inste...](https://www.reddit.com/comments/1nw4ahb) | [r/singularity](https://www.reddit.com/r/singularity) | 313 | 128 | LLM News | 2025-10-02 13:48 UTC |
-| [Granite 4.0 Micro (3.4B) running 100% locally in your bro...](https://www.reddit.com/comments/1nw8c6y) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 261 | 30 | New Model | 2025-10-02 16:20 UTC |
-| [Noam Brown of OpenAI has been using GPT-5 Thinking to fin...](https://www.reddit.com/comments/1nwl1kz) | [r/singularity](https://www.reddit.com/r/singularity) | 240 | 116 | AI | 2025-10-03 00:39 UTC |
-| [GLM 4.6 is nice](https://www.reddit.com/comments/1nw2ghd) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 193 | 80 | Discussion | 2025-10-02 12:31 UTC |
+| [Amazon\'s new AI framework just unlocked super agile huma...](https://www.reddit.com/comments/1nweon7) | [r/singularity](https://www.reddit.com/r/singularity) | 729 | 86 | Robotics | 2025-10-02 20:15 UTC |
+| [Granite 4.0 Language Models - a ibm-granite Collection](https://www.reddit.com/comments/1nw2wd6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 567 | 225 | New Model | 2025-10-02 12:51 UTC |
+| [Terence Tao says ChatGPT helped him solve a MathOverflow ...](https://www.reddit.com/comments/1nwqqrj) | [r/singularity](https://www.reddit.com/r/singularity) | 436 | 131 | AI | 2025-10-03 05:33 UTC |
+| [Introducing Onyx - a fully open source chat UI with RAG, ...](https://www.reddit.com/comments/1nw52ad) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 408 | 117 | Resources | 2025-10-02 14:18 UTC |
+| [Preview of Gemini 3.0 Pro](https://www.reddit.com/comments/1nwehc3) | [r/singularity](https://www.reddit.com/r/singularity) | 368 | 108 | AI | 2025-10-02 20:08 UTC |
+| [It\'s been a long time since Google released a new Gemma ...](https://www.reddit.com/comments/1nw5kkc) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 326 | 94 | Discussion | 2025-10-02 14:37 UTC |
+| [OpenAI closes $500B valuation round, employees hold inste...](https://www.reddit.com/comments/1nw4ahb) | [r/singularity](https://www.reddit.com/r/singularity) | 314 | 128 | LLM News | 2025-10-02 13:48 UTC |
+| [Granite 4.0 Micro (3.4B) running 100% locally in your bro...](https://www.reddit.com/comments/1nw8c6y) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 269 | 30 | New Model | 2025-10-02 16:20 UTC |
+| [Noam Brown of OpenAI has been using GPT-5 Thinking to fin...](https://www.reddit.com/comments/1nwl1kz) | [r/singularity](https://www.reddit.com/r/singularity) | 256 | 123 | AI | 2025-10-03 00:39 UTC |
+| [GLM 4.6 is nice](https://www.reddit.com/comments/1nw2ghd) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 199 | 81 | Discussion | 2025-10-02 12:31 UTC |
 
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Sora 2 realism](https://www.reddit.com/comments/1nujq82) | [r/singularity](https://www.reddit.com/r/singularity) | 5283 | 872 | AI | 2025-09-30 17:38 UTC |
-| 2 | [OpenAI: Sora 2](https://www.reddit.com/comments/1nuj5bk) | [r/singularity](https://www.reddit.com/r/singularity) | 1785 | 598 | Discussion | 2025-09-30 17:16 UTC |
-| 3 | [Claude 4.5 Sonnet is here](https://www.reddit.com/comments/1ntnegj) | [r/singularity](https://www.reddit.com/r/singularity) | 1327 | 184 | AI | 2025-09-29 16:55 UTC |
-| 4 | [The upgrade is phenomenal](https://www.reddit.com/comments/1nunv5c) | [r/singularity](https://www.reddit.com/r/singularity) | 1263 | 197 | AI | 2025-09-30 20:13 UTC |
-| 5 | [Surfing on a subway](https://www.reddit.com/comments/1nujpbu) | [r/singularity](https://www.reddit.com/r/singularity) | 1185 | 168 | Video | 2025-09-30 17:37 UTC |
-| 6 | [GLM-4.6-GGUF is out!](https://www.reddit.com/comments/1nv53rb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1051 | 176 | News | 2025-10-01 11:00 UTC |
-| 7 | [Unlocked consistency for sora 2](https://www.reddit.com/comments/1nvb12o) | [r/singularity](https://www.reddit.com/r/singularity) | 1043 | 102 | Video | 2025-10-01 15:17 UTC |
-| 8 | [Full fine-tuning is not needed anymore.](https://www.reddit.com/comments/1nturn1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1025 | 97 | Discussion | 2025-09-29 21:33 UTC |
-| 9 | [NVIDIA Just Solved The Hardest Problem in Physics Simulat...](https://www.reddit.com/comments/1ns77ya) | [r/singularity](https://www.reddit.com/r/singularity) | 974 | 142 | Engineering | 2025-09-27 21:43 UTC |
-| 10 | [How bad is this going to age](https://www.reddit.com/comments/1nvg9s1) | [r/singularity](https://www.reddit.com/r/singularity) | 955 | 412 | AI | 2025-10-01 18:28 UTC |
-| 11 | [Sora 2 creates anime](https://www.reddit.com/comments/1nujqfo) | [r/singularity](https://www.reddit.com/r/singularity) | 954 | 227 | AI | 2025-09-30 17:38 UTC |
-| 12 | [I built RAG for a rocket research company: 125K docs (197...](https://www.reddit.com/comments/1nr59iw) | [r/LLMDevs](https://www.reddit.com/r/LLMDevs) | 850 | 140 | Discussion | 2025-09-26 16:02 UTC |
-| 13 | [How am I supposed to know which third party provider can ...](https://www.reddit.com/comments/1nr3n2r) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 773 | 112 | Question | Help | 2025-09-26 15:00 UTC |
-| 14 | [Chinese AI Labs Tier List](https://www.reddit.com/comments/1ntg6sp) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 727 | 121 | Discussion | 2025-09-29 12:05 UTC |
-| 15 | [Claude 4.5 does 30 hours of autonomous coding](https://www.reddit.com/comments/1nto74a) | [r/singularity](https://www.reddit.com/r/singularity) | 709 | 136 | AI | 2025-09-29 17:24 UTC |
-| 16 | [What are Kimi devs smoking](https://www.reddit.com/comments/1nsmksq) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 704 | 72 | Funny | 2025-09-28 12:02 UTC |
-| 17 | [Amazon\'s new AI framework just unlocked super agile huma...](https://www.reddit.com/comments/1nweon7) | [r/singularity](https://www.reddit.com/r/singularity) | 703 | 84 | Robotics | 2025-10-02 20:15 UTC |
-| 18 | [Hot take: ALL Coding tools are bullsh*t](https://www.reddit.com/comments/1nu6kjc) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 677 | 314 | AI Written | 2025-09-30 07:14 UTC |
-| 19 | [DeepSeek-V3.2 released](https://www.reddit.com/comments/1nte1kr) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 676 | 132 | New Model | 2025-09-29 10:04 UTC |
-| 20 | [How can I use this beast to benefit the community? Quanti...](https://www.reddit.com/comments/1nulea4) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 632 | 166 | Question | Help | 2025-09-30 18:39 UTC |
+| 1 | [Sora 2 realism](https://www.reddit.com/comments/1nujq82) | [r/singularity](https://www.reddit.com/r/singularity) | 5279 | 872 | AI | 2025-09-30 17:38 UTC |
+| 2 | [OpenAI: Sora 2](https://www.reddit.com/comments/1nuj5bk) | [r/singularity](https://www.reddit.com/r/singularity) | 1783 | 598 | Discussion | 2025-09-30 17:16 UTC |
+| 3 | [Claude 4.5 Sonnet is here](https://www.reddit.com/comments/1ntnegj) | [r/singularity](https://www.reddit.com/r/singularity) | 1325 | 184 | AI | 2025-09-29 16:55 UTC |
+| 4 | [The upgrade is phenomenal](https://www.reddit.com/comments/1nunv5c) | [r/singularity](https://www.reddit.com/r/singularity) | 1258 | 197 | AI | 2025-09-30 20:13 UTC |
+| 5 | [Surfing on a subway](https://www.reddit.com/comments/1nujpbu) | [r/singularity](https://www.reddit.com/r/singularity) | 1183 | 168 | Video | 2025-09-30 17:37 UTC |
+| 6 | [GLM-4.6-GGUF is out!](https://www.reddit.com/comments/1nv53rb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1054 | 176 | News | 2025-10-01 11:00 UTC |
+| 7 | [Unlocked consistency for sora 2](https://www.reddit.com/comments/1nvb12o) | [r/singularity](https://www.reddit.com/r/singularity) | 1051 | 102 | Video | 2025-10-01 15:17 UTC |
+| 8 | [Full fine-tuning is not needed anymore.](https://www.reddit.com/comments/1nturn1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1028 | 98 | Discussion | 2025-09-29 21:33 UTC |
+| 9 | [NVIDIA Just Solved The Hardest Problem in Physics Simulat...](https://www.reddit.com/comments/1ns77ya) | [r/singularity](https://www.reddit.com/r/singularity) | 976 | 142 | Engineering | 2025-09-27 21:43 UTC |
+| 10 | [Sora 2 creates anime](https://www.reddit.com/comments/1nujqfo) | [r/singularity](https://www.reddit.com/r/singularity) | 963 | 227 | AI | 2025-09-30 17:38 UTC |
+| 11 | [How bad is this going to age](https://www.reddit.com/comments/1nvg9s1) | [r/singularity](https://www.reddit.com/r/singularity) | 956 | 412 | AI | 2025-10-01 18:28 UTC |
+| 12 | [I built RAG for a rocket research company: 125K docs (197...](https://www.reddit.com/comments/1nr59iw) | [r/LLMDevs](https://www.reddit.com/r/LLMDevs) | 853 | 140 | Discussion | 2025-09-26 16:02 UTC |
+| 13 | [How am I supposed to know which third party provider can ...](https://www.reddit.com/comments/1nr3n2r) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 774 | 112 | Question | Help | 2025-09-26 15:00 UTC |
+| 14 | [Chinese AI Labs Tier List](https://www.reddit.com/comments/1ntg6sp) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 728 | 121 | Discussion | 2025-09-29 12:05 UTC |
+| 15 | [Amazon\'s new AI framework just unlocked super agile huma...](https://www.reddit.com/comments/1nweon7) | [r/singularity](https://www.reddit.com/r/singularity) | 726 | 86 | Robotics | 2025-10-02 20:15 UTC |
+| 16 | [Claude 4.5 does 30 hours of autonomous coding](https://www.reddit.com/comments/1nto74a) | [r/singularity](https://www.reddit.com/r/singularity) | 704 | 136 | AI | 2025-09-29 17:24 UTC |
+| 17 | [What are Kimi devs smoking](https://www.reddit.com/comments/1nsmksq) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 703 | 72 | Funny | 2025-09-28 12:02 UTC |
+| 18 | [DeepSeek-V3.2 released](https://www.reddit.com/comments/1nte1kr) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 682 | 132 | New Model | 2025-09-29 10:04 UTC |
+| 19 | [Hot take: ALL Coding tools are bullsh*t](https://www.reddit.com/comments/1nu6kjc) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 682 | 314 | AI Written | 2025-09-30 07:14 UTC |
+| 20 | [How can I use this beast to benefit the community? Quanti...](https://www.reddit.com/comments/1nulea4) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 627 | 166 | Question | Help | 2025-09-30 18:39 UTC |
 
 
 ## Monthly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Ok should we start worrying](https://www.reddit.com/comments/1nidifd) | [r/singularity](https://www.reddit.com/r/singularity) | 7030 | 1059 | Robotics | 2025-09-16 10:15 UTC |
-| 2 | [Sora 2 realism](https://www.reddit.com/comments/1nujq82) | [r/singularity](https://www.reddit.com/r/singularity) | 5277 | 872 | AI | 2025-09-30 17:38 UTC |
-| 3 | [I had that moment with Kimi 2!](https://www.reddit.com/comments/1nnu1qc) | [r/singularity](https://www.reddit.com/r/singularity) | 4085 | 158 | Meme | 2025-09-22 18:13 UTC |
-| 4 | [Skild AI showcases an omni-bodied robot brain](https://www.reddit.com/comments/1npp7b9) | [r/singularity](https://www.reddit.com/r/singularity) | 2893 | 346 | AI | 2025-09-24 21:52 UTC |
-| 5 | [Seedream 4 is mind-blowingly good](https://www.reddit.com/comments/1ncn3qy) | [r/singularity](https://www.reddit.com/r/singularity) | 2864 | 444 | AI | 2025-09-09 16:09 UTC |
-| 6 | [Why do new analysts often ignore R?](https://www.reddit.com/comments/1nnvss1) | [r/datascience](https://www.reddit.com/r/datascience) | 2429 | 277 | Monday Meme | 2025-09-22 19:18 UTC |
-| 7 | [Unitree G1 fast recovery](https://www.reddit.com/comments/1nnk9hk) | [r/singularity](https://www.reddit.com/r/singularity) | 2018 | 419 | Robotics | 2025-09-22 11:47 UTC |
-| 8 | [I bought a modded 4090 48GB in Shenzhen.&nbsp;This is my ...](https://www.reddit.com/comments/1nifajh) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1846 | 363 | Discussion | 2025-09-16 11:52 UTC |
-| 9 | [OpenAI: Sora 2](https://www.reddit.com/comments/1nuj5bk) | [r/singularity](https://www.reddit.com/r/singularity) | 1786 | 598 | Discussion | 2025-09-30 17:16 UTC |
-| 10 | [Renting GPUs is hilariously cheap](https://www.reddit.com/comments/1na3f1s) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1743 | 364 | Discussion | 2025-09-06 16:08 UTC |
-| 11 | [\"Immortality sucks\" ? Skill issue](https://www.reddit.com/comments/1nod939) | [r/singularity](https://www.reddit.com/r/singularity) | 1605 | 306 | Shitposting | 2025-09-23 09:59 UTC |
-| 12 | [Demis argues that it’s nonsense to claim current models a...](https://www.reddit.com/comments/1nfs49p) | [r/singularity](https://www.reddit.com/r/singularity) | 1580 | 315 | AI | 2025-09-13 08:20 UTC |
-| 13 | [Casual conversation with the security robot dog](https://www.reddit.com/comments/1n811zq) | [r/singularity](https://www.reddit.com/r/singularity) | 1569 | 166 | AI | 2025-09-04 04:48 UTC |
-| 14 | [We just released the world\'s first 70B intermediate chec...](https://www.reddit.com/comments/1nedq3i) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1531 | 105 | New Model | 2025-09-11 16:42 UTC |
-| 15 | [🤷‍♂️](https://www.reddit.com/comments/1n89dy9) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1526 | 243 | Discussion | 2025-09-04 12:56 UTC |
-| 16 | [Nano banana is so incredibly useful.](https://www.reddit.com/comments/1nexrqs) | [r/singularity](https://www.reddit.com/r/singularity) | 1409 | 176 | AI | 2025-09-12 08:34 UTC |
-| 17 | [Is this how the uprising begins?](https://www.reddit.com/comments/1nhevog) | [r/singularity](https://www.reddit.com/r/singularity) | 1384 | 95 | Robotics | 2025-09-15 06:57 UTC |
-| 18 | [Claude 4.5 Sonnet is here](https://www.reddit.com/comments/1ntnegj) | [r/singularity](https://www.reddit.com/r/singularity) | 1333 | 184 | AI | 2025-09-29 16:55 UTC |
-| 19 | [Anthropic: Paying $1.5 billion in AI copyright lawsuit se...](https://www.reddit.com/comments/1n9fp0n) | [r/singularity](https://www.reddit.com/r/singularity) | 1269 | 338 | Discussion | 2025-09-05 20:12 UTC |
-| 20 | [The upgrade is phenomenal](https://www.reddit.com/comments/1nunv5c) | [r/singularity](https://www.reddit.com/r/singularity) | 1256 | 197 | AI | 2025-09-30 20:13 UTC |
+| 1 | [Ok should we start worrying](https://www.reddit.com/comments/1nidifd) | [r/singularity](https://www.reddit.com/r/singularity) | 7027 | 1059 | Robotics | 2025-09-16 10:15 UTC |
+| 2 | [Sora 2 realism](https://www.reddit.com/comments/1nujq82) | [r/singularity](https://www.reddit.com/r/singularity) | 5280 | 872 | AI | 2025-09-30 17:38 UTC |
+| 3 | [I had that moment with Kimi 2!](https://www.reddit.com/comments/1nnu1qc) | [r/singularity](https://www.reddit.com/r/singularity) | 4081 | 158 | Meme | 2025-09-22 18:13 UTC |
+| 4 | [Skild AI showcases an omni-bodied robot brain](https://www.reddit.com/comments/1npp7b9) | [r/singularity](https://www.reddit.com/r/singularity) | 2897 | 346 | AI | 2025-09-24 21:52 UTC |
+| 5 | [Seedream 4 is mind-blowingly good](https://www.reddit.com/comments/1ncn3qy) | [r/singularity](https://www.reddit.com/r/singularity) | 2868 | 444 | AI | 2025-09-09 16:09 UTC |
+| 6 | [Why do new analysts often ignore R?](https://www.reddit.com/comments/1nnvss1) | [r/datascience](https://www.reddit.com/r/datascience) | 2431 | 277 | Monday Meme | 2025-09-22 19:18 UTC |
+| 7 | [Unitree G1 fast recovery](https://www.reddit.com/comments/1nnk9hk) | [r/singularity](https://www.reddit.com/r/singularity) | 2027 | 419 | Robotics | 2025-09-22 11:47 UTC |
+| 8 | [I bought a modded 4090 48GB in Shenzhen.&nbsp;This is my ...](https://www.reddit.com/comments/1nifajh) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1843 | 363 | Discussion | 2025-09-16 11:52 UTC |
+| 9 | [OpenAI: Sora 2](https://www.reddit.com/comments/1nuj5bk) | [r/singularity](https://www.reddit.com/r/singularity) | 1783 | 598 | Discussion | 2025-09-30 17:16 UTC |
+| 10 | [Renting GPUs is hilariously cheap](https://www.reddit.com/comments/1na3f1s) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1742 | 364 | Discussion | 2025-09-06 16:08 UTC |
+| 11 | [\"Immortality sucks\" ? Skill issue](https://www.reddit.com/comments/1nod939) | [r/singularity](https://www.reddit.com/r/singularity) | 1607 | 306 | Shitposting | 2025-09-23 09:59 UTC |
+| 12 | [Demis argues that it’s nonsense to claim current models a...](https://www.reddit.com/comments/1nfs49p) | [r/singularity](https://www.reddit.com/r/singularity) | 1590 | 315 | AI | 2025-09-13 08:20 UTC |
+| 13 | [Casual conversation with the security robot dog](https://www.reddit.com/comments/1n811zq) | [r/singularity](https://www.reddit.com/r/singularity) | 1572 | 166 | AI | 2025-09-04 04:48 UTC |
+| 14 | [We just released the world\'s first 70B intermediate chec...](https://www.reddit.com/comments/1nedq3i) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1528 | 105 | New Model | 2025-09-11 16:42 UTC |
+| 15 | [🤷‍♂️](https://www.reddit.com/comments/1n89dy9) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1528 | 243 | Discussion | 2025-09-04 12:56 UTC |
+| 16 | [Nano banana is so incredibly useful.](https://www.reddit.com/comments/1nexrqs) | [r/singularity](https://www.reddit.com/r/singularity) | 1406 | 176 | AI | 2025-09-12 08:34 UTC |
+| 17 | [Is this how the uprising begins?](https://www.reddit.com/comments/1nhevog) | [r/singularity](https://www.reddit.com/r/singularity) | 1385 | 95 | Robotics | 2025-09-15 06:57 UTC |
+| 18 | [Claude 4.5 Sonnet is here](https://www.reddit.com/comments/1ntnegj) | [r/singularity](https://www.reddit.com/r/singularity) | 1331 | 184 | AI | 2025-09-29 16:55 UTC |
+| 19 | [The upgrade is phenomenal](https://www.reddit.com/comments/1nunv5c) | [r/singularity](https://www.reddit.com/r/singularity) | 1268 | 197 | AI | 2025-09-30 20:13 UTC |
+| 20 | [Anthropic: Paying $1.5 billion in AI copyright lawsuit se...](https://www.reddit.com/comments/1n9fp0n) | [r/singularity](https://www.reddit.com/r/singularity) | 1263 | 338 | Discussion | 2025-09-05 20:12 UTC |
 
 
 ## Top Posts by Community (Past Week)
@@ -75,16 +75,16 @@
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
 | [Tons of AI personal assistants being built, why isn’t the...](https://www.reddit.com/comments/1nw8k5o) | 38 | 34 | Discussion | 2025-10-02 16:29 UTC |
-| [What happens if AI agents start trusting everything they ...](https://www.reddit.com/comments/1nwe3rr) | 5 | 12 | Discussion | 2025-10-02 19:54 UTC |
-| [Whats the best moment you had with AI agents?](https://www.reddit.com/comments/1nw18ic) | 2 | 11 | Discussion | 2025-10-02 11:31 UTC |
+| [We built the Voice AI that never leaves your premises](https://www.reddit.com/comments/1nwqf4a) | 5 | 11 | Discussion | 2025-10-03 05:14 UTC |
+| [What happens if AI agents start trusting everything they ...](https://www.reddit.com/comments/1nwe3rr) | 3 | 12 | Discussion | 2025-10-02 19:54 UTC |
 
 
 ### r/LLMDevs
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Which Format is Best for Passing Tables of Data to LLMs?](https://www.reddit.com/comments/1nw3jha) | 84 | 26 | Resource | 2025-10-02 13:18 UTC |
-| [Self-improving AI agents aren\'t happening anytime soon](https://www.reddit.com/comments/1nw3y3c) | 48 | 24 | Discussion | 2025-10-02 13:34 UTC |
+| [Which Format is Best for Passing Tables of Data to LLMs?](https://www.reddit.com/comments/1nw3jha) | 95 | 29 | Resource | 2025-10-02 13:18 UTC |
+| [Self-improving AI agents aren\'t happening anytime soon](https://www.reddit.com/comments/1nw3y3c) | 47 | 24 | Discussion | 2025-10-02 13:34 UTC |
 
 
 ### r/LangChain
@@ -98,23 +98,23 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Who wants me to run a test on this?](https://www.reddit.com/comments/1nw9742) | 22 | 44 | Discussion | 2025-10-02 16:53 UTC |
+| [Who wants me to run a test on this?](https://www.reddit.com/comments/1nw9742) | 24 | 46 | Discussion | 2025-10-02 16:53 UTC |
 
 
 ### r/LocalLLaMA
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Granite 4.0 Language Models - a ibm-granite Collection](https://www.reddit.com/comments/1nw2wd6) | 569 | 223 | New Model | 2025-10-02 12:51 UTC |
-| [Introducing Onyx - a fully open source chat UI with RAG, ...](https://www.reddit.com/comments/1nw52ad) | 399 | 116 | Resources | 2025-10-02 14:18 UTC |
-| [It\'s been a long time since Google released a new Gemma ...](https://www.reddit.com/comments/1nw5kkc) | 317 | 94 | Discussion | 2025-10-02 14:37 UTC |
+| [Granite 4.0 Language Models - a ibm-granite Collection](https://www.reddit.com/comments/1nw2wd6) | 567 | 225 | New Model | 2025-10-02 12:51 UTC |
+| [Introducing Onyx - a fully open source chat UI with RAG, ...](https://www.reddit.com/comments/1nw52ad) | 408 | 117 | Resources | 2025-10-02 14:18 UTC |
+| [It\'s been a long time since Google released a new Gemma ...](https://www.reddit.com/comments/1nw5kkc) | 326 | 94 | Discussion | 2025-10-02 14:37 UTC |
 
 
 ### r/MachineLearning
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [\[D\] How much should researchers (especially in ML domai...](https://www.reddit.com/comments/1nwaunk) | 26 | 44 | Discussion | 2025-10-02 17:53 UTC |
+| [\[D\] How much should researchers (especially in ML domai...](https://www.reddit.com/comments/1nwaunk) | 25 | 44 | Discussion | 2025-10-02 17:53 UTC |
 | [\[R\] Maths PhD student - Had an idea on diffusion](https://www.reddit.com/comments/1nw6jqf) | 21 | 43 | Research | 2025-10-02 15:14 UTC |
 
 
@@ -122,8 +122,8 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [I visualized embeddings walking across the latent space a...](https://www.reddit.com/comments/1nwdmes) | 81 | 27 | Tutorial | 2025-10-02 19:36 UTC |
-| [Summarizing data before embedding into a vector store for...](https://www.reddit.com/comments/1nw7q11) | 10 | 11 | General | 2025-10-02 15:58 UTC |
+| [I visualized embeddings walking across the latent space a...](https://www.reddit.com/comments/1nwdmes) | 81 | 28 | Tutorial | 2025-10-02 19:36 UTC |
+| [Summarizing data before embedding into a vector store for...](https://www.reddit.com/comments/1nw7q11) | 9 | 11 | General | 2025-10-02 15:58 UTC |
 | [Confidence scoring: No more logprobs?](https://www.reddit.com/comments/1nw33f7) | 5 | 12 | General | 2025-10-02 12:59 UTC |
 
 
@@ -131,134 +131,43 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [How to quiet quit while doing an aggressive job search?](https://www.reddit.com/comments/1nw5uyp) | 78 | 23 | Career | US | 2025-10-02 14:48 UTC |
-| [Are LLMs necessary to get a job?](https://www.reddit.com/comments/1nwh00i) | 42 | 42 | Career | US | 2025-10-02 21:43 UTC |
+| [How to quiet quit while doing an aggressive job search?](https://www.reddit.com/comments/1nw5uyp) | 81 | 23 | Career | US | 2025-10-02 14:48 UTC |
+| [Are LLMs necessary to get a job?](https://www.reddit.com/comments/1nwh00i) | 40 | 42 | Career | US | 2025-10-02 21:43 UTC |
 
 
 ### r/singularity
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Amazon\'s new AI framework just unlocked super agile huma...](https://www.reddit.com/comments/1nweon7) | 705 | 84 | Robotics | 2025-10-02 20:15 UTC |
-| [Terence Tao says ChatGPT helped him solve a MathOverflow ...](https://www.reddit.com/comments/1nwqqrj) | 386 | 105 | AI | 2025-10-03 05:33 UTC |
-| [Preview of Gemini 3.0 Pro](https://www.reddit.com/comments/1nwehc3) | 354 | 106 | AI | 2025-10-02 20:08 UTC |
+| [Amazon\'s new AI framework just unlocked super agile huma...](https://www.reddit.com/comments/1nweon7) | 729 | 86 | Robotics | 2025-10-02 20:15 UTC |
+| [Terence Tao says ChatGPT helped him solve a MathOverflow ...](https://www.reddit.com/comments/1nwqqrj) | 436 | 131 | AI | 2025-10-03 05:33 UTC |
+| [Preview of Gemini 3.0 Pro](https://www.reddit.com/comments/1nwehc3) | 368 | 108 | AI | 2025-10-02 20:08 UTC |
 
 
 
 
 ## Trend Analysis
 
-**AI‑Reddit Trend Report – 3 Oct 2025**  
-*(Compiled from the latest 24‑hour, weekly, and monthly post data across the AI‑focused subreddits you monitor.)*  
+**Today's Highlights**
 
----  
+The past 24 hours have seen significant developments in the AI community, with several new trends emerging. One of the most notable is the discussion around Amazon's new AI framework, which has unlocked super agile human-like capabilities (https://www.reddit.com/comments/1nweon7). This breakthrough has garnered 729 points and 86 comments, indicating a high level of interest and engagement from the community. Another emerging topic is the use of ChatGPT in solving complex mathematical problems, as highlighted by Terence Tao's experience (https://www.reddit.com/comments/1nwqqrj). This post has received 436 points and 131 comments, demonstrating the community's fascination with the potential of AI in advancing mathematical research.
 
-## 1. Today’s Highlights (Last 24 h)
+The introduction of Granite 4.0 Language Models (https://www.reddit.com/comments/1nw2wd6) and the fully open-source chat UI, Onyx (https://www.reddit.com/comments/1nw52ad), are also noteworthy trends. These developments suggest a growing focus on creating more advanced and accessible AI tools, which could have significant implications for the field.
 
-| Post (Score / Comments) | Community | Core Topic | Why it matters now |
-|--------------------------|-----------|------------|--------------------|
-| **Amazon’s new AI framework just unlocked super‑agile human‑robot collaboration** (705 / 84) | r/singularity | **Robotics / Real‑time control** | First public glimpse of Amazon’s “Agile‑AI” stack – a hybrid edge‑cloud system that lets a robot adapt its motion plan in < 5 ms using a lightweight transformer. Signals a shift from “offline‑trained” robot policies to **continuous, on‑device learning**. |
-| **Granite 4.0 Language Models – an ibm‑granite Collection** (569 / 223) | r/LocalLLaMA | **New Open‑Source LLMs** | IBM’s 7‑B, 13‑B, and 34‑B GGUF releases are the first major “enterprise‑grade” open‑source models that claim **hardware‑agnostic quantisation** and **privacy‑first fine‑tuning**. They are already being run locally in browsers (Granite 4.0 Micro). |
-| **Introducing Onyx – a fully open‑source chat UI with RAG, …** (399 / 116) | r/LocalLLaMA | **RAG‑centric tooling** | Onyx bundles LangChain, LlamaIndex, and a vector‑store UI into a single Docker image. The community is already using it to prototype **knowledge‑base assistants** without writing any code. |
-| **Terence Tao says ChatGPT helped him solve a MathOverflow problem** (386 / 105) | r/singularity | **AI‑augmented research** | High‑profile mathematician publicly credits ChatGPT for a non‑trivial proof sketch. Reinforces the narrative that **foundational research is now routinely assisted by LLMs**. |
-| **Preview of Gemini 3.0 Pro** (354 / 106) | r/singularity | **Next‑gen multimodal model** | Google teases a 1‑trillion‑parameter vision‑language model with “real‑time video‑to‑text” capabilities. The preview includes a demo of **live‑captioning for AR glasses**. |
-| **OpenAI closes $500 B valuation round, employees hold…** (313 / 128) | r/singularity | **Funding / Market dynamics** | The largest single‑round valuation in AI history; the round is led by sovereign wealth funds and includes a clause for **mandatory open‑source releases of safety‑critical components**. |
-| **Noam Brown of OpenAI has been using GPT‑5 Thinking to finish…** (240 / 116) | r/singularity | **Tool‑augmented LLM workflows** | Internal OpenAI post (leaked) shows a “GPT‑5 Thinking” loop that automatically generates, tests, and refactors code snippets. Demonstrates **self‑debugging loops** moving from research to production. |
-| **GLM 4.6 is nice** (193 / 80) | r/LocalLLaMA | **Model update** | The Chinese‑origin GLM 4.6 adds **structured‑output APIs** and a new “function‑calling” mode that rivals OpenAI’s function‑call. Quickly becoming a go‑to model for Chinese‑language RAG. |
+**Weekly Trend Comparison**
 
-### What’s *new* compared with the past week/month?
+Comparing today's trends with those from the past week, we notice that the interest in Sora 2 and its applications has persisted (https://www.reddit.com/comments/1nujq82, https://www.reddit.com/comments/1nuj5bk). However, new trends have emerged, such as the discussion around Amazon's AI framework and the use of ChatGPT in mathematical research. These changes reflect a shifting interest in the AI community towards more practical applications and advancements in specific areas, rather than just general discussions about AI capabilities.
 
-| Emerging theme | Evidence today | Contrast to prior weeks |
-|----------------|----------------|------------------------|
-| **Enterprise‑grade open‑source LLM releases** (Granite 4.0, GLM 4.6) | Two separate high‑scoring posts in r/LocalLLaMA; GLM 4.6 noted as “nice”. | Last week the focus was on **Sora 2** (video generation) and **Claude 4.5** (proprietary models). Open‑source model releases were only peripheral. |
-| **Real‑time, on‑device robot learning** (Amazon’s Agile‑AI) | Highest‑scoring post of the day, robotics‑category. | Monthly top‑posts were dominated by **robotic demos** (Unitree G1 fast recovery) but those were hardware‑only. No recent discussion of *software* frameworks for agile adaptation. |
-| **RAG‑first UI tooling** (Onyx) | Dedicated UI project with > 100 comments. | Earlier weeks featured **model‑centric** discussions; UI/UX tooling only appeared in “Full fine‑tuning is not needed anymore” (a discussion about workflow simplification). |
-| **Corporate financing & policy shifts** (OpenAI $500 B round) | Valuation round with safety‑release clause. | Previously, the only “business” talk was the “OpenAI: Sora 2” announcement; no major financing news. |
-| **Self‑debugging LLM loops** (GPT‑5 Thinking) | Post from OpenAI researcher showing code‑generation + test loop. | Earlier weeks highlighted **static** model capabilities (Claude, Gemini) rather than *autonomous* tool‑use cycles. |
+**Monthly Technology Evolution**
 
-**Why these trends deserve attention now**
+From a longer-term perspective, the current trends fit into the broader technological development path of the past month. The focus on creating more advanced language models, such as Granite 4.0, and the development of open-source chat UIs like Onyx, represent significant shifts in the AI field. These advancements could lead to more widespread adoption of AI technologies and increased collaboration among researchers and developers.
 
-1. **Strategic shift to on‑device, low‑latency AI** – Amazon’s framework suggests the next wave of robotics will be **edge‑centric**, reducing reliance on cloud round‑trips and opening new use‑cases (e.g., warehouse pick‑and‑place with sub‑10 ms reaction).  
-2. **Open‑source enterprise models** – Granite 4.0 and GLM 4.6 provide **privacy‑preserving alternatives** to proprietary APIs, likely accelerating adoption in regulated sectors (finance, healthcare).  
-3. **RAG UI democratization** – Onyx lowers the barrier for non‑engineers to build knowledge‑base assistants, hinting at a **mass‑adoption of RAG** in internal tooling.  
-4. **Funding & safety policy** – The $500 B round ties massive capital to **mandatory safety‑component releases**, a potential regulatory lever that could reshape the open‑source vs. closed‑source balance.  
-5. **Self‑improving code agents** – GPT‑5 Thinking showcases a **closed‑loop development pipeline**, foreshadowing a future where LLMs not only generate code but also validate and iterate autonomously.
+**Technical Deep Dive**
 
----  
+Let's take a closer look at the Granite 4.0 Language Models. Granite 4.0 is a collection of language models developed by IBM, which aims to provide more accurate and efficient natural language processing capabilities. The introduction of Granite 4.0 has generated significant interest in the community, with 567 points and 225 comments. This is because Granite 4.0 has the potential to improve various AI applications, such as chatbots, language translation, and text summarization. The fact that it is an open-source collection of models also makes it more accessible to researchers and developers, which could lead to further innovations and advancements in the field.
 
-## 2. Weekly Trend Comparison
+**Community Highlights**
 
-| Weekly Dominant Themes (last 7 days) | Persistence in Today’s Data | New / Diminishing Themes |
-|--------------------------------------|-----------------------------|--------------------------|
-| **Sora 2 video generation** (top 5 weekly posts) | Still present in community chatter, but **no new Sora‑related posts in the last 24 h**. | **Decline** – attention shifting away from pure video generation toward *robotics* and *LLM tooling*. |
-| **Claude 4.5 / Gemini releases** | Gemini 3.0 Pro preview appears today, indicating **continued interest in multimodal models**. | **Evolution** – from Claude 4.5 (text‑only) to Gemini 3.0 Pro (video‑centric). |
-| **Open‑source model releases** (DeepSeek‑V3.2, GLM‑4.6) | GLM 4.6 resurfaced; Granite 4.0 now leads the conversation. | **Growth** – the community is moving from “new model announcements” to **deep‑dive technical discussions** (e.g., quantisation, privacy). |
-| **RAG & fine‑tuning** (Full fine‑tuning not needed) | Onyx (RAG UI) and “Granite 4.0 Micro running locally in your browser” both highlight **RAG‑first workflows**. | **Maturation** – from “you don’t need fine‑tuning” to “here’s a production‑ready UI”. |
-| **AI‑augmented research** (Terence Tao, math proofs) | Tao’s post today reinforces the **research‑assistant** narrative. | **Continuity** – the community keeps celebrating high‑profile academic use‑cases. |
-| **Robotics demos** (Unitree G1 fast recovery) | Amazon’s framework now adds a **software** layer to robotics, moving the conversation from hardware demos to **control‑software ecosystems**. |
-| **Funding / market moves** (OpenAI valuation) | New, high‑impact financing news appears only today. | **Emergence** – capital‑flow discussions become a top‑priority topic. |
+Analyzing the hot topics across different communities, we notice that the r/singularity community is focused on discussions around AI frameworks, such as Amazon's new framework, and the potential of AI in advancing mathematical research. The r/LocalLLaMA community is more focused on the development of language models, such as Granite 4.0, and the creation of open-source chat UIs like Onyx. The r/LLMDevs community is discussing topics related to large language models, such as the best format for passing tables of data to LLMs.
 
-**Interpretation**  
-- The **core interest in generative video (Sora 2)** is plateauing; the community is now looking for *applications* of generative AI (robotics, RAG, enterprise models).  
-- **Open‑source LLMs** are moving from “announcement” to “adoption” stage, especially in the *LocalLLaMA* community.  
-- **Corporate strategy** (valuation rounds, safety clauses) is entering the Reddit discourse, indicating that market dynamics are now seen as a technical driver.  
-
----  
-
-## 3. Monthly Technology Evolution
-
-| Month‑long Trend | Early‑Month State (mid‑Sept) | Mid‑Month Shift (late‑Sept) | End‑Month / Today |
-|------------------|-----------------------------|----------------------------|-------------------|
-| **Generative video** | Sora 2 hype (multiple top‑posts) | “Unlocked consistency for Sora 2” (technical deep‑dive) | No fresh Sora posts; focus moved to **Gemini 3.0 Pro** (multimodal video‑to‑text). |
-| **Open‑source LLMs** | Early releases: Gemma, LLaMA‑2 forks | DeepSeek‑V3.2, GLM 4.6 gain traction | **Granite 4.0** (IBM) and **GLM 4.6** dominate; emphasis on **privacy‑first, quantised GGUF** formats. |
-| **RAG tooling** | “Full fine‑tuning is not needed” (discussion) | “How to pass tables to LLMs?” (LLMDevs) | **Onyx** UI + “Granite 4.0 Micro in browser” – RAG is now **productized**. |
-| **Robotics & AI agents** | Unitree G1 fast recovery; “Skild AI robot brain” | “Amazon’s Agile‑AI framework” (today) | **Robotics software stacks** become a headline, indicating a **software‑first robotics renaissance**. |
-| **Funding & policy** | No major financing news | – | **OpenAI $500 B round** with safety‑release clause – first major “valuation‑driven safety policy” signal. |
-
-**Key Take‑aways**
-
-1. **From hype to integration** – The month started with flashy generative demos; by the end, the conversation is about **embedding those capabilities into products (RAG UI, robotics control, enterprise models).**  
-2. **Enterprise‑grade open‑source** – IBM’s Granite and the Chinese GLM line are positioning themselves as **alternatives to proprietary APIs**, a trend that could reshape the LLM market share in the next 6‑12 months.  
-3. **Safety‑driven financing** – The OpenAI round suggests that **large investors now demand concrete safety deliverables**, potentially accelerating open‑source safety tooling (e.g., interpretability, alignment libraries).  
-
----  
-
-## 4. Technical Deep Dive – Amazon’s “Agile‑AI” Robotics Framework  
-
-### What it is  
-- **Name (unofficial):** *Amazon Agile‑AI* – a hybrid **edge‑cloud inference stack** for real‑time robot motion planning.  
-- **Core components**  
-  1. **Tiny‑Transformer Policy Engine** (≈ 2 M parameters) compiled to **AWS Neuron** for on‑device execution on Graviton‑3E cores.  
-  2. **Dynamic‑Graph Scheduler** that re‑optimises the motion‑plan graph every 4‑5 ms based on sensor feedback (LiDAR, tactile).  
-  3. **Cloud‑Sync Service** (Amazon SageMaker Edge) that streams *policy gradients* from fleet‑wide data to a central trainer, updating the tiny model nightly.  
-  4. **Safety Guardrail Layer** – a formally verified “collision‑avoidance” module written in Rust, automatically injected into the policy output.  
-
-### Why it matters  
-| Aspect | Impact |
-|--------|--------|
-| **Latency** – Sub‑5 ms reaction time enables **high‑speed pick‑and‑place**, collaborative cobots that can safely work side‑by‑side with humans. |
-| **Scalability** – Edge inference reduces bandwidth costs; the cloud‑sync loop ensures **continuous learning** without central bottlenecks. |
-| **Safety** – Formal verification of the guardrail layer addresses a major regulatory hurdle for autonomous warehouse robots. |
-| **Ecosystem** – Built on **AWS SageMaker Edge**, the framework can be adopted by any AWS‑customer, potentially creating a **standardised robotics AI stack** similar to ROS 2 but with built‑in LLM‑style policy learning. |
-
-### Relationship to broader AI ecosystem  
-- **Convergence of LLMs and control theory:** The tiny transformer policy mirrors the “LLM‑as‑controller” research (e.g., *GPT‑5 Thinking*).  
-- **Edge‑AI trend:** Mirrors the push for **on‑device LLM inference** (Granite 4.0 Micro, GLM 4.6 quantised) – both aim to bring heavy compute to the edge.  
-- **Safety‑by‑design:** The mandatory guardrail aligns with the **OpenAI safety clause** in the $500 B round, indicating a community‑wide move toward provable safety in deployed AI.  
-
----  
-
-## 5. Community Highlights – How Sub‑communities Differ
-
-| Subreddit | Dominant Topics (last week) | Today’s Focus | Unique Insight / Emerging Discussion |
-|-----------|----------------------------|---------------|--------------------------------------|
-| **r/singularity** | Sora 2, Claude 4.5, robotics demos, high‑level AI news. | Robotics software (Amazon Agile‑AI), Gemini 3.0 Pro preview, OpenAI financing, GPT‑5 Thinking. | **Strategic‑level** conversation – investors, safety policy, and enterprise robotics frameworks dominate. |
-| **r/LocalLLaMA** | Model releases (DeepSeek‑V3.2, GLM 4.6), hardware‑run‑locally discussions. | Granite 4.0 collection, Onyx RAG UI, GLM 4.6 “nice”, “Granite 4.0 Micro in browser”. | **Implementation‑first** focus – quantisation, GGUF formats, UI tooling, and local‑in‑browser inference. |
-| **r/LLMDevs** | Data‑format best practices, self‑improving agents. | “Which format is best for passing tables?” (84 / 26) and “Self‑improving AI agents aren’t happening soon”. | **Developer tooling** – still grappling with data‑serialization standards; skeptical about near‑term autonomous agents. |
-| **r/AI_Agents** | Low activity; discussion of personal assistants. | Tiny “Tons of AI personal assistants being built…” (38 / 34). | **Niche** – community still searching for a unifying definition of “AI agents”. |
-| **r/Rag** | Embedding visualisation, scoring methods. | New tutorial on embedding‑walk visualisation (81 / 27). | **Practical RAG** – community building best‑practice guides, ready for production use. |
-| **r/datascience** | Career advice, job‑search. | “Are LLMs necessary to get a job?” (42 / 42). | **Human‑impact** – concerns about LLMs displacing data‑science roles. |
-| **r/MachineLearning** | Methodology debates, research ideas. | “How much should researchers…?” (26 / 44). | **Meta‑research** – discussion about funding allocation and reproducibility. |
-
-### Cross‑cutting Themes
-- **RAG & Local Inference** – Both r/LocalLLaMA (Onyx, Granite 4.0 Micro) and r/Rag (embedding visualisation) are conver
+In smaller communities, such as r/Rag, we see discussions around more specific topics, such as confidence scoring and summarizing data before embedding it into a vector store. These unique discussions and insights emerging from smaller communities highlight the diversity of interests and expertise within the AI community and demonstrate the value of exploring niche topics and sub-communities.
