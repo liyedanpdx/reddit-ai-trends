@@ -133,33 +133,3 @@ if __name__ == "__main__":
         print(f"\n✗ Error: {e}")
         import traceback
         traceback.print_exc()
-
-
-    # from openai import OpenAI
-
-    # client = OpenAI(
-    # base_url="https://openrouter.ai/api/v1",
-    # api_key="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",
-    # )
-
-    # completion = client.chat.completions.create(
-    # #   extra_headers={
-    # #     "HTTP-Referer": "<YOUR_SITE_URL>", # Optional. Site URL for rankings on openrouter.ai.
-    # #     "X-Title": "<YOUR_SITE_NAME>", # Optional. Site title for rankings on openrouter.ai.
-    # #   },
-    # extra_body={},
-    # temperature=0.4,
-    # max_tokens=4000,
-    # model="deepseek/deepseek-r1-distill-llama-70b:free",
-    # messages=[
-    #     {
-    #     "role": "system",
-    #     "content": "You are a helpful assistant that provides accurate and factual information."
-    #     },
-    #     {
-    #     "role": "user",
-    #     "content": "What is the meaning of life?"
-    #     }
-    # ]
-    # )
-    # print(completion.choices[0].message.content)
