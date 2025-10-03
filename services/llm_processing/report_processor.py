@@ -10,7 +10,7 @@ import json
 from datetime import datetime
 from typing import Dict, Any, List, Optional
 import markdown
-from services.llm_processing.groq_client import GroqClient
+from services.llm_processing.core.factory import LLMClientFactory
 from config import REPORT_CONFIG
 
 # Configure logging
@@ -25,7 +25,7 @@ class ReportProcessor:
     
     def __init__(self):
         """Initialize the report processor."""
-        self.groq_client = GroqClient()
+        self.llm_client = LLMClientFactory.create_client()
         logger.info("Report processor initialized")
     
     def generate_report(self, 
@@ -52,7 +52,7 @@ class ReportProcessor:
         logger.info(f"Generating report based on {len(posts)} posts in {language} language")
         
         # Generate the report content using the LLM
-        markdown_content = self.groq_client.generate_report(
+        markdown_content = self.llm_client.generate_report(
             posts, 
             previous_report, 
             weekly_posts, 

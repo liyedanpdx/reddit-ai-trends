@@ -28,12 +28,28 @@ REDDIT_COMMUNITIES = {
     }
 }
 
-# LLM configuration
-LLM_CONFIG = {
-    "model": "deepseek-r1-distill-llama-70b",
-    "temperature": 0.4,
-    "max_tokens": 4000
+# LLM Provider Configuration
+# Current active provider
+CURRENT_LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openrouter").lower()
+
+# Provider configurations - all settings for each provider
+LLM_PROVIDERS = {
+    "groq": {
+        "api_key": os.getenv("GROQ_API_KEY"),
+        "model": os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile"),
+        "temperature": float(os.getenv("LLM_TEMPERATURE", "0.4")),
+        "max_tokens": int(os.getenv("LLM_MAX_TOKENS", "4096"))
+    },
+    "openrouter": {
+        "api_key": os.getenv("OPENROUTER_API_KEY"),
+        "model": os.getenv("OPENROUTER_MODEL", "deepseek/deepseek-r1-distill-llama-70b:free"),
+        "temperature": float(os.getenv("LLM_TEMPERATURE", "1")),
+        "max_tokens": int(os.getenv("LLM_MAX_TOKENS", "4096"))
+    }
 }
+
+# Legacy LLM_CONFIG for backward compatibility
+LLM_CONFIG = LLM_PROVIDERS.get(CURRENT_LLM_PROVIDER, LLM_PROVIDERS["openrouter"])
 
 # Report generation configuration
 REPORT_CONFIG = {
