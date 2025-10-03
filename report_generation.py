@@ -20,7 +20,6 @@ from typing import List, Dict, Any, Optional
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from services.reddit_collection.collector import RedditDataCollector
-from services.llm_processing.groq_client import GroqClient
 from services.llm_processing.report_processor import ReportProcessor
 from database.mongodb import MongoDBClient
 from config import REPORT_CONFIG
