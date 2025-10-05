@@ -21,8 +21,16 @@ Automatically generate trend reports from AI-related Reddit communities, support
 - **Docker Deployment**: Easy containerized deployment
 - **MongoDB Persistence**: Store all data for historical analysis
 
-## Recent Updates (2025-10-03)
+## Recent Updates
 
+### **2025-10-05**
+- Added optional vision model support for analyzing images in Reddit posts (Qwen-VL, Gemini with automatic fallback, configurable via .env)
+- Added optional community comments integration with automatic bot filtering (configurable via .env)
+- Refactored Reddit collection framework with Clean Architecture (fetchers, enrichers, filters)
+- Added database caching for image descriptions and comments to reduce API calls
+- Improved prompt structure with JSON format for better clarity
+
+### **2025-10-03**
 - Added OpenRouter API support with access to dozens of free and paid models (Gemini, DeepSeek, Qwen, etc.)
 - Improved code organization for better maintainability
 - Extracted prompts into separate template files for easier customization

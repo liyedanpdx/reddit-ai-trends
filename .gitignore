@@ -155,7 +155,7 @@ test_local_*.py
 *local*.py
 
 #tests
-# /tests
+/tests
 
 #CLAUDE
 CLAUDE.md

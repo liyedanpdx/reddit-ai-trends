@@ -114,10 +114,16 @@ GITHUB_CONFIG = {
     "commit_message_format": "Update report for {date}"
 }
 
-# Image Analysis Configuration (for Gemini API settings)
+# Image Analysis Configuration (for Vision API settings)
 IMAGE_ANALYSIS_CONFIG = {
     # Note: "enabled" is controlled by REDDIT_COLLECTION_CONFIG["analyze_images"]
-    "model": os.getenv("IMAGE_ANALYSIS_MODEL", "google/gemini-2.0-flash-exp:free"),
+    # Primary model to use
+    "model": os.getenv("IMAGE_ANALYSIS_MODEL", "qwen/qwen2.5-vl-72b-instruct:free"),
+    # Fallback models for automatic retry if primary fails (rate limit, downtime, etc.)
+    "fallback_models": os.getenv(
+        "IMAGE_ANALYSIS_FALLBACK_MODELS",
+        "google/gemini-2.0-flash-exp:free,mistralai/mistral-small-3.2-24b-instruct:free,mistralai/mistral-small-3.1-24b-instruct:free,meta-llama/llama-4-maverick:free"
+    ).split(","),
     "max_tokens": int(os.getenv("IMAGE_ANALYSIS_MAX_TOKENS", "500"))
 }
 

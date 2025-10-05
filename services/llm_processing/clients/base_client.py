@@ -8,11 +8,13 @@ All LLM provider implementations should inherit from this base class.
 import logging
 import re
 import time
+import json
 from abc import ABC, abstractmethod
 from datetime import datetime, timedelta, timezone
 from typing import Dict, Any, List, Optional, Callable
 from functools import wraps
 from services.llm_processing.core.prompt_loader import PromptLoader
+from services.reddit_collection.filters import CommentFilter
 
 # Configure logging
 logging.basicConfig(
@@ -461,7 +463,7 @@ class BaseLLMClient(ABC):
                 "trend_analysis": "## Trend Analysis"
             }
 
-        # Prepare posts with image descriptions for LLM context
+        # Prepare posts with additional context (images/comments) for LLM
         # Collect from daily, weekly, and monthly posts
         all_posts_sources = [posts]
         if weekly_posts:
@@ -469,7 +471,7 @@ class BaseLLMClient(ABC):
         if monthly_posts:
             all_posts_sources.append(monthly_posts)
 
-        posts_with_images = []
+        posts_with_context_structured = []
         seen_post_ids = set()
 
         for post_source in all_posts_sources:
@@ -479,19 +481,55 @@ class BaseLLMClient(ABC):
                 if post_id and post_id in seen_post_ids:
                     continue
 
-                # Only include posts with photo_parse
-                if 'photo_parse' in post and post['photo_parse']:
+                # Include posts with photo_parse or comments
+                has_photo = 'photo_parse' in post and post['photo_parse']
+                has_comments = 'comments' in post and post['comments'] and len(post['comments']) > 0
+
+                if has_photo or has_comments:
                     seen_post_ids.add(post_id)
-                    post_info = {
-                        'title': post.get('title', 'N/A'),
-                        'photo_description': post['photo_parse'],
-                        'url': post.get('url', '')
+
+                    # Build structured context
+                    context_item = {
+                        "post_id": post_id,
+                        "title": post.get('title', 'N/A'),
+                        "subreddit": post.get('subreddit', 'N/A'),
+                        "url": post.get('url', ''),
+                        "score": post.get('score', 0),
+                        "num_comments": post.get('num_comments', 0)
                     }
-                    posts_with_images.append(post_info)
+
+                    # Add image description if available
+                    if has_photo:
+                        context_item["image_description"] = post['photo_parse']
+
+                    # Add filtered comments if available
+                    if has_comments:
+                        # Filter out bot comments
+                        filtered_comments = CommentFilter.filter_bot_comments(post['comments'])
+                        # Also filter very short comments
+                        filtered_comments = CommentFilter.filter_short_comments(filtered_comments, min_length=20)
+
+                        # Take top 3 comments by score
+                        top_comments = sorted(filtered_comments, key=lambda c: c.get('score', 0), reverse=True)[:3]
+
+                        if top_comments:
+                            context_item["top_comments"] = [
+                                {
+                                    "author": c.get('author', 'N/A'),
+                                    "score": c.get('score', 0),
+                                    "body": c.get('body', '')[:300]  # Limit to 300 chars
+                                }
+                                for c in top_comments
+                            ]
+
+                    posts_with_context_structured.append(context_item)
 
         # Limit to 15 posts to avoid token overflow
-        posts_with_images = posts_with_images[:15]
-        logger.info(f"Prepared {len(posts_with_images)} posts with image descriptions for LLM context")
+        posts_with_context_structured = posts_with_context_structured[:15]
+        logger.info(f"Prepared {len(posts_with_context_structured)} posts with additional context for LLM")
+
+        # Convert to formatted JSON string for better readability in prompt
+        posts_with_context_json = json.dumps(posts_with_context_structured, indent=2, ensure_ascii=False)
 
         # Load prompt from Jinja2 template
         prompt_context = {
@@ -500,9 +538,18 @@ class BaseLLMClient(ABC):
             "weekly_table": weekly_table,
             "monthly_table": monthly_table,
             "community_tables": community_tables,
-            "posts_with_images": posts_with_images
+            "posts_with_context_json": posts_with_context_json
         }
         prompt = self.prompt_loader.get_report_prompt(language, prompt_context)
+
+        # Log the full prompt for debugging
+        logger.info(f"=" * 80)
+        logger.info(f"FULL PROMPT FOR LLM ({language}):")
+        logger.info(f"=" * 80)
+        logger.info(prompt)
+        logger.info(f"=" * 80)
+        logger.info(f"Prompt length: {len(prompt)} characters")
+        logger.info(f"=" * 80)
 
         try:
             # Generate the report using the abstract method

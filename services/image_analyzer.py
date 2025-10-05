@@ -61,10 +61,12 @@ class ImageAnalyzer:
         )
 
         # Get configuration
-        self.model = IMAGE_ANALYSIS_CONFIG.get("model", "google/gemini-2.0-flash-exp:free")
+        self.primary_model = IMAGE_ANALYSIS_CONFIG.get("model", "qwen/qwen2.5-vl-72b-instruct:free")
+        self.fallback_models = IMAGE_ANALYSIS_CONFIG.get("fallback_models", [])
         self.max_tokens = IMAGE_ANALYSIS_CONFIG.get("max_tokens", 500)
 
-        logger.info(f"Image Analyzer initialized with model: {self.model}")
+        logger.info(f"Image Analyzer initialized with primary model: {self.primary_model}")
+        logger.info(f"Fallback models: {', '.join(self.fallback_models)}")
 
     def is_image_url(self, url: str) -> bool:
         """
@@ -91,6 +93,7 @@ class ImageAnalyzer:
     def analyze_image(self, image_url: str, custom_prompt: Optional[str] = None) -> Optional[str]:
         """
         Analyze an image and return a description.
+        Uses OpenRouter's automatic fallback mechanism via extra_body.models.
 
         Args:
             image_url: URL of the image to analyze
@@ -115,11 +118,15 @@ class ImageAnalyzer:
         )
 
         try:
-            logger.info(f"Analyzing image: {image_url}")
+            logger.info(f"Analyzing image with primary model '{self.primary_model}': {image_url}")
 
-            # Call the vision model
+            # Call the vision model with automatic fallback
+            # OpenRouter will automatically try fallback models if primary fails
             response = self.client.chat.completions.create(
-                model=self.model,
+                model=self.primary_model,
+                extra_body={
+                    "models": self.fallback_models
+                },
                 messages=[
                     {
                         "role": "user",
@@ -144,14 +151,14 @@ class ImageAnalyzer:
             description = response.choices[0].message.content
 
             if description:
-                logger.info(f"Successfully analyzed image ({len(description)} chars)")
+                logger.info(f"✅ Successfully analyzed image ({len(description)} chars)")
                 return description.strip()
             else:
                 logger.warning(f"Empty response for image: {image_url}")
                 return None
 
         except Exception as e:
-            logger.error(f"Error analyzing image {image_url}: {e}")
+            logger.error(f"❌ Error analyzing image {image_url}: {e}")
             return None
 
     def analyze_post(self, post: dict) -> Optional[str]:

@@ -225,13 +225,14 @@ def generate_report(languages: List[str] = None, skip_mongodb: bool = False,
         start_time_range = end_time - timedelta(hours=hours)
         logger.info(f"Collecting posts from {start_time_range} to {end_time}")
         
-        # 收集所有帖子
+        # 收集所有帖子（使用详细版本，包含图片分析和评论）
         all_posts = []
         for subreddit in subreddits:
-            posts = reddit_collector.get_subreddit_posts(
+            posts = reddit_collector.get_detailed_subreddit_posts(
                 subreddit=subreddit,
                 limit=posts_per_subreddit,
                 time_filter="week"
+                # fetch_comments and analyze_images will use .env settings
             )
             # 根据参考时间过滤帖子
             filtered_by_time = []
@@ -399,13 +400,14 @@ def main():
         # 收集帖子数据
         posts_per_subreddit = REPORT_CONFIG.get('posts_per_subreddit', 10)
         
-        # 收集所有帖子
+        # 收集所有帖子（使用详细版本，包含图片分析和评论）
         all_posts = []
         for subreddit in subreddits:
-            posts = reddit_collector.get_subreddit_posts(
+            posts = reddit_collector.get_detailed_subreddit_posts(
                 subreddit=subreddit,
                 limit=posts_per_subreddit,
                 time_filter="week"
+                # fetch_comments and analyze_images will use .env settings
             )
             all_posts.extend(posts)
         
