@@ -312,6 +312,16 @@ def generate_report(languages: List[str] = None, skip_mongodb: bool = False,
         
         # Save report to MongoDB
         if save_to_db and not skip_mongodb:
+            # Save all posts (daily, weekly, monthly) to posts collection
+            all_posts_to_save = []
+            all_posts_to_save.extend(filtered_posts)  # Daily posts
+            all_posts_to_save.extend(weekly_posts)  # Weekly posts
+            all_posts_to_save.extend(monthly_posts)  # Monthly posts
+
+            post_result = mongodb_client.insert_or_update_posts(all_posts_to_save)
+            logger.info(f"Saved {post_result['inserted']} new posts, updated {post_result['updated']} posts (total {len(all_posts_to_save)} posts processed)")
+
+            # Save report with embedded posts data
             mongodb_client.save_report(reports, filtered_posts, weekly_posts, monthly_posts)
             logger.info("Saved report to MongoDB")
         

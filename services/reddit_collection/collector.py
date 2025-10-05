@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 from services.reddit_collection.community_fetch import RedditCommunityFetcher
 from services.reddit_collection.post_detail_fetch import RedditPostDetailFetcher
 from database.mongodb import MongoDBClient
-from config import REDDIT_COMMUNITIES, EXCLUDED_CATEGORIES
+from config import REDDIT_COMMUNITIES, EXCLUDED_CATEGORIES, REDDIT_COLLECTION_CONFIG
 
 # Configure logging
 logging.basicConfig(
@@ -27,17 +27,55 @@ class RedditDataCollector:
     def __init__(self, db_client: Optional[MongoDBClient] = None):
         """
         Initialize the Reddit data collector.
-        
+
         Args:
             db_client: MongoDB client for storing data (optional)
         """
         self.community_fetcher = RedditCommunityFetcher()
-        self.post_detail_fetcher = RedditPostDetailFetcher()
+        self.post_detail_fetcher = RedditPostDetailFetcher(db_client=db_client)
         self.db_client = db_client
-        
+
         logger.info("Reddit data collector initialized")
         if EXCLUDED_CATEGORIES:
             logger.info(f"Excluding posts with categories: {', '.join(EXCLUDED_CATEGORIES)}")
+
+    def _should_fetch_comments_for_post(self, post: Dict[str, Any], fetch_comments_mode: str) -> bool:
+        """
+        Determine if comments should be fetched for a specific post based on the mode.
+
+        Args:
+            post: Post dictionary
+            fetch_comments_mode: Comment fetching mode ("true", "false", "smart")
+
+        Returns:
+            Boolean indicating whether to fetch comments
+        """
+        if fetch_comments_mode == "true":
+            return True
+        elif fetch_comments_mode == "false":
+            return False
+        elif fetch_comments_mode == "smart":
+            # Smart mode: fetch comments for posts with little/no text content
+            is_self = post.get('is_self', False)
+            selftext = post.get('selftext', '').strip()
+            min_length = REDDIT_COLLECTION_CONFIG['min_selftext_length']
+
+            if not is_self:
+                # Link/image/video posts - likely discussion in comments
+                logger.debug(f"Post {post.get('post_id')}: Non-self post, fetching comments")
+                return True
+            elif len(selftext) < min_length:
+                # Self post but short text - fetch comments
+                logger.debug(f"Post {post.get('post_id')}: Short selftext ({len(selftext)} chars), fetching comments")
+                return True
+            else:
+                # Self post with substantial text - skip comments
+                logger.debug(f"Post {post.get('post_id')}: Sufficient selftext ({len(selftext)} chars), skipping comments")
+                return False
+        else:
+            # Unknown mode, default to false
+            logger.warning(f"Unknown fetch_comments mode: {fetch_comments_mode}, defaulting to false")
+            return False
     
     def collect_community_data(self, subreddit_name: str) -> Dict[str, Any]:
         """
@@ -144,26 +182,132 @@ class RedditDataCollector:
     def get_subreddit_posts(self, subreddit: str, limit: int = 100, time_filter: str = "week") -> List[Dict[str, Any]]:
         """
         Get posts from a specific subreddit.
-        
+
         Args:
             subreddit: Name of the subreddit
             limit: Maximum number of posts to return
             time_filter: Time filter for posts (hour, day, week, month, year, all)
-            
+
         Returns:
             List of post dictionaries
         """
         logger.info(f"Getting posts from r/{subreddit} (limit: {limit}, time_filter: {time_filter})")
-        
+
         # 使用community_fetcher获取帖子
         posts = self.community_fetcher.get_trending_posts(
             subreddit_name=subreddit,
             time_filter=time_filter,
             limit=limit
         )
-        
+
         logger.info(f"Got {len(posts)} posts from r/{subreddit}")
         return posts
+
+    def get_detailed_subreddit_posts(self,
+                                    subreddit: str,
+                                    limit: int = 100,
+                                    time_filter: str = "week",
+                                    fetch_comments: Optional[str] = None,
+                                    top_comments: Optional[int] = None,
+                                    analyze_images: Optional[bool] = None) -> List[Dict[str, Any]]:
+        """
+        Get detailed posts from a subreddit with optional comments and image analysis.
+        Uses database caching to minimize API calls.
+
+        Args:
+            subreddit: Name of the subreddit
+            limit: Maximum number of posts to return
+            time_filter: Time filter for posts (hour, day, week, month, year, all)
+            fetch_comments: Comment fetch mode - "true", "false", or "smart" (default: from config)
+            top_comments: Number of top comments to fetch (default: from config)
+            analyze_images: Whether to analyze images (default: from config)
+
+        Returns:
+            List of detailed post dictionaries with comments and photo_parse if enabled
+        """
+        # Use config defaults if not specified
+        if fetch_comments is None:
+            fetch_comments = REDDIT_COLLECTION_CONFIG['fetch_comments']
+        if top_comments is None:
+            top_comments = REDDIT_COLLECTION_CONFIG['top_comments_limit']
+        if analyze_images is None:
+            analyze_images = REDDIT_COLLECTION_CONFIG['analyze_images']
+
+        logger.info(f"Getting detailed posts from r/{subreddit} (limit: {limit}, comments: {fetch_comments}, images: {analyze_images})")
+
+        # Step 1: Get basic post list from community fetcher
+        basic_posts = self.community_fetcher.get_trending_posts(
+            subreddit_name=subreddit,
+            time_filter=time_filter,
+            limit=limit
+        )
+
+        if not basic_posts:
+            logger.warning(f"No posts found in r/{subreddit}")
+            return []
+
+        # Track statistics
+        stats = {
+            "total": len(basic_posts),
+            "cached": 0,
+            "fetched": 0,
+            "comments_fetched": 0,
+            "comments_skipped": 0
+        }
+
+        # Step 2: Enrich posts with details
+        detailed_posts = []
+        for post in basic_posts:
+            post_id = post.get('post_id')
+
+            # Determine if this specific post needs comments based on mode
+            should_fetch_comments = self._should_fetch_comments_for_post(post, fetch_comments)
+
+            # Check database for existing details
+            if self.db_client:
+                db_post = self.db_client.get_post_by_id(post_id)
+
+                # Determine if we need to fetch new data
+                need_comments = should_fetch_comments and (not db_post or 'comments' not in db_post)
+                need_photo = analyze_images and (not db_post or 'photo_parse' not in db_post)
+
+                if db_post and not need_comments and not need_photo:
+                    # Use cached data completely
+                    logger.debug(f"Using cached data for post {post_id}")
+                    stats["cached"] += 1
+                    detailed_posts.append(db_post)
+                    continue
+
+            # Fetch details from Reddit API if needed
+            if should_fetch_comments or analyze_images:
+                logger.debug(f"Fetching details for post {post_id} (comments: {should_fetch_comments}, images: {analyze_images})")
+                # Pass existing db_post to avoid duplicate database query
+                post_details = self.post_detail_fetcher.get_post_details(post_id, existing_post=db_post if self.db_client else None)
+                stats["fetched"] += 1
+
+                if post_details:
+                    # Handle comments based on decision
+                    if should_fetch_comments and post_details.get('comments'):
+                        post_details['comments'] = post_details['comments'][:top_comments]
+                        stats["comments_fetched"] += 1
+                    else:
+                        # Remove comments if not needed for this post
+                        post_details.pop('comments', None)
+                        if fetch_comments == "smart":
+                            stats["comments_skipped"] += 1
+
+                    detailed_posts.append(post_details)
+                else:
+                    # Fallback to basic post if details fetch failed
+                    logger.warning(f"Failed to fetch details for post {post_id}, using basic data")
+                    detailed_posts.append(post)
+            else:
+                # No enrichment needed, use basic post
+                detailed_posts.append(post)
+                stats["comments_skipped"] += 1
+
+        logger.info(f"Got {len(detailed_posts)} detailed posts from r/{subreddit} - Stats: {stats}")
+        return detailed_posts
     
     def get_weekly_popular_posts(self, subreddits: List[str] = None, limit: int = 20) -> List[Dict[str, Any]]:
         """

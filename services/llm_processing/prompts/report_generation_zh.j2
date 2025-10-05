@@ -10,6 +10,19 @@
 
 {{ community_tables }}
 
+{% if posts_with_images %}
+**附加信息 - 包含图片的帖子：**
+
+以下帖子包含图片及其视觉内容描述：
+
+{% for post in posts_with_images %}
+- **{{ post.title }}**
+  - 图片描述：{{ post.photo_description }}
+  - URL：{{ post.url }}
+
+{% endfor %}
+{% endif %}
+
 根据这些帖子，请提供：
 
 1. **今日焦点**：分析过去24小时内出现的最新趋势和突破性发展。重点关注今天新出现的、与之前周趋势和月趋势不同的新兴话题。引用具体的帖子作为例证，并解释为什么这些新趋势值得关注。这是报告中最重要的部分，应该占据报告的主要篇幅。

@@ -461,13 +461,46 @@ class BaseLLMClient(ABC):
                 "trend_analysis": "## Trend Analysis"
             }
 
+        # Prepare posts with image descriptions for LLM context
+        # Collect from daily, weekly, and monthly posts
+        all_posts_sources = [posts]
+        if weekly_posts:
+            all_posts_sources.append(weekly_posts)
+        if monthly_posts:
+            all_posts_sources.append(monthly_posts)
+
+        posts_with_images = []
+        seen_post_ids = set()
+
+        for post_source in all_posts_sources:
+            for post in post_source:
+                post_id = post.get('post_id')
+                # Skip duplicates
+                if post_id and post_id in seen_post_ids:
+                    continue
+
+                # Only include posts with photo_parse
+                if 'photo_parse' in post and post['photo_parse']:
+                    seen_post_ids.add(post_id)
+                    post_info = {
+                        'title': post.get('title', 'N/A'),
+                        'photo_description': post['photo_parse'],
+                        'url': post.get('url', '')
+                    }
+                    posts_with_images.append(post_info)
+
+        # Limit to 15 posts to avoid token overflow
+        posts_with_images = posts_with_images[:15]
+        logger.info(f"Prepared {len(posts_with_images)} posts with image descriptions for LLM context")
+
         # Load prompt from Jinja2 template
         prompt_context = {
             "current_date": current_date,
             "trending_table": trending_table,
             "weekly_table": weekly_table,
             "monthly_table": monthly_table,
-            "community_tables": community_tables
+            "community_tables": community_tables,
+            "posts_with_images": posts_with_images
         }
         prompt = self.prompt_loader.get_report_prompt(language, prompt_context)
 

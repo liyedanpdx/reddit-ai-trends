@@ -10,6 +10,19 @@ Below are the tables of popular and trending posts:
 
 {{ community_tables }}
 
+{% if posts_with_images %}
+**Additional Context - Posts with Images:**
+
+The following posts contain images with visual content descriptions:
+
+{% for post in posts_with_images %}
+- **{{ post.title }}**
+  - Image Description: {{ post.photo_description }}
+  - URL: {{ post.url }}
+
+{% endfor %}
+{% endif %}
+
 Based on these posts, please provide:
 
 1. **Today's Highlights**: Analyze the latest trends and breakthrough developments that have emerged in the past 24 hours. Focus on new emerging topics that differ from the previous weekly and monthly trends. Reference specific posts as examples and explain why these new trends are worth attention. This is the most important part of the report and should occupy the main portion.
