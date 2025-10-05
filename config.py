@@ -51,9 +51,26 @@ LLM_PROVIDERS = {
 # Legacy LLM_CONFIG for backward compatibility
 LLM_CONFIG = LLM_PROVIDERS.get(CURRENT_LLM_PROVIDER, LLM_PROVIDERS["openrouter"])
 
+# Reddit Data Collection Configuration (PRIMARY SOURCE)
+REDDIT_COLLECTION_CONFIG = {
+    # Comment fetching strategy (costs API calls)
+    # Options: "true" (always), "false" (never), "smart" (auto-detect based on content)
+    "fetch_comments": os.getenv("FETCH_COMMENTS", "smart").lower(),
+    # Number of top comments to fetch per post
+    "top_comments_limit": int(os.getenv("TOP_COMMENTS_LIMIT", "5")),
+    # Minimum selftext length to skip comments (for smart mode)
+    "min_selftext_length": int(os.getenv("MIN_SELFTEXT_LENGTH", "100")),
+    # Whether to analyze images in posts (costs API calls to Gemini)
+    "analyze_images": os.getenv("ANALYZE_IMAGES", "false").lower() == "true",
+    # Posts per subreddit
+    "posts_per_subreddit": int(os.getenv("POSTS_PER_SUBREDDIT", "30")),
+    # Subreddits to monitor
+    "subreddits": os.getenv("REDDIT_SUBREDDITS", "LocalLLaMA,MachineLearning,singularity,LocalLLM,hackernews,LangChain,LLMDevs,Vectordatabase,Rag,ai_agents,datascience").split(",")
+}
+
 # Report generation configuration
 REPORT_CONFIG = {
-    "frequency_hours": 24,  # 更新为每24小时一次
+    "frequency_hours": 24,
     "report_title_format": "Reddit AI Report - {date}",
     "report_title_format_zh": "Reddit AI 趋势报告 - {date}",
     "report_directory": "reports",
@@ -66,22 +83,9 @@ REPORT_CONFIG = {
     "generation_time": os.getenv("REPORT_GENERATION_TIME", "06:00"),
     # 支持的语言列表，默认为英文和中文
     "languages": os.getenv("REPORT_LANGUAGES", "en,zh").split(","),
-    # 每个subreddit获取的帖子数量
-    "posts_per_subreddit": 30,
-    # 要监控的subreddits列表
-    "subreddits": [
-        "LocalLLaMA",
-        "MachineLearning",
-        "singularity",
-        "LocalLLM",
-        "hackernews",
-        "LangChain",
-        "LLMDevs",
-        "Vectordatabase",
-        "Rag",
-        "ai_agents",
-        "datascience"
-    ]
+    # Reference REDDIT_COLLECTION_CONFIG for these values (single source of truth)
+    "posts_per_subreddit": REDDIT_COLLECTION_CONFIG["posts_per_subreddit"],
+    "subreddits": REDDIT_COLLECTION_CONFIG["subreddits"]
 }
 
 # Post categories
@@ -108,6 +112,19 @@ GITHUB_CONFIG = {
     "repo_name": "reddit-ai-report",
     "branch": "main",
     "commit_message_format": "Update report for {date}"
+}
+
+# Image Analysis Configuration (for Vision API settings)
+IMAGE_ANALYSIS_CONFIG = {
+    # Note: "enabled" is controlled by REDDIT_COLLECTION_CONFIG["analyze_images"]
+    # Primary model to use
+    "model": os.getenv("IMAGE_ANALYSIS_MODEL", "qwen/qwen2.5-vl-72b-instruct:free"),
+    # Fallback models for automatic retry if primary fails (rate limit, downtime, etc.)
+    "fallback_models": os.getenv(
+        "IMAGE_ANALYSIS_FALLBACK_MODELS",
+        "google/gemini-2.0-flash-exp:free,mistralai/mistral-small-3.2-24b-instruct:free,mistralai/mistral-small-3.1-24b-instruct:free,meta-llama/llama-4-maverick:free"
+    ).split(","),
+    "max_tokens": int(os.getenv("IMAGE_ANALYSIS_MAX_TOKENS", "500"))
 }
 
 # Docker configuration

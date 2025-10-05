@@ -10,9 +10,29 @@ Below are the tables of popular and trending posts:
 
 {{ community_tables }}
 
+{% if posts_with_context_json %}
+**Additional Context - Posts with Supplementary Information:**
+
+The following posts contain additional details (images and/or comments) in structured JSON format. **IMPORTANT USAGE GUIDELINES**:
+
+**Content Weight Distribution:**
+- **70%** - Focus on main post content, trends, and technical breakthroughs from the tables above
+- **20%** - Use image descriptions when they contain **useful technical details, diagrams, charts, or visual evidence** that enhance your analysis
+- **10%** - Reference community comments **only** when they provide unique perspectives or expert opinions (e.g., "Some community members noted that...")
+
+**Image Descriptions**: When image descriptions contain valuable technical information (architecture diagrams, benchmark results, screenshots of features), **incorporate them into your analysis** to provide accurate, detailed descriptions. Don't just mention "an image shows X" - explain what the image reveals about the technology.
+
+**Comments**: Use comments **sparingly as supporting evidence** for community sentiment. Frame them journalistically (e.g., "Community discussions suggest...", "Some users pointed out..."). All bot comments have been filtered out.
+
+```json
+{{ posts_with_context_json }}
+```
+
+{% endif %}
+
 Based on these posts, please provide:
 
-1. **Today's Highlights**: Analyze the latest trends and breakthrough developments that have emerged in the past 24 hours. Focus on new emerging topics that differ from the previous weekly and monthly trends. Reference specific posts as examples and explain why these new trends are worth attention. This is the most important part of the report and should occupy the main portion.
+1. **Today's Highlights**: Analyze the latest trends and breakthrough developments that have emerged in the past 24 hours. Focus on new emerging topics that differ from the previous weekly and monthly trends. Reference specific posts as examples and explain why these new trends are worth attention. This is the most important part of the report and should occupy the main portion. *Suggested: include what it is, why it matters, community reaction.*
 
 2. **Weekly Trend Comparison**: Compare today's trends with those from the past week. Which trends persist? Which ones are newly emerging? What do these changes reflect about shifting interests in the AI community?
 

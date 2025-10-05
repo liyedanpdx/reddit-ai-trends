@@ -47,18 +47,119 @@ class MongoDBClient:
         """Create indexes for better query performance."""
         # Create index on post_id for faster lookups
         self.posts_collection.create_index("post_id", unique=True)
-        
+
         # Create index on subreddit for faster filtering
         self.posts_collection.create_index("subreddit")
-        
+
         # Create index on created_utc for faster time-based queries
         self.posts_collection.create_index("created_utc")
-        
+
         # Create index on report_id for faster lookups
         self.reports_collection.create_index("report_id", unique=True)
-        
+
         # Create index on timestamp for faster time-based queries
         self.reports_collection.create_index("timestamp")
+
+    def _merge_comments(self, existing_comments: List[Dict[str, Any]], new_comments: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """
+        Intelligently merge new comments with existing comments.
+
+        Strategy:
+        - Preserve existing comments and their history
+        - Update scores for comments that still appear in top 5
+        - Add new comments that entered top 5
+        - Mark comments that dropped out of top 5 as historical
+
+        Args:
+            existing_comments: List of existing comment dictionaries from database
+            new_comments: List of newly fetched comment dictionaries
+
+        Returns:
+            Merged list of comments with updated metadata and score history
+        """
+        if not existing_comments:
+            # No existing comments, initialize new ones with metadata
+            now = datetime.utcnow()
+            for comment in new_comments:
+                comment['first_seen'] = now
+                comment['last_updated'] = now
+                comment['score_history'] = [{'timestamp': now, 'score': comment.get('score', 0)}]
+            return new_comments
+
+        if not new_comments:
+            # No new comments fetched, return existing (happens when fetch_comments is skipped)
+            return existing_comments
+
+        # Create index of existing comments by comment_id
+        existing_by_id = {c['comment_id']: c for c in existing_comments if 'comment_id' in c}
+
+        merged = []
+        now = datetime.utcnow()
+        new_comment_ids = set()
+
+        # Process new comments
+        for new_comment in new_comments:
+            comment_id = new_comment.get('comment_id')
+            if not comment_id:
+                logger.warning("Comment missing comment_id, skipping")
+                continue
+
+            new_comment_ids.add(comment_id)
+
+            if comment_id in existing_by_id:
+                # Comment already exists - update it
+                old_comment = existing_by_id[comment_id].copy()
+
+                # Initialize score_history if not present
+                if 'score_history' not in old_comment:
+                    old_comment['score_history'] = []
+
+                # Add new score to history (only if score changed)
+                new_score = new_comment.get('score', 0)
+                old_score = old_comment.get('score', 0)
+
+                if new_score != old_score:
+                    old_comment['score_history'].append({
+                        'timestamp': now,
+                        'score': new_score
+                    })
+
+                    # Limit history to last 10 entries
+                    if len(old_comment['score_history']) > 10:
+                        old_comment['score_history'] = old_comment['score_history'][-10:]
+
+                # Update current data
+                old_comment['score'] = new_score
+                old_comment['body'] = new_comment.get('body', old_comment.get('body', ''))
+                old_comment['last_updated'] = now
+
+                # Remove historical flag if it was previously marked
+                old_comment.pop('historical', None)
+
+                merged.append(old_comment)
+            else:
+                # New comment entering top 5
+                new_comment['first_seen'] = now
+                new_comment['last_updated'] = now
+                new_comment['score_history'] = [{'timestamp': now, 'score': new_comment.get('score', 0)}]
+                merged.append(new_comment)
+
+        # Preserve comments that dropped out of top 5 (mark as historical)
+        for comment_id, old_comment in existing_by_id.items():
+            if comment_id not in new_comment_ids and not old_comment.get('historical', False):
+                # Comment no longer in top 5, but keep it for historical tracking
+                old_comment['historical'] = True
+                old_comment['dropped_from_top'] = now
+                merged.append(old_comment)
+
+        # Sort: current top comments first (by score desc), then historical comments
+        merged.sort(key=lambda c: (c.get('historical', False), -c.get('score', 0)))
+
+        # Limit total comments to avoid database bloat (keep top 5 + last 10 historical)
+        current_comments = [c for c in merged if not c.get('historical', False)]
+        historical_comments = [c for c in merged if c.get('historical', False)][:10]
+
+        return current_comments + historical_comments
     
     def insert_or_update_posts(self, posts: List[Dict[str, Any]]) -> Dict[str, int]:
         """
@@ -88,11 +189,11 @@ class MongoDBClient:
                 # Store historical metrics
                 if "historical_metrics" not in post:
                     post["historical_metrics"] = []
-                
+
                 # Add current metrics to historical data
                 if "historical_metrics" in existing_post:
                     post["historical_metrics"] = existing_post["historical_metrics"]
-                
+
                 # Add new historical entry
                 historical_entry = {
                     "timestamp": datetime.utcnow(),
@@ -100,10 +201,29 @@ class MongoDBClient:
                     "num_comments": existing_post.get("num_comments", 0)
                 }
                 post["historical_metrics"].append(historical_entry)
-                
+
                 # Limit historical entries to last 10
                 if len(post["historical_metrics"]) > 10:
                     post["historical_metrics"] = post["historical_metrics"][-10:]
+
+                # Preserve photo_parse if it exists (don't overwrite with new data)
+                if "photo_parse" in existing_post:
+                    post["photo_parse"] = existing_post["photo_parse"]
+
+                # Intelligently merge comments
+                existing_comments = existing_post.get("comments", [])
+                new_comments = post.get("comments", [])
+
+                if new_comments:
+                    # New comments fetched - merge with existing
+                    post["comments"] = self._merge_comments(existing_comments, new_comments)
+                    post["comments_last_fetched"] = datetime.utcnow()
+                elif existing_comments:
+                    # No new comments fetched, preserve existing
+                    post["comments"] = existing_comments
+                    # Keep the old comments_last_fetched timestamp if it exists
+                    if "comments_last_fetched" in existing_post:
+                        post["comments_last_fetched"] = existing_post["comments_last_fetched"]
             
             # Create update operation
             operation = UpdateOne(

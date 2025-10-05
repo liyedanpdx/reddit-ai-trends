@@ -225,13 +225,14 @@ def generate_report(languages: List[str] = None, skip_mongodb: bool = False,
         start_time_range = end_time - timedelta(hours=hours)
         logger.info(f"Collecting posts from {start_time_range} to {end_time}")
         
-        # 收集所有帖子
+        # 收集所有帖子（使用详细版本，包含图片分析和评论）
         all_posts = []
         for subreddit in subreddits:
-            posts = reddit_collector.get_subreddit_posts(
+            posts = reddit_collector.get_detailed_subreddit_posts(
                 subreddit=subreddit,
                 limit=posts_per_subreddit,
                 time_filter="week"
+                # fetch_comments and analyze_images will use .env settings
             )
             # 根据参考时间过滤帖子
             filtered_by_time = []
@@ -312,6 +313,16 @@ def generate_report(languages: List[str] = None, skip_mongodb: bool = False,
         
         # Save report to MongoDB
         if save_to_db and not skip_mongodb:
+            # Save all posts (daily, weekly, monthly) to posts collection
+            all_posts_to_save = []
+            all_posts_to_save.extend(filtered_posts)  # Daily posts
+            all_posts_to_save.extend(weekly_posts)  # Weekly posts
+            all_posts_to_save.extend(monthly_posts)  # Monthly posts
+
+            post_result = mongodb_client.insert_or_update_posts(all_posts_to_save)
+            logger.info(f"Saved {post_result['inserted']} new posts, updated {post_result['updated']} posts (total {len(all_posts_to_save)} posts processed)")
+
+            # Save report with embedded posts data
             mongodb_client.save_report(reports, filtered_posts, weekly_posts, monthly_posts)
             logger.info("Saved report to MongoDB")
         
@@ -389,13 +400,14 @@ def main():
         # 收集帖子数据
         posts_per_subreddit = REPORT_CONFIG.get('posts_per_subreddit', 10)
         
-        # 收集所有帖子
+        # 收集所有帖子（使用详细版本，包含图片分析和评论）
         all_posts = []
         for subreddit in subreddits:
-            posts = reddit_collector.get_subreddit_posts(
+            posts = reddit_collector.get_detailed_subreddit_posts(
                 subreddit=subreddit,
                 limit=posts_per_subreddit,
                 time_filter="week"
+                # fetch_comments and analyze_images will use .env settings
             )
             all_posts.extend(posts)
         
