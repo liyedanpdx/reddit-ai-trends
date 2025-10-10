@@ -90,6 +90,49 @@ class PromptLoader:
         template_name = f"report_generation_{language}.j2"
         return self.render_template(template_name, context)
 
+    def get_youtube_summary_prompt(self, video_url: str, transcript: str) -> str:
+        """
+        Get the YouTube video transcript summarization prompt.
+
+        Args:
+            video_url: YouTube video URL
+            transcript: Video transcript text
+
+        Returns:
+            Rendered prompt string
+        """
+        context = {
+            "video_url": video_url,
+            "transcript": transcript
+        }
+        return self.render_template("youtube_summary.j2", context)
+
+    def get_web_content_summary_prompt(self, url: str, content: str) -> str:
+        """
+        Get the web content summarization prompt.
+
+        Args:
+            url: Web page URL
+            content: Page content (markdown format)
+
+        Returns:
+            Rendered prompt string
+        """
+        context = {
+            "url": url,
+            "content": content
+        }
+        return self.render_template("web_content_summary.j2", context)
+
+    def get_image_analysis_prompt(self) -> str:
+        """
+        Get the image analysis prompt.
+
+        Returns:
+            Rendered prompt string
+        """
+        return self.render_template("image_analysis.j2", {})
+
 
 if __name__ == "__main__":
     """Simple test for PromptLoader."""

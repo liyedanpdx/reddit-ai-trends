@@ -13,15 +13,28 @@
 
 - **实时AI趋势监控**：实时跟踪新兴AI技术、讨论和突破性进展
 - **多社区分析**：收集来自各种AI相关subreddit的数据，提供全面视图
+- **多模态内容分析**：
+  - 使用视觉模型（Qwen-VL、Gemini等）进行图片分析
+  - YouTube视频字幕提取与总结
+  - 通过Firecrawl进行网页内容抓取与总结
+  - 社区评论集成与机器人过滤
 - **详细趋势分析**：生成深入报告，包括今日焦点、周趋势对比、月度技术演进等
 - **双语支持**：同时生成英文和中文报告
 - **多LLM提供商**：支持Groq和OpenRouter API
+- **智能缓存**：基于数据库的缓存机制，最小化API成本
 - **有组织的文件结构**：按年/月/日存储报告，便于访问
 - **自动README更新**：自动更新指向最新报告的链接
 - **Docker部署**：简易容器化部署
 - **MongoDB持久化**：存储所有数据用于历史分析
 
 ## 最新更新
+
+### **2025-10-09**
+- 新增YouTube视频字幕分析 - 自动提取和总结视频内容
+- 新增网页内容分析，使用Firecrawl - 抓取和总结链接文章
+- 两个新enricher均使用DeepSeek进行经济高效的总结，带有健壮的错误处理
+- 为所有enrichment数据（图片、YouTube、网页内容）提供数据库缓存，最小化API成本
+- 所有enrichment功能均可选，可通过.env配置
 
 ### **2025-10-05**
 - 新增可选的视觉模型支持，用于分析Reddit帖子中的图片（Qwen-VL、Gemini，支持自动故障转移，可通过.env配置）
@@ -87,9 +100,39 @@ GROQ_MODEL=llama-3.3-70b-versatile
 OPENROUTER_API_KEY=your_openrouter_api_key
 OPENROUTER_MODEL=deepseek/deepseek-r1-distill-llama-70b:free
 
-# LLM设置
-LLM_TEMPERATURE=0.4
-LLM_MAX_TOKENS=4000
+# LLM设置（应用于所有提供商）
+LLM_TEMPERATURE=0.5
+LLM_MAX_TOKENS=8192
+
+# Reddit数据收集配置
+# 评论获取策略（会消耗API调用）：
+#   - "true": 始终获取所有帖子的评论
+#   - "false": 从不获取评论
+#   - "smart": 自动检测 - 仅对内容少/无文本的帖子获取评论（推荐）
+FETCH_COMMENTS=smart
+TOP_COMMENTS_LIMIT=5  # 每个帖子包含的热门评论数量
+MIN_SELFTEXT_LENGTH=100  # smart模式下跳过评论的最小文本长度
+
+# 图片分析（会调用视觉模型API）
+ANALYZE_IMAGES=true  # 启用/禁用图片分析
+IMAGE_ANALYSIS_MODEL=qwen/qwen2.5-vl-72b-instruct:free  # 主视觉模型
+# 备用模型（逗号分隔） - 主模型失败时OpenRouter会自动重试
+IMAGE_ANALYSIS_FALLBACK_MODELS=google/gemini-2.0-flash-exp:free,mistralai/mistral-small-3.2-24b-instruct:free,meta-llama/llama-4-maverick:free
+IMAGE_ANALYSIS_MAX_TOKENS=500  # 图片描述的最大token数
+
+# YouTube字幕分析（免费 - 使用youtube-transcript-api，仅总结时调用LLM API）
+YOUTUBE_ANALYSIS_ENABLED=true  # 启用/禁用YouTube视频字幕分析
+YOUTUBE_ANALYSIS_MODEL=deepseek/deepseek-chat-v3.1:free  # 用于总结的LLM模型
+YOUTUBE_ANALYSIS_MAX_TOKENS=500  # 视频总结的最大token数
+
+# 网页内容分析（Firecrawl提供每月500免费额度，总结时调用LLM API）
+WEB_CONTENT_ANALYSIS_ENABLED=true  # 启用/禁用网页内容分析
+FIRECRAWL_API_KEY=your_firecrawl_api_key  # 从firecrawl.dev获取免费API密钥（每月500额度）
+WEB_CONTENT_ANALYSIS_MODEL=deepseek/deepseek-chat-v3.1:free  # 用于总结的LLM模型
+WEB_CONTENT_ANALYSIS_MAX_TOKENS=500  # 网页内容总结的最大token数
+
+POSTS_PER_SUBREDDIT=30  # 每个subreddit获取的帖子数量
+REDDIT_SUBREDDITS=LocalLLaMA,MachineLearning,singularity,LocalLLM,hackernews,LangChain,LLMDevs,Vectordatabase,Rag,ai_agents,datascience
 
 # 报告生成设置
 REPORT_GENERATION_TIME=06:00

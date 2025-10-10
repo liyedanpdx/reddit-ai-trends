@@ -13,15 +13,28 @@ Automatically generate trend reports from AI-related Reddit communities, support
 
 - **Real-time AI Trend Monitoring**: Track emerging AI technologies, discussions, and breakthroughs as they happen
 - **Multi-community Analysis**: Collect data from various AI-related subreddits to provide a comprehensive view
+- **Multimodal Content Analysis**:
+  - Image analysis using vision models (Qwen-VL, Gemini, etc.)
+  - YouTube video transcript extraction and summarization
+  - Web page content scraping and summarization via Firecrawl
+  - Community comment integration with bot filtering
 - **Detailed Trend Analysis**: Generate in-depth reports including today's highlights, weekly trend comparisons, monthly technology evolution, and more
 - **Bilingual Support**: Generate reports in both English and Chinese
 - **Multiple LLM Providers**: Supports both Groq and OpenRouter APIs
+- **Smart Caching**: Database-backed caching for all enrichments to minimize API costs
 - **Organized File Structure**: Store reports in year/month/day folders for easy access
 - **Automatic README Updates**: Automatically update links to the latest reports
 - **Docker Deployment**: Easy containerized deployment
 - **MongoDB Persistence**: Store all data for historical analysis
 
 ## Recent Updates
+
+### **2025-10-09**
+- Added YouTube video transcript analysis - automatically extracts and summarizes video content
+- Added web page content analysis using Firecrawl - scrapes and summarizes linked articles
+- Both new enrichers use DeepSeek for cost-effective summarization with robust error handling
+- Database caching for all enrichment data (images, YouTube, web content) to minimize API costs
+- All enrichment features are optional and configurable via .env
 
 ### **2025-10-05**
 - Added optional vision model support for analyzing images in Reddit posts (Qwen-VL, Gemini with automatic fallback, configurable via .env)
@@ -87,9 +100,39 @@ GROQ_MODEL=llama-3.3-70b-versatile
 OPENROUTER_API_KEY=your_openrouter_api_key
 OPENROUTER_MODEL=deepseek/deepseek-r1-distill-llama-70b:free
 
-# LLM Settings
-LLM_TEMPERATURE=0.4
-LLM_MAX_TOKENS=4000
+# LLM Settings (applies to all providers)
+LLM_TEMPERATURE=0.5
+LLM_MAX_TOKENS=8192
+
+# Reddit Data Collection Configuration
+# Comment fetching strategy (costs API calls):
+#   - "true": Always fetch comments for all posts
+#   - "false": Never fetch comments
+#   - "smart": Auto-detect - fetch only for posts with little/no text content (RECOMMENDED)
+FETCH_COMMENTS=smart
+TOP_COMMENTS_LIMIT=5  # Number of top comments to include per post
+MIN_SELFTEXT_LENGTH=100  # Minimum text length to skip comments in smart mode
+
+# Image Analysis (costs API calls to vision models)
+ANALYZE_IMAGES=true  # Enable/disable image analysis
+IMAGE_ANALYSIS_MODEL=qwen/qwen2.5-vl-72b-instruct:free  # Primary vision model
+# Fallback models (comma-separated) - OpenRouter will auto-retry if primary fails
+IMAGE_ANALYSIS_FALLBACK_MODELS=google/gemini-2.0-flash-exp:free,mistralai/mistral-small-3.2-24b-instruct:free,meta-llama/llama-4-maverick:free
+IMAGE_ANALYSIS_MAX_TOKENS=500  # Max tokens for image descriptions
+
+# YouTube Transcript Analysis (FREE - uses youtube-transcript-api, only costs LLM API for summarization)
+YOUTUBE_ANALYSIS_ENABLED=true  # Enable/disable YouTube video transcript analysis
+YOUTUBE_ANALYSIS_MODEL=deepseek/deepseek-chat-v3.1:free  # LLM model for summarization
+YOUTUBE_ANALYSIS_MAX_TOKENS=500  # Max tokens for video summaries
+
+# Web Content Analysis (Firecrawl offers 500 free credits/month, also costs LLM API for summarization)
+WEB_CONTENT_ANALYSIS_ENABLED=true  # Enable/disable web page content analysis
+FIRECRAWL_API_KEY=your_firecrawl_api_key  # Get free API key from firecrawl.dev (500 credits/month free)
+WEB_CONTENT_ANALYSIS_MODEL=deepseek/deepseek-chat-v3.1:free  # LLM model for summarization
+WEB_CONTENT_ANALYSIS_MAX_TOKENS=500  # Max tokens for web content summaries
+
+POSTS_PER_SUBREDDIT=30  # Number of posts to fetch per subreddit
+REDDIT_SUBREDDITS=LocalLLaMA,MachineLearning,singularity,LocalLLM,hackernews,LangChain,LLMDevs,Vectordatabase,Rag,ai_agents,datascience
 
 # Report generation settings
 REPORT_GENERATION_TIME=06:00

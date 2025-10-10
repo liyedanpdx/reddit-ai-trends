@@ -206,9 +206,13 @@ class MongoDBClient:
                 if len(post["historical_metrics"]) > 10:
                     post["historical_metrics"] = post["historical_metrics"][-10:]
 
-                # Preserve photo_parse if it exists (don't overwrite with new data)
+                # Preserve enrichment fields if they exist (don't overwrite with new data)
                 if "photo_parse" in existing_post:
                     post["photo_parse"] = existing_post["photo_parse"]
+                if "youtube_transcript_summary" in existing_post:
+                    post["youtube_transcript_summary"] = existing_post["youtube_transcript_summary"]
+                if "web_content_summary" in existing_post:
+                    post["web_content_summary"] = existing_post["web_content_summary"]
 
                 # Intelligently merge comments
                 existing_comments = existing_post.get("comments", [])

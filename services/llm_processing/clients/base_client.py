@@ -481,11 +481,13 @@ class BaseLLMClient(ABC):
                 if post_id and post_id in seen_post_ids:
                     continue
 
-                # Include posts with photo_parse or comments
+                # Include posts with photo_parse, youtube_transcript_summary, web_content_summary, or comments
                 has_photo = 'photo_parse' in post and post['photo_parse']
+                has_youtube = 'youtube_transcript_summary' in post and post['youtube_transcript_summary']
+                has_web_content = 'web_content_summary' in post and post['web_content_summary']
                 has_comments = 'comments' in post and post['comments'] and len(post['comments']) > 0
 
-                if has_photo or has_comments:
+                if has_photo or has_youtube or has_web_content or has_comments:
                     seen_post_ids.add(post_id)
 
                     # Build structured context
@@ -501,6 +503,14 @@ class BaseLLMClient(ABC):
                     # Add image description if available
                     if has_photo:
                         context_item["image_description"] = post['photo_parse']
+
+                    # Add YouTube transcript summary if available
+                    if has_youtube:
+                        context_item["youtube_summary"] = post['youtube_transcript_summary']
+
+                    # Add web content summary if available
+                    if has_web_content:
+                        context_item["web_content_summary"] = post['web_content_summary']
 
                     # Add filtered comments if available
                     if has_comments:
