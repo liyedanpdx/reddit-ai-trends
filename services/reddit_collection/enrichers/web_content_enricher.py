@@ -6,11 +6,16 @@ import logging
 import sys
 import os
 from typing import Optional
-from firecrawl import Firecrawl
+from firecrawl import FirecrawlApp
 from openai import OpenAI
 
-# Add parent directories to path for imports
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+# Add project root to path for imports
+# web_content_enricher.py is at: services/reddit_collection/enrichers/
+# Project root is 4 levels up
+project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 from services.llm_processing.core.prompt_loader import PromptLoader
 
 logger = logging.getLogger(__name__)
@@ -32,7 +37,7 @@ class WebContentEnricher:
         self,
         firecrawl_api_key: str,
         openrouter_api_key: str,
-        model: str = "deepseek/deepseek-chat-v3.1:free",
+        model: str = "qwen/qwen3-235b-a22b:free",
         max_tokens: int = 500,
         enabled: bool = True
     ):
@@ -52,7 +57,7 @@ class WebContentEnricher:
         self.prompt_loader = PromptLoader()
 
         if self.enabled:
-            self.firecrawl = Firecrawl(api_key=firecrawl_api_key)
+            self.firecrawl = FirecrawlApp(api_key=firecrawl_api_key)
             self.llm_client = OpenAI(
                 base_url="https://openrouter.ai/api/v1",
                 api_key=openrouter_api_key
@@ -213,3 +218,96 @@ class WebContentEnricher:
         logger.info(f"Successfully enriched post {post.post_id} with web content summary")
 
         return post
+
+
+if __name__ == "__main__":
+    """Test Web Content Enricher"""
+    # Add project root to path for standalone execution
+    project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+    if project_root not in sys.path:
+        sys.path.insert(0, project_root)
+
+    from dotenv import load_dotenv
+
+    # Configure logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    )
+
+    # Load environment variables
+    load_dotenv()
+
+    print("=" * 80)
+    print("Testing Web Content Enricher")
+    print("=" * 80)
+
+    # Test URLs
+    test_urls = [
+        "https://www.uni-koeln.de/en/university/news/news/news-detail/antibody-discovered-that-blocks-almost-all-known-hiv-variants-in-neutralization-assays",
+        "https://github.com/liyedanpdx/reddit-ai-trends/blob/main/reports/2025/10/05/report_20251005_en.md",
+        "https://www.reddit.com/r/LocalLLaMA"  # Should be excluded
+    ]
+
+    # Initialize enricher
+    firecrawl_key = os.getenv("FIRECRAWL_API_KEY")
+    openrouter_key = os.getenv("OPENROUTER_API_KEY")
+
+    if not firecrawl_key:
+        print("❌ FIRECRAWL_API_KEY not found in environment")
+        exit(1)
+
+    if not openrouter_key:
+        print("❌ OPENROUTER_API_KEY not found in environment")
+        exit(1)
+
+    enricher = WebContentEnricher(
+        firecrawl_api_key=firecrawl_key,
+        openrouter_api_key=openrouter_key,
+        model="qwen/qwen3-235b-a22b:free",
+        max_tokens=500,
+        enabled=True
+    )
+
+    print(f"\n✓ Enricher initialized")
+    print(f"  - Model: {enricher.model}")
+    print(f"  - Max tokens: {enricher.max_tokens}")
+
+    for url in test_urls:
+        print(f"\n{'='*80}")
+        print(f"Testing URL: {url}")
+        print(f"{'='*80}")
+
+        # Test should_scrape
+        should_scrape = enricher.should_scrape(url)
+        print(f"Should scrape: {should_scrape}")
+
+        if not should_scrape:
+            print("⏭️  Skipped (excluded pattern)")
+            continue
+
+        # Test scraping
+        print("\n📥 Scraping content...")
+        content = enricher.scrape_content(url)
+
+        if not content:
+            print("❌ Failed to scrape content")
+            continue
+
+        print(f"✓ Scraped {len(content)} characters")
+        print(f"\nFirst 200 chars:\n{content[:200]}...")
+
+        # Test summarization
+        print("\n🤖 Generating summary...")
+        summary = enricher.summarize_content(content, url)
+
+        if not summary:
+            print("❌ Failed to generate summary")
+            continue
+
+        print(f"✓ Generated summary ({len(summary)} characters)")
+        print(f"\n📝 Summary:\n{summary}")
+
+    print(f"\n{'='*80}")
+    print("✅ Test completed")
+    print(f"{'='*80}")
