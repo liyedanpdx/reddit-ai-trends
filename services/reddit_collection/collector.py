@@ -11,11 +11,18 @@ from typing import List, Dict, Any, Optional
 from .client import RedditClient
 from .models import RedditPost
 from .fetchers import PostFetcher, CommentFetcher
-from .enrichers import ImageEnricher, CommentEnricher
+from .enrichers import ImageEnricher, CommentEnricher, YouTubeEnricher, WebContentEnricher
 from .filters import PostFilter
 from services.image_analyzer import get_image_analyzer
 from database.mongodb import MongoDBClient
-from config import REDDIT_COLLECTION_CONFIG, EXCLUDED_CATEGORIES
+from config import (
+    REDDIT_COLLECTION_CONFIG,
+    EXCLUDED_CATEGORIES,
+    YOUTUBE_ANALYSIS_CONFIG,
+    WEB_CONTENT_ANALYSIS_CONFIG,
+    LLM_PROVIDERS,
+    CURRENT_LLM_PROVIDER
+)
 
 # Configure logging
 logging.basicConfig(
@@ -46,6 +53,24 @@ class RedditDataCollector:
         image_analyzer = get_image_analyzer()
         self.image_enricher = ImageEnricher(image_analyzer, db_client)
         self.comment_enricher = CommentEnricher(self.comment_fetcher)
+
+        # Initialize YouTube enricher
+        openrouter_api_key = LLM_PROVIDERS.get(CURRENT_LLM_PROVIDER, {}).get("api_key", "")
+        self.youtube_enricher = YouTubeEnricher(
+            api_key=openrouter_api_key,
+            model=YOUTUBE_ANALYSIS_CONFIG.get("model", "deepseek/deepseek-chat-v3.1:free"),
+            max_tokens=YOUTUBE_ANALYSIS_CONFIG.get("max_tokens", 500),
+            enabled=YOUTUBE_ANALYSIS_CONFIG.get("enabled", True)
+        )
+
+        # Initialize Web content enricher
+        self.web_content_enricher = WebContentEnricher(
+            firecrawl_api_key=WEB_CONTENT_ANALYSIS_CONFIG.get("firecrawl_api_key", ""),
+            openrouter_api_key=openrouter_api_key,
+            model=WEB_CONTENT_ANALYSIS_CONFIG.get("model", "deepseek/deepseek-chat-v3.1:free"),
+            max_tokens=WEB_CONTENT_ANALYSIS_CONFIG.get("max_tokens", 500),
+            enabled=WEB_CONTENT_ANALYSIS_CONFIG.get("enabled", True)
+        )
 
         # Layer 3: Filters
         self.post_filter = PostFilter()
@@ -122,7 +147,13 @@ class RedditDataCollector:
             if analyze_images:
                 post = self.image_enricher.enrich_post(post, existing_post)
 
-            # Step 4: Enrich with comments (based on mode)
+            # Step 4: Enrich with YouTube transcript (if enabled via config)
+            post = self.youtube_enricher.enrich_post(post, existing_post)
+
+            # Step 5: Enrich with web content (if enabled via config)
+            post = self.web_content_enricher.enrich_post(post, existing_post)
+
+            # Step 6: Enrich with comments (based on mode)
             post = self.comment_enricher.enrich_post(post, fetch_comments, top_comments)
 
             detailed_posts.append(post)

@@ -9,26 +9,27 @@ services:
       - .env
     volumes:
       - ./reports:/app/reports
-    depends_on:
-      - mongodb
-    networks:
-      - reddit_trend_network
+    # 使用外部 MongoDB，移除 depends_on
+    network_mode: "host"  # 允许访问宿主机网络
 
-  mongodb:
-    image: mongo:latest
-    container_name: reddit_trend_mongodb
-    restart: always
-    ports:
-      - "27017:27017"
-    volumes:
-      - mongodb_data:/data/db
-    networks:
-      - reddit_trend_network
+# 使用外部 MongoDB，不需要本地容器
+# mongodb:
+#   image: mongo:latest
+#   container_name: reddit_trend_mongodb
+#   restart: always
+#   ports:
+#     - "27017:27017"
+#   volumes:
+#     - mongodb_data:/data/db
+#   networks:
+#     - reddit_trend_network
 
-networks:
-  reddit_trend_network:
-    driver: bridge
+# 不需要网络配置（使用 host 模式）
+# networks:
+#   reddit_trend_network:
+#     driver: bridge
 
-volumes:
-  mongodb_data:
-    driver: local
+# 不需要卷配置（使用外部数据库）
+# volumes:
+#   mongodb_data:
+#     driver: local

@@ -16,6 +16,7 @@ from openai import OpenAI
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from config import IMAGE_ANALYSIS_CONFIG, LLM_PROVIDERS, REDDIT_COLLECTION_CONFIG
+from services.llm_processing.core.prompt_loader import PromptLoader
 
 # Load environment variables
 load_dotenv()
@@ -40,6 +41,7 @@ class ImageAnalyzer:
         """Initialize the Image Analyzer."""
         # Use REDDIT_COLLECTION_CONFIG as single source of truth
         self.enabled = REDDIT_COLLECTION_CONFIG.get("analyze_images", False)
+        self.prompt_loader = PromptLoader()
 
         if not self.enabled:
             logger.info("Image analysis is disabled")
@@ -110,12 +112,8 @@ class ImageAnalyzer:
             logger.debug(f"URL is not an image: {image_url}")
             return None
 
-        # Default prompt for image analysis
-        prompt = custom_prompt or (
-            "Please provide a detailed and accurate description of this image. "
-            "Describe what you see, including any text, objects, diagrams, code, "
-            "screenshots, or notable features. Be concise but comprehensive."
-        )
+        # Generate prompt from template (or use custom prompt if provided)
+        prompt = custom_prompt or self.prompt_loader.get_image_analysis_prompt()
 
         try:
             logger.info(f"Analyzing image with primary model '{self.primary_model}': {image_url}")

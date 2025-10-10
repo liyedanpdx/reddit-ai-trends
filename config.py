@@ -127,6 +127,21 @@ IMAGE_ANALYSIS_CONFIG = {
     "max_tokens": int(os.getenv("IMAGE_ANALYSIS_MAX_TOKENS", "500"))
 }
 
+# YouTube Transcript Analysis Configuration
+YOUTUBE_ANALYSIS_CONFIG = {
+    "enabled": os.getenv("YOUTUBE_ANALYSIS_ENABLED", "true").lower() == "true",
+    "model": os.getenv("YOUTUBE_ANALYSIS_MODEL", "deepseek/deepseek-chat-v3.1:free"),
+    "max_tokens": int(os.getenv("YOUTUBE_ANALYSIS_MAX_TOKENS", "500"))
+}
+
+# Web Content Analysis Configuration
+WEB_CONTENT_ANALYSIS_CONFIG = {
+    "enabled": os.getenv("WEB_CONTENT_ANALYSIS_ENABLED", "true").lower() == "true",
+    "firecrawl_api_key": os.getenv("FIRECRAWL_API_KEY"),
+    "model": os.getenv("WEB_CONTENT_ANALYSIS_MODEL", "deepseek/deepseek-chat-v3.1:free"),
+    "max_tokens": int(os.getenv("WEB_CONTENT_ANALYSIS_MAX_TOKENS", "500"))
+}
+
 # Docker configuration
 DOCKER_CONFIG = {
     "image_name": "reddit-ai-report",

@@ -11,18 +11,21 @@ Below are the tables of popular and trending posts:
 {{ community_tables }}
 
 {% if posts_with_context_json %}
-**Additional Context - Posts with Supplementary Information:**
+**Additional Context - Posts with Images and Community Discussions:**
 
-The following posts contain additional details (images and/or comments) in structured JSON format. **IMPORTANT USAGE GUIDELINES**:
+The following posts contain enriched information including image descriptions and top community comments. Use this data to make your analysis more vivid and insightful:
 
-**Content Weight Distribution:**
-- **70%** - Focus on main post content, trends, and technical breakthroughs from the tables above
-- **20%** - Use image descriptions when they contain **useful technical details, diagrams, charts, or visual evidence** that enhance your analysis
-- **10%** - Reference community comments **only** when they provide unique perspectives or expert opinions (e.g., "Some community members noted that...")
+**How to Use This Context:**
 
-**Image Descriptions**: When image descriptions contain valuable technical information (architecture diagrams, benchmark results, screenshots of features), **incorporate them into your analysis** to provide accurate, detailed descriptions. Don't just mention "an image shows X" - explain what the image reveals about the technology.
+- **Images**: When a post includes an image description with technical details (diagrams, charts, screenshots, benchmarks), weave these visual insights naturally into your narrative. For example: "The architecture diagram reveals a novel attention mechanism..." or "Benchmark charts show a 40% performance improvement..."
 
-**Comments**: Use comments **sparingly as supporting evidence** for community sentiment. Frame them journalistically (e.g., "Community discussions suggest...", "Some users pointed out..."). All bot comments have been filtered out.
+- **Community Comments**: These are real reactions from AI practitioners and enthusiasts (bot comments filtered out). Use them to add color, diverse perspectives, or expert insights. Examples:
+  - "Community members were particularly excited about..."
+  - "As one developer pointed out: '[quote]'"
+  - "The discussion revealed concerns about..."
+  - "Interestingly, some users noted that..."
+
+**Important**: Don't force these elements into every topic. Use them **when they genuinely add value** - when an image clarifies a technical concept, or when community feedback reveals an interesting angle. Keep your writing natural and engaging.
 
 ```json
 {{ posts_with_context_json }}
@@ -32,13 +35,35 @@ The following posts contain additional details (images and/or comments) in struc
 
 Based on these posts, please provide:
 
-1. **Today's Highlights**: Analyze the latest trends and breakthrough developments that have emerged in the past 24 hours. Focus on new emerging topics that differ from the previous weekly and monthly trends. Reference specific posts as examples and explain why these new trends are worth attention. This is the most important part of the report and should occupy the main portion. *Suggested: include what it is, why it matters, community reaction.*
+1. **Today's Highlights**: Analyze the latest trends and breakthrough developments that have emerged in the past 24 hours. Focus on new emerging topics that differ from the previous weekly and monthly trends.
+
+**Format Guidelines**:
+- Group related topics under thematic subheadings (e.g., "New Model Releases and Performance Breakthroughs", "Industry Developments", "Research Innovations")
+- Use bullet points for individual topics within each theme
+- For each topic, write in flowing paragraphs that naturally incorporate:
+  - What the development is and its key details
+  - *Why it matters:* (in italics) - explain the significance
+  - Community reactions woven into the narrative (e.g., "with some questioning...", "one developer noted that...")
+  - End with the post link embedded naturally: `[post title](url)` (Score: X, Comments: Y)
+- Use italics (*text*) to highlight key phrases like "Why it matters:" or important insights
+
+Write in a natural, engaging style that flows smoothly - avoid repetitive templates.
 
 2. **Weekly Trend Comparison**: Compare today's trends with those from the past week. Which trends persist? Which ones are newly emerging? What do these changes reflect about shifting interests in the AI community?
 
 3. **Monthly Technology Evolution**: From a longer-term perspective, analyze how current trends fit into or change the technological development path of the past month. Pay special attention to emerging technologies or methods that may represent significant shifts in the AI field.
 
-4. **Technical Deep Dive**: Select a particularly interesting or important trend from today and provide a more detailed technical explanation, including what it is, why it's important, and its relationship to the broader AI ecosystem.
+4. **Technical Deep Dive**: Pick the MOST novel, cutting-edge, or technically significant development from TODAY (not a general topic like "RAG" or "LLMs"). This must be something NEW that appeared in today's posts - a specific model release, breakthrough technique, unexpected finding, or emerging pattern.
+
+Write a deep, engaging technical analysis that:
+- Starts directly with the technical details - no "What is X?" intro unless it's truly a brand new concept
+- Explains the innovation, architecture, or methodology with technical depth
+- Analyzes why this matters NOW and what makes it different from existing approaches
+- Explores implications for the AI ecosystem, potential applications, or future directions
+- Incorporates relevant community insights, debates, or expert reactions
+- References specific benchmarks, metrics, or comparisons when available
+
+**Avoid**: Generic overviews of well-known concepts (RAG, transformers, etc.). **Focus on**: What's NEW and technically interesting about TODAY's specific development.
 
 5. **Community Highlights**: Analyze how the hot topics from the past week differ across communities (subreddits), what each community is focusing on, and what cross-cutting topics appear across communities. Pay special attention to unique discussions and insights emerging from smaller communities beyond the major ones.
 
