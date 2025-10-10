@@ -11,8 +11,13 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFound, VideoUnavailable
 from openai import OpenAI
 
-# Add parent directories to path for imports
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+# Add project root to path for imports
+# youtube_enricher.py is at: services/reddit_collection/enrichers/
+# Project root is 4 levels up
+project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 from services.llm_processing.core.prompt_loader import PromptLoader
 
 logger = logging.getLogger(__name__)
