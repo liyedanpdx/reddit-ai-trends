@@ -4,213 +4,227 @@
 
 | Title | Community | Score | Comments | Category | Posted |
 |-------|-----------|-------|----------|----------|--------|
-| [A R&D RAG project for a Car Dealership](https://www.reddit.com/comments/1pgvkae) | [r/Rag](https://www.reddit.com/r/Rag) | 42 | 12 | Tutorial | 2025-12-07 22:26 UTC |
-| [“LLMs can’t remember… but is ‘storage’ really the problem?”](https://www.reddit.com/comments/1pgh4ck) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 40 | 40 | Discussion | 2025-12-07 12:23 UTC |
-| [Claude Code vs Local LLM](https://www.reddit.com/comments/1pgw582) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 22 | 23 | Discussion | 2025-12-07 22:51 UTC |
-| [Hardware recommendations for my setup? (C128)](https://www.reddit.com/comments/1pgszia) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 6 | 11 | Question | 2025-12-07 20:41 UTC |
-| [LLM: from learning to Real-world projects](https://www.reddit.com/comments/1pgsvgs) | [r/LLMDevs](https://www.reddit.com/r/LLMDevs) | 5 | 11 | Help Wanted | 2025-12-07 20:36 UTC |
-| [I built a synthetic \"nervous system\" (Dopamine + State)...](https://www.reddit.com/comments/1pgt9vc) | [r/LLMDevs](https://www.reddit.com/r/LLMDevs) | 4 | 17 | Discussion | 2025-12-07 20:52 UTC |
-| [Best Local LLMs I Can Feasibly Run for Roleplaying and co...](https://www.reddit.com/comments/1pgj3af) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 2 | 23 | Question | 2025-12-07 14:03 UTC |
-| [Permission-Aware GraphRag](https://www.reddit.com/comments/1pgj3ru) | [r/Rag](https://www.reddit.com/r/Rag) | 2 | 12 | Discussion | 2025-12-07 14:04 UTC |
-| [“Why I’m Starting to Think LLMs Might Need an OS”](https://www.reddit.com/comments/1pgwebu) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 0 | 42 | Discussion | 2025-12-07 23:02 UTC |
-| [Auth0 for AI Agents: The Identity Layer You’re Probably M...](https://www.reddit.com/comments/1pgjrma) | [r/LLMDevs](https://www.reddit.com/r/LLMDevs) | 0 | 13 | Discussion | 2025-12-07 14:34 UTC |
+| [What it\'s like to watch AI fix a bug](https://www.reddit.com/comments/1phashw) | [r/singularity](https://www.reddit.com/r/singularity) | 815 | 43 | Meme | 2025-12-08 12:09 UTC |
+| [This is how we build on Mars: GITAI autonomous robots ass...](https://www.reddit.com/comments/1ph7fuw) | [r/singularity](https://www.reddit.com/r/singularity) | 611 | 40 | Robotics | 2025-12-08 08:40 UTC |
+| [What’s the chance AI is actually gonna be TIME’s person o...](https://www.reddit.com/comments/1pgxjoc) | [r/singularity](https://www.reddit.com/r/singularity) | 494 | 125 | AI | 2025-12-07 23:54 UTC |
+| [They served well up to 2024, I don’t know what happened t...](https://www.reddit.com/comments/1pgnrhr) | [r/singularity](https://www.reddit.com/r/singularity) | 481 | 164 | Discussion | 2025-12-07 17:17 UTC |
+| [RAM prices explained](https://www.reddit.com/comments/1ph8wel) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 397 | 162 | News | 2025-12-08 10:17 UTC |
+| [The U.S President posted this just now (Accelerate?)](https://www.reddit.com/comments/1phdac2) | [r/singularity](https://www.reddit.com/r/singularity) | 346 | 205 | Discussion | 2025-12-08 14:07 UTC |
+| [Is this THAT bad today?](https://www.reddit.com/comments/1pgza25) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 316 | 183 | Question | Help | 2025-12-08 01:15 UTC |
+| [Vector db comparison](https://www.reddit.com/comments/1ph7njc) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 275 | 42 | Resources | 2025-12-08 08:55 UTC |
+| [91% of predictions from AI 2027 have come true.&nbsp;EOY ...](https://www.reddit.com/comments/1ph8i1g) | [r/singularity](https://www.reddit.com/r/singularity) | 243 | 92 | AI | 2025-12-08 09:52 UTC |
+| [zai-org/GLM-4.6V-Flash (9B) is here](https://www.reddit.com/comments/1pha7l1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 202 | 35 | New Model | 2025-12-08 11:36 UTC |
 
 
 ## 本周热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [The death of ChatGPT](https://www.reddit.com/comments/1pd9rue) | [r/singularity](https://www.reddit.com/r/singularity) | 6682 | 946 | AI | 2025-12-03 17:01 UTC |
-| 2 | [Figure is capable of jogging now](https://www.reddit.com/comments/1pdrefg) | [r/singularity](https://www.reddit.com/r/singularity) | 2184 | 246 | Robotics | 2025-12-04 05:07 UTC |
-| 3 | [RIVR delivery poodle can do stairs](https://www.reddit.com/comments/1pfykn7) | [r/singularity](https://www.reddit.com/r/singularity) | 1655 | 98 | Robotics | 2025-12-06 20:03 UTC |
-| 4 | [That is actually cheap damn](https://www.reddit.com/comments/1pbd84l) | [r/singularity](https://www.reddit.com/r/singularity) | 1552 | 321 | AI | 2025-12-01 13:48 UTC |
-| 5 | [This dude using AI video generator to trick the normies 🤦](https://www.reddit.com/comments/1pcd70x) | [r/singularity](https://www.reddit.com/r/singularity) | 1232 | 309 | AI Generated Media  | 2025-12-02 16:37 UTC |
-| 6 | [MechaHitler will have strong rival](https://www.reddit.com/comments/1pfn13n) | [r/singularity](https://www.reddit.com/r/singularity) | 1220 | 130 | AI | 2025-12-06 11:21 UTC |
-| 7 | [\'Godfather of AI\' Geoffrey Hinton says Google is \'begi...](https://www.reddit.com/comments/1pesl4w) | [r/singularity](https://www.reddit.com/r/singularity) | 1183 | 349 | AI | 2025-12-05 11:22 UTC |
-| 8 | [Meanwhile, 18 years ago in Japan](https://www.reddit.com/comments/1petp7l) | [r/singularity](https://www.reddit.com/r/singularity) | 1174 | 140 | Robotics | 2025-12-05 12:22 UTC |
-| 9 | [EngineAI unveils the T800, their latest full-sized humano...](https://www.reddit.com/comments/1pc617k) | [r/singularity](https://www.reddit.com/r/singularity) | 1065 | 881 | Robotics | 2025-12-02 11:24 UTC |
-| 10 | [This is why OpenAI is in a Code Red](https://www.reddit.com/comments/1pcsay9) | [r/singularity](https://www.reddit.com/r/singularity) | 1040 | 226 | AI | 2025-12-03 02:34 UTC |
-| 11 | [deepseek-ai/DeepSeek-V3.2 · Hugging Face](https://www.reddit.com/comments/1pb9xm3) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1023 | 208 | New Model | 2025-12-01 11:01 UTC |
-| 12 | [With current advances in robotics, robots are capable of ...](https://www.reddit.com/comments/1pfop23) | [r/singularity](https://www.reddit.com/r/singularity) | 951 | 267 | Robotics | 2025-12-06 12:57 UTC |
-| 13 | [Gemini 3 \"Deep Think\" benchmarks released: Hits 45.1% o...](https://www.reddit.com/comments/1pec4zg) | [r/singularity](https://www.reddit.com/r/singularity) | 929 | 154 | AI | 2025-12-04 21:18 UTC |
-| 14 | [Deepseek New Model gets Gold in IMO](https://www.reddit.com/comments/1pbaqkk) | [r/singularity](https://www.reddit.com/r/singularity) | 929 | 249 | AI | 2025-12-01 11:48 UTC |
-| 15 | [Humanoid transformation](https://www.reddit.com/comments/1pe7ri4) | [r/singularity](https://www.reddit.com/r/singularity) | 925 | 209 | Robotics | 2025-12-04 18:30 UTC |
-| 16 | [A history professor says AI didn\'t break college — it ex...](https://www.reddit.com/comments/1pby1g5) | [r/singularity](https://www.reddit.com/r/singularity) | 915 | 101 | AI | 2025-12-02 03:36 UTC |
-| 17 | [Google\'s \'Titans\' achieves 70% recall and reasoning ac...](https://www.reddit.com/comments/1pfdzo3) | [r/singularity](https://www.reddit.com/r/singularity) | 898 | 59 | LLM News | 2025-12-06 02:30 UTC |
-| 18 | [Work culture at Deepseek](https://www.reddit.com/comments/1pbek1o) | [r/singularity](https://www.reddit.com/r/singularity) | 886 | 101 | AI | 2025-12-01 14:44 UTC |
-| 19 | [Will Smith eating speghetti in 2025!!](https://www.reddit.com/comments/1pe8gv0) | [r/singularity](https://www.reddit.com/r/singularity) | 847 | 121 | Meme | 2025-12-04 18:56 UTC |
-| 20 | [Boston Dynamics plans to mass-produce their humanoid robots](https://www.reddit.com/comments/1pg01yk) | [r/singularity](https://www.reddit.com/r/singularity) | 798 | 176 | Robotics | 2025-12-06 21:08 UTC |
+| 1 | [The death of ChatGPT](https://www.reddit.com/comments/1pd9rue) | [r/singularity](https://www.reddit.com/r/singularity) | 6690 | 945 | AI | 2025-12-03 17:01 UTC |
+| 2 | [Figure is capable of jogging now](https://www.reddit.com/comments/1pdrefg) | [r/singularity](https://www.reddit.com/r/singularity) | 2193 | 247 | Robotics | 2025-12-04 05:07 UTC |
+| 3 | [RIVR delivery poodle can do stairs](https://www.reddit.com/comments/1pfykn7) | [r/singularity](https://www.reddit.com/r/singularity) | 1694 | 100 | Robotics | 2025-12-06 20:03 UTC |
+| 4 | [This dude using AI video generator to trick the normies 🤦](https://www.reddit.com/comments/1pcd70x) | [r/singularity](https://www.reddit.com/r/singularity) | 1235 | 309 | AI Generated Media  | 2025-12-02 16:37 UTC |
+| 5 | [MechaHitler will have strong rival](https://www.reddit.com/comments/1pfn13n) | [r/singularity](https://www.reddit.com/r/singularity) | 1218 | 131 | AI | 2025-12-06 11:21 UTC |
+| 6 | [Meanwhile, 18 years ago in Japan](https://www.reddit.com/comments/1petp7l) | [r/singularity](https://www.reddit.com/r/singularity) | 1183 | 140 | Robotics | 2025-12-05 12:22 UTC |
+| 7 | [\'Godfather of AI\' Geoffrey Hinton says Google is \'begi...](https://www.reddit.com/comments/1pesl4w) | [r/singularity](https://www.reddit.com/r/singularity) | 1181 | 349 | AI | 2025-12-05 11:22 UTC |
+| 8 | [EngineAI unveils the T800, their latest full-sized humano...](https://www.reddit.com/comments/1pc617k) | [r/singularity](https://www.reddit.com/r/singularity) | 1060 | 883 | Robotics | 2025-12-02 11:24 UTC |
+| 9 | [This is why OpenAI is in a Code Red](https://www.reddit.com/comments/1pcsay9) | [r/singularity](https://www.reddit.com/r/singularity) | 1045 | 226 | AI | 2025-12-03 02:34 UTC |
+| 10 | [With current advances in robotics, robots are capable of ...](https://www.reddit.com/comments/1pfop23) | [r/singularity](https://www.reddit.com/r/singularity) | 958 | 266 | Robotics | 2025-12-06 12:57 UTC |
+| 11 | [Gemini 3 \"Deep Think\" benchmarks released: Hits 45.1% o...](https://www.reddit.com/comments/1pec4zg) | [r/singularity](https://www.reddit.com/r/singularity) | 935 | 154 | AI | 2025-12-04 21:18 UTC |
+| 12 | [Humanoid transformation](https://www.reddit.com/comments/1pe7ri4) | [r/singularity](https://www.reddit.com/r/singularity) | 933 | 209 | Robotics | 2025-12-04 18:30 UTC |
+| 13 | [A history professor says AI didn\'t break college — it ex...](https://www.reddit.com/comments/1pby1g5) | [r/singularity](https://www.reddit.com/r/singularity) | 913 | 101 | AI | 2025-12-02 03:36 UTC |
+| 14 | [Google\'s \'Titans\' achieves 70% recall and reasoning ac...](https://www.reddit.com/comments/1pfdzo3) | [r/singularity](https://www.reddit.com/r/singularity) | 896 | 59 | LLM News | 2025-12-06 02:30 UTC |
+| 15 | [Will Smith eating speghetti in 2025!!](https://www.reddit.com/comments/1pe8gv0) | [r/singularity](https://www.reddit.com/r/singularity) | 845 | 121 | Meme | 2025-12-04 18:56 UTC |
+| 16 | [What it\'s like to watch AI fix a bug](https://www.reddit.com/comments/1phashw) | [r/singularity](https://www.reddit.com/r/singularity) | 827 | 46 | Meme | 2025-12-08 12:09 UTC |
+| 17 | [Boston Dynamics plans to mass-produce their humanoid robots](https://www.reddit.com/comments/1pg01yk) | [r/singularity](https://www.reddit.com/r/singularity) | 802 | 176 | Robotics | 2025-12-06 21:08 UTC |
+| 18 | [Mistral just released Mistral 3 — a full open-weight mode...](https://www.reddit.com/comments/1pceipb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 797 | 76 | Discussion | 2025-12-02 17:26 UTC |
+| 19 | [BREAKING: OpenAI declares Code Red & rushing \"GPT-5.2\" ...](https://www.reddit.com/comments/1pf22a0) | [r/singularity](https://www.reddit.com/r/singularity) | 777 | 276 | AI | 2025-12-05 18:03 UTC |
+| 20 | [8 local LLMs on a single Strix Halo debating whether a ho...](https://www.reddit.com/comments/1pdh0sm) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 765 | 124 | Resources | 2025-12-03 21:26 UTC |
 
 
 ## 本月热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [The death of ChatGPT](https://www.reddit.com/comments/1pd9rue) | [r/singularity](https://www.reddit.com/r/singularity) | 6676 | 946 | AI | 2025-12-03 17:01 UTC |
-| 2 | [People on X are noticing something interesting about Grok..](https://www.reddit.com/comments/1p22c89) | [r/singularity](https://www.reddit.com/r/singularity) | 5985 | 784 | Discussion | 2025-11-20 12:50 UTC |
-| 3 | [Grok made to glaze Elon Musk](https://www.reddit.com/comments/1p22hml) | [r/singularity](https://www.reddit.com/r/singularity) | 4790 | 500 | Discussion | 2025-11-20 12:58 UTC |
-| 4 | [Dental revolution](https://www.reddit.com/comments/1p457q1) | [r/singularity](https://www.reddit.com/r/singularity) | 4762 | 184 | Biotech/Longevity | 2025-11-22 21:49 UTC |
-| 5 | [AI detector](https://www.reddit.com/comments/1p5nbua) | [r/singularity](https://www.reddit.com/r/singularity) | 3752 | 185 | Discussion | 2025-11-24 17:30 UTC |
-| 6 | [Any day now](https://www.reddit.com/comments/1ox8job) | [r/singularity](https://www.reddit.com/r/singularity) | 3494 | 208 | Meme | 2025-11-14 21:05 UTC |
-| 7 | [Grok lobotomised succesfully](https://www.reddit.com/comments/1p2v13q) | [r/singularity](https://www.reddit.com/r/singularity) | 3203 | 191 | AI | 2025-11-21 10:17 UTC |
-| 8 | [Heretic: Fully automatic censorship removal for language ...](https://www.reddit.com/comments/1oymku1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2913 | 302 | Resources | 2025-11-16 14:05 UTC |
-| 9 | [Nano Banana 2 CRAZY image outputs](https://www.reddit.com/comments/1otuefg) | [r/singularity](https://www.reddit.com/r/singularity) | 2627 | 273 | AI | 2025-11-11 00:00 UTC |
-| 10 | [Gemini 3.0 Pro benchmark results](https://www.reddit.com/comments/1p095c9) | [r/singularity](https://www.reddit.com/r/singularity) | 2456 | 602 | AI | 2025-11-18 11:08 UTC |
-| 11 | [Throwback to Yann LeCun’s 1989 convolutional neural netwo...](https://www.reddit.com/comments/1p88l9k) | [r/singularity](https://www.reddit.com/r/singularity) | 2343 | 133 | AI | 2025-11-27 17:54 UTC |
-| 12 | [Don\'t be those guys !](https://www.reddit.com/comments/1p60se4) | [r/singularity](https://www.reddit.com/r/singularity) | 2294 | 223 | Meme | 2025-11-25 02:30 UTC |
-| 13 | [Jeff Bezos\'s Blue Origin launches New Glenn rocket with ...](https://www.reddit.com/comments/1owdwj4) | [r/singularity](https://www.reddit.com/r/singularity) | 2242 | 232 | Space & Astroengineering | 2025-11-13 21:41 UTC |
-| 14 | [Google is likely to win the AI race](https://www.reddit.com/comments/1p0qgg1) | [r/singularity](https://www.reddit.com/r/singularity) | 2198 | 364 | AI | 2025-11-18 22:43 UTC |
-| 15 | [Figure is capable of jogging now](https://www.reddit.com/comments/1pdrefg) | [r/singularity](https://www.reddit.com/r/singularity) | 2187 | 246 | Robotics | 2025-12-04 05:07 UTC |
-| 16 | [20,000 Epstein Files in a single text file available to d...](https://www.reddit.com/comments/1ozu5v4) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2164 | 250 | Resources | 2025-11-17 22:14 UTC |
-| 17 | [Anthropic pushing again for regulation of open source mod...](https://www.reddit.com/comments/1oximzj) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2117 | 255 | Discussion | 2025-11-15 04:40 UTC |
-| 18 | [MindOn trained a Unitree G1 to open curtains, plant care,...](https://www.reddit.com/comments/1owwfp9) | [r/singularity](https://www.reddit.com/r/singularity) | 2102 | 428 | Robotics | 2025-11-14 13:26 UTC |
-| 19 | [So \"we hit a wall people\" ....&nbsp;isn\'t looking good](https://www.reddit.com/comments/1p0j7us) | [r/singularity](https://www.reddit.com/r/singularity) | 1926 | 445 | AI | 2025-11-18 18:09 UTC |
-| 20 | [Peak AI](https://www.reddit.com/comments/1otfhbn) | [r/singularity](https://www.reddit.com/r/singularity) | 1888 | 241 | AI | 2025-11-10 14:39 UTC |
+| 1 | [The death of ChatGPT](https://www.reddit.com/comments/1pd9rue) | [r/singularity](https://www.reddit.com/r/singularity) | 6689 | 945 | AI | 2025-12-03 17:01 UTC |
+| 2 | [People on X are noticing something interesting about Grok..](https://www.reddit.com/comments/1p22c89) | [r/singularity](https://www.reddit.com/r/singularity) | 5991 | 785 | Discussion | 2025-11-20 12:50 UTC |
+| 3 | [Grok made to glaze Elon Musk](https://www.reddit.com/comments/1p22hml) | [r/singularity](https://www.reddit.com/r/singularity) | 4793 | 499 | Discussion | 2025-11-20 12:58 UTC |
+| 4 | [Dental revolution](https://www.reddit.com/comments/1p457q1) | [r/singularity](https://www.reddit.com/r/singularity) | 4768 | 184 | Biotech/Longevity | 2025-11-22 21:49 UTC |
+| 5 | [AI detector](https://www.reddit.com/comments/1p5nbua) | [r/singularity](https://www.reddit.com/r/singularity) | 3750 | 185 | Discussion | 2025-11-24 17:30 UTC |
+| 6 | [Any day now](https://www.reddit.com/comments/1ox8job) | [r/singularity](https://www.reddit.com/r/singularity) | 3490 | 208 | Meme | 2025-11-14 21:05 UTC |
+| 7 | [Grok lobotomised succesfully](https://www.reddit.com/comments/1p2v13q) | [r/singularity](https://www.reddit.com/r/singularity) | 3207 | 191 | AI | 2025-11-21 10:17 UTC |
+| 8 | [Heretic: Fully automatic censorship removal for language ...](https://www.reddit.com/comments/1oymku1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2921 | 302 | Resources | 2025-11-16 14:05 UTC |
+| 9 | [Nano Banana 2 CRAZY image outputs](https://www.reddit.com/comments/1otuefg) | [r/singularity](https://www.reddit.com/r/singularity) | 2625 | 273 | AI | 2025-11-11 00:00 UTC |
+| 10 | [Gemini 3.0 Pro benchmark results](https://www.reddit.com/comments/1p095c9) | [r/singularity](https://www.reddit.com/r/singularity) | 2465 | 602 | AI | 2025-11-18 11:08 UTC |
+| 11 | [Throwback to Yann LeCun’s 1989 convolutional neural netwo...](https://www.reddit.com/comments/1p88l9k) | [r/singularity](https://www.reddit.com/r/singularity) | 2347 | 133 | AI | 2025-11-27 17:54 UTC |
+| 12 | [Don\'t be those guys !](https://www.reddit.com/comments/1p60se4) | [r/singularity](https://www.reddit.com/r/singularity) | 2295 | 223 | Meme | 2025-11-25 02:30 UTC |
+| 13 | [Jeff Bezos\'s Blue Origin launches New Glenn rocket with ...](https://www.reddit.com/comments/1owdwj4) | [r/singularity](https://www.reddit.com/r/singularity) | 2243 | 232 | Space & Astroengineering | 2025-11-13 21:41 UTC |
+| 14 | [Google is likely to win the AI race](https://www.reddit.com/comments/1p0qgg1) | [r/singularity](https://www.reddit.com/r/singularity) | 2199 | 364 | AI | 2025-11-18 22:43 UTC |
+| 15 | [Figure is capable of jogging now](https://www.reddit.com/comments/1pdrefg) | [r/singularity](https://www.reddit.com/r/singularity) | 2195 | 247 | Robotics | 2025-12-04 05:07 UTC |
+| 16 | [20,000 Epstein Files in a single text file available to d...](https://www.reddit.com/comments/1ozu5v4) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2165 | 250 | Resources | 2025-11-17 22:14 UTC |
+| 17 | [Anthropic pushing again for regulation of open source mod...](https://www.reddit.com/comments/1oximzj) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2113 | 255 | Discussion | 2025-11-15 04:40 UTC |
+| 18 | [MindOn trained a Unitree G1 to open curtains, plant care,...](https://www.reddit.com/comments/1owwfp9) | [r/singularity](https://www.reddit.com/r/singularity) | 2103 | 428 | Robotics | 2025-11-14 13:26 UTC |
+| 19 | [So \"we hit a wall people\" ....&nbsp;isn\'t looking good](https://www.reddit.com/comments/1p0j7us) | [r/singularity](https://www.reddit.com/r/singularity) | 1930 | 445 | AI | 2025-11-18 18:09 UTC |
+| 20 | [Peak AI](https://www.reddit.com/comments/1otfhbn) | [r/singularity](https://www.reddit.com/r/singularity) | 1887 | 241 | AI | 2025-11-10 14:39 UTC |
 
 
 ## 各社区本周热门帖子
+
+### r/AI_Agents
+
+| Title | Score | Comments | Category | Posted |
+|-------|-------|----------|----------|--------|
+| [Are we overengineering agents when simple systems might w...](https://www.reddit.com/comments/1ph5m9c) | 69 | 16 | Discussion | 2025-12-08 06:42 UTC |
+| [Everyone talks about AI, agentic AI or automation but doe...](https://www.reddit.com/comments/1pgshea) | 21 | 27 | Discussion | 2025-12-07 20:20 UTC |
+| [What AI platforms have the best deals right now?](https://www.reddit.com/comments/1ph6pvc) | 10 | 13 | Resource Request | 2025-12-08 07:52 UTC |
+
 
 ### r/LLMDevs
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [LLM: from learning to Real-world projects](https://www.reddit.com/comments/1pgsvgs) | 5 | 11 | Help Wanted | 2025-12-07 20:36 UTC |
-| [I built a synthetic \"nervous system\" (Dopamine + State)...](https://www.reddit.com/comments/1pgt9vc) | 4 | 17 | Discussion | 2025-12-07 20:52 UTC |
-| [Auth0 for AI Agents: The Identity Layer You’re Probably M...](https://www.reddit.com/comments/1pgjrma) | 0 | 13 | Discussion | 2025-12-07 14:34 UTC |
+| [LLM: from learning to Real-world projects](https://www.reddit.com/comments/1pgsvgs) | 5 | 12 | Help Wanted | 2025-12-07 20:36 UTC |
+| [I built a synthetic \"nervous system\" (Dopamine + State)...](https://www.reddit.com/comments/1pgt9vc) | 1 | 17 | Discussion | 2025-12-07 20:52 UTC |
+
+
+### r/LangChain
+
+| Title | Score | Comments | Category | Posted |
+|-------|-------|----------|----------|--------|
+| [Name an Agent use case that is not neither a chatbot nor ...](https://www.reddit.com/comments/1pgtu1s) | 2 | 11 | Discussion | 2025-12-07 21:15 UTC |
 
 
 ### r/LocalLLM
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [“LLMs can’t remember… but is ‘storage’ really the problem?”](https://www.reddit.com/comments/1pgh4ck) | 40 | 40 | Discussion | 2025-12-07 12:23 UTC |
-| [Claude Code vs Local LLM](https://www.reddit.com/comments/1pgw582) | 22 | 23 | Discussion | 2025-12-07 22:51 UTC |
-| [Hardware recommendations for my setup? (C128)](https://www.reddit.com/comments/1pgszia) | 6 | 11 | Question | 2025-12-07 20:41 UTC |
+| [Claude Code vs Local LLM](https://www.reddit.com/comments/1pgw582) | 26 | 26 | Discussion | 2025-12-07 22:51 UTC |
+| [Hardware recommendations for my setup? (C128)](https://www.reddit.com/comments/1pgszia) | 7 | 12 | Question | 2025-12-07 20:41 UTC |
+| [We keep stacking layers on LLMs.&nbsp;What are we actuall...](https://www.reddit.com/comments/1ph8xhm) | 0 | 14 | Discussion | 2025-12-08 10:19 UTC |
+
+
+### r/LocalLLaMA
+
+| Title | Score | Comments | Category | Posted |
+|-------|-------|----------|----------|--------|
+| [RAM prices explained](https://www.reddit.com/comments/1ph8wel) | 397 | 162 | News | 2025-12-08 10:17 UTC |
+| [Is this THAT bad today?](https://www.reddit.com/comments/1pgza25) | 316 | 183 | Question | Help | 2025-12-08 01:15 UTC |
+| [Vector db comparison](https://www.reddit.com/comments/1ph7njc) | 275 | 42 | Resources | 2025-12-08 08:55 UTC |
+
+
+### r/MachineLearning
+
+| Title | Score | Comments | Category | Posted |
+|-------|-------|----------|----------|--------|
+| [\[D\] How did Gemini 3 Pro manage to get 38.3% on Humanit...](https://www.reddit.com/comments/1pgqbjd) | 92 | 52 | Discussion | 2025-12-07 18:59 UTC |
 
 
 ### r/Rag
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [A R&D RAG project for a Car Dealership](https://www.reddit.com/comments/1pgvkae) | 42 | 12 | Tutorial | 2025-12-07 22:26 UTC |
-| [Permission-Aware GraphRag](https://www.reddit.com/comments/1pgj3ru) | 2 | 12 | Discussion | 2025-12-07 14:04 UTC |
+| [A R&D RAG project for a Car Dealership](https://www.reddit.com/comments/1pgvkae) | 47 | 19 | Tutorial | 2025-12-07 22:26 UTC |
+| [Complex RAG\'s](https://www.reddit.com/comments/1pgup0r) | 5 | 11 | Discussion | 2025-12-07 21:50 UTC |
+
+
+### r/singularity
+
+| Title | Score | Comments | Category | Posted |
+|-------|-------|----------|----------|--------|
+| [What it\'s like to watch AI fix a bug](https://www.reddit.com/comments/1phashw) | 815 | 43 | Meme | 2025-12-08 12:09 UTC |
+| [This is how we build on Mars: GITAI autonomous robots ass...](https://www.reddit.com/comments/1ph7fuw) | 611 | 40 | Robotics | 2025-12-08 08:40 UTC |
+| [What’s the chance AI is actually gonna be TIME’s person o...](https://www.reddit.com/comments/1pgxjoc) | 494 | 125 | AI | 2025-12-07 23:54 UTC |
 
 
 
 
 ## 趋势分析
 
-### **1. 今日焦点：过去24小时的最新趋势和突破性发展**
+### **今日焦点：过去24小时内的最新趋势和突破性发展**
 
-#### **RAG技术的创新与应用**
-- **[A R&D RAG project for a Car Dealership](https://www.reddit.com/comments/1pgvkae)**  
-  *为何重要：* 这个项目展示了RAG（Retrieval-Augmented Generation）技术在实际商业场景中的应用，特别是在汽车经销商的数据检索和客户服务流程中。社区对这种将AI技术与行业需求结合的实际应用尤为关注。
-  - 帖子链接：`[A R&D RAG project for a Car Dealership](https://www.reddit.com/comments/1pgvkae)`（评分：42，评论数：12）
+#### **新模型发布与性能突破**
+- **[zai-org/GLM-4.6V-Flash (9B) 发布](https://www.reddit.com/comments/1pha7l1)**  
+  - **具体事件/产品名称**：GLM-4.6V-Flash 是 zai-org 推出的新型大语言模型，参数量为 90 亿，专为多模态任务优化。该模型在多项基准测试中表现优异，尤其在理解和生成能力上有显著提升。  
+  - *为何重要*：GLM-4.6V-Flash 的发布标志着 zai-org 在大语言模型领域的进一步投入，展示了其在多模态任务上的创新能力。社区对其性能和潜在应用表现出浓厚兴趣。  
+  - 帖子链接：[zai-org/GLM-4.6V-Flash (9B) is here](https://www.reddit.com/comments/1pha7l1)（评分：202，评论数：35）
 
-#### **LLM存储与记忆的讨论**
-- **[“LLMs can’t remember… but is ‘storage’ really the problem?”](https://www.reddit.com/comments/1pgh4ck)**  
-  *为何重要：* 这个讨论引发了社区对大型语言模型（LLM）记忆和存储能力的深入思考。用户们探讨了存储限制是否是主要问题，以及如何优化模型的记忆机制。
-  - 帖子链接：`[“LLMs can’t remember… but is ‘storage’ really the problem?”](https://www.reddit.com/comments/1pgh4ck)`（评分：40，评论数：40）
+#### **行业动态**
+- **[GITAI 自主机器人在火星上的应用](https://www.reddit.com/comments/1ph7fuw)**  
+  - **具体事件/产品名称**：GITAI 的自主机器人被用于在火星上组装通信塔，为未来火星栖息地建设奠定基础。这些机器人具备高度自主性，能够在极端环境下执行复杂任务。  
+  - *为何重要*：这项技术展示了 AI 和机器人技术在太空探索中的关键作用，社区对其潜在影响和未来应用充满期待。  
+  - 帖子链接：[This is how we build on Mars: GITAI autonomous robots assembling a 5-meter communication tower](https://www.reddit.com/comments/1ph7fuw)（评分：611，评论数：40）
 
-#### **Claude Code与本地LLM的对比**
-- **[Claude Code vs Local LLM](https://www.reddit.com/comments/1pgw582)**  
-  *为何重要：* 这个对比分析了Claude Code与本地LLM在性能、成本和灵活性上的差异，帮助开发者更好地选择适合他们需求的工具。
-  - 帖子链接：`[Claude Code vs Local LLM](https://www.reddit.com/comments/1pgw582)`（评分：22，评论数：23）
-
-#### **硬件推荐与本地LLM部署**
-- **[Hardware recommendations for my setup? (C128)](https://www.reddit.com/comments/1pgszia)**  
-  *为何重要：* 随着本地LLM的普及，用户越来越关注如何选择合适的硬件配置。这一讨论为社区提供了实用的建议，帮助用户优化AI模型的运行环境。
-  - 帖子链接：`[Hardware recommendations for my setup? (C128)](https://www.reddit.com/comments/1pgszia)`（评分：6，评论数：11）
-
-#### **从学习到实际项目的转化**
-- **[LLM: from learning to Real-world projects](https://www.reddit.com/comments/1pgsvgs)**  
-  *为何重要：* 这个帖子呼吁社区分享将LLM技术应用于实际项目的经验，促进了从理论学习到实践落地的讨论。
-  - 帖子链接：`[LLM: from learning to Real-world projects](https://www.reddit.com/comments/1pgsvgs)`（评分：5，评论数：11）
-
-#### **合成“神经系统”与状态管理**
-- **[I built a synthetic "nervous system" (Dopamine + State)...](https://www.reddit.com/comments/1pgt9vc)**  
-  *为何重要：* 这个创新尝试将多巴胺机制与状态管理结合，模拟了类似生物神经系统的AI架构，展示了AI模型在复杂任务处理上的潜力。
-  - 帖子链接：`[I built a synthetic "nervous system" (Dopamine + State)...](https://www.reddit.com/comments/1pgt9vc)`（评分：4，评论数：17）
-
-#### **角色扮演与LLM选择**
-- **[Best Local LLMs I Can Feasibly Run for Roleplaying and co...](https://www.reddit.com/comments/1pgj3af)**  
-  *为何重要：* 这个讨论聚焦于角色扮演等创意场景中选择合适的本地LLM模型，反映了AI在娱乐和交互式应用中的广泛需求。
-  - 帖子链接：`[Best Local LLMs I Can Feasibly Run for Roleplaying and co...](https://www.reddit.com/comments/1pgj3af)`（评分：2，评论数：23）
-
-#### **权限感知GraphRAG**
-- **[Permission-Aware GraphRag](https://www.reddit.com/comments/1pgj3ru)**  
-  *为何重要：* 这个讨论探讨了在RAG架构中引入权限感知机制的可能性，旨在增强模型的安全性和合规性。
-  - 帖子链接：`[Permission-Aware GraphRag](https://www.reddit.com/comments/1pgj3ru)`（评分：2，评论数：12）
-
-#### **LLM操作系统的需求**
-- **[“Why I’m Starting to Think LLMs Might Need an OS”](https://www.reddit.com/comments/1pgwebu)**  
-  *为何重要：* 这个讨论引发了对LLM操作系统需求的思考，探讨了如何通过操作系统优化AI模型的资源管理和运行效率。
-  - 帖子链接：`[“Why I’m Starting to Think LLMs Might Need an OS”](https://www.reddit.com/comments/1pgwebu)`（评分：0，评论数：42）
-
-#### **Auth0身份层的AI应用**
-- **[Auth0 for AI Agents: The Identity Layer You’re Probably M...](https://www.reddit.com/comments/1pgjrma)**  
-  *为何重要：* 这个帖子探讨了如何为AI代理引入身份验证层，提升AI系统的安全性和用户权限管理。
-  - 帖子链接：`[Auth0 for AI Agents: The Identity Layer You’re Probably M...](https://www.reddit.com/comments/1pgjrma)`（评分：0，评论数：13）
+#### **AI 与社会影响**
+- **[AI 被提名为《时代》杂志 2025 年“年度人物”](https://www.reddit.com/comments/1pgxjoc)**  
+  - **具体事件/产品名称**：在预测市场 Polymarket 上，AI 被赋予 40% 的概率成为《时代》杂志 2025 年的“年度人物”，远超其他候选人。  
+  - *为何重要*：这一预测反映了 AI 在 2025 年的广泛影响和社会认可度，社区对 AI 的未来发展和潜在社会影响展开了深入讨论。  
+  - 帖子链接：[What’s the chance AI is actually gonna be TIME’s person of the year?](https://www.reddit.com/comments/1pgxjoc)（评分：494，评论数：125）
 
 ---
 
-### **2. 周趋势对比：今日趋势与过去一周的对比**
+### **周趋势对比：今日趋势与过去一周的对比分析**
 
-过去一周，Reddit的AI相关讨论主要集中在以下几个主题：
-1. **ChatGPT的“死亡”与市场动态**：帖子《[The death of ChatGPT](https://www.reddit.com/comments/1pd9rue)》引发了广泛关注，讨论OpenAI在市场竞争中的挑战。
-2. **机器人技术的进步**：多个帖子展示了机器人在行走、爬楼和复杂任务执行上的突破，如《[Figure is capable of jogging now](https://www.reddit.com/comments/1pdrefg)》和《[RIVR delivery poodle can do stairs](https://www.reddit.com/comments/1pfykn7)》。
-3. **模型基准测试与性能**：例如《[Gemini 3 "Deep Think" benchmarks released](https://www.reddit.com/comments/1pec4zg)》和《[Google's 'Titans' achieves 70% recall and reasoning accuracy](https://www.reddit.com/comments/1pfdzo3)》。
+1. **持续趋势**：
+   - **机器人技术**：过去一周中，机器人技术一直是 r/singularity 社区的热门话题，例如“Figure is capable of jogging now”和“RIVR delivery poodle can do stairs”。这些讨论延续到今天，GITAI 自主机器人在火星上的应用进一步巩固了这一趋势。
+   - **AI 模型性能**：Gemini 3 Pro 和 Claude Haiku 等模型的基准测试结果在过去一周内多次被提及，今天的 GLM-4.6V-Flash 发布延续了这一关注点。
 
-**对比今日趋势**，过去24小时的讨论更聚焦于**RAG技术**、**本地LLM的优化与应用**以及**AI模型的硬件需求**。这些主题在过去一周的热门帖子中较少出现，反映了社区对AI技术实用化和本地化部署的兴趣日益增长。
+2. **新兴趋势**：
+   - **AI 作为“年度人物”**：这一话题是今日新增的，反映了 AI 在社会和技术领域的广泛影响，过去一周内并未出现类似讨论。
+   - **硬件成本与性能优化**：r/LocalLLaMA 社区中关于 RAM 价格的讨论（如“RAM prices explained”）是今日新增的，显示出社区对硬件成本的关注度上升。
 
----
-
-### **3. 月度技术演进：AI领域的长期发展趋势**
-
-过去一个月，Reddit的AI讨论主要围绕以下几个方向：
-1. **模型性能的竞争**：如《[Gemini 3.0 Pro benchmark results](https://www.reddit.com/comments/1p095c9)》和《[Deepseek New Model gets Gold in IMO](https://www.reddit.com/comments/1pbaqkk)》。
-2. **机器人技术的突破**：例如《[Figure is capable of jogging now](https://www.reddit.com/comments/1pdrefg)》和《[Boston Dynamics plans to mass-produce their humanoid robots](https://www.reddit.com/comments/1pg01yk)》。
-3. **AI生态系统的监管与伦理**：如《[Anthropic pushing again for regulation of open source models](https://www.reddit.com/comments/1oximzj)》。
-
-**当前趋势的演进**：RAG技术和本地LLM的讨论表明，社区正在从单纯的模型性能竞争转向技术的实用化和本地化应用。这一趋势反映了AI技术从“研究驱动”向“应用驱动”的转变。
+3. **变化反映的社区兴趣转移**：
+   - 从过去一周的讨论来看，社区更关注具体的技术进步（如机器人能力和模型性能）。而今日的讨论则更偏向于 AI 的社会影响（如“年度人物”）和硬件成本问题，显示出社区对 AI 全球化影响的关注增加。
 
 ---
 
-### **4. 技术深度解析：RAG项目与汽车经销商的应用**
+### **月度技术演进：当前趋势如何融入过去一个月的技术发展**
 
-#### **技术细节与创新点**
-- **RAG（Retrieval-Augmented Generation）**是一种结合了检索和生成的AI技术，通过从外部知识库中检索信息来增强生成模型的准确性和相关性。
-- 在《[A R&D RAG project for a Car Dealership](https://www.reddit.com/comments/1pgvkae)》中，社区成员展示了如何将RAG技术应用于汽车经销商的数据管理和客户服务流程。项目的核心在于通过RAG模型整合经销商的库存数据、客户查询和历史销售记录，从而提供更智能的库存管理和客户建议。
+1. **模型性能的持续提升**：
+   - 在过去一个月中，多个模型（如 Gemini 3 Pro 和 Mistral 3）发布了性能更新。今天的 GLM-4.6V-Flash 发布进一步推动了这一趋势，展示了大语言模型在参数规模和多模态任务上的持续优化。
 
-#### **为何重要**
-- **实用性**：RAG技术的应用使得AI模型能够更好地处理结构化数据和实际业务场景，提升了企业的运营效率。
-- **行业影响**：这一案例展示了AI技术在传统行业（如汽车销售）的潜在变革力量，推动了AI技术在更多领域的落地。
+2. **机器人技术的实际应用**：
+   - 自过去一个月以来，机器人技术从实验室阶段逐渐转向实际应用（如 GITAI 在火星上的部署）。这一演进体现了 AI 和机器人技术在太空探索中的关键作用。
 
-#### **社区反响**
-- 社区成员对RAG技术在商业场景中的应用表示高度兴趣，特别是其在数据检索和生成任务中的高效结合。一位用户评论：“这正是AI技术应该服务的方向——解决真实世界的问题。”
-
-#### **未来方向**
-- 随着RAG技术的成熟，预计会有更多行业采用类似方案，尤其是在需要高效数据处理和生成的领域，如医疗、教育和金融。
+3. **硬件与软件的协同发展**：
+   - r/LocalLLaMA 社区对硬件成本的讨论（如 RAM 价格）反映了社区对优化硬件配置以支持更强大模型的需求。这种需求与过去一个月中模型性能的提升密切相关。
 
 ---
 
-### **5. 社区亮点：不同subreddit的热门话题对比**
+### **技术深度解析：GITAI 自主机器人在火星上的应用**
 
-#### **r/LocalLLM：本地LLM的优化与应用**
-- 该社区的讨论集中在本地LLM的硬件需求、存储问题以及与Claude Code的对比。
-- 代表性帖子：《[“LLMs can’t remember… but is ‘storage’ really the problem?”](https://www.reddit.com/comments/1pgh4ck)》和《[Claude Code vs Local LLM](https://www.reddit.com/comments/1pgw582)》。
+#### **技术背景**
+GITAI 是一家专注于自主机器人技术的公司，其目标是开发能够在极端环境中执行复杂任务的机器人。这些机器人广泛应用于太空探索、工业自动化和搜救任务。
 
-#### **r/Rag：RAG技术的创新与应用**
-- 该社区的焦点是RAG技术的最新发展和实际应用案例。
-- 代表性帖子：《[A R&D RAG project for a Car Dealership](https://www.reddit.com/comments/1pgvkae)》和《[Permission-Aware GraphRag](https://www.reddit.com/comments/1pgj3ru)》。
+#### **创新点与技术细节**
+- **自主决策能力**：GITAI 机器人能够在无人干预的情况下完成任务，如组装通信塔。这种自主性依赖于先进的 AI 算法和实时数据处理能力。
+- **环境适应性**：机器人设计可应对火星等极端环境，包括低气压、温度变化和有限资源。
+- **模块化设计**：GITAI 机器人采用模块化架构，可根据任务需求灵活配置，降低了维护和升级的复杂性。
 
-#### **r/LLMDevs：LLM的开发与实践**
-- 该社区的讨论涉及LLM的开发、部署以及实际项目的经验分享。
-- 代表性帖子：《[LLM: from learning to Real-world projects](https://www.reddit.com/comments/1pgsvgs)》和《[I built a synthetic "nervous system" (Dopamine + State)...](https://www.reddit.com/comments/1pgt9vc)》。
+#### **意义与影响**
+- **太空探索的推动**：GITAI 机器人在火星上的应用展示了 AI 和机器人技术在太空探索中的关键作用，为未来人类火星栖息地的建设奠定了基础。
+- **硬件与软件的协同优化**：机器人的成功运行依赖于高性能硬件和智能软件的协同优化，这一技术融合为其他领域（如工业自动化）提供了参考。
 
-#### **交叉话题**
-- **硬件与部署**：多个社区都在讨论AI模型的硬件需求，如《[Hardware recommendations for my setup? (C128)](https://www.reddit.com/comments/1pgszia)》。
-- **模型优化**：无论是RAG还是本地LLM，模型的优化和性能提升始终是核心话题。
+#### **社区反应与专家见解**
+- 社区对 GITAI 机器人在火星上的应用表示高度兴趣，认为其技术进步不仅推动了太空探索，还可能带动其他领域的创新。
+- 专家指出，GITAI 的成功为 AI 在极端环境中的应用提供了宝贵经验，未来可能进一步拓展到更多领域。
 
-#### **小型社区的独特见解**
-- r/LocalLLM和r/Rag等小型社区中，用户们更倾向于深入讨论技术细节和实际应用，而非大型社区中常见的泛泛讨论。
+---
+
+### **社区亮点：不同社区的热门话题与交叉讨论**
+
+1. **r/singularity**：
+   - **热门话题**：机器人技术（如 GITAI 自主机器人）、AI 模型性能（如 Gemini 3 Pro）、AI 的社会影响（如“年度人物”）。
+   - **关注重点**：社区关注 AI 和机器人技术的最新进展及其对社会的广泛影响。
+
+2. **r/LocalLLaMA**：
+   - **热门话题**：硬件优化（如 RAM 价格）、新模型发布（如 GLM-4.6V-Flash）、技术资源分享（如向量数据库比较）。
+   - **关注重点**：社区讨论集中在模型优化、硬件成本和实际应用场景，反映了对技术落地的关注。
+
+3. **交叉话题**：
+   - **AI 模型性能**：在 r/singularity 和 r/LocalLLaMA 中均有讨论，反映了社区对模型性能和优化的共同关注。
+   - **机器人技术**：r/singularity 中的机器人技术讨论与 r/LocalLLaMA 中的硬件优化形成互补，展示了 AI 技术在软件和硬件层面的协同发展。
+
+---
+
+### **总结**
+今日的热门趋势展示了 AI 技术在模型性能、硬件优化和实际应用等多方面的持续发展。社区对 AI 的社会影响和技术突破表现出浓厚兴趣，反映了 AI 在 2025 年的广泛潜力和深远影响。
