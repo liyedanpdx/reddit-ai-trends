@@ -4,7 +4,7 @@
 
 Automatically generate trend reports from AI-related Reddit communities, supporting both English and Chinese languages. Stay up-to-date with the latest developments in the AI field through daily reports.
 
-## Latest Reports (2025-12-14)
+## Latest Reports (2025-12-15)
 
 - [English Report](reports/latest_report_en.md)
 - [Chinese Report](reports/latest_report_zh.md)
