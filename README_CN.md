@@ -4,7 +4,7 @@
 
 自动从Reddit AI相关社区生成趋势报告，支持英文和中文双语。通过每日报告，随时了解AI领域的最新发展。
 
-## 最新报告 (2026-01-18)
+## 最新报告 (2026-01-19)
 
 - [英文报告](reports/latest_report_en.md)
 - [中文报告](reports/latest_report_zh.md)
