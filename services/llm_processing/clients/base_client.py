@@ -23,6 +23,14 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# A trend analysis shorter than this is a stub, not a report. The surrounding
+# tables render regardless, so without this floor a truncated answer ships.
+MIN_USABLE_REPORT_CHARS = 500
+
+
+class UnusableReportError(Exception):
+    """Raised when the LLM analysis is too short to publish as a report."""
+
 
 def retry_on_empty_response(max_retries: int = 3, retry_delay: int = 10):
     """
@@ -568,6 +576,15 @@ class BaseLLMClient(ABC):
             # Clean the response
             report = self._clean_response(report)
 
+            # The tables are built locally and always render, so an empty or stub
+            # analysis still produces a plausible-looking report that would be
+            # committed and published. Fail loudly instead.
+            if len(report.strip()) < MIN_USABLE_REPORT_CHARS:
+                raise UnusableReportError(
+                    f"LLM returned an unusable {language} analysis "
+                    f"({len(report.strip())} chars) - refusing to publish a stub report"
+                )
+
             # Add header and tables
             full_report = f"{section_headers['report_title']}\n\n"
             full_report += f"{section_headers['trending_posts']}\n\n"
@@ -582,6 +599,10 @@ class BaseLLMClient(ABC):
             full_report += report
 
             return full_report
+        except UnusableReportError:
+            # Must not be downgraded to an error string: that string would be
+            # written to disk, committed and pushed like a normal report.
+            raise
         except Exception as e:
             logger.error(f"Error generating report: {e}")
             return f"Error generating report: {e}"

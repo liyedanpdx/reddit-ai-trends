@@ -27,6 +27,10 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# A truncated response shorter than this is a stub (a bare title, a half
+# sentence) rather than a usable report, so it is retried instead of returned.
+MIN_USABLE_RESPONSE_CHARS = 200
+
 
 class OpenRouterClient(BaseLLMClient):
     """Client for interacting with the OpenRouter API."""
@@ -42,7 +46,6 @@ class OpenRouterClient(BaseLLMClient):
         if not self.api_key:
             raise ValueError("OpenRouter API key not found in configuration")
         
-        print(self.api_key)
         # Initialize OpenAI client with OpenRouter base URL
         self.client = OpenAI(
             base_url="https://openrouter.ai/api/v1",
@@ -53,8 +56,12 @@ class OpenRouterClient(BaseLLMClient):
         self.model = config.get("model", "deepseek/deepseek-r1-distill-llama-70b:free")
         self.temperature = config.get("temperature", 0.4)
         self.max_tokens = config.get("max_tokens", 4000)
+        self.reasoning_enabled = config.get("reasoning_enabled", False)
 
-        logger.info(f"OpenRouter API client initialized with model: {self.model}")
+        logger.info(
+            f"OpenRouter API client initialized with model: {self.model} "
+            f"(reasoning={'on' if self.reasoning_enabled else 'off'})"
+        )
 
     @retry_on_empty_response(max_retries=10, retry_delay=10)
     def generate_text(self,
@@ -87,17 +94,44 @@ class OpenRouterClient(BaseLLMClient):
             ],
             temperature=temp,
             max_tokens=tokens,
-            extra_body={}  # OpenRouter specific parameter
+            extra_body={"reasoning": {"enabled": self.reasoning_enabled}}
         )
 
         # Extract the generated text
-        generated_text = response.choices[0].message.content
+        choice = response.choices[0]
+        generated_text = choice.message.content or ""
+        finish_reason = getattr(choice, "finish_reason", None)
 
         # Clean the response using base class method
         generated_text = self._clean_response(generated_text) if generated_text else ""
 
+        # finish_reason == "length" means the model ran out of budget mid-answer.
+        # With a reasoning model this happens even at large max_tokens, because
+        # chain-of-thought is billed first and can leave nothing for `content`.
+        if finish_reason == "length":
+            logger.warning(
+                f"Response truncated by max_tokens={tokens}: got {len(generated_text)} chars"
+                f"{self._reasoning_token_hint(response)}"
+            )
+            if len(generated_text) < MIN_USABLE_RESPONSE_CHARS:
+                # Unusable - report as empty so @retry_on_empty_response retries
+                # instead of shipping a stub report.
+                logger.error("Truncated response too short to use, treating as empty")
+                return ""
+
         logger.info(f"Successfully generated text ({len(generated_text)} chars)")
         return generated_text
+
+    @staticmethod
+    def _reasoning_token_hint(response) -> str:
+        """Report reasoning token spend, to make budget starvation obvious in logs."""
+        usage = getattr(response, "usage", None)
+        details = getattr(usage, "completion_tokens_details", None) if usage else None
+        reasoning_tokens = getattr(details, "reasoning_tokens", None) if details else None
+        if not reasoning_tokens:
+            return ""
+        return (f" ({reasoning_tokens} tokens went to reasoning - set "
+                f"OPENROUTER_REASONING_ENABLED=false or raise LLM_MAX_TOKENS)")
 
 
 if __name__ == "__main__":
@@ -119,7 +153,7 @@ if __name__ == "__main__":
         print(f"\n📝 Testing text generation...")
         print(f"   Prompt: {prompt}")
 
-        response = client.generate_text(prompt, max_tokens=100)
+        response = client.generate_text(prompt, max_tokens=500)
 
         print(f"\n✓ Response received:")
         print(f"   Length: {len(response)} characters")

@@ -44,7 +44,12 @@ LLM_PROVIDERS = {
         "api_key": os.getenv("OPENROUTER_API_KEY"),
         "model": os.getenv("OPENROUTER_MODEL", "deepseek/deepseek-r1-distill-llama-70b:free"),
         "temperature": float(os.getenv("LLM_TEMPERATURE", "1")),
-        "max_tokens": int(os.getenv("LLM_MAX_TOKENS", "4096"))
+        "max_tokens": int(os.getenv("LLM_MAX_TOKENS", "4096")),
+        # Reasoning models (deepseek-v4.x, etc.) bill chain-of-thought against
+        # max_tokens. On a long report prompt the reasoning consumes the entire
+        # budget and `content` comes back empty or cut off mid-sentence, so it
+        # stays off unless explicitly enabled.
+        "reasoning_enabled": os.getenv("OPENROUTER_REASONING_ENABLED", "false").lower() == "true"
     }
 }
 
