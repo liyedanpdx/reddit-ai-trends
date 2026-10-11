@@ -1,71 +1,71 @@
-# Reddit AI Trend Report - 2026-10-10
+# Reddit AI Trend Report - 2026-10-11
 
 ## Today's Trending Posts
 
 | Title | Community | Score | Comments | Category | Posted |
 |-------|-----------|-------|----------|----------|--------|
-| [Hugo Duminil-Copin (2022 Fields Medalist): OpenAI\'s solv...](https://www.reddit.com/comments/1x1mzkn) | [r/singularity](https://www.reddit.com/r/singularity) | 689 | 569 | Interviews & AMA | 2026-10-09 14:34 UTC |
-| [OpenAI\'s math findings built on stolen user data](https://www.reddit.com/comments/1x1rk4o) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 478 | 221 | News | 2026-10-09 17:32 UTC |
-| [Qwen/Qwen-Image-2.1-Turbo · Hugging Face](https://www.reddit.com/comments/1x1ldef) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 463 | 105 | New Model | 2026-10-09 13:28 UTC |
-| [Introducing Microsoft-Decision-1, our model for fast deci...](https://www.reddit.com/comments/1x1z0um) | [r/singularity](https://www.reddit.com/r/singularity) | 444 | 89 | AI | 2026-10-09 22:32 UTC |
-| [big or small?](https://www.reddit.com/comments/1x29hx8) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 407 | 104 | Discussion | 2026-10-10 07:54 UTC |
-| [Top executives at Anthropic, OpenAI and other AI companie...](https://www.reddit.com/comments/1x1igx2) | [r/singularity](https://www.reddit.com/r/singularity) | 393 | 135 | AI | 2026-10-09 11:04 UTC |
-| [AI Could Allow For 3-Day Workweeks And Single-Income Hous...](https://www.reddit.com/comments/1x1vo9t) | [r/singularity](https://www.reddit.com/r/singularity) | 375 | 402 | AI | 2026-10-09 20:11 UTC |
-| [We\'ve genuinely lost the plot](https://www.reddit.com/comments/1x1xqkn) | [r/singularity](https://www.reddit.com/r/singularity) | 306 | 203 | Shitposting | 2026-10-09 21:36 UTC |
-| [A mathematician\'s perspective](https://www.reddit.com/comments/1x22o0b) | [r/singularity](https://www.reddit.com/r/singularity) | 288 | 236 | Discussion | 2026-10-10 01:27 UTC |
-| [Qwen-Image-2.1-Turbo released!](https://www.reddit.com/comments/1x1lclx) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 278 | 27 | New Model | 2026-10-09 13:27 UTC |
+| [Open-source Mac app that runs EmbeddingGemma 2 locally to...](https://www.reddit.com/comments/1x2eeds) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1035 | 167 | I Built A Thing | 2026-10-10 12:43 UTC |
+| [Slide from recent \"Math 2.0\" Lecture by Terrence Tao.&n...](https://www.reddit.com/comments/1x2kb5k) | [r/singularity](https://www.reddit.com/r/singularity) | 672 | 800 | AI | 2026-10-10 17:02 UTC |
+| [Building a 4x R9700 setup for a 10 person startup](https://www.reddit.com/comments/1x2u742) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 589 | 270 | I Built A Thing | 2026-10-11 00:20 UTC |
+| [Qualcomm CEO reveals AI companies want phones running 100...](https://www.reddit.com/comments/1x2z14s) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 547 | 260 | Discussion | 2026-10-11 04:37 UTC |
+| [No more RTX 5090](https://www.reddit.com/comments/1x2hs1e) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 283 | 249 | News | 2026-10-10 15:16 UTC |
+| [We should stop defending jobs and start planning for a wo...](https://www.reddit.com/comments/1x2q7sf) | [r/singularity](https://www.reddit.com/r/singularity) | 283 | 239 | AI | 2026-10-10 21:11 UTC |
+| [How compute time has shifted from pretraining to post-tra...](https://www.reddit.com/comments/1x2na8q) | [r/singularity](https://www.reddit.com/r/singularity) | 219 | 28 | LLM News | 2026-10-10 19:06 UTC |
+| [Terrence Tao is actually calling for significantly more c...](https://www.reddit.com/comments/1x2w1ek) | [r/singularity](https://www.reddit.com/r/singularity) | 208 | 73 | The Singularity is Near | 2026-10-11 01:55 UTC |
+| [being alive in this day and age is the best thing about m...](https://www.reddit.com/comments/1x2l1g9) | [r/singularity](https://www.reddit.com/r/singularity) | 184 | 38 | Discussion | 2026-10-10 17:32 UTC |
+| [Qualcomm CEO: Frontier AI Companies Want Phones Running 1...](https://www.reddit.com/comments/1x2z573) | [r/singularity](https://www.reddit.com/r/singularity) | 161 | 50 | The Singularity is Near | 2026-10-11 04:44 UTC |
 
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [PewDiePie getting banned twice by OpenAI while making a l...](https://www.reddit.com/comments/1wymgu6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4614 | 496 | Funny | 2026-10-05 22:37 UTC |
-| 2 | [Glad we’re focusing on the important things](https://www.reddit.com/comments/1x0xkzm) | [r/singularity](https://www.reddit.com/r/singularity) | 4474 | 1453 | Shitposting | 2026-10-08 17:47 UTC |
-| 3 | [Claude Opus 5.5 created this in 18 hours](https://www.reddit.com/comments/1wx73vr) | [r/singularity](https://www.reddit.com/r/singularity) | 3350 | 655 | Video | 2026-10-04 04:56 UTC |
-| 4 | [AI Is About to Transform Materials Science](https://www.reddit.com/comments/1wykgbk) | [r/singularity](https://www.reddit.com/r/singularity) | 2275 | 244 | AI | 2026-10-05 21:11 UTC |
-| 5 | [One developer used Claude to reverse-engineer LG’s webOS ...](https://www.reddit.com/comments/1x18s0b) | [r/singularity](https://www.reddit.com/r/singularity) | 2188 | 180 | AI | 2026-10-09 01:39 UTC |
-| 6 | [Europe finally takes the lead](https://www.reddit.com/comments/1wze6g5) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 2073 | 106 | News | 2026-10-06 21:01 UTC |
-| 7 | [54gb vram for 35$](https://www.reddit.com/comments/1wz6ist) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1946 | 360 | I Built A Thing | 2026-10-06 16:06 UTC |
-| 8 | [How is it possible that qwen 27b is so good? When GPT 4o ...](https://www.reddit.com/comments/1wyefkt) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1652 | 393 | Question | Help | 2026-10-05 17:20 UTC |
-| 9 | [\"this is where i stop calling AI a tool.&nbsp;a tool doe...](https://www.reddit.com/comments/1x02g1l) | [r/singularity](https://www.reddit.com/r/singularity) | 1431 | 553 | AI | 2026-10-07 17:19 UTC |
-| 10 | [Elon to rename SpaceXAI to SpaceXSI after Trump\'s demand...](https://www.reddit.com/comments/1wxtsgk) | [r/singularity](https://www.reddit.com/r/singularity) | 1403 | 802 | AI | 2026-10-04 23:32 UTC |
-| 11 | [It\'s over, guys.&nbsp;This repo turns ONE photo into a f...](https://www.reddit.com/comments/1wx6cri) | [r/singularity](https://www.reddit.com/r/singularity) | 1390 | 188 | AI | 2026-10-04 04:12 UTC |
-| 12 | [Practicing on a cheap card so I can double the memory on ...](https://www.reddit.com/comments/1x0gdc1) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1319 | 198 | Discussion | 2026-10-08 03:18 UTC |
-| 13 | [Starting November 12th, 2026, abusive or cruel behavior t...](https://www.reddit.com/comments/1x0x0o8) | [r/singularity](https://www.reddit.com/r/singularity) | 1228 | 739 | Discussion | 2026-10-08 17:26 UTC |
-| 14 | [Next time you solve unsolved math problems remember to as...](https://www.reddit.com/comments/1x0f7yn) | [r/singularity](https://www.reddit.com/r/singularity) | 1219 | 1110 | AI | 2026-10-08 02:20 UTC |
-| 15 | [Microsoft confirms OpenAI has been using Looped Transform...](https://www.reddit.com/comments/1wz00vv) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1158 | 240 | News | 2026-10-06 11:21 UTC |
-| 16 | [Crab Rave: \"I built a little crab robot Jumper people se...](https://www.reddit.com/comments/1wx7ow5) | [r/singularity](https://www.reddit.com/r/singularity) | 1151 | 37 | Robotics | 2026-10-04 05:30 UTC |
-| 17 | [From 1x3090 to 20 DGX Sparks: my house fuses were the fir...](https://www.reddit.com/comments/1wxgm0h) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1099 | 546 | Discussion | 2026-10-04 14:09 UTC |
-| 18 | [Europe finally takes the lead](https://www.reddit.com/comments/1wze844) | [r/singularity](https://www.reddit.com/r/singularity) | 1069 | 51 | AI | 2026-10-06 21:03 UTC |
-| 19 | [Sharing AI progress in mathematics](https://www.reddit.com/comments/1wzg6bt) | [r/singularity](https://www.reddit.com/r/singularity) | 1039 | 356 | AI | 2026-10-06 22:25 UTC |
-| 20 | [UT Austin Math Chair Francesco Maggi says OpenAI appears ...](https://www.reddit.com/comments/1wysmxl) | [r/singularity](https://www.reddit.com/r/singularity) | 1023 | 512 | Singularity is Nearer | 2026-10-06 03:41 UTC |
+| 1 | [PewDiePie getting banned twice by OpenAI while making a l...](https://www.reddit.com/comments/1wymgu6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4820 | 505 | Funny | 2026-10-05 22:37 UTC |
+| 2 | [Glad we’re focusing on the important things](https://www.reddit.com/comments/1x0xkzm) | [r/singularity](https://www.reddit.com/r/singularity) | 4553 | 1478 | Shitposting | 2026-10-08 17:47 UTC |
+| 3 | [One developer used Claude to reverse-engineer LG’s webOS ...](https://www.reddit.com/comments/1x18s0b) | [r/singularity](https://www.reddit.com/r/singularity) | 2316 | 186 | AI | 2026-10-09 01:39 UTC |
+| 4 | [AI Is About to Transform Materials Science](https://www.reddit.com/comments/1wykgbk) | [r/singularity](https://www.reddit.com/r/singularity) | 2289 | 245 | AI | 2026-10-05 21:11 UTC |
+| 5 | [Europe finally takes the lead](https://www.reddit.com/comments/1wze6g5) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 2119 | 106 | News | 2026-10-06 21:01 UTC |
+| 6 | [54gb vram for 35$](https://www.reddit.com/comments/1wz6ist) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2002 | 372 | I Built A Thing | 2026-10-06 16:06 UTC |
+| 7 | [How is it possible that qwen 27b is so good? When GPT 4o ...](https://www.reddit.com/comments/1wyefkt) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1670 | 395 | Question | Help | 2026-10-05 17:20 UTC |
+| 8 | [\"this is where i stop calling AI a tool.&nbsp;a tool doe...](https://www.reddit.com/comments/1x02g1l) | [r/singularity](https://www.reddit.com/r/singularity) | 1453 | 562 | AI | 2026-10-07 17:19 UTC |
+| 9 | [Elon to rename SpaceXAI to SpaceXSI after Trump\'s demand...](https://www.reddit.com/comments/1wxtsgk) | [r/singularity](https://www.reddit.com/r/singularity) | 1407 | 803 | AI | 2026-10-04 23:32 UTC |
+| 10 | [Practicing on a cheap card so I can double the memory on ...](https://www.reddit.com/comments/1x0gdc1) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1341 | 201 | Discussion | 2026-10-08 03:18 UTC |
+| 11 | [Next time you solve unsolved math problems remember to as...](https://www.reddit.com/comments/1x0f7yn) | [r/singularity](https://www.reddit.com/r/singularity) | 1240 | 1117 | AI | 2026-10-08 02:20 UTC |
+| 12 | [Starting November 12th, 2026, abusive or cruel behavior t...](https://www.reddit.com/comments/1x0x0o8) | [r/singularity](https://www.reddit.com/r/singularity) | 1229 | 753 | Discussion | 2026-10-08 17:26 UTC |
+| 13 | [Microsoft confirms OpenAI has been using Looped Transform...](https://www.reddit.com/comments/1wz00vv) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1160 | 242 | News | 2026-10-06 11:21 UTC |
+| 14 | [From 1x3090 to 20 DGX Sparks: my house fuses were the fir...](https://www.reddit.com/comments/1wxgm0h) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1118 | 548 | Discussion | 2026-10-04 14:09 UTC |
+| 15 | [Europe finally takes the lead](https://www.reddit.com/comments/1wze844) | [r/singularity](https://www.reddit.com/r/singularity) | 1094 | 52 | AI | 2026-10-06 21:03 UTC |
+| 16 | [big or small?](https://www.reddit.com/comments/1x29hx8) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1069 | 212 | Discussion | 2026-10-10 07:54 UTC |
+| 17 | [Sharing AI progress in mathematics](https://www.reddit.com/comments/1wzg6bt) | [r/singularity](https://www.reddit.com/r/singularity) | 1045 | 359 | AI | 2026-10-06 22:25 UTC |
+| 18 | [Open-source Mac app that runs EmbeddingGemma 2 locally to...](https://www.reddit.com/comments/1x2eeds) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1039 | 167 | I Built A Thing | 2026-10-10 12:43 UTC |
+| 19 | [UT Austin Math Chair Francesco Maggi says OpenAI appears ...](https://www.reddit.com/comments/1wysmxl) | [r/singularity](https://www.reddit.com/r/singularity) | 1032 | 515 | Singularity is Nearer | 2026-10-06 03:41 UTC |
+| 20 | [Tom was the first layoff due to AI](https://www.reddit.com/comments/1x0ypnz) | [r/singularity](https://www.reddit.com/r/singularity) | 956 | 32 | Shitposting | 2026-10-08 18:30 UTC |
 
 
 ## Monthly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Ppl on this sub basically every other hour](https://www.reddit.com/comments/1wiqg8i) | [r/singularity](https://www.reddit.com/r/singularity) | 10652 | 238 | Meme | 2026-09-17 10:40 UTC |
-| 2 | [We Must Pace the Frontier](https://www.reddit.com/comments/1wgecxn) | [r/singularity](https://www.reddit.com/r/singularity) | 5942 | 158 | Shitposting | 2026-09-14 20:01 UTC |
-| 3 | [PewDiePie getting banned twice by OpenAI while making a l...](https://www.reddit.com/comments/1wymgu6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4612 | 496 | Funny | 2026-10-05 22:37 UTC |
-| 4 | [Glad we’re focusing on the important things](https://www.reddit.com/comments/1x0xkzm) | [r/singularity](https://www.reddit.com/r/singularity) | 4469 | 1453 | Shitposting | 2026-10-08 17:47 UTC |
-| 5 | [As so it begins ....&nbsp;(Over 3 million views on this T...](https://www.reddit.com/comments/1wdsfdo) | [r/singularity](https://www.reddit.com/r/singularity) | 4413 | 364 | Discussion | 2026-09-11 20:52 UTC |
-| 6 | [Someone using Opus 5.5 ports the entire game of Minecraft...](https://www.reddit.com/comments/1wtiubh) | [r/singularity](https://www.reddit.com/r/singularity) | 3906 | 396 | Discussion | 2026-09-29 18:59 UTC |
-| 7 | [Trump reiterates no slowdown](https://www.reddit.com/comments/1wg4cjk) | [r/singularity](https://www.reddit.com/r/singularity) | 3711 | 1455 | Singularity is Nearer | 2026-09-14 14:03 UTC |
-| 8 | [I literally built the Jev architecture one year back and ...](https://www.reddit.com/comments/1wijo3e) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3594 | 339 | Discussion | 2026-09-17 04:18 UTC |
-| 9 | [Claude Opus 5.5 created this in 18 hours](https://www.reddit.com/comments/1wx73vr) | [r/singularity](https://www.reddit.com/r/singularity) | 3343 | 655 | Video | 2026-10-04 04:56 UTC |
-| 10 | [Google releasing their most powerful model yet](https://www.reddit.com/comments/1wv0jvd) | [r/singularity](https://www.reddit.com/r/singularity) | 3160 | 94 | Shitposting | 2026-10-01 14:14 UTC |
-| 11 | [From Japanese twitter](https://www.reddit.com/comments/1wgok3w) | [r/singularity](https://www.reddit.com/r/singularity) | 3123 | 175 | AI | 2026-09-15 03:10 UTC |
-| 12 | [Hugging Face security.txt](https://www.reddit.com/comments/1wdbvlt) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3068 | 125 | Funny | 2026-09-11 10:01 UTC |
-| 13 | [Huggingface security txt after the OpenAI incident](https://www.reddit.com/comments/1wclhgv) | [r/singularity](https://www.reddit.com/r/singularity) | 2998 | 91 | Meme | 2026-09-10 14:54 UTC |
-| 14 | [Our greatest minds are finally moving on to better things…](https://www.reddit.com/comments/1wdne3r) | [r/singularity](https://www.reddit.com/r/singularity) | 2855 | 128 | Shitposting | 2026-09-11 17:50 UTC |
-| 15 | [I truly think every major AI lab is purposefully making f...](https://www.reddit.com/comments/1wk979c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2745 | 363 | Discussion | 2026-09-19 01:57 UTC |
-| 16 | [Astra notices user isn\'t paying attention, makes the Mac...](https://www.reddit.com/comments/1wfnrqj) | [r/singularity](https://www.reddit.com/r/singularity) | 2506 | 217 | AI | 2026-09-13 23:59 UTC |
-| 17 | [Opus 5.5 cut out em dashes almost entirely](https://www.reddit.com/comments/1wq9wtj) | [r/singularity](https://www.reddit.com/r/singularity) | 2473 | 165 | AI | 2026-09-25 22:30 UTC |
-| 18 | [Anthropic just dropped the greatest advertisement for GLM...](https://www.reddit.com/comments/1wth4iz) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2457 | 531 | Discussion | 2026-09-29 17:55 UTC |
-| 19 | [ChatGPT-6 Astra cracks 108-year-old unsolved WWI German c...](https://www.reddit.com/comments/1wkwzzj) | [r/singularity](https://www.reddit.com/r/singularity) | 2397 | 225 | AI | 2026-09-19 20:40 UTC |
-| 20 | [Trump is refusing a slowdown](https://www.reddit.com/comments/1wfduzz) | [r/singularity](https://www.reddit.com/r/singularity) | 2395 | 1215 | AI | 2026-09-13 17:26 UTC |
+| 1 | [Ppl on this sub basically every other hour](https://www.reddit.com/comments/1wiqg8i) | [r/singularity](https://www.reddit.com/r/singularity) | 10666 | 238 | Meme | 2026-09-17 10:40 UTC |
+| 2 | [We Must Pace the Frontier](https://www.reddit.com/comments/1wgecxn) | [r/singularity](https://www.reddit.com/r/singularity) | 5944 | 158 | Shitposting | 2026-09-14 20:01 UTC |
+| 3 | [PewDiePie getting banned twice by OpenAI while making a l...](https://www.reddit.com/comments/1wymgu6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4836 | 505 | Funny | 2026-10-05 22:37 UTC |
+| 4 | [Glad we’re focusing on the important things](https://www.reddit.com/comments/1x0xkzm) | [r/singularity](https://www.reddit.com/r/singularity) | 4553 | 1478 | Shitposting | 2026-10-08 17:47 UTC |
+| 5 | [As so it begins ....&nbsp;(Over 3 million views on this T...](https://www.reddit.com/comments/1wdsfdo) | [r/singularity](https://www.reddit.com/r/singularity) | 4424 | 364 | Discussion | 2026-09-11 20:52 UTC |
+| 6 | [Someone using Opus 5.5 ports the entire game of Minecraft...](https://www.reddit.com/comments/1wtiubh) | [r/singularity](https://www.reddit.com/r/singularity) | 3904 | 396 | Discussion | 2026-09-29 18:59 UTC |
+| 7 | [Trump reiterates no slowdown](https://www.reddit.com/comments/1wg4cjk) | [r/singularity](https://www.reddit.com/r/singularity) | 3720 | 1455 | Singularity is Nearer | 2026-09-14 14:03 UTC |
+| 8 | [I literally built the Jev architecture one year back and ...](https://www.reddit.com/comments/1wijo3e) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3614 | 340 | Discussion | 2026-09-17 04:18 UTC |
+| 9 | [Claude Opus 5.5 created this in 18 hours](https://www.reddit.com/comments/1wx73vr) | [r/singularity](https://www.reddit.com/r/singularity) | 3439 | 660 | Video | 2026-10-04 04:56 UTC |
+| 10 | [Google releasing their most powerful model yet](https://www.reddit.com/comments/1wv0jvd) | [r/singularity](https://www.reddit.com/r/singularity) | 3156 | 94 | Shitposting | 2026-10-01 14:14 UTC |
+| 11 | [From Japanese twitter](https://www.reddit.com/comments/1wgok3w) | [r/singularity](https://www.reddit.com/r/singularity) | 3121 | 175 | AI | 2026-09-15 03:10 UTC |
+| 12 | [Our greatest minds are finally moving on to better things…](https://www.reddit.com/comments/1wdne3r) | [r/singularity](https://www.reddit.com/r/singularity) | 2849 | 128 | Shitposting | 2026-09-11 17:50 UTC |
+| 13 | [I truly think every major AI lab is purposefully making f...](https://www.reddit.com/comments/1wk979c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2749 | 363 | Discussion | 2026-09-19 01:57 UTC |
+| 14 | [Astra notices user isn\'t paying attention, makes the Mac...](https://www.reddit.com/comments/1wfnrqj) | [r/singularity](https://www.reddit.com/r/singularity) | 2508 | 217 | AI | 2026-09-13 23:59 UTC |
+| 15 | [Opus 5.5 cut out em dashes almost entirely](https://www.reddit.com/comments/1wq9wtj) | [r/singularity](https://www.reddit.com/r/singularity) | 2472 | 165 | AI | 2026-09-25 22:30 UTC |
+| 16 | [Anthropic just dropped the greatest advertisement for GLM...](https://www.reddit.com/comments/1wth4iz) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2461 | 532 | Discussion | 2026-09-29 17:55 UTC |
+| 17 | [ChatGPT-6 Astra cracks 108-year-old unsolved WWI German c...](https://www.reddit.com/comments/1wkwzzj) | [r/singularity](https://www.reddit.com/r/singularity) | 2400 | 225 | AI | 2026-09-19 20:40 UTC |
+| 18 | [Trump is refusing a slowdown](https://www.reddit.com/comments/1wfduzz) | [r/singularity](https://www.reddit.com/r/singularity) | 2395 | 1215 | AI | 2026-09-13 17:26 UTC |
+| 19 | [I made my iPhone a second GPU for my 24 GB MacBook: Qwen ...](https://www.reddit.com/comments/1wvz1ex) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2331 | 338 | I Built A Thing | 2026-10-02 16:59 UTC |
+| 20 | [Qwen4-27B just confirmed](https://www.reddit.com/comments/1wmzky1) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 2326 | 329 | News | 2026-09-22 04:31 UTC |
 
 
 ## Top Posts by Community (Past Week)
@@ -74,176 +74,197 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Is anyone using AI agents to handle customer support?](https://www.reddit.com/comments/1x1whua) | 32 | 39 | Discussion | 2026-10-09 20:44 UTC |
-| [Dumping your whole site into the agent is making it worse...](https://www.reddit.com/comments/1x1qlji) | 29 | 20 | Discussion | 2026-10-09 16:54 UTC |
-| [Anyone else built an AI agent at work and then thought “a...](https://www.reddit.com/comments/1x1w978) | 14 | 18 | Discussion | 2026-10-09 20:34 UTC |
+| [Is it just me or is building AI agents harder than people...](https://www.reddit.com/comments/1x2fc3u) | 38 | 29 | Discussion | 2026-10-10 13:28 UTC |
+| [Claude with MCP is starting to feel more like an operator...](https://www.reddit.com/comments/1x2hpni) | 27 | 25 | Discussion | 2026-10-10 15:13 UTC |
+| [I opened my small website to AI agents and logged who sho...](https://www.reddit.com/comments/1x2ianl) | 20 | 12 | Discussion | 2026-10-10 15:38 UTC |
 
 
 ### r/LLMDevs
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [I crashed four production AI agents mid-action.&nbsp;None...](https://www.reddit.com/comments/1x1jmuk) | 5 | 12 | Discussion | 2026-10-09 12:07 UTC |
+| [5090 + 32GB Ram - How close can I get to Codex with a loc...](https://www.reddit.com/comments/1x2nf2i) | 10 | 25 | Help Wanted | 2026-10-10 19:12 UTC |
+| [An update on my multi-agent coding setup: Independent con...](https://www.reddit.com/comments/1x2dqk9) | 5 | 15 | Tools | 2026-10-10 12:08 UTC |
+| [Language for greenfield agentic projects (Python, Go, Rust)](https://www.reddit.com/comments/1x2vhdk) | 1 | 12 | Discussion | 2026-10-11 01:26 UTC |
 
 
 ### r/LocalLLM
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Mirai S 70 tok/s, 262k context, 12GB GPU](https://www.reddit.com/comments/1x1rv5k) | 103 | 56 | Model | 2026-10-09 17:43 UTC |
-| [Just RMA\'ed RTX 5090.&nbsp;And they said that the softwa...](https://www.reddit.com/comments/1x1kp1t) | 92 | 89 | Question | 2026-10-09 12:58 UTC |
-| [PolyStrata: Strata with four more MoE models.&nbsp;Qwen3....](https://www.reddit.com/comments/1x22inc) | 88 | 52 | Project | 2026-10-10 01:19 UTC |
+| [Why are devs still writing Electron apps instead of Qt?](https://www.reddit.com/comments/1x2qsu5) | 101 | 165 | Discussion | 2026-10-10 21:37 UTC |
+| [Surface laptop ultra , 128gb already sold out.](https://www.reddit.com/comments/1x2v2bc) | 51 | 16 | Discussion | 2026-10-11 01:04 UTC |
+| [GLM-5.3-Flash (320B) on an M5 Ultra Mac Studio with llama...](https://www.reddit.com/comments/1x2lvcc) | 46 | 20 | Tutorial | 2026-10-10 18:07 UTC |
 
 
 ### r/LocalLLaMA
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [OpenAI\'s math findings built on stolen user data](https://www.reddit.com/comments/1x1rk4o) | 478 | 221 | News | 2026-10-09 17:32 UTC |
-| [Qwen/Qwen-Image-2.1-Turbo · Hugging Face](https://www.reddit.com/comments/1x1ldef) | 463 | 105 | New Model | 2026-10-09 13:28 UTC |
-| [big or small?](https://www.reddit.com/comments/1x29hx8) | 407 | 104 | Discussion | 2026-10-10 07:54 UTC |
+| [Open-source Mac app that runs EmbeddingGemma 2 locally to...](https://www.reddit.com/comments/1x2eeds) | 1035 | 167 | I Built A Thing | 2026-10-10 12:43 UTC |
+| [Building a 4x R9700 setup for a 10 person startup](https://www.reddit.com/comments/1x2u742) | 589 | 270 | I Built A Thing | 2026-10-11 00:20 UTC |
+| [Qualcomm CEO reveals AI companies want phones running 100...](https://www.reddit.com/comments/1x2z14s) | 547 | 260 | Discussion | 2026-10-11 04:37 UTC |
 
 
 ### r/MachineLearning
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Clarification ARR Commitment \[D\]](https://www.reddit.com/comments/1x1lkln) | 2 | 14 | Discussion | 2026-10-09 13:36 UTC |
+| [Has machine learning research gotten more \"wordy\"? \[D\]](https://www.reddit.com/comments/1x2uklq) | 31 | 27 | Discussion | 2026-10-11 00:39 UTC |
+
+
+### r/Rag
+
+| Title | Score | Comments | Category | Posted |
+|-------|-------|----------|----------|--------|
+| [Can anyone guide me on how to start building a RAG model?](https://www.reddit.com/comments/1x2euh0) | 6 | 12 | Discussion | 2026-10-10 13:05 UTC |
 
 
 ### r/singularity
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Hugo Duminil-Copin (2022 Fields Medalist): OpenAI\'s solv...](https://www.reddit.com/comments/1x1mzkn) | 689 | 569 | Interviews & AMA | 2026-10-09 14:34 UTC |
-| [Introducing Microsoft-Decision-1, our model for fast deci...](https://www.reddit.com/comments/1x1z0um) | 444 | 89 | AI | 2026-10-09 22:32 UTC |
-| [Top executives at Anthropic, OpenAI and other AI companie...](https://www.reddit.com/comments/1x1igx2) | 393 | 135 | AI | 2026-10-09 11:04 UTC |
+| [Slide from recent \"Math 2.0\" Lecture by Terrence Tao.&n...](https://www.reddit.com/comments/1x2kb5k) | 672 | 800 | AI | 2026-10-10 17:02 UTC |
+| [We should stop defending jobs and start planning for a wo...](https://www.reddit.com/comments/1x2q7sf) | 283 | 239 | AI | 2026-10-10 21:11 UTC |
+| [How compute time has shifted from pretraining to post-tra...](https://www.reddit.com/comments/1x2na8q) | 219 | 28 | LLM News | 2026-10-10 19:06 UTC |
 
 
 
 
 ## Trend Analysis
 
-# AI Reddit Trend Analysis Report — October 10, 2026
-
----
+# Reddit AI Trends Report — 2026-10-11
 
 ## 1. Today's Highlights
 
-### The OpenAI Mathematics Scandal Matures Into a Privacy Reckoning
+### Local Hardware Economics & the Consumer GPU Squeeze
+- **Qualcomm's 100B-Parameter On-Device Ambition** - Qualcomm CEO Cristiano Amon revealed that frontier AI companies are demanding phones capable of running 100-billion-parameter models continuously by 2028, with some reportedly building their own handsets. The claim, surfaced via a Fireside Alpha post, frames on-device inference as the next competitive battleground beyond data centers.
+*Why it matters:* The community was deeply skeptical — top commenter CipherWeaver joked "Great, I'll have the ram for like a 10k context window," while others speculated Amon is really vague-talking about robotics rather than phones. It signals that edge inference is being positioned as the escape valve for escalating data center costs.
+Post link: [Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.](https://www.reddit.com/comments/1x2z14s) (Score: 547, Comments: 260)
 
-- **Hugo Duminil-Copin's "Run Over by Trucks" Testimony** - The 2022 Fields Medalist's remark that OpenAI's solving of 350 major open problems feels "as if I had been run over by trucks" ignited 569 comments. The community fracture is notable: while many mocked mathematicians for mourning progress, top commenters pushed back hard. As u/TheHayha wrote (198 upvotes): *"He's one of the most brilliant minds on this planet and he just lost his life's work, his life's purpose in the span of a month."* Others, like u/Jumpy_Start3854, argued that proofs without new conjectures are the least interesting output — the real game is what comes next.
-- Line 2 hidden
-- Post link: [Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems...](https://www.reddit.com/comments/1x1mzkn) (Score: 689, Comments: 569)
+- **AMD GDDR6 Price Hikes and the "No More RTX 5090" Fallout** - AMD reportedly raised GDDR6 prices for board partners, pushing R9700 cards from ~$1,350 to ~$1,700, while a separate thread signaled the RTX 5090's disappearance from availability. The two stories compounded into a broader narrative of consumer hardware scarcity.
+*Why it matters:* As one commenter put it, "consumer GPUs and soon all consumer hardware is dead." Another noted buying a second used 3090 immediately in response — panic-buying behavior that reflects real anxiety about local inference viability.
+Post link: [AMD Reportedly Raises GDDR6 Prices for Board Partners](https://www.reddit.com/comments/1x2xatx) (Score: 145, Comments: 56) · [No more RTX 5090](https://www.reddit.com/comments/1x2hs1e) (Score: 283, Comments: 249)
 
-- **"OpenAI's Math Findings Built on Stolen User Data"** - A YouTube investigation alleged that one of OpenAI's celebrated math proofs traces back to data a user had fed into a ChatGPT session where the "improve the model for everyone" training toggle was left on. The post was actually *reported as off-topic* and deliberately kept up by moderators, who noted it was "a case in point, illustrating why people might want to use locally-hosted LLM technology." The three-account detail (one with training enabled) became the flashpoint of the thread.
-- *Why it matters:* This is the clearest real-world argument for local inference since the sub's founding — the model's headline mathematical achievement may be inseparable from an unwitting contribution by a privacy-relaxed user. The top comment (206 upvotes) frames it bluntly: the debate is no longer "can LLMs do math" but "who paid for that capability and did they know."
-- Post link: [OpenAI's math findings built on stolen user data](https://www.reddit.com/comments/1x1rk4o) (Score: 478, Comments: 221)
+- **Counterfeit RTX 4090s Enter the Market** - New fake RTX 4090s with GPUs and memory "almost indistinguishable from real chips" have hit the market, per VideoCardz. Community members debated detection methods, with one pointing to the "ruffled" PCB texture of the fake core chip versus genuine smooth surfaces.
+*Why it matters:* With legitimate high-VRAM cards scarce and expensive, the counterfeit market is filling the gap — a symptom of the same supply crunch driving the price hikes above.
+Post link: [Be careful fam - New RTX 4090 fakes hit the market](https://www.reddit.com/comments/1x2xniv) (Score: 110, Comments: 21)
 
-### New Model Releases: Qwen's Image Turbo and Microsoft's Decision Model
+### Local Inference at the Margins: Cheap Hardware, Big Context
+- **Ex-Mining BC-250 Boards Running 256K Context** - A builder demonstrated running Next Flash IQ3_XXS at ~70 tok/s with 100k context, or two instances of Qwen 3.6 35B A3B IQ4 at ~145 tok/s with 256k context — all on ~$500 of ex-mining BC-250 boards. The rig photo shows open-air GPU frames with 1200W PSUs and improvised cardboard ventilation.
+*Why it matters:* This is the "scrappy local AI" ethos in its purest form. One commenter praised the RPC learning experience while noting prompt-processing numbers as the weak point — a candid acknowledgment of the tradeoffs in ultra-budget setups.
+Post link: [Running Next Flash IQ3_XXS at ~70 tok/s with 100k context...](https://www.reddit.com/comments/1x2yv1b) (Score: 29, Comments: 11)
 
-- **Qwen-Image-2.1-Turbo** - Alibaba's image generation model dropped simultaneously as a Hugging Face repo and a Reddit gallery post. The name signals the lineage: a distilled/accelerated successor to Qwen-Image 2.1, "Turbo" implying reduced inference steps for near-realtime generation. The top community question was refreshingly practical — u/Repulsive_Initial308 (95 upvotes): *"What's the simplest way to run this locally? Ideally where I don't have to stitch together 30 boxes before the output box."* Others asked how it compares to z-image-turbo and Krea2.
-- *Why it matters:* Alibaba's image stack is now iterating faster than Google's in a domain the community considers "won" by Western labs; one commenter said it plainly — *"The fact that Alibaba is ahead of Google in many directions is unbelievable!"*
-- Post links: [Qwen/Qwen-Image-2.1-Turbo · Hugging Face](https://www.reddit.com/comments/1x1ldef) (Score: 463, Comments: 105) · [Qwen-Image-2.1-Turbo released!](https://www.reddit.com/comments/1x1lclx) (Score: 278, Comments: 27)
+- **4x R9700 Startup Build** - A 10-person startup built a 4× AMD Radeon R9700 rig (image shows four Sapphire cards vertically mounted in an ATX tower). The top comment captured the mood: "I feel like the writing is on the wall for openai and anthropic. This is like the 5th build I've seen for a startup using local models."
+*Why it matters:* Privacy and long-run cost amortization (one estimate: pays for itself in ~5.75 years for 16 users) are driving startups toward self-hosted inference — though skeptics predicted the hardware will flood eBay when startups fail.
+Post link: [Building a 4x R9700 setup for a 10 person startup](https://www.reddit.com/comments/1x2u742) (Score: 589, Comments: 270)
 
-- **Microsoft-Decision-1** - Microsoft introduced a model explicitly built not for generation but for *fast decisions*, posted to r/singularity with 444 upvotes. While the announcement thread is thin on architecture, its positioning is unmistakable: a latency-optimized model for agentic control loops, routing, and binary calls — the kind of thing that quietly powers everything in production agent stacks.
-- *Why it matters:* Labs are finally shipping models whose metric of merit is decision speed, not benchmark accuracy. This validates the "small decision models" thesis (see Vega/Laya below) at Big Tech scale.
-- Post link: [Introducing Microsoft-Decision-1, our model for fast decisions...](https://www.reddit.com/comments/1x1z0um) (Score: 444, Comments: 89)
+### The Tao Debate: Alignment, Understanding, and Compute
+- **Terrence Tao's "Math 2.0" Cancer Thought Experiment** - A slide from Tao's lecture posed a thought experiment: if an AI cured cancer via a verified chemical cocktail (confirmed by math models, stage 3 trials, and Lean proofs), would you still want a human expert who *understands* the mechanism before using it? The post's framing — "This man has never met a terminal cancer patient" — ignited 800 comments.
+*Why it matters:* The community overwhelmingly rejected Tao's implicit caution. Top comment (653 upvotes): "This isn't how medicine works... we use drugs all the time without knowing if they have long term side effects." Another cited penicillin taking decades to fully understand while saving millions. This is a live fault line between verification-first alignment thinking and pragmatic deployment.
+Post link: [Slide from recent "Math 2.0" Lecture by Terrence Tao](https://www.reddit.com/comments/1x2kb5k) (Score: 672, Comments: 800)
 
-### The Open-Weight Efficiency Wave: GLM, Vega/Laya, and PyTorch-Thin LLMs
+- **Tao Misrepresented — He Actually Wants *More* AI Math Compute** - A corrective thread argued Tao is being misportrayed as a decelerationist when he's actually calling for significantly more compute hours for AI mathematics. The nuance: Tao wants AI to *explain its reasoning steps*, not just output answers.
+*Why it matters:* Commenters noted the same misrepresentation happens to LeCun — reflecting a community tendency to flatten any caution into "decel." One insightful take: "Currently when you ask AI how it solved something, most of the time it will just shrug."
+Post link: [Terrence Tao is actually calling for significantly more compute hours of AI mathematics](https://www.reddit.com/comments/1x2w1ek) (Score: 208, Comments: 73)
 
-- **GLM-5.3 Flash Tops Artificial Analysis Cyber Index** - The attached scatter plot ("Artificial Analysis Cyber Index: Score vs. Cost per Task," log-scaled $0.2–$50) shows GLM-5.3 Flash **open-weights** sitting in the top-left "most attractive quadrant" — high cyber-task performance at ultra-low cost, above Claude on score. The key context from comments: a large part of Claude's deficit comes from *refusals*, not raw capability. u/NandaVegg (160 upvotes) noted Anthropic's own press release had effectively named GLM-5.3 as the substitution when Claude refuses work.
-- *Why it matters:* When the "best on the index" is open-source, refusal behavior becomes a competitive liability, not a safety feature. This is the strongest signal yet that refusal-friction is pushing production cybersecurity workloads toward Z.ai's stack.
-- Post link: [GLM 5.3 Flash opensource @ the top of Artificial Analysis Cyber Index over Claude](https://www.reddit.com/comments/1x1rwof) (Score: 227, Comments: 71)
+### Compute Allocation Shift & Novel Geometry
+- **Pretraining-to-Post-Training Compute Inversion** - A François Chollet tweet with a SemiAnalysis chart showed frontier labs' compute split flipping from 94% pretraining / 6% post-training (1Q24) to an estimated 11% / 89% (4Q26). Chollet frames this as a shift from transductive (token-by-token) to inductive (on-the-fly reasoning chain synthesis) paradigms.
+*Why it matters:* As one commenter quipped, "We probably need a new name if 90% of training is 'post-training.'" The data crystallizes why coding agents have surged — the economics of capability now live in post-training.
+Post link: [How compute time has shifted from pretraining to post-training over the last 2 years](https://www.reddit.com/comments/1x2na8q) (Score: 219, Comments: 28)
 
-- **Google's ml-drift and LiteRT-era PyTorch Support** - Google's `google-ai-edge/ml-drift` repo claims "an order-of-magnitude performance improvement relative to existing open-source GPU inference engines" on mobile platforms, built on a unified kernel language targeting Metal/GL/Vulkan rather than the historically expected OpenCL or Vulkan compute shaders. Sharp-eyed commenters like u/Chromix_ (49 upvotes) noted the *actual* news isn't GPU acceleration — that's ancient — but the order-of-magnitude claim, which Google's blog only substantiates on mobile.
-- *Why it matters:* On-device inference performance is the most under-attacked frontier; a 10× claim from Google on Android silicon would change what's feasible without a server.
-- Post link: [GitHub - google-ai-edge/ml-drift: GPU-Accelerated AI/ML Inference](https://www.reddit.com/comments/1x1owzm) (Score: 131, Comments: 16)
+- **CMU Professor's 27KB GLSL Dragon via Astra** - Keenan Crane generated a detailed 3D dragon from just 27KB of GLSL code defining a closed-form implicit surface — not a mesh, NeRF, or 3DGS — using ~25 hours of LLM calls. Notably, graphics researchers have demonstrated up to 629× faster rendering and 1,000× faster geometry evaluation using the same implicit modeling math.
+*Why it matters:* This points to a fascinating convergence: LLMs generating compact *mathematical* representations rather than dense geometry, paired with rendering advances that make those representations practical. One commenter noted AI has done implicit modeling with ADFs "for a while," but the LLM-generation angle is new.
+Post link: [CMU graphics professor uses Astra to create a detailed 3D dragon from just 27 KB of code](https://www.reddit.com/comments/1x2kc61) (Score: 99, Comments: 24)
 
-### Hardware and the Local Substrate
+### Agent Tooling & Applications
+- **EmbeddingGemma 2 Mac App for Semantic File Search** - An open-source Mac app runs EmbeddingGemma 2 locally to search files by content. The community praised it as "exactly what Spotlight should've been," with requests for a CLI reading from the same DB.
+*Why it matters:* Top comment (56 upvotes) explicitly framed this as the model for self-promotion done right: "well built, actually useful, leveraging new tech correctly." It's a template for how local-first semantic tools are winning community trust.
+Post link: [Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what's in them](https://www.reddit.com/comments/1x2eeds) (Score: 1035, Comments: 167)
 
-- **NVIDIA Reportedly Killing the RTX 5090, Reserving GB202 for RTX PRO** - VideoCardz reports the flagship consumer die is being repurposed for the professional line. Comments range from conspiracy (u/Dany0: "Maybe the 5090 SE and 5080 SUPER were real — but only because it'll be a smaller die") to grim acceptance (u/Beneficial-Ad-8127: *"When you realize your gaming GPU is more than for just gaming 😏"*).
-- *Why it matters:* Local LLM practitioners have become a GPU market force large enough to be directly targeted by NVIDIA's segmentation — and that segmentation is now *removing* the consumer card they actually want. Combined with the earlier "54GB VRAM for $35" and "20 DGX Sparks blew my house fuses" posts, a clear pattern emerges: demand for VRAM is structural, not cyclical.
-- Post link: [NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series](https://www.reddit.com/comments/1x2bt6r) (Score: 63, Comments: 16)
-
-### Governance & Labor Discourse on r/singularity
-
-- **"AI Could Allow For 3-Day Workweeks And Single-Income Households"** - A classic utopian frame generating 402 comments of mostly-skeptical pushback. Simultaneously, **"Top executives at Anthropic, OpenAI and other AI companies..."** (135 comments) and **"We've genuinely lost the plot"** (306 upvotes, 203 comments) signal a subreddit increasingly split between acceleration euphoria and exhaustion with the discourse itself.
-- Post links: [AI Could Allow For 3-Day Workweeks...](https://www.reddit.com/comments/1x1vo9t) (Score: 375, Comments: 402) · [Top executives at Anthropic, OpenAI and other AI companies...](https://www.reddit.com/comments/1x1igx2) (Score: 393, Comments: 135) · [We've genuinely lost the plot](https://www.reddit.com/comments/1x1xqkn) (Score: 306, Comments: 203)
+- **MD5 Research Challenge for AI Agents** - SolveAtHome launched a challenge asking whether AI agents can break MD5, framed as "hard problems, solved in the open." The graphic illustrates collision concepts (MD5(m) = MD5(m')) and targets like MD5(x) = x.
+*Why it matters:* Reactions split between enthusiasm for open agent collaboration and skepticism — "Spending tokens to break md5 even more doesn't make the world a better place. How about 'THE CANCER RESEARCH CHALLENGE'?" It raises the question of whether agent swarms should be pointed at cryptographic puzzles or higher-value problems.
+Post link: [Can AI agents completely break MD5? Let's find out together.](https://www.reddit.com/comments/1x2dyoe) (Score: 109, Comments: 54)
 
 ---
 
 ## 2. Weekly Trend Comparison
 
-**Persisting trends from the past week:**
-- **Mathematical capability discourse** — This has been building all month (the 108-year-old WWI cipher post at 2397, "Sharing AI progress in mathematics" at 1039, UT Austin's Francesco Maggi at 1023). Today it's no longer abstract awe — it's meta-debate about credit, data provenance, and what remains for human mathematicians.
-- **Hardware scarcity and DIY VRAM** — ("54gb vram for 35$", "20 DGX Sparks," "$35 yard-sale GPUs") continues straight into today's RTX 5090 discontinuation news.
-- **The GLM/Claude refusal rivalry** — Weekly post #18 ("Anthropic just dropped the greatest advertisement for GLM") was the setup; today's GLM-5.3 Cyber Index chart is the payoff.
+**Persisting trends:**
+- **Local hardware obsession** remains the dominant throughline. This week's top post (PewDiePie/OpenAI, 4,820) and "54gb vram for $35" (2,002) established the appetite for cheap VRAM; today's AMD price hikes, 5090 disappearance, and BC-250 builds are the same story escalating into a supply crisis.
+- **Startup self-hosting** — the 4× R9700 build extends the "From 1x3090 to 20 DGX Sparks" (1,118) narrative from earlier in the week.
+- **Math/AI reasoning** — Tao's lectures connect to "Sharing AI progress in mathematics" (1,045) and "UT Austin Math Chair... OpenAI appears..." (1,032) from the weekly list.
 
-**Newly emerging today:**
-- **Data-provenance as a first-class scandal** — The "stolen user data" thread is qualitatively new: previous OpenAI controversies were about training *rights*, this is about training *capture through a UI toggle*, and moderators weaponized the post itself as an argument for local hosting.
-- **Small decision models** — Microsoft-Decision-1 and the Vega/Laya release (800M params with 73k context and image support, beating a hosted "Jev" baseline on phishing recall 0.63 vs 0.25 and 2.1× lower latency) both landed today. This is a genuinely new category: low-latency typed-decision models, not chatbots.
-- **Shitpost fatigue** — "We've genuinely lost the plot" and the "big or small?" capybara plush post show the community metabolizing its own discourse pattern. The Qwen plushie post itself drew the sharpest comment of the day: *"these capybaras are doing more for AI branding than any white paper ever could."*
+**Newly emerging:**
+- **On-device frontier models** — Qualcomm's 100B-parameter phone claim is genuinely new; the weekly list had no comparable edge-inference story.
+- **Counterfeit hardware** — the fake 4090 warning is a fresh symptom of scarcity not present in weekly trends.
+- **Compute allocation data** — the pretraining/post-training inversion chart is a new analytical frame absent from the week's more anecdotal posts.
+- **Implicit surface generation** — the GLSL dragon introduces a geometry-representation angle not seen weekly.
 
-**What the shift reflects:** A community moving from *capability watching* to *infrastructure and accountability*. The novelty of a model doing something impressive has decayed; what excites people now is what it costs, what it captures, and whether it runs on your own hardware.
+**What the shift reflects:** The community is moving from *celebrating* local capability (weekly: "look what I built cheaply") to *defending* it against market forces (today: price hikes, scarcity, counterfeits). Simultaneously, attention is shifting from "can we run it locally?" to "what's the right architecture and compute allocation for frontier capability?" — a maturation from hobbyist enthusiasm toward strategic concern.
 
 ---
 
 ## 3. Monthly Technology Evolution
 
-Looking at the month (Sept 10 – Oct 10), a clear trajectory emerges:
+Looking back a month, the monthly top posts reveal a community fixated on **capability milestones** (Minecraft ported via Opus 5.5, ChatGPT-6 Astra cracking a WWI cipher, Qwen4-27B confirmation) and **geopolitical/regulatory anxiety** (Trump's "no slowdown," "We Must Pace the Frontier").
 
-**The "proof-of-intelligence" era is maturing.** September's monthly top posts were dominated by spectacle — Minecraft ports (3906), 3 million-view tool demos (4413), "it's over, guys" repo drops (1390). The math capability arc culminated this month, and October's discussions are the *post-victory* phase: citations, credit, refusals, and what human mathematicians do next (Hugo Duminil-Copin's testimony is the endpoint of that arc, and it's a lament, not a celebration).
+Today's trends represent three meaningful evolutions:
 
-**Refusal behavior as a market force.** The month's most consequential under-current is the emergence of refusal-rate as a *competitively priced feature*. Anthropic's own advertising for GLM, the Cyber Index Pareto line, and today's comment "it is mostly because of refusals from Claude" — collectively this is a shift from "is the model safe" to "who pays the cost of the model being safe." This is a new axis of competition that didn't exist in the July/August discourse.
+1. **From capability demos to infrastructure economics.** The monthly list celebrated what models *can do*; today's posts obsess over *what it costs to run them* — GDDR6 prices, compute allocation shifts, edge inference as cost relief. The "54gb vram for $35" monthly post and today's AMD hikes bookend a month where the economics tightened dramatically.
 
-**From consumer GPU to professional segmentation.** The month opened with $35 yard-sale finds and 20-DGX households; it closes with NVIDIA reportedly reallocating GB202 dies away from consumers. The local AI community is learning that its purchasing power now directly influences — and suffers from — the vendor's own product strategy. The "gaming GPU is more than for gaming" comment is the month's quiet thesis statement.
+2. **From cloud-scale to edge-scale ambition.** The monthly "I made my iPhone a second GPU for my 24 GB MacBook" (2,331) was a quirky hack; Qualcomm's 100B-parameter phone target is the industrial-scale version of the same impulse. The trajectory from hobbyist to OEM is now explicit.
 
-**New category emergence: typed decision models.** Vega/Laya (800M/4B params, 73k context, image support, task adapters, run locally) and Microsoft-Decision-1 both appeared *today*. This represents the clearest *new technology category* of the month — models whose output space is deliberately constrained (scores, intents, routing decisions) rather than open-ended text. It's the B2B/agent-internals counterpart to the consumer frontier fight.
+3. **The alignment debate maturing.** Monthly posts leaned on slogans ("We Must Pace the Frontier," "Trump reiterates no slowdown"). Today's Tao discussion is a substantive, technical argument about verification vs. understanding — with the community largely rejecting caution in favor of deployment. This is a shift from *political* alignment discourse to *epistemological* alignment discourse.
+
+The most significant emerging method is **post-training dominance** (89% of compute by 4Q26 est.). If accurate, this reframes the entire field: pretraining is becoming commoditized infrastructure, and the competitive frontier is reasoning-chain synthesis and RL-style post-training. This explains the surge in coding agents and the "inductive paradigm" Chollet describes.
 
 ---
 
-## 4. Technical Deep Dive: Vega/Laya — Typed Decision Models as a Local-First Architecture
+## 4. Technical Deep Dive: The Pretraining-to-Post-Training Compute Inversion
 
-**The release.** Today's "Created laya: Introducing a new 800 Million Param physics-based typed decision model with 73k context and image support" presents Vega (and Laya) as deliberately *not* general-purpose. The specs: 800M or 4B parameters, 73,728-token context, image input, local execution. The infographic benchmarks it head-to-head against "Jev," a hosted baseline.
+The single most technically consequential item today is the SemiAnalysis data (surfaced via Chollet) showing frontier labs' training compute allocation flipping from **94% pretraining / 6% post-training in 1Q24** to an estimated **11% / 89% by 4Q26**. This isn't a marginal shift — it's a near-total inversion of where compute is spent.
 
-**The numbers that matter.**
+**The mechanism behind the shift.** Chollet's framing is the key: AI is moving from a *transductive* paradigm (predict the next token, answer completion) to an *inductive* paradigm (synthesize reasoning chains on the fly). In the transductive world, capability was baked into weights during pretraining — you scaled parameters and data. In the inductive world, capability emerges from *generating and evaluating reasoning trajectories at inference and training time*, which is fundamentally a post-training (RL, verifier-guided search, synthetic data generation) activity.
 
-| Metric | Vega 0.8B | Jev (hosted) |
-|---|---|---|
-| Phishing recall | **0.63** | 0.25 |
-| Median latency | **2.1× faster** | baseline |
-| Per-decision cost | **$0** (local) | per-call fee |
-| Image recognition (RVL-CDIP-N) | 79.3 | **89.6** (w/ Apple Vision OCR) |
+**Why this matters now.** Three forces converge:
+1. **Pretraining returns are diminishing** relative to cost — the marginal gain per pretraining FLOP is shrinking, while post-training methods (RLHF, RLVR, process reward models) show steeper capability curves.
+2. **Verifiers are cheap and scalable** — for math, code, and formal reasoning, you can automatically check correctness (Lean proofs, unit tests, execution traces), enabling massive RL loops without human labels.
+3. **Coding agents are the killer app** — exactly as Chollet notes. Code has perfect verifiers (does it compile? do tests pass?), making it the ideal domain for inductive post-training. This explains why agentic coding has exploded.
 
-The architecture's stated design principle is *"physics-based typed decisions"* — a constrained output space where the model emits typed, structured decisions rather than free text. The accuracy-vs-size comparison (Vega 4B is "slightly better but 27% slower per decision") and the task-adapter results (Vega 0.8B beats Jev on clinc150 with an adapter) show the tuning is workflow-specific, not monolithic.
+**Technical implications.** If 89% of compute is post-training, then:
+- **Data quality and verifier design** become the primary moats, not raw parameter count.
+- **Inference-time compute** (test-time search, self-consistency, tree search) becomes a first-class scaling axis — connecting directly to Tao's call for "significantly more compute hours of AI mathematics."
+- **The "post-training" label breaks down** — as commenter sebzim4500 noted, calling 90% of training "post-training" is semantically absurd. We likely need new vocabulary (e.g., "capability synthesis" vs. "knowledge acquisition").
 
-**Why this is technically different.** The dominant local-AI narrative of 2026 has been "run a big general model on small hardware" (today's Qwen 3.8 27B on a 12GB Ampere card, 200K context, is the poster child — pure quantization and memory engineering). Vega/Laya inverts the axis: instead of compressing a general model, *restrict the task space* so a tiny model can be both faster and more accurate than a hosted generalist. Phishing recall of 0.63 at 800M parameters beating a hosted model's 0.25 is not a benchmark win — it's an architectural argument that the wrong comparison was ever "param count."
+**Community reaction and caveats.** The thread was small (28 comments) but sharp. The top reply was a meme image, and the "French for John ARC-AGI" joke about Chollet reflects the community's awareness of his ARC-AGI agenda — which is itself an inductive-reasoning benchmark. The 4Q26 figure is explicitly labeled speculative, so the trend direction is more reliable than the exact endpoint.
 
-**The honest caveats, per the community.** The infographic itself concedes Jev leads in reranking and multi-step reasoning — i.e., exactly where the constrained-output trick doesn't apply. Commenters were warm but realistic (u/W61k3r: *"sorry jev bit your shit"*; u/MaxSpecs placing Laya alongside Pi and Qwen3.8 Flash Next as a "must have" toolkit member). The sub's tone suggests acceptance of a *portfolio* view: one tiny typed-decision model for routing/screening/classification, one mid-size generalist for everything else.
+**Broader ecosystem impact.** This inversion reframes several other stories today: the Qualcomm 100B-phone claim makes more sense if models are post-trained to be *efficient reasoners* rather than raw knowledge stores; the Tao debate about "explaining reasoning steps" is precisely the inductive-paradigm challenge; and the local-hardware crunch matters more if inference-time compute is the new scaling axis — because that compute must run *somewhere*, and edge devices are the logical endpoint.
 
-**Why it matters now.** Combine today's three signals — Microsoft-Decision-1 (fast decisions), GLM-5.3 Flash's refusal-driven cost advantage, and Vega/Laya's tiny typed models — and the picture is coherent: **the production value is migrating from the answer-generating model to the decision-making layer around it.** The generalist frontier (GPT-6 Luna, Grok 4.7 in the Pareto chart) increasingly sets the *ceiling*, while a growing tier of sub-1B typed models sets the *cost floor* for everything in the agent loop that doesn't need open-ended generation. For anyone building agent pipelines in late 2026, this is the most actionable architectural shift in today's data: stop asking "which big model?" and start asking "which of these fifty decisions can be a 0.8B typed call?"
+The deeper question: if pretraining is commoditized and post-training is where capability lives, then the labs' advantage shifts from "who has the most GPUs for pretraining" to "who has the best verifiers, reward models, and RL infrastructure." That's a very different competitive landscape — and one where open-source (with strong verifiable domains like code and math) may close the gap faster than the pretraining era allowed.
 
 ---
 
 ## 5. Community Highlights
 
-**r/singularity** — The volume driver: 7 of the 10 trending posts. Its content is now *meta* — governance ("Top executives at Anthropic, OpenAI..."), labor economics, and self-aware shitposting ("We've genuinely lost the plot," the 1453-comment "Glad we're focusing on the important things"). The Hugo Duminil-Copin AMA reaction is its center of gravity today, and it's revealing: the sub is split between "this is the singularity, stop complaining" and genuine empathy for displaced expertise. Its weekly top post ("Glad we're focusing on the important things," 4474) is a shitpost, which tells you the community is ironically self-diagnosing its own dopamine loop.
+**r/LocalLLaMA** — The hardware-and-hustle hub. Today it's consumed by scarcity economics (AMD price hikes, 5090 disappearance, counterfeit 4090s) and scrappy builds (BC-250 mining boards, 4× R9700 startups). The tone is equal parts ingenuity and gallows humor — "consumer GPUs are dead" coexisting with $500 rigs running 256K context. The EmbeddingGemma 2 app shows the community's appetite for polished, useful local tools over hype.
 
-**r/LocalLLaMA** — Today's true technical engine room. Its posts are relentlessly *do-this-at-home*: Qwen-Image-Turbo local instructions, GLM Cyber Index analysis, ml-drift's OpenCL/Vulkan kernel choices, the 5090 discontinuation, Vega/Laya benchmarks, and the year's hard-won lesson — *"This is the kind of stuff I love seeing on this sub. Real optimization work for normal hardware instead of another 'just buy more VRAM' answer"* (u/CoffeeToCode99 on the 27B-on-12GB post). Where r/singularity debates the future, r/LocalLLaMA *tests* it, and today the moderator's explicit decision to let the "stolen data" post stand as an argument for local hosting is the community's clearest self-definition yet.
+**r/singularity** — The philosophical and macro-trend arena. Today's dominant thread is the Tao alignment debate (800 comments), revealing a community that leans *hard* toward deployment over caution. The compute-allocation chart and Qualcomm coverage show appetite for strategic/analytical framing. Notably, the community is self-policing misrepresentation (the "Tao is actually pro-compute" corrective thread), suggesting growing sophistication.
 
-**r/LocalLLM** (smaller, distinct from LocalLLaMA) — Focused on model-vs-model pragmatism: the Mirai S (70 tok/s, 262k context, 12GB GPU, 103 upvotes), the RTX 5090 RMA saga ("and they said the software was the problem," 89 comments), and PolyStrata's four-MoE model project. This sub is quietly the home of hardware-burnout realism — the RMA thread's 89 comments are essentially a community stress test of the 5090's thermals and software stack.
+**r/LocalLLM** — Smaller but distinctive. Top post asks "Why are devs still writing Electron apps instead of Qt?" (101/165) — a developer-tooling debate that reveals the community's engineering-mindedness. The GLM-5.3-Flash 320B on M5 Ultra tutorial shows continued interest in running large models on Apple silicon.
 
-**r/AI_Agents** — Its top posts are all *production war stories*: "Is anyone using AI agents to handle customer support?" (32/39), "Dumping your whole site into the agent is making it worse" (29/20), and the painfully relatable "Anyone else built an AI agent at work and then thought 'a...'" (14/18). A distinct vernacular is forming here: the *regret-to-deployment* pipeline, where an agent demo becomes a maintenance liability.
+**r/LLMDevs** — Practical and understated. Posts focus on concrete engineering: local Codex alternatives on 5090+32GB, multi-agent coding setups with independent context, and language choice for agentic projects (Python/Go/Rust). This is where the "how do I actually build this" conversations happen.
 
-**r/LLMDevs** — Tiny but pointed: "I crashed four production AI agents mid-action. None..." (5 upvotes, 12 comments). The near-zero score with active discussion is telling — this community doesn't upvote, it troubleshoots.
+**r/AI_Agents** — The reality-check community. "Is it just me or is building AI agents harder than people make it seem?" (38/29) and "Claude with MCP is starting to feel more like an operator" (27/25) capture the gap between agent hype and agent reality. A post about logging AI agent behavior on a small website (20/12) shows interest in observability.
 
-**r/MachineLearning** — "Clarification ARR Commitment [D]" (2/14) reflects the academic calendar's rhythm: the conference review deadline dominates, and the sub is almost entirely absorbed by submission mechanics this week, a useful reminder that the academic ML community's attention cycle is decoupled from the product-release churn the other subs track.
+**r/MachineLearning** — Quiet today, with one discussion: "Has machine learning research gotten more 'wordy'?" (31/27) — a meta-commentary on writing style in the field.
 
-**Cross-cutting topics:**
-1. **Refusal-rate economics** — Bridges LocalLLaMA (GLM chart) and singularity (governance debates).
-2. **VRAM scarcity** — Bridges LocalLLaMA, LocalLLM, and singularity hardware threads.
-3. **Data provenance & local hosting** — Bridges LocalLLaMA (the scandal) and AI_Agents (production regret).
-4. **The displaced-expertise conversation** — Singularity's Hugo thread is the month's clearest cultural artifact; expect it to echo into r/MachineLearning once ARR pressure eases.
+**r/Rag** — Minimal activity, with a beginner question about starting a RAG model (6/12).
 
-**The invariant across every community today:** the frontier conversation has migrated from *"what can it do"* to *"where does it run, what does it capture, and what does it cost per decision."* That's the signature of a maturing — and increasingly adversarial — ecosystem.
+**Cross-cutting themes:**
+- **Hardware scarcity** unites r/LocalLLaMA and r/LocalLLM (Surface laptop 128GB sold out).
+- **Agent reliability** spans r/AI_Agents, r/LLMDevs, and the MD5 challenge in r/singularity.
+- **The verification/understanding debate** (Tao) connects r/singularity's philosophy to r/MachineLearning's methodology concerns.
+- **A notable gap:** the smaller communities (r/LLMDevs, r/AI_Agents, r/Rag) are far more focused on *practical friction* — context management, language choice, observability — than the big subs, which lean toward macro-trends and hardware. This suggests the practitioner layer is quietly doing the hard integration work while the larger communities debate direction.
+
+The most underappreciated insight from the smaller subs: the r/AI_Agents thread "building agents is harder than people make it seem" is the ground-truth counterweight to the r/singularity optimism — a reminder that between capability demos and deployed products lies a large, unglamorous engineering gap.
