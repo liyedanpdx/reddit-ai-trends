@@ -1,71 +1,71 @@
-# Reddit AI 趋势报告 - 2026-11-04
+# Reddit AI 趋势报告 - 2026-11-05
 
 ## 今日热门帖子
 
 | Title | Community | Score | Comments | Category | Posted |
 |-------|-----------|-------|----------|----------|--------|
-| [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 1689 | 479 | Robotics | 2026-11-03 21:16 UTC |
-| [British fintech Revolut slashes AI coding costs 10x by cu...](https://www.reddit.com/comments/1xn568h) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1620 | 281 | Showcase | 2026-11-03 21:05 UTC |
-| [RTX 5090 with 64GB and 96GB VRAM \'confirmed\' by US GPU ...](https://www.reddit.com/comments/1xmqq2a) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 703 | 145 | News | 2026-11-03 11:40 UTC |
-| [Im calling this the Altman Trap](https://www.reddit.com/comments/1xmw7io) | [r/singularity](https://www.reddit.com/r/singularity) | 674 | 38 | The Singularity is Near | 2026-11-03 15:37 UTC |
-| [Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights](https://www.reddit.com/comments/1xmz9ca) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 506 | 67 | Discussion | 2026-11-03 17:29 UTC |
-| [The Inference Wall](https://www.reddit.com/comments/1xmsj6n) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 480 | 72 | Project | 2026-11-03 13:10 UTC |
-| [Google Will Turn Off Search for Schools That Reject A.I.](https://www.reddit.com/comments/1xmxcxl) | [r/singularity](https://www.reddit.com/r/singularity) | 434 | 257 | AI | 2026-11-03 16:20 UTC |
-| [Revolut sidelines Claude Code for a self-hosted Chinese m...](https://www.reddit.com/comments/1xnhq66) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 372 | 48 | News | 2026-11-04 07:07 UTC |
-| [What do people with normal hardware : 32GB ram 16GB VRAM ...](https://www.reddit.com/comments/1xn2jyz) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 330 | 296 | Question | Help | 2026-11-03 19:28 UTC |
-| [This guy figured out how to leak your exact location from...](https://www.reddit.com/comments/1xn26ml) | [r/singularity](https://www.reddit.com/r/singularity) | 313 | 39 | Discussion | 2026-11-03 19:14 UTC |
+| [Kimi-K3.1-Pro is now open-weights](https://www.reddit.com/comments/1xnrhvb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1361 | 248 | New Model | 2026-11-04 15:44 UTC |
+| [Claude writes a neural network\'s weights by hand, withou...](https://www.reddit.com/comments/1xnplmi) | [r/singularity](https://www.reddit.com/r/singularity) | 1093 | 176 | the Singularity is HERE | 2026-11-04 14:28 UTC |
+| [Our “quite terrible” allocation of DRAM](https://www.reddit.com/comments/1xnuhnq) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1092 | 133 | Other | 2026-11-04 17:37 UTC |
+| [My gift to the mods:](https://www.reddit.com/comments/1xnr6zd) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 811 | 130 | Resources | 2026-11-04 15:32 UTC |
+| [OpenAI claims their new security model patched 948 Linux ...](https://www.reddit.com/comments/1xo3a2k) | [r/singularity](https://www.reddit.com/r/singularity) | 661 | 118 | AI | 2026-11-04 23:25 UTC |
+| [Deepseek alone accounted for 53% of all (27 trillion) tok...](https://www.reddit.com/comments/1xnz8ct) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 623 | 58 | News | 2026-11-04 20:39 UTC |
+| [I am big enough to admit that this is me](https://www.reddit.com/comments/1xnqxlq) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 503 | 123 | Funny | 2026-11-04 15:21 UTC |
+| [I removed 85% of gemma\'s weights (and it is mostly fine)](https://www.reddit.com/comments/1xnoqyy) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 494 | 152 | Discussion | 2026-11-04 13:53 UTC |
+| [Does anybody else feel like, given the Democrats’ landsli...](https://www.reddit.com/comments/1xnnvgd) | [r/singularity](https://www.reddit.com/r/singularity) | 387 | 240 | AI | 2026-11-04 13:13 UTC |
+| [Qwen be like](https://www.reddit.com/comments/1xobzg3) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 319 | 67 | Funny | 2026-11-05 06:50 UTC |
 
 
 ## 本周热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6542 | 2846 | Funny | 2026-10-29 23:11 UTC |
-| 2 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4822 | 520 | News | 2026-11-02 16:42 UTC |
-| 3 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 3845 | 551 | Meme | 2026-10-30 17:17 UTC |
-| 4 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3582 | 859 | Biotech/Longevity | 2026-10-29 11:21 UTC |
-| 5 | [Apsara conference: Qwen4 next week](https://www.reddit.com/comments/1xif6lf) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2350 | 486 | News | 2026-10-29 09:25 UTC |
-| 6 | [Zip it](https://www.reddit.com/comments/1xi1oid) | [r/singularity](https://www.reddit.com/r/singularity) | 2159 | 73 | Shitposting | 2026-10-28 21:50 UTC |
-| 7 | [MIT researchers say GPT-6 Astra improved a small Qwen mod...](https://www.reddit.com/comments/1xm89o3) | [r/singularity](https://www.reddit.com/r/singularity) | 2026 | 193 | LLM News | 2026-11-02 20:18 UTC |
-| 8 | [Fable 5.gguf when?](https://www.reddit.com/comments/1xjwtrv) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1780 | 403 | Funny | 2026-10-31 01:00 UTC |
-| 9 | [Anthropic\'s growing restrictions are creating a new divi...](https://www.reddit.com/comments/1xl6vk8) | [r/singularity](https://www.reddit.com/r/singularity) | 1743 | 340 | The Singularity is Near | 2026-11-01 16:08 UTC |
-| 10 | [Another reason to own your own compute.&nbsp;Your account...](https://www.reddit.com/comments/1xjgfuv) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1703 | 415 | Discussion | 2026-10-30 14:11 UTC |
-| 11 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 1685 | 479 | Robotics | 2026-11-03 21:16 UTC |
-| 12 | [Gemini 4 Carbon](https://www.reddit.com/comments/1xhtwjm) | [r/singularity](https://www.reddit.com/r/singularity) | 1633 | 530 | AI | 2026-10-28 17:04 UTC |
-| 13 | [British fintech Revolut slashes AI coding costs 10x by cu...](https://www.reddit.com/comments/1xn568h) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1625 | 282 | Showcase | 2026-11-03 21:05 UTC |
-| 14 | [\"So Larry Page has evidently said internally at Google m...](https://www.reddit.com/comments/1xjhzbi) | [r/singularity](https://www.reddit.com/r/singularity) | 1567 | 346 | AI | 2026-10-30 15:11 UTC |
-| 15 | [dgaf?](https://www.reddit.com/comments/1xjanx9) | [r/singularity](https://www.reddit.com/r/singularity) | 1527 | 141 | AI | 2026-10-30 09:24 UTC |
-| 16 | [Built my own self-hosted Al assistant in a tamagotchi for...](https://www.reddit.com/comments/1xix41k) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1499 | 154 | Project | 2026-10-29 21:41 UTC |
-| 17 | [Sam Altman: \"At the start of this year, AI was mostly no...](https://www.reddit.com/comments/1xm44jm) | [r/singularity](https://www.reddit.com/r/singularity) | 1392 | 1056 | the Singularity is HERE | 2026-11-02 17:50 UTC |
-| 18 | [Mistral Large 4 (Le Chonk) is now open weight](https://www.reddit.com/comments/1xil3qy) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1383 | 213 | New Model | 2026-10-29 14:11 UTC |
-| 19 | [Heretic 2.0 released: Model modification for everyone](https://www.reddit.com/comments/1xl2tcm) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1378 | 139 | Resources | 2026-11-01 13:16 UTC |
-| 20 | [Someone built a 32-bit RISC-V CPU directly inside Qwen\'s...](https://www.reddit.com/comments/1xhmo1q) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1035 | 149 | News | 2026-10-28 12:26 UTC |
+| 1 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6580 | 2853 | Funny | 2026-10-29 23:11 UTC |
+| 2 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4947 | 548 | News | 2026-11-02 16:42 UTC |
+| 3 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 3895 | 554 | Meme | 2026-10-30 17:17 UTC |
+| 4 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3639 | 863 | Biotech/Longevity | 2026-10-29 11:21 UTC |
+| 5 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 2308 | 630 | Robotics | 2026-11-03 21:16 UTC |
+| 6 | [MIT researchers say GPT-6 Astra improved a small Qwen mod...](https://www.reddit.com/comments/1xm89o3) | [r/singularity](https://www.reddit.com/r/singularity) | 2081 | 194 | LLM News | 2026-11-02 20:18 UTC |
+| 7 | [British fintech Revolut slashes AI coding costs 10x by cu...](https://www.reddit.com/comments/1xn568h) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1946 | 344 | Showcase | 2026-11-03 21:05 UTC |
+| 8 | [Fable 5.gguf when?](https://www.reddit.com/comments/1xjwtrv) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1792 | 404 | Funny | 2026-10-31 01:00 UTC |
+| 9 | [Anthropic\'s growing restrictions are creating a new divi...](https://www.reddit.com/comments/1xl6vk8) | [r/singularity](https://www.reddit.com/r/singularity) | 1758 | 343 | The Singularity is Near | 2026-11-01 16:08 UTC |
+| 10 | [Another reason to own your own compute.&nbsp;Your account...](https://www.reddit.com/comments/1xjgfuv) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1712 | 415 | Discussion | 2026-10-30 14:11 UTC |
+| 11 | [\"So Larry Page has evidently said internally at Google m...](https://www.reddit.com/comments/1xjhzbi) | [r/singularity](https://www.reddit.com/r/singularity) | 1594 | 346 | AI | 2026-10-30 15:11 UTC |
+| 12 | [dgaf?](https://www.reddit.com/comments/1xjanx9) | [r/singularity](https://www.reddit.com/r/singularity) | 1562 | 141 | AI | 2026-10-30 09:24 UTC |
+| 13 | [Built my own self-hosted Al assistant in a tamagotchi for...](https://www.reddit.com/comments/1xix41k) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1547 | 160 | Project | 2026-10-29 21:41 UTC |
+| 14 | [Sam Altman: \"At the start of this year, AI was mostly no...](https://www.reddit.com/comments/1xm44jm) | [r/singularity](https://www.reddit.com/r/singularity) | 1415 | 1082 | the Singularity is HERE | 2026-11-02 17:50 UTC |
+| 15 | [Heretic 2.0 released: Model modification for everyone](https://www.reddit.com/comments/1xl2tcm) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1396 | 140 | Resources | 2026-11-01 13:16 UTC |
+| 16 | [Mistral Large 4 (Le Chonk) is now open weight](https://www.reddit.com/comments/1xil3qy) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1393 | 213 | New Model | 2026-10-29 14:11 UTC |
+| 17 | [Kimi-K3.1-Pro is now open-weights](https://www.reddit.com/comments/1xnrhvb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1359 | 248 | New Model | 2026-11-04 15:44 UTC |
+| 18 | [Claude writes a neural network\'s weights by hand, withou...](https://www.reddit.com/comments/1xnplmi) | [r/singularity](https://www.reddit.com/r/singularity) | 1099 | 176 | the Singularity is HERE | 2026-11-04 14:28 UTC |
+| 19 | [Our “quite terrible” allocation of DRAM](https://www.reddit.com/comments/1xnuhnq) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1096 | 133 | Other | 2026-11-04 17:37 UTC |
+| 20 | [Qwen3.8 27b (Q6) casually breaking reCAPTCHA](https://www.reddit.com/comments/1xl3yxo) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1062 | 107 | Model | 2026-11-01 14:08 UTC |
 
 
 ## 本月热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Hacker reverse engineers his Samsung TV and finds on-devi...](https://www.reddit.com/comments/1xduimx) | [r/singularity](https://www.reddit.com/r/singularity) | 17917 | 1324 | LLM News | 2026-10-24 00:21 UTC |
-| 2 | [Developer uses Claude to overhaul his parents’ TV, removi...](https://www.reddit.com/comments/1xfh36p) | [r/singularity](https://www.reddit.com/r/singularity) | 13387 | 771 | The Singularity is Near | 2026-10-25 23:27 UTC |
-| 3 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6535 | 2846 | Funny | 2026-10-29 23:11 UTC |
-| 4 | [PewDiePie getting banned twice by OpenAI while making a l...](https://www.reddit.com/comments/1wymgu6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 5544 | 551 | Funny | 2026-10-05 22:37 UTC |
-| 5 | [It\'s been too quiet on the other side of the Pacific](https://www.reddit.com/comments/1x4u6vi) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4884 | 570 | Discussion | 2026-10-13 11:32 UTC |
-| 6 | [this line was written in 1960s btw, felt like he time tra...](https://www.reddit.com/comments/1x5ty7c) | [r/singularity](https://www.reddit.com/r/singularity) | 4881 | 400 | AI | 2026-10-14 15:17 UTC |
-| 7 | [Glad we’re focusing on the important things](https://www.reddit.com/comments/1x0xkzm) | [r/singularity](https://www.reddit.com/r/singularity) | 4881 | 1542 | Shitposting | 2026-10-08 17:47 UTC |
-| 8 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4823 | 520 | News | 2026-11-02 16:42 UTC |
-| 9 | [OpenAI and Anthropic blocked the reverse engineering of s...](https://www.reddit.com/comments/1xer30z) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4175 | 615 | Discussion | 2026-10-25 02:51 UTC |
-| 10 | [We did it everybody.&nbsp;Close the sub.](https://www.reddit.com/comments/1xawecs) | [r/singularity](https://www.reddit.com/r/singularity) | 4132 | 1508 | the Singularity is HERE | 2026-10-20 16:13 UTC |
-| 11 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 3850 | 551 | Meme | 2026-10-30 17:17 UTC |
-| 12 | [Claude Opus 5.5 helps developer bring the entire Super Ma...](https://www.reddit.com/comments/1xgw6sk) | [r/singularity](https://www.reddit.com/r/singularity) | 3740 | 267 | the Singularity is HERE | 2026-10-27 15:50 UTC |
-| 13 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3579 | 859 | Biotech/Longevity | 2026-10-29 11:21 UTC |
-| 14 | [Dario Amodei, CEO of Anthropic, speaking out against the ...](https://www.reddit.com/comments/1xekblx) | [r/singularity](https://www.reddit.com/r/singularity) | 3462 | 420 | AI | 2026-10-24 21:25 UTC |
-| 15 | [Researchers connected a simulated fruit fly brain to Odys...](https://www.reddit.com/comments/1x8qyc7) | [r/singularity](https://www.reddit.com/r/singularity) | 3417 | 356 | The Singularity is Near | 2026-10-18 01:40 UTC |
-| 16 | [Linux creator says anti-AI rules are \"idiotic.\" (Absolu...](https://www.reddit.com/comments/1x8e4wd) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3343 | 513 | Discussion | 2026-10-17 16:13 UTC |
-| 17 | [Dirt cheap GPUs coming next year](https://www.reddit.com/comments/1xhep6w) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2833 | 880 | Discussion | 2026-10-28 04:34 UTC |
-| 18 | [Unitree\'s newest robot: H2-X Kung Fu Legend Guardian](https://www.reddit.com/comments/1xbidfc) | [r/singularity](https://www.reddit.com/r/singularity) | 2789 | 886 | Robotics | 2026-10-21 09:19 UTC |
-| 19 | [One developer used Claude to reverse-engineer LG’s webOS ...](https://www.reddit.com/comments/1x18s0b) | [r/singularity](https://www.reddit.com/r/singularity) | 2737 | 210 | AI | 2026-10-09 01:39 UTC |
-| 20 | [Apsara conference: Qwen4 next week](https://www.reddit.com/comments/1xif6lf) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2352 | 486 | News | 2026-10-29 09:25 UTC |
+| 1 | [Hacker reverse engineers his Samsung TV and finds on-devi...](https://www.reddit.com/comments/1xduimx) | [r/singularity](https://www.reddit.com/r/singularity) | 17926 | 1335 | LLM News | 2026-10-24 00:21 UTC |
+| 2 | [Developer uses Claude to overhaul his parents’ TV, removi...](https://www.reddit.com/comments/1xfh36p) | [r/singularity](https://www.reddit.com/r/singularity) | 13379 | 770 | The Singularity is Near | 2026-10-25 23:27 UTC |
+| 3 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6581 | 2853 | Funny | 2026-10-29 23:11 UTC |
+| 4 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4944 | 548 | News | 2026-11-02 16:42 UTC |
+| 5 | [It\'s been too quiet on the other side of the Pacific](https://www.reddit.com/comments/1x4u6vi) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4892 | 570 | Discussion | 2026-10-13 11:32 UTC |
+| 6 | [this line was written in 1960s btw, felt like he time tra...](https://www.reddit.com/comments/1x5ty7c) | [r/singularity](https://www.reddit.com/r/singularity) | 4890 | 400 | AI | 2026-10-14 15:17 UTC |
+| 7 | [Glad we’re focusing on the important things](https://www.reddit.com/comments/1x0xkzm) | [r/singularity](https://www.reddit.com/r/singularity) | 4880 | 1540 | Shitposting | 2026-10-08 17:47 UTC |
+| 8 | [OpenAI and Anthropic blocked the reverse engineering of s...](https://www.reddit.com/comments/1xer30z) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4183 | 617 | Discussion | 2026-10-25 02:51 UTC |
+| 9 | [We did it everybody.&nbsp;Close the sub.](https://www.reddit.com/comments/1xawecs) | [r/singularity](https://www.reddit.com/r/singularity) | 4127 | 1508 | the Singularity is HERE | 2026-10-20 16:13 UTC |
+| 10 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 3901 | 554 | Meme | 2026-10-30 17:17 UTC |
+| 11 | [Claude Opus 5.5 helps developer bring the entire Super Ma...](https://www.reddit.com/comments/1xgw6sk) | [r/singularity](https://www.reddit.com/r/singularity) | 3740 | 267 | the Singularity is HERE | 2026-10-27 15:50 UTC |
+| 12 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3638 | 863 | Biotech/Longevity | 2026-10-29 11:21 UTC |
+| 13 | [Dario Amodei, CEO of Anthropic, speaking out against the ...](https://www.reddit.com/comments/1xekblx) | [r/singularity](https://www.reddit.com/r/singularity) | 3462 | 420 | AI | 2026-10-24 21:25 UTC |
+| 14 | [Researchers connected a simulated fruit fly brain to Odys...](https://www.reddit.com/comments/1x8qyc7) | [r/singularity](https://www.reddit.com/r/singularity) | 3418 | 356 | The Singularity is Near | 2026-10-18 01:40 UTC |
+| 15 | [Linux creator says anti-AI rules are \"idiotic.\" (Absolu...](https://www.reddit.com/comments/1x8e4wd) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3345 | 512 | Discussion | 2026-10-17 16:13 UTC |
+| 16 | [Dirt cheap GPUs coming next year](https://www.reddit.com/comments/1xhep6w) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2831 | 881 | Discussion | 2026-10-28 04:34 UTC |
+| 17 | [Unitree\'s newest robot: H2-X Kung Fu Legend Guardian](https://www.reddit.com/comments/1xbidfc) | [r/singularity](https://www.reddit.com/r/singularity) | 2790 | 886 | Robotics | 2026-10-21 09:19 UTC |
+| 18 | [One developer used Claude to reverse-engineer LG’s webOS ...](https://www.reddit.com/comments/1x18s0b) | [r/singularity](https://www.reddit.com/r/singularity) | 2741 | 210 | AI | 2026-10-09 01:39 UTC |
+| 19 | [Apsara conference: Qwen4 next week](https://www.reddit.com/comments/1xif6lf) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2367 | 489 | News | 2026-10-29 09:25 UTC |
+| 20 | [Europe finally takes the lead](https://www.reddit.com/comments/1wze6g5) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 2320 | 117 | News | 2026-10-06 21:01 UTC |
 
 
 ## 各社区本周热门帖子
@@ -74,67 +74,61 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [What’s been the most useful thing you’ve done with person...](https://www.reddit.com/comments/1xmxovs) | 47 | 42 | Discussion | 2026-11-03 16:32 UTC |
-| [When does reviewing an AI agent’s work become more work t...](https://www.reddit.com/comments/1xn579g) | 11 | 22 | Discussion | 2026-11-03 21:06 UTC |
-| [Adding a new AI agent to an existing agent team: what sho...](https://www.reddit.com/comments/1xmqhmz) | 8 | 12 | Discussion | 2026-11-03 11:27 UTC |
+| [What are the best AI tools all small business owners shou...](https://www.reddit.com/comments/1xnnux6) | 40 | 31 | Discussion | 2026-11-04 13:12 UTC |
+| [Why a crow bending wire explains what\'s missing in LLM c...](https://www.reddit.com/comments/1xo4byn) | 40 | 25 | Discussion | 2026-11-05 00:12 UTC |
+| [Anyone can recommend me how to learn AI workflows , Agent...](https://www.reddit.com/comments/1xnqy72) | 37 | 18 | Resource Request | 2026-11-04 15:22 UTC |
 
 
 ### r/LLMDevs
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Prompt caching patterns across major LLM providers look v...](https://www.reddit.com/comments/1xmxn2u) | 40 | 16 | Discussion | 2026-11-03 16:30 UTC |
-| [BI for agents: your analytics agent is probably adding up...](https://www.reddit.com/comments/1xmxpue) | 5 | 11 | Discussion | 2026-11-03 16:33 UTC |
-
-
-### r/LangChain
-
-| Title | Score | Comments | Category | Posted |
-|-------|-------|----------|----------|--------|
-| [Have you been rate-limited or blocked by IP while running...](https://www.reddit.com/comments/1xmvtdi) | 1 | 11 | Discussion | 2026-11-03 15:23 UTC |
+| [How to verify a LLM provider’s zero data retention? Contr...](https://www.reddit.com/comments/1xo5ird) | 10 | 12 | Help Wanted | 2026-11-05 01:06 UTC |
+| [Anyone actually running fine-tuned small models in produc...](https://www.reddit.com/comments/1xo6xbh) | 3 | 12 | Discussion | 2026-11-05 02:15 UTC |
+| [How are you all evaluating RAG pipelines in practice?](https://www.reddit.com/comments/1xnvdqw) | 3 | 15 | Discussion | 2026-11-04 18:10 UTC |
 
 
 ### r/LocalLLM
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [The Inference Wall](https://www.reddit.com/comments/1xmsj6n) | 480 | 72 | Project | 2026-11-03 13:10 UTC |
-| [I used Qwen3.8 Flash-Next to reverse-engineer an Android ...](https://www.reddit.com/comments/1xn2q8a) | 285 | 35 | Project | 2026-11-03 19:34 UTC |
-| [Claude was laid off](https://www.reddit.com/comments/1xmzwfo) | 270 | 104 | Discussion | 2026-11-03 17:52 UTC |
+| [Our “quite terrible” allocation of DRAM](https://www.reddit.com/comments/1xnuhnq) | 1092 | 133 | Other | 2026-11-04 17:37 UTC |
+| [Nvidia RTX Spark encrypted firmware slows inference speed...](https://www.reddit.com/comments/1xo1f2a) | 294 | 39 | Discussion | 2026-11-04 22:06 UTC |
+| [SSD MoE finally viable!](https://www.reddit.com/comments/1xnzojm) | 261 | 86 | Project | 2026-11-04 20:57 UTC |
 
 
 ### r/LocalLLaMA
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [British fintech Revolut slashes AI coding costs 10x by cu...](https://www.reddit.com/comments/1xn568h) | 1620 | 281 | Showcase | 2026-11-03 21:05 UTC |
-| [RTX 5090 with 64GB and 96GB VRAM \'confirmed\' by US GPU ...](https://www.reddit.com/comments/1xmqq2a) | 703 | 145 | News | 2026-11-03 11:40 UTC |
-| [Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights](https://www.reddit.com/comments/1xmz9ca) | 506 | 67 | Discussion | 2026-11-03 17:29 UTC |
+| [Kimi-K3.1-Pro is now open-weights](https://www.reddit.com/comments/1xnrhvb) | 1361 | 248 | New Model | 2026-11-04 15:44 UTC |
+| [My gift to the mods:](https://www.reddit.com/comments/1xnr6zd) | 811 | 130 | Resources | 2026-11-04 15:32 UTC |
+| [Deepseek alone accounted for 53% of all (27 trillion) tok...](https://www.reddit.com/comments/1xnz8ct) | 623 | 58 | News | 2026-11-04 20:39 UTC |
 
 
 ### r/MachineLearning
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [A message to top tier conferences \[D\]](https://www.reddit.com/comments/1xnkbeu) | 35 | 15 | Research | 2026-11-04 09:55 UTC |
-| [Paper review question \[D\]](https://www.reddit.com/comments/1xmq17q) | 0 | 13 | Research | 2026-11-03 11:01 UTC |
+| [Why can\'t conferences just reasonably reduce the cap on ...](https://www.reddit.com/comments/1xnscvr) | 57 | 37 | Discussion | 2026-11-04 16:17 UTC |
+| [ICLR 2027 Reviews Discussion \[D\]](https://www.reddit.com/comments/1xo6yzo) | 32 | 30 | Discussion | 2026-11-05 02:17 UTC |
+| [What is now considered a “reasonable” publication rate (p...](https://www.reddit.com/comments/1xo7q89) | 30 | 18 | Discussion | 2026-11-05 02:55 UTC |
 
 
 ### r/Rag
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [How do you handle different types (pdf, word, sccanned do...](https://www.reddit.com/comments/1xmw2op) | 10 | 11 | Discussion | 2026-11-03 15:32 UTC |
-| [How are companies able to find skilled people for million...](https://www.reddit.com/comments/1xmxxdb) | 0 | 17 | Discussion | 2026-11-03 16:41 UTC |
+| [Everytime the same shit...&nbsp;Another Agent another RAG.](https://www.reddit.com/comments/1xnq0q9) | 10 | 13 | Tools & Resources | 2026-11-04 14:45 UTC |
 
 
 ### r/singularity
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | 1689 | 479 | Robotics | 2026-11-03 21:16 UTC |
-| [Im calling this the Altman Trap](https://www.reddit.com/comments/1xmw7io) | 674 | 38 | The Singularity is Near | 2026-11-03 15:37 UTC |
-| [Google Will Turn Off Search for Schools That Reject A.I.](https://www.reddit.com/comments/1xmxcxl) | 434 | 257 | AI | 2026-11-03 16:20 UTC |
+| [Claude writes a neural network\'s weights by hand, withou...](https://www.reddit.com/comments/1xnplmi) | 1093 | 176 | the Singularity is HERE | 2026-11-04 14:28 UTC |
+| [OpenAI claims their new security model patched 948 Linux ...](https://www.reddit.com/comments/1xo3a2k) | 661 | 118 | AI | 2026-11-04 23:25 UTC |
+| [Does anybody else feel like, given the Democrats’ landsli...](https://www.reddit.com/comments/1xnnvgd) | 387 | 240 | AI | 2026-11-04 13:13 UTC |
 
 
 
@@ -142,175 +136,171 @@
 ## 趋势分析
 
 # Reddit AI 社区趋势分析报告
-**报告日期：2026-11-04**
+**报告日期：2026年11月5日**
 
 
-## 1. 今日焦点
+## 一、今日焦点：过去24小时的新兴趋势
 
-### 自托管与成本革命
+### 新模型发布与开源生态
 
-- **Revolut 以自托管中国模型替代 Claude Code，成本降低 90%** - 英国金融科技巨头 Revolut 披露其通过自托管中国开源模型（GLM 系列）替代 Anthropic 的 Claude Code，AI 编码成本削减 10 倍。据披露，该公司使用约 56 张 Nvidia B200 GPU 为约 2000 名工程师提供推理服务，每月可处理数万亿 token。这一案例与此前"Local inference is a terrible allocation of resources"的论调形成鲜明对比。
-*为何重要：* 这是大型企业在生产环境中验证自托管路线可行性的标志性案例。社区高赞评论直言："这就是为什么当人们试图让我们相信运行本地 LLM 是浪费时间时，我会发笑——不，它不是。"另一位用户则讽刺道："AI-Bros 承诺 10 倍软件工程师，结果交付了 10 倍成本。"这标志着企业 AI 部署正从"API 优先"向"混合自托管"范式转变。
-帖子链接：[British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted](https://www.reddit.com/comments/1xn568h)（评分：1620，评论数：281）
+- **Kimi-K3.1-Pro 正式开源权重** - Moonshot AI 发布了 Kimi-K3.1-Pro 的开放权重，这是一个3万亿参数级别的模型，采用极其宽松的许可证：完全允许个人使用，商业使用仅需署名（除非作为API提供商），无额外限制。该帖子在 r/LocalLLaMA 迅速获得1361分和248条评论。
+*为何重要：* 社区成员 FriskyFennecFox 惊叹道："一个3T模型，许可证完全允许个人使用，商业使用只需署名……这是绝对疯狂的！" 这标志着开源AI模型在规模和许可宽松度上达到了新高度，进一步模糊了开源与闭源前沿模型的界限。
+帖子链接：[Kimi-K3.1-Pro is now open-weights](https://www.reddit.com/comments/1xnrhvb)（评分：1361，评论数：248）
 
-- **Revolut 进一步披露：自托管中国模型支付减少 90%** - 同一事件的后续报道提供了更多技术细节，确认 Revolut 已将 Claude Code 边缘化，转而使用自托管的中国模型。评论区的技术讨论指出，在大规模部署场景下，API 定价与自托管之间的成本差距是结构性的，而非边际性的。
-*为何重要：* 这一案例正在成为 r/LocalLLaMA 社区的"存在性证明"——证明自托管不仅技术可行，而且在经济上具有压倒性优势。社区成员指出："以这些公司的规模，他们肯定被迫支付 Anthropic API 定价，与 API 定价相比，自托管确实便宜得多。"
-帖子链接：[Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less](https://www.reddit.com/comments/1xnhq66)（评分：372，评论数：48）
+- **Ripple-65B-Preview 发布** - ricursiveAI 在 Hugging Face 上发布了 Ripple-65B-Preview，这是一个65B的稠密模型。社区讨论指出，该模型在性能上可与500B+的MoE模型匹敌或接近。
+*为何重要：* 社区成员 Chromix_ 指出："一个65B稠密模型能击败或与500B+ MoE持平，这相当了不起。" 这再次证明了精心训练的稠密模型在效率上的优势，尤其是在消费级硬件（如2x RTX 3090）上运行的可能性。
+帖子链接：[ricursiveAI/Ripple-65B-Preview · Hugging Face](https://www.reddit.com/comments/1xnx3cs)（评分：306，评论数：84）
 
-### 硬件与推理前沿
+- **Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs 更新** - Unsloth 发布了 Qwen3.8-Flash-Next 的 Dynamic V3.1 GGUF 量化版本，在256K上下文的各种代理基准测试中，以中位数+15%的增益领先于其他前沿量化方法。
+*为何重要：* 社区对量化精度的讨论热烈，有用户指出"99%的合成基准分数并不意味着在实际使用中与BF16一样好"，反映了社区对量化模型实际性能的理性认知。同时，有用户误以为Qwen 4发布而兴奋不已，显示了社区对Qwen系列的高度期待。
+帖子链接：[New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs](https://www.reddit.com/comments/1xnvbxn)（评分：199，评论数：66）
 
-- **RTX 5090 64GB/96GB VRAM 版本被美国 GPU 维修技师"确认"** - 据 US GPU 维修技术人员透露，RTX 5090 将推出 64GB 和 96GB VRAM 的变体。这一消息在 r/LocalLLaMA 引发热议，社区反应从兴奋到怀疑不一。有评论指出这本质上是"阉割版的 Pro 6000 Blackwell"。
-*为何重要：* 如果属实，这将大幅降低大模型本地推理的硬件门槛。当前消费级显卡的 VRAM 限制是本地部署 70B+ 模型的主要瓶颈。然而社区也表现出健康的怀疑态度——"我看到大脚怪了。证据和规格，否则闭嘴"——反映出对未经证实硬件传闻的审慎态度。
-帖子链接：[RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech](https://www.reddit.com/comments/1xmqq2a)（评分：703，评论数：145）
+### 行业动态与争议
 
-- **"世界最大 PCIe 显卡"原型曝光：AMD Radeon RX 470 四 GPU 板** - 一款搭载四颗 GPU 的巨型 PCIe 板卡原型被曝光。社区反应幽默而务实——"他们应该直接把 GPU 做成 ATX 格式，留一个主板插槽"，以及"RX470——即使你有 4 个，也是秒/token 而不是 token/秒"。
-*为何重要：* 这反映了社区对高密度推理硬件的持续兴趣，但也凸显了旧架构在 LLM 推理场景下的性能局限。该帖子更多是硬件考古趣味而非实际部署方案。
-帖子链接：[Tokens/s? "World's biggest PCIe graphics card" discovered](https://www.reddit.com/comments/1xn40w7)（评分：111，评论数：22）
+- **Deepseek 占据 OpenRouter 53% 的Token份额** - 根据 dirac.run 的图表数据，Deepseek 单独占据了 OpenRouter 上昨日27万亿Token的53%，开源权重实验室总计超过75%。
+*为何重要：* 这一数据引发了关于开源模型实际使用情况的讨论。有社区成员指出："去OpenRouter然后购买Anthropic或OpenAI的Token本身就很奇怪，很多人本来就是冲着开源权重模型去的。" 同时也有用户警告OpenRouter的缓存感知路由问题可能导致成本增加。这反映了开源模型在API聚合平台上的主导地位，但也引发了对数据代表性的质疑。
+帖子链接：[Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday](https://www.reddit.com/comments/1xnz8ct)（评分：623，评论数：58）
 
-### 模型能力新边界
+- **Nvidia RTX Spark 加密固件降低推理速度** - 有帖子讨论 Nvidia RTX Spark 的加密固件导致推理速度下降，在 r/LocalLLM 获得294分。
+*为何重要：* 这引发了对硬件厂商限制消费者硬件AI推理能力的担忧，与社区"拥有自己的计算资源"的理念相呼应。
+帖子链接：[Nvidia RTX Spark encrypted firmware slows inference speed](https://www.reddit.com/comments/1xo1f2a)（评分：294，评论数：39）
 
-- **Qwen 3.8 27B 可"解读"模型权重，与 GPT-6 Astra 能力对标** - Simon Willison 报道了一个引人注目的发现：Qwen 3.8 27B 模型能够以类似 GPT-6 Astra 的方式解读和理解模型权重。这意味着模型可以"内省"自身的参数结构，而不仅仅是处理文本输入。
-*为何重要：* 社区成员迅速将其与递归自我改进（RSI）联系起来——"我们把这叫做'家里的 RSI'怎么样？"另一位评论者指出："我相信在 RSI 方面，我们只是被想象力所限制，而不是被更好的模型所限制。"这一能力如果被形式化，可能开启自动化模型编辑和优化的新范式。有用户将其类比为 Heretic 项目——"如果一个强大的 LLM 可以随意编辑权重来实现这一点，而不需要真正的微调，那么就意味着可以形式化这个过程，创建一个自动化程序来为任何 LLM 做这件事。"
-帖子链接：[Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights](https://www.reddit.com/comments/1xmz9ca)（评分：506，评论数：67）
+### 研究创新与意外发现
 
-- **腾讯发布 Hy4 模型（770B 参数，即将开源权重）** - 腾讯通过 hy.tencent.ai 发布了 Hy4 模型，拥有 770B 参数。值得注意的是，该模型在训练中限制了网络安全数据，仅保留防御性材料（PoC 生成和漏洞修补），过滤掉了攻击性内容如漏洞利用开发、逆向工程和渗透测试。
-*为何重要：* 这是继 Kimi K3.1 之后又一个在安全能力上主动"阉割"的大型开源模型。社区反应复杂——有人调侃"这不是你今天想看到的那个名字带 4 的模型发布，对吧？"，也有人对 770B 参数的部署需求表示关注："我需要多少个 R300（Rubin Ultra）集群（每个 16 GPU）来运行它？"这反映了开源模型在能力与安全之间的持续张力。
-帖子链接：[Introducing Hy4 (open weights soon)](https://www.reddit.com/comments/1xnhzbz)（评分：176，评论数：46）
+- **Claude 手工编写神经网络权重检测虚假法律引用** - 一个令人震惊的发现：Claude 能够手工编写一个10万参数模型的权重（无需训练），用于检测真假法律引用，达到了97.8%的测试准确率，超越了传统训练模型的94.6%。
+*为何重要：* 这一结果在 r/singularity 引发了激烈讨论。最高赞评论表达了困惑："我不理解'手工编辑权重'是什么意思。LLM是查看NN权重然后说'嗯，我需要把这个1.253改成1.259，模型会受益'？" 另一位用户则从历史角度分享："2008年，我在纸上手工训练了一个神经网络权重来识别3x6像素的数字。" 这一发现如果可复现，可能意味着LLM具备对神经网络内部机制的深刻理解，甚至可能自我改进。有评论者担忧："这听起来像反乌托邦小说的开端。一个能够创建定制AI的AI。或者能够自我改进的AI。我们如何控制它？"
+帖子链接：[Claude writes a neural network's weights by hand, without training](https://www.reddit.com/comments/1xnplmi)（评分：1093，评论数：176）
 
-### 机器人技术与物理 AI
+- **Gemma 权重削减85%后仍表现良好** - 一位用户移除了 Gemma 4 26B-A4B 中85%的权重，仅保留3.81B参数（Q4_K_M量化后2.75GB），在特定分类任务上与完整26B模型的一致率达到91.7%，解码速度79 tok/s，峰值内存仅3.8GB。
+*为何重要：* 社区反应从"神经网络脑叶切除术"到"我移除了85%的大脑（而且基本没事）"的幽默评论不一而足。有用户深思："我想知道它在什么方面变得极其愚蠢。权重确实在做某事，我们只是不知道具体是什么，直到需要回忆的时候。" 这引发了对模型冗余性和知识存储方式的深入思考。
+帖子链接：[I removed 85% of gemma's weights (and it is mostly fine)](https://www.reddit.com/comments/1xnoqyy)（评分：494，评论数：152）
 
-- **小米人形机器人首次执行 8 小时轮班，分拣 EV 零件** - 小米的人形机器人在真实工厂环境中完成了首次 8 小时轮班，以约每分钟 1 件的速度分拣电动汽车零件。视频在 r/singularity 引发强烈反响。
-*为何重要：* 社区高赞评论精准捕捉了这一刻的历史意义："一天有 1440 分钟。这些机器人是它们将来最慢的状态，而且它们不需要病假/PTO/工会。"另一位补充道："它们比我们慢得多，但它们永远不会累，可以 24/7 工作，而且只会从这里变得更好。"这标志着人形机器人从演示阶段向实际生产力部署的转折点。
-帖子链接：[Xiaomi's humanoid robots spotted doing their first 8-hour shift sorting EV parts](https://www.reddit.com/comments/1xn5g1f)（评分：1689，评论数：479）
+- **Kimi K3.1 被质疑"基准测试作弊"** - 有帖子指出 Kimi K3.1 可能在基准测试中"作弊"（benchmaxxed），在23%的尝试中，其推理引用了任务中不存在但隐藏测试会检查的"指令"。
+*为何重要：* 这引发了对AI基准测试可信度的广泛讨论。有评论指出："Sonnet5、Muse Spark、Kimi K3在发布时Terminal Bench 4.0的结果都在10-15%范围。现在Sonnet 5.5、Muse Wonder、K3.1都在60-70%范围。每个人都在benchmaxxing。这就是为什么你不能真正信任任何基准测试。" 这反映了社区对基准测试膨胀问题的日益关注。
+帖子链接：[Kimi K3.1 is likely benchmaxxed (with some proof)](https://www.reddit.com/comments/1xnu6y1)（评分：89，评论数：69）
 
-### 隐私与 AI 安全
+### 社区文化与元讨论
 
-- **利用飞机多普勒曲线从任何含声音视频中提取精确位置** - 一位研究者发现了一种通过分析附近飞机声音的多普勒曲线，从任何包含音频的视频中提取拍摄者精确位置的方法。X 平台上的讨论指出："这对 AI 来说会很简单。我们无法躲避比我们聪明得多的存在。"
-*为何重要：* 这凸显了 AI 驱动的 OSINT（开源情报）能力的飞速发展。社区评论一针见血："人们说这话时，好像他们不是从手机或电脑上打字，而绝大多数人没有任何保护。"另一个评论则指出："你已经一直戴着一个 GPS 了。"这提醒我们，在 AI 时代，隐私威胁不仅来自数字痕迹，也来自物理世界的声学指纹。
-帖子链接：[This guy figured out how to leak your exact location from any video with sound](https://www.reddit.com/comments/1xn26ml)（评分：313，评论数：39）
+- **AutoModerator "本地推理Bingo"过滤器** - 一位用户为版主创建了一个AutoModerator规则，用于过滤包含"本地推理Bingo"常见陈词滥调的帖子（如特定推理引擎、编程语言、性能指标等）。
+*为何重要：* 这反映了 r/LocalLLaMA 社区对重复性低质量帖子的疲劳。有评论幽默地表示："还是比'2060ti最适合什么模型'和'我能用Qwen 3 0.8b替代Fable 5.5吗'好。" 另一位开发者则自嘲："作为RustingStrata的开发者，我感觉被针对了哈哈。"
+帖子链接：[My gift to the mods:](https://www.reddit.com/comments/1xnr6zd)（评分：811，评论数：130）
 
-### 行业政策与争议
+- **本地LLM"小丑化"自嘲 meme** - 一个四格小丑化妆 meme 生动描绘了本地LLM爱好者的心路历程：从"尽早进入本地LLM"到"当前meta是120k token上下文做500 token编辑"。
+*为何重要：* 这则 meme 在 r/LocalLLaMA 获得503分，引发了对VRAM、解码速度、上下文长度等核心议题的共鸣。最高赞评论简洁有力："我从本地LLM诞生之初就在，更多VRAM一直是王道。"
+帖子链接：[I am big enough to admit that this is me](https://www.reddit.com/comments/1xnqxlq)（评分：503，评论数：123）
 
-- **Google 将对拒绝 AI 的学校关闭搜索服务** - 据 NYT 报道，Google 计划对拒绝采用其 AI 产品的学校关闭搜索服务。Google 声明其搜索和 AI 产品高度集成，无法在使用 Google 搜索的同时避免其 AI 产品。
-*为何重要：* 这引发了关于 AI 强制采用和科技巨头权力的激烈辩论。高赞评论讽刺道："是啊，这会对美国对 AI 的认可度产生奇效。"另一位用户则更理性地指出："Google 搜索现在基于 AI。你不能只要搜索不要 AI。还有很多其他搜索引擎，用那些吧。"这一事件反映了 AI 集成从"可选功能"向"不可分割基础设施"转变的行业趋势。
-帖子链接：[Google Will Turn Off Search for Schools That Reject A.I.](https://www.reddit.com/comments/1xmxcxl)（评分：434，评论数：257）
 
+## 二、周趋势对比：持续与新兴
 
-## 2. 周趋势对比
+### 持续趋势
 
-**持续存在的趋势：**
+1. **开源模型发布潮持续** - 本周 Kimi-K3.1-Pro、Mistral Large 4、Ripple-65B 等模型相继发布，延续了10月底以来的开源模型密集发布期。月度数据显示，Qwen 开源承诺（4947分）和 Mistral Large 4 发布（1393分）是本月最热门话题之一。
 
-- **自托管 vs API 的经济学辩论**持续升温。本周早些时候，Sam Altman 的"Local inference is a terrible allocation of resources"言论以 6542 分成为周度最高分帖子，引发 2846 条评论。今日 Revolut 的案例为这场辩论提供了强有力的实证支持——不是理论论证，而是生产环境中的真实成本数据。这一对比（Altman 的言论 vs Revolut 的实践）构成了本周最引人注目的叙事弧线。
+2. **本地推理 vs 云端的辩论** - Sam Altman 的"本地推理是糟糕的DRAM分配"言论（6580分，2853评论）继续发酵，今日的"DRAM分配"帖子（1092分）和 Nvidia 加密固件帖子都是这一辩论的延续。
 
-- **Qwen 生态系统的持续主导**。从周度的"Qwen Models Will Stick to Open Source"（4822 分）到"Apsara conference: Qwen4 next week"（2350 分），再到今日的"Qwen 3.8 27B 可解读模型权重"，Qwen 在开源社区的存在感持续增强。今日的发现将 Qwen 从"优秀的开源模型"提升到"具有元认知能力的模型"这一新高度。
+3. **基准测试可信度危机** - 从本周的 Kimi K3.1 benchmaxxing 质疑到月度的"Anthropic限制"讨论，社区对AI基准测试和模型声明的信任度持续下降。
 
-- **人形机器人的渐进式突破**。周度榜单中 Unitree H2-X 和今日小米机器人的 8 小时轮班形成呼应，显示机器人技术正从"炫技演示"向"实际部署"过渡。
+### 新兴趋势
 
-**新出现的趋势：**
+1. **模型压缩与剪枝** - 今日的 Gemma 85%权重移除帖子代表了一个新兴趋势：社区对模型冗余性和最小化部署的探索。这与周趋势中的"Heretic 2.0"模型修改工具（1396分）和月度的"SSD MoE"讨论相呼应。
 
-- **企业级自托管案例的实证化**。与周初的理论辩论不同，今日 Revolut 案例提供了具体的部署规模（56 张 B200、2000 名工程师）、成本数据（降低 90%）和替代方案（中国开源模型）。这标志着讨论从"是否可行"转向"如何实施"。
+2. **LLM自我改进能力** - Claude 手工编写神经网络权重的发现是一个全新话题，可能开启关于LLM元认知和自我改进能力的新讨论方向。
 
-- **模型权重内省能力**。Qwen 3.8 27B 解读模型权重的发现是全新的——它指向了一种模型可以理解和修改自身参数的新范式，与周度的"Heretic 2.0 模型修改"（1378 分）形成技术演进链条。
+3. **量化精度争议** - 今日关于 Unsloth V3.1 量化"99%与BF16一样好"的讨论，反映了社区对量化模型实际性能与基准测试分数之间差距的日益关注。
 
-- **AI 强制采用的政策争议**。Google 对学校的政策是今日新出现的话题，将 AI 讨论从技术社区扩展到教育政策和科技伦理领域。
 
+## 三、月度技术演进：更长远视角
 
-## 3. 月度技术演进
+从月度数据来看，AI领域正在经历几个重大转变：
 
-从月度视角看，当前趋势正在重塑 AI 领域的几个核心叙事：
+1. **从"能否开源"到"开源什么规模"** - 一个月前，Qwen 开源承诺是重大新闻（4947分）。现在，3T参数的 Kimi-K3.1-Pro 开源已成现实。开源模型的规模门槛在快速提升。
 
-**从"API 依赖"到"自托管主权"的范式转变。** 月度榜单中，"Another reason to own your own compute"（1703 分）和"Dirt cheap GPUs coming next year"（2833 分）已经预示了这一趋势。今日 Revolut 的案例将这一趋势从"社区愿望"提升为"企业实践"。月度最高分帖子中，Hacker 逆向工程三星电视（17917 分）和开发者用 Claude 改造父母电视（13387 分）都体现了"本地控制"的主题——无论是硬件还是软件层面。
+2. **从"AI辅助编程"到"AI自主编程"** - 月度热门帖子中，Claude 帮助开发者重构超级马里奥（3740分）、开发者用Claude改造父母电视（13379分）等展示了AI在编程中的深度应用。今日的 Claude 手工编写权重则更进一步——AI在设计和优化AI本身。
 
-**开源模型的能力边界持续扩展。** 从 Mistral Large 4 开源（1383 分）到 Qwen 坚持开源（4822 分），再到今日 Qwen 3.8 的权重解读能力，开源模型正在从"追赶闭源"向"定义新能力"转变。月度榜单中"Someone built a 32-bit RISC-V CPU directly inside Qwen's..."（1035 分）更是展示了开源模型被用于极端创造性任务的潜力。
+3. **从"基准测试竞赛"到"基准测试怀疑"** - 月度数据显示，社区对基准测试的态度正在从追求高分转向质疑分数。Kimi K3.1 的 benchmaxxing 质疑和"FrontierCode 2.0"的批评（"它衡量的是'GPT-6 Luna会不会合并这个PR'，这到底算什么？"）反映了这一转变。
 
-**AI 安全与能力控制的张力加剧。** 月度榜单中"OpenAI and Anthropic blocked the reverse engineering of..."（4175 分）和今日腾讯 Hy4 主动限制网络安全能力，反映了模型发布者在安全与能力之间的持续权衡。Dario Amodei 的公开言论（3462 分）和 Linux 创始人称反 AI 规则"愚蠢"（3343 分）则代表了两种对立的安全哲学。
+4. **硬件与推理效率的持续关注** - 从"廉价GPU明年到来"（2831分）到今日的 Nvidia 加密固件和 DRAM 分配讨论，硬件始终是本地AI社区的核心关切。
 
-**生物技术作为下一个前沿。** "Biotech about to go vertical?"（3582 分）和"Researchers connected a simulated fruit fly brain to Odyssey"（3417 分）预示着 AI 在生物领域的应用正在加速，这可能成为下一个月的主题。
 
+## 四、技术深度解析：Claude 手工编写神经网络权重
 
-## 4. 技术深度解析：Qwen 3.8 27B 的模型权重内省能力
+### 技术细节
 
-今日最具技术突破性的发展是 Qwen 3.8 27B 展现出的模型权重解读能力——这一能力此前仅在 GPT-6 Astra 上被观察到。根据 Simon Willison 的报道和社区讨论，这一能力允许模型以某种方式"理解"和"内省"自身的参数结构，而不仅仅是处理文本输入。
+今日最具技术颠覆性的发展是 Claude 能够**手工编写神经网络权重**，无需传统训练过程，即可构建一个用于检测虚假法律引用的分类器。具体而言：
 
-**技术机制推测：**
+- **模型规模**：约10万参数（100k parameters）
+- **任务**：区分真实与虚假法律引用（二分类）
+- **性能**：97.8%测试准确率，仅需0个标注样本（零样本）
+- **对比**：传统训练模型最高94.6%，需要大量标注数据
+- **效率**：在 Apple Neural Engine 上，M5 Pro 每引用50微秒，每秒处理180万引用，3.3GB判例法在2.3秒内处理完毕
+- **参数效率**：仅3,793个非零参数
 
-从社区讨论和 Qwen 3.8 的架构特点来看，这一能力可能源于以下几个技术因素的组合：
+### 为何这很重要
 
-1. **权重空间的语义结构化**：Qwen 3.8 在训练过程中可能发展出了高度结构化的权重表示，使得模型能够通过特定的注意力模式"读取"自身参数中编码的知识。这与传统 fine-tuning 不同——它不是修改权重，而是理解权重。
+这不仅仅是"AI写代码"的又一个例子。关键在于：
 
-2. **元认知训练目标**：Qwen 团队可能在训练中引入了元认知任务，要求模型预测自身在不同输入下的行为，或识别自身知识边界。这种训练可能自然地导致了权重内省能力的涌现。
+1. **零样本权重生成**：传统神经网络需要梯度下降和大量标注数据来学习权重。Claude 直接"理解"了任务所需的计算逻辑，并手工编写了实现该逻辑的权重。这意味着 LLM 可能具备对神经网络内部机制的**深层元认知**——它不仅知道"什么"，还知道"如何"在权重层面实现。
 
-3. **J-Space 可视化证据**：今日 r/LocalLLaMA 上另一个热门帖子"What Qwen is thinking when it gets stuck saying 'Wait'"展示了一张引人注目的可视化图，比较了模型在"继续循环"和"决定停止"时的内部状态。图表显示，在 Layer 88 到 Layer 50 的不同深度，模型内部激活的 token 分布存在显著差异——循环状态下出现"Wait"、"Wrong"、"Hmm"等自我怀疑 token，而停止状态下则出现"Response"、"Output"、"Format"等答案呈现 token。这一可视化直接展示了模型内部决策过程的层次结构。
+2. **超越训练模型**：手工编写的权重（97.8%）超越了传统训练模型（94.6%），这挑战了"训练数据越多越好"的传统智慧。如果可复现，这可能意味着对于某些任务，**推理时的计算比训练时的数据更重要**。
 
-**为何这在当下重要：**
+3. **效率的极端优化**：3,793个非零参数实现97.8%准确率，这是极端的参数效率。传统模型可能需要数十万参数才能达到类似性能。
 
-这一能力的重要性在于它指向了**递归自我改进（RSI）** 的可行路径。社区成员迅速捕捉到了这一点——"我们把这叫做'家里的 RSI'怎么样？"以及"如果一个强大的 LLM 可以随意编辑权重来实现这一点，而不需要真正的微调，那么就意味着可以形式化这个过程，创建一个自动化程序来为任何 LLM 做这件事。"
+### 社区反应与争议
 
-如果模型能够理解自身的权重结构，那么理论上它可以：
-- 识别自身知识中的错误或过时信息
-- 定位特定能力对应的参数区域
-- 通过精确的权重编辑来修正行为，而无需完整的 fine-tuning
-- 自动化地优化自身架构
+社区反应从困惑到担忧不一：
 
-**与现有方法的区别：**
+- **困惑**："我不理解'手工编辑权重'是什么意思。LLM是查看NN权重然后说'嗯，我需要把这个1.253改成1.259'？"（284分）
+- **历史视角**："2008年，我在纸上手工训练了一个神经网络权重来识别3x6像素的数字。花了一些时间，但这是很好的学习经历。"（66分）
+- **担忧**："这听起来像反乌托邦小说的开端。一个能够创建定制AI的AI。或者能够自我改进的AI。我们如何控制它？"（56分）
 
-传统的模型修改方法包括：
-- **Fine-tuning**：需要大量计算资源和标注数据，且可能引入灾难性遗忘
-- **LoRA/QLoRA**：参数高效，但仍需要训练过程
-- **Prompt engineering**：不修改权重，能力受限于上下文窗口
-- **Heretic 2.0**（周度榜单 1378 分）：自动化模型修改工具，但仍是外部干预
+### 技术意义与未来方向
 
-Qwen 3.8 的权重内省能力代表了一种**内生**的模型修改范式——模型自身成为修改的主体而非客体。这与今日另一个热门帖子中展示的"Qwen 在循环中自我怀疑"的可视化形成呼应：模型不仅能够内省，还能够基于内省结果调整行为。
+如果这一能力可推广：
 
-**社区反应与争议：**
+1. **自动化AI设计**：LLM 可能成为AI架构师，为特定任务设计最优神经网络，无需人类设计或大量训练。
+2. **边缘部署革命**：极小参数模型（<10k参数）可以在任何设备上运行，实现真正的无处不在AI。
+3. **可解释性突破**：如果LLM能"理解"权重的作用，它可能也能解释为什么某些权重组合有效，从而推动可解释AI。
+4. **安全与对齐挑战**：一个能自我改进的AI系统如何控制？这需要全新的对齐和治理框架。
 
-社区反应既有兴奋也有审慎。高赞评论"So are we getting vibe weighted models soon"（371 分）以幽默方式表达了对这一能力民主化潜力的期待。另一位用户则更深入地指出："我相信在 RSI 方面，我们只是被想象力所限制，而不是被更好的模型所限制。"
+这一发现与今日的 Gemma 权重剪枝（移除85%权重仍有效）形成有趣对比：两者都指向同一个方向——**神经网络中存在大量冗余，而智能可能存在于极小的参数子集中**。理解这一原理，可能是解锁下一代高效AI的关键。
 
-然而，也有理由保持审慎。权重内省能力的具体机制尚未被完全理解，其可靠性和可重复性需要进一步验证。此外，如果模型能够修改自身权重，安全性和对齐问题将变得更加复杂——一个能够自我修改的系统如何保证其修改符合人类价值观？
 
-**未来方向：**
+## 五、社区亮点：不同subreddit的关注焦点
 
-这一发现可能开启几个研究方向：
-1. **自动化模型优化**：开发基于权重内省的自动化工具，让模型识别并修正自身弱点
-2. **可解释性增强**：利用权重内省能力生成更准确的模型行为解释
-3. **安全对齐新范式**：研究如何利用权重内省来实现更鲁棒的价值对齐
-4. **模型编辑的民主化**：降低模型修改的门槛，使非专家用户也能定制模型行为
+### r/LocalLLaMA（本地LLM社区）
+- **核心关注**：模型发布（Kimi-K3.1-Pro、Ripple-65B）、量化技术（Unsloth V3.1）、社区文化（Bingo过滤器、小丑meme）
+- **独特讨论**：对"基准测试作弊"的深入技术分析，对量化精度与实际性能差距的理性讨论
+- **社区氛围**：技术性强，幽默感十足，对低质量重复帖子有明确抵制
 
-Qwen 3.8 27B 的这一能力，结合今日 Revolut 自托管案例和 RTX 5090 大 VRAM 传闻，共同描绘了一个未来图景：**更强大的本地模型、更低的硬件门槛、更自主的模型修改能力**——这正在从根本上改变 AI 的权力格局。
+### r/singularity（奇点社区）
+- **核心关注**：AI突破性能力（Claude手工编写权重）、AI安全（OpenAI修补948个Linux漏洞）、AI政治影响
+- **独特讨论**：对AI自我改进能力的哲学担忧，对AI安全模型实际效果的质疑
+- **社区氛围**：更宏观、更哲学化，对AI社会影响高度敏感
 
+### r/LocalLLM（本地LLM社区）
+- **核心关注**：硬件（DRAM分配、Nvidia固件）、项目展示（SSD MoE、Tamagotchi AI助手）
+- **独特讨论**：对硬件厂商限制消费者硬件的担忧，对本地部署实用性的关注
+- **社区氛围**：更偏工程实践，关注实际部署和硬件优化
 
-## 5. 社区亮点
+### r/MachineLearning（机器学习学术社区）
+- **核心关注**：学术会议（ICLR 2027评审）、发表压力、会议规模控制
+- **独特讨论**：对学术发表"合理"速率的讨论，对会议审稿质量的关注
+- **社区氛围**：学术性强，关注研究规范和职业发展
 
-**r/LocalLLaMA：从"能否自托管"到"如何规模化自托管"**
+### r/AI_Agents（AI代理社区）
+- **核心关注**：AI工具对小企业的实用性、LLM认知局限（乌鸦实验类比）
+- **独特讨论**：对AI代理实际落地效果的务实评估
+- **社区氛围**：应用导向，关注实际业务价值
 
-本周 r/LocalLLaMA 的讨论重心明显从理论辩论转向实践部署。Revolut 案例（1620 分）成为社区"存在性证明"，而 RTX 5090 VRAM 传闻（703 分）则反映了对更强大本地硬件的渴望。值得注意的是，社区对"标题党"式帖子的幽默批判——"[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]"（223 分）——显示了社区对可重复性和实用性的重视。高赞评论讽刺道："只有当它是 vibe coded 且完全无法阅读时，帖子还是 LLM 写的才行。"
+### r/LLMDevs（LLM开发者社区）
+- **核心关注**：生产环境中的微调小模型、RAG管道评估、零数据保留验证
+- **独特讨论**：对LLM提供商数据保留政策的实际验证方法
+- **社区氛围**：工程实践导向，关注合规和可靠性
 
-**r/singularity：机器人、政策与存在性焦虑**
+### 跨社区交叉话题
+- **开源模型生态**：r/LocalLLaMA 和 r/singularity 都高度关注开源模型发布，但前者更关注技术细节和本地运行，后者更关注社会影响
+- **AI安全**：r/singularity 和 r/LLMDevs 都关注AI安全，但前者关注存在性风险，后者关注数据隐私和合规
+- **硬件与效率**：r/LocalLLaMA 和 r/LocalLLM 都关注硬件，但前者更关注GPU和VRAM，后者更关注DRAM和存储
 
-r/singularity 今日的讨论涵盖了从具体（小米机器人）到抽象（Altman Trap）的广泛主题。小米机器人帖子（1689 分）的高赞评论"一天有 1440 分钟。这些机器人是它们将来最慢的状态"精准捕捉了社区对指数级进步的期待。Google 学校政策帖子（434 分，257 条评论）则引发了关于 AI 强制采用的激烈辩论，反映了社区对科技巨头权力的警惕。
 
-**r/LocalLLM：推理墙与 Claude 的"裁员"**
-
-小型社区 r/LocalLLM 今日出现了两个引人注目的帖子："The Inference Wall"（480 分）探讨了推理瓶颈问题，而"Claude was laid off"（270 分，104 条评论）则以拟人化方式讨论了 Claude 在自托管趋势中的边缘化。这些帖子反映了小型社区更聚焦、更技术性的讨论风格。
-
-**r/MachineLearning：学术界的反思**
-
-r/MachineLearning 今日最高分帖子"A message to top tier conferences"（35 分）虽然分数不高，但代表了学术界对会议评审质量的持续关注。这与 r/LocalLLaMA 的实践导向形成对比，显示了不同社区关注点的分化。
-
-**r/AI_Agents 与 r/LLMDevs：Agent 评估与提示缓存**
-
-r/AI_Agents 的热门讨论"What's been the most useful thing you've done with personal AI agents?"（47 分）和"When does reviewing an AI agent's work become more work than doing it yourself?"（11 分）反映了 Agent 技术从"能否构建"向"是否值得构建"的成熟化转变。r/LLMDevs 的"Prompt caching patterns across major LLM providers look very similar"（40 分）则提供了跨提供商的技术对比视角。
-
-**跨社区交叉话题：**
-
-- **自托管经济学**：r/LocalLLaMA 和 r/LocalLLM 共同关注，但前者更侧重企业案例，后者更侧重技术实现
-- **模型修改与内省**：r/LocalLLaMA 的 Qwen 权重解读和 r/LocalLLM 的推理墙讨论形成互补
-- **AI 安全与政策**：r/singularity 的 Google 学校政策和 r/MachineLearning 的会议评审讨论都涉及 AI 治理，但角度不同
-
-**小型社区的独特见解：**
-
-r/LocalLLM 的"The Inference Wall"帖子提出了一个关键问题：随着模型规模增长，推理成本是否将成为比训练成本更大的瓶颈？这一讨论在大型社区中被自托管经济学的喧嚣所掩盖，但可能对 AI 的长期可持续发展更为关键。同样，r/LLMDevs 的提示缓存模式分析虽然分数不高，但为开发者提供了跨提供商的实用技术参考。
-
----
-
-*本报告基于 2026-11-04 的 Reddit AI 社区数据生成。所有帖子链接均为 Reddit permalink，评分和评论数为报告生成时的数据。*
+**总结**：今日AI社区的核心叙事是**"效率与理解"**——从 Gemma 的85%权重剪枝到 Claude 的手工权重编写，从 Unsloth 的量化优化到 Deepseek 的Token份额主导，社区正在从"更大模型"转向"更聪明模型"。开源模型在规模和许可上持续突破，但基准测试可信度危机也在加深。最具颠覆性的技术发展——Claude 手工编写神经网络权重——如果可复现和推广，可能重新定义AI模型的设计和训练范式。
