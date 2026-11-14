@@ -1,71 +1,71 @@
-# Reddit AI 趋势报告 - 2026-11-13
+# Reddit AI 趋势报告 - 2026-11-14
 
 ## 今日热门帖子
 
 | Title | Community | Score | Comments | Category | Posted |
 |-------|-----------|-------|----------|----------|--------|
-| [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 4920 | 127 | Meme | 2026-11-12 22:21 UTC |
-| [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 2755 | 217 | Meme | 2026-11-12 16:36 UTC |
-| [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | [r/singularity](https://www.reddit.com/r/singularity) | 2716 | 915 | Discussion | 2026-11-12 13:58 UTC |
-| [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2111 | 367 | Discussion | 2026-11-12 17:43 UTC |
-| [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1820 | 322 | News | 2026-11-13 01:58 UTC |
-| [So this will be true in couple of years?](https://www.reddit.com/comments/1xukt9t) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1452 | 220 | Funny | 2026-11-12 18:38 UTC |
-| [Nvidia\'s Jensen Huang Resigns as CEO, Colette Kress Name...](https://www.reddit.com/comments/1xudeev) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1166 | 562 | News | 2026-11-12 13:56 UTC |
-| [‘Bring Back THE Boss’: Nvidia Employees Petition for Jens...](https://www.reddit.com/comments/1xuxxmb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1130 | 268 | News | 2026-11-13 04:03 UTC |
-| [Hugging Face CEO vows to keep fighting for open source AI...](https://www.reddit.com/comments/1xut4o7) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1045 | 94 | News | 2026-11-13 00:11 UTC |
-| [Google releases Gemini 4 Hydrogen, its new fast model, at...](https://www.reddit.com/comments/1xujwqq) | [r/singularity](https://www.reddit.com/r/singularity) | 670 | 94 | AI | 2026-11-12 18:04 UTC |
+| [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 2971 | 148 | Shitposting | 2026-11-13 15:06 UTC |
+| [The FAA rolled out its $875 million AI Air Traffic tool t...](https://www.reddit.com/comments/1xvl00y) | [r/singularity](https://www.reddit.com/r/singularity) | 1943 | 341 | AI | 2026-11-13 21:56 UTC |
+| [llama.cpp v1.0 is here 🦙](https://www.reddit.com/comments/1xv8t2e) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1625 | 194 | News | 2026-11-13 14:07 UTC |
+| [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1446 | 309 | News | 2026-11-14 03:40 UTC |
+| [Nvidia should hire Lisa.&nbsp;AMD should hire Jensen.&nbs...](https://www.reddit.com/comments/1xvf4gd) | [r/singularity](https://www.reddit.com/r/singularity) | 1108 | 70 | Shitposting | 2026-11-13 18:09 UTC |
+| [Pangram CEO: We ask for their favourite snack in our job ...](https://www.reddit.com/comments/1xvizxy) | [r/singularity](https://www.reddit.com/r/singularity) | 709 | 116 | Shitposting | 2026-11-13 20:37 UTC |
+| [Dario woke up and chose violence: \"We don\'t vague post ...](https://www.reddit.com/comments/1xvi97m) | [r/singularity](https://www.reddit.com/r/singularity) | 656 | 83 | Discussion | 2026-11-13 20:07 UTC |
+| [it feels like they just wanted Huang gone because he supp...](https://www.reddit.com/comments/1xvfh47) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 646 | 303 | News | 2026-11-13 18:22 UTC |
+| [Look what my son gave me!](https://www.reddit.com/comments/1xvbcfp) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 484 | 118 | Discussion | 2026-11-13 15:49 UTC |
+| [Fable 5.2 in threejs without any assets, just code.](https://www.reddit.com/comments/1xvqb28) | [r/singularity](https://www.reddit.com/r/singularity) | 439 | 49 | AI | 2026-11-14 01:57 UTC |
 
 
 ## 本周热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 4924 | 127 | Meme | 2026-11-12 22:21 UTC |
-| 2 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 2756 | 217 | Meme | 2026-11-12 16:36 UTC |
-| 3 | [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | [r/singularity](https://www.reddit.com/r/singularity) | 2721 | 915 | Discussion | 2026-11-12 13:58 UTC |
-| 4 | [Ts is too funny](https://www.reddit.com/comments/1xtjj5g) | [r/singularity](https://www.reddit.com/r/singularity) | 2438 | 82 | Meme | 2026-11-11 14:44 UTC |
-| 5 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2119 | 368 | Discussion | 2026-11-12 17:43 UTC |
-| 6 | [Jensen does not run his personal life in single thread](https://www.reddit.com/comments/1xrr40n) | [r/singularity](https://www.reddit.com/r/singularity) | 2032 | 79 | Meme | 2026-11-09 13:03 UTC |
-| 7 | [Stanford researchers develop a new AI memory system that ...](https://www.reddit.com/comments/1xpabzx) | [r/singularity](https://www.reddit.com/r/singularity) | 1981 | 139 | The Singularity is Near | 2026-11-06 11:17 UTC |
-| 8 | [Me when Chinese models](https://www.reddit.com/comments/1xsrvhm) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1961 | 41 | Other | 2026-11-10 16:46 UTC |
-| 9 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1829 | 323 | News | 2026-11-13 01:58 UTC |
-| 10 | [Claude Fable 5.2 built a playable Gears of War clone in U...](https://www.reddit.com/comments/1xs1y29) | [r/singularity](https://www.reddit.com/r/singularity) | 1803 | 589 | the Singularity is HERE | 2026-11-09 19:57 UTC |
-| 11 | [Reuters: \"The CEO\'s relationship with Alice Huang helpe...](https://www.reddit.com/comments/1xsucqc) | [r/singularity](https://www.reddit.com/r/singularity) | 1715 | 330 | Compute | 2026-11-10 18:19 UTC |
-| 12 | [The Adeptus Mechanicus welcomes its first mathematics dep...](https://www.reddit.com/comments/1xsivix) | [r/singularity](https://www.reddit.com/r/singularity) | 1547 | 1294 | The Singularity is Near | 2026-11-10 09:49 UTC |
-| 13 | [So this will be true in couple of years?](https://www.reddit.com/comments/1xukt9t) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1458 | 220 | Funny | 2026-11-12 18:38 UTC |
-| 14 | [A second affair has hit the Jensen](https://www.reddit.com/comments/1xtvbqj) | [r/singularity](https://www.reddit.com/r/singularity) | 1407 | 128 | Meme | 2026-11-11 22:12 UTC |
-| 15 | [We are cooked.&nbsp;My QFN 3.8 NVFP4 just drew a dog free...](https://www.reddit.com/comments/1xpmvf2) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1290 | 202 | Showcase | 2026-11-06 20:12 UTC |
-| 16 | [Qwopeful 🤞🏼](https://www.reddit.com/comments/1xr1ax4) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1266 | 247 | News | 2026-11-08 15:41 UTC |
-| 17 | [No GPT-6.2, no Fable 5.5, no Qwen 4](https://www.reddit.com/comments/1xpo0j3) | [r/singularity](https://www.reddit.com/r/singularity) | 1255 | 111 | Meme | 2026-11-06 20:59 UTC |
-| 18 | [Theo, a wheeled humanoid robot, now works at a Zurich sup...](https://www.reddit.com/comments/1xqjk2e) | [r/singularity](https://www.reddit.com/r/singularity) | 1252 | 525 | Robotics | 2026-11-07 23:07 UTC |
-| 19 | [\"Does censorship exist in \[country\]?\", according to v...](https://www.reddit.com/comments/1xr09nq) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1237 | 442 | Funny | 2026-11-08 14:56 UTC |
-| 20 | [Skyrim modder uses AI to help reverse-engineer the game\'...](https://www.reddit.com/comments/1xrvqoo) | [r/singularity](https://www.reddit.com/r/singularity) | 1231 | 94 | The Singularity is Near | 2026-11-09 16:10 UTC |
+| 1 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6200 | 157 | Meme | 2026-11-12 22:21 UTC |
+| 2 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3322 | 243 | Meme | 2026-11-12 16:36 UTC |
+| 3 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3033 | 591 | News | 2026-11-13 01:58 UTC |
+| 4 | [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 2975 | 149 | Shitposting | 2026-11-13 15:06 UTC |
+| 5 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2969 | 507 | Discussion | 2026-11-12 17:43 UTC |
+| 6 | [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | [r/singularity](https://www.reddit.com/r/singularity) | 2742 | 932 | Discussion | 2026-11-12 13:58 UTC |
+| 7 | [Ts is too funny](https://www.reddit.com/comments/1xtjj5g) | [r/singularity](https://www.reddit.com/r/singularity) | 2515 | 83 | Meme | 2026-11-11 14:44 UTC |
+| 8 | [Jensen does not run his personal life in single thread](https://www.reddit.com/comments/1xrr40n) | [r/singularity](https://www.reddit.com/r/singularity) | 2043 | 79 | Meme | 2026-11-09 13:03 UTC |
+| 9 | [Me when Chinese models](https://www.reddit.com/comments/1xsrvhm) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 2037 | 41 | Other | 2026-11-10 16:46 UTC |
+| 10 | [The FAA rolled out its $875 million AI Air Traffic tool t...](https://www.reddit.com/comments/1xvl00y) | [r/singularity](https://www.reddit.com/r/singularity) | 1943 | 341 | AI | 2026-11-13 21:56 UTC |
+| 11 | [‘Bring Back THE Boss’: Nvidia Employees Petition for Jens...](https://www.reddit.com/comments/1xuxxmb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1936 | 551 | News | 2026-11-13 04:03 UTC |
+| 12 | [Claude Fable 5.2 built a playable Gears of War clone in U...](https://www.reddit.com/comments/1xs1y29) | [r/singularity](https://www.reddit.com/r/singularity) | 1823 | 606 | the Singularity is HERE | 2026-11-09 19:57 UTC |
+| 13 | [So this will be true in couple of years?](https://www.reddit.com/comments/1xukt9t) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1780 | 260 | Funny | 2026-11-12 18:38 UTC |
+| 14 | [Reuters: \"The CEO\'s relationship with Alice Huang helpe...](https://www.reddit.com/comments/1xsucqc) | [r/singularity](https://www.reddit.com/r/singularity) | 1720 | 329 | Compute | 2026-11-10 18:19 UTC |
+| 15 | [llama.cpp v1.0 is here 🦙](https://www.reddit.com/comments/1xv8t2e) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1626 | 194 | News | 2026-11-13 14:07 UTC |
+| 16 | [The Adeptus Mechanicus welcomes its first mathematics dep...](https://www.reddit.com/comments/1xsivix) | [r/singularity](https://www.reddit.com/r/singularity) | 1565 | 1301 | The Singularity is Near | 2026-11-10 09:49 UTC |
+| 17 | [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1449 | 311 | News | 2026-11-14 03:40 UTC |
+| 18 | [A second affair has hit the Jensen](https://www.reddit.com/comments/1xtvbqj) | [r/singularity](https://www.reddit.com/r/singularity) | 1418 | 130 | Meme | 2026-11-11 22:12 UTC |
+| 19 | [Hugging Face CEO vows to keep fighting for open source AI...](https://www.reddit.com/comments/1xut4o7) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1391 | 116 | News | 2026-11-13 00:11 UTC |
+| 20 | [Qwopeful 🤞🏼](https://www.reddit.com/comments/1xr1ax4) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1266 | 247 | News | 2026-11-08 15:41 UTC |
 
 
 ## 本月热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Hacker reverse engineers his Samsung TV and finds on-devi...](https://www.reddit.com/comments/1xduimx) | [r/singularity](https://www.reddit.com/r/singularity) | 18029 | 1361 | LLM News | 2026-10-24 00:21 UTC |
-| 2 | [Developer uses Claude to overhaul his parents’ TV, removi...](https://www.reddit.com/comments/1xfh36p) | [r/singularity](https://www.reddit.com/r/singularity) | 13433 | 772 | The Singularity is Near | 2026-10-25 23:27 UTC |
-| 3 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6686 | 2874 | Funny | 2026-10-29 23:11 UTC |
-| 4 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 5297 | 586 | News | 2026-11-02 16:42 UTC |
-| 5 | [this line was written in 1960s btw, felt like he time tra...](https://www.reddit.com/comments/1x5ty7c) | [r/singularity](https://www.reddit.com/r/singularity) | 4946 | 400 | AI | 2026-10-14 15:17 UTC |
-| 6 | [OpenAI and Anthropic blocked the reverse engineering of s...](https://www.reddit.com/comments/1xer30z) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4219 | 626 | Discussion | 2026-10-25 02:51 UTC |
-| 7 | [We did it everybody.&nbsp;Close the sub.](https://www.reddit.com/comments/1xawecs) | [r/singularity](https://www.reddit.com/r/singularity) | 4141 | 1507 | the Singularity is HERE | 2026-10-20 16:13 UTC |
-| 8 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 3993 | 556 | Meme | 2026-10-30 17:17 UTC |
-| 9 | [Claude Opus 5.5 helps developer bring the entire Super Ma...](https://www.reddit.com/comments/1xgw6sk) | [r/singularity](https://www.reddit.com/r/singularity) | 3763 | 266 | the Singularity is HERE | 2026-10-27 15:50 UTC |
+| 1 | [Hacker reverse engineers his Samsung TV and finds on-devi...](https://www.reddit.com/comments/1xduimx) | [r/singularity](https://www.reddit.com/r/singularity) | 18045 | 1361 | LLM News | 2026-10-24 00:21 UTC |
+| 2 | [Developer uses Claude to overhaul his parents’ TV, removi...](https://www.reddit.com/comments/1xfh36p) | [r/singularity](https://www.reddit.com/r/singularity) | 13436 | 772 | The Singularity is Near | 2026-10-25 23:27 UTC |
+| 3 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6693 | 2872 | Funny | 2026-10-29 23:11 UTC |
+| 4 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6204 | 157 | Meme | 2026-11-12 22:21 UTC |
+| 5 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 5303 | 587 | News | 2026-11-02 16:42 UTC |
+| 6 | [OpenAI and Anthropic blocked the reverse engineering of s...](https://www.reddit.com/comments/1xer30z) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4218 | 626 | Discussion | 2026-10-25 02:51 UTC |
+| 7 | [We did it everybody.&nbsp;Close the sub.](https://www.reddit.com/comments/1xawecs) | [r/singularity](https://www.reddit.com/r/singularity) | 4142 | 1506 | the Singularity is HERE | 2026-10-20 16:13 UTC |
+| 8 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 4000 | 558 | Meme | 2026-10-30 17:17 UTC |
+| 9 | [Claude Opus 5.5 helps developer bring the entire Super Ma...](https://www.reddit.com/comments/1xgw6sk) | [r/singularity](https://www.reddit.com/r/singularity) | 3774 | 266 | the Singularity is HERE | 2026-10-27 15:50 UTC |
 | 10 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3655 | 862 | Biotech/Longevity | 2026-10-29 11:21 UTC |
-| 11 | [Dario Amodei, CEO of Anthropic, speaking out against the ...](https://www.reddit.com/comments/1xekblx) | [r/singularity](https://www.reddit.com/r/singularity) | 3472 | 419 | AI | 2026-10-24 21:25 UTC |
-| 12 | [Researchers connected a simulated fruit fly brain to Odys...](https://www.reddit.com/comments/1x8qyc7) | [r/singularity](https://www.reddit.com/r/singularity) | 3424 | 355 | The Singularity is Near | 2026-10-18 01:40 UTC |
+| 11 | [Dario Amodei, CEO of Anthropic, speaking out against the ...](https://www.reddit.com/comments/1xekblx) | [r/singularity](https://www.reddit.com/r/singularity) | 3477 | 419 | AI | 2026-10-24 21:25 UTC |
+| 12 | [Researchers connected a simulated fruit fly brain to Odys...](https://www.reddit.com/comments/1x8qyc7) | [r/singularity](https://www.reddit.com/r/singularity) | 3430 | 355 | The Singularity is Near | 2026-10-18 01:40 UTC |
 | 13 | [Linux creator says anti-AI rules are \"idiotic.\" (Absolu...](https://www.reddit.com/comments/1x8e4wd) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3390 | 511 | Discussion | 2026-10-17 16:13 UTC |
-| 14 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 3296 | 793 | Robotics | 2026-11-03 21:16 UTC |
-| 15 | [Dirt cheap GPUs coming next year](https://www.reddit.com/comments/1xhep6w) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2863 | 886 | Discussion | 2026-10-28 04:34 UTC |
-| 16 | [Unitree\'s newest robot: H2-X Kung Fu Legend Guardian](https://www.reddit.com/comments/1xbidfc) | [r/singularity](https://www.reddit.com/r/singularity) | 2797 | 887 | Robotics | 2026-10-21 09:19 UTC |
-| 17 | [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | [r/singularity](https://www.reddit.com/r/singularity) | 2719 | 915 | Discussion | 2026-11-12 13:58 UTC |
-| 18 | [Maybe we\'ll get cheap RAM for Christmas after all!](https://www.reddit.com/comments/1xovnaa) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2580 | 531 | Discussion | 2026-11-05 22:00 UTC |
-| 19 | [Ts is too funny](https://www.reddit.com/comments/1xtjj5g) | [r/singularity](https://www.reddit.com/r/singularity) | 2442 | 82 | Meme | 2026-11-11 14:44 UTC |
-| 20 | [Apsara conference: Qwen4 next week](https://www.reddit.com/comments/1xif6lf) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2373 | 493 | News | 2026-10-29 09:25 UTC |
+| 14 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3321 | 243 | Meme | 2026-11-12 16:36 UTC |
+| 15 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 3297 | 793 | Robotics | 2026-11-03 21:16 UTC |
+| 16 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3036 | 591 | News | 2026-11-13 01:58 UTC |
+| 17 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2967 | 507 | Discussion | 2026-11-12 17:43 UTC |
+| 18 | [Dirt cheap GPUs coming next year](https://www.reddit.com/comments/1xhep6w) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2868 | 885 | Discussion | 2026-10-28 04:34 UTC |
+| 19 | [Unitree\'s newest robot: H2-X Kung Fu Legend Guardian](https://www.reddit.com/comments/1xbidfc) | [r/singularity](https://www.reddit.com/r/singularity) | 2799 | 887 | Robotics | 2026-10-21 09:19 UTC |
+| 20 | [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | [r/singularity](https://www.reddit.com/r/singularity) | 2741 | 932 | Discussion | 2026-11-12 13:58 UTC |
 
 
 ## 各社区本周热门帖子
@@ -74,187 +74,241 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [AI Fatigue](https://www.reddit.com/comments/1xubjxp) | 117 | 61 | Discussion | 2026-11-12 12:30 UTC |
-| [what should an AI support bot do when your business liter...](https://www.reddit.com/comments/1xua0oe) | 13 | 17 | Discussion | 2026-11-12 11:06 UTC |
-| [I think AI agents should be judged by the meeting they el...](https://www.reddit.com/comments/1xurzar) | 11 | 13 | Discussion | 2026-11-12 23:20 UTC |
+| [What I\'m doing with my AI Agents as a normal person](https://www.reddit.com/comments/1xvs8tr) | 39 | 31 | Discussion | 2026-11-14 03:36 UTC |
+| [What\'s the best open-source tool for building AI agents ...](https://www.reddit.com/comments/1xv94c7) | 23 | 26 | Discussion | 2026-11-13 14:20 UTC |
+| [Would you roll voice AI out by call type or by percentage...](https://www.reddit.com/comments/1xv71uz) | 21 | 22 | Discussion | 2026-11-13 12:50 UTC |
 
 
 ### r/LLMDevs
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [What are you still not letting your agents do?](https://www.reddit.com/comments/1xuw5lc) | 7 | 14 | Discussion | 2026-11-13 02:34 UTC |
-| [Local models have gotten so much better.&nbsp;Local model...](https://www.reddit.com/comments/1xuc0xe) | 0 | 11 | Resource | 2026-11-12 12:54 UTC |
-
-
-### r/LangChain
-
-| Title | Score | Comments | Category | Posted |
-|-------|-------|----------|----------|--------|
-| [Can individually safe tool calls create an unsafe outcome?](https://www.reddit.com/comments/1xud06j) | 0 | 12 | Discussion | 2026-11-12 13:39 UTC |
+| [What are the best AI agent platforms for an enterprise ro...](https://www.reddit.com/comments/1xvv3n1) | 9 | 15 | Discussion | 2026-11-14 06:14 UTC |
+| [Agile was a revolution against waterfall.&nbsp;Does AI sl...](https://www.reddit.com/comments/1xvn9xk) | 7 | 22 | Discussion | 2026-11-13 23:33 UTC |
 
 
 ### r/LocalLLM
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Aged like fine wine](https://www.reddit.com/comments/1xuiw34) | 509 | 41 | News | 2026-11-12 17:27 UTC |
-| [Uncensored models are awesome](https://www.reddit.com/comments/1xutc35) | 408 | 181 | Discussion | 2026-11-13 00:20 UTC |
-| [Confession: I’m rubber-stamping LLM code and my brain is ...](https://www.reddit.com/comments/1xue7nd) | 279 | 117 | Discussion | 2026-11-12 14:29 UTC |
+| [it feels like they just wanted Huang gone because he supp...](https://www.reddit.com/comments/1xvfh47) | 646 | 303 | News | 2026-11-13 18:22 UTC |
+| [Oh my, what do I do?](https://www.reddit.com/comments/1xvqubr) | 397 | 141 | Question | 2026-11-14 02:25 UTC |
+| [Decommissioned some servers at work today :)](https://www.reddit.com/comments/1xvnfpe) | 99 | 31 | Project | 2026-11-13 23:41 UTC |
 
 
 ### r/LocalLLaMA
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | 2111 | 367 | Discussion | 2026-11-12 17:43 UTC |
-| [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | 1820 | 322 | News | 2026-11-13 01:58 UTC |
-| [So this will be true in couple of years?](https://www.reddit.com/comments/1xukt9t) | 1452 | 220 | Funny | 2026-11-12 18:38 UTC |
+| [llama.cpp v1.0 is here 🦙](https://www.reddit.com/comments/1xv8t2e) | 1625 | 194 | News | 2026-11-13 14:07 UTC |
+| [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | 1446 | 309 | News | 2026-11-14 03:40 UTC |
+| [Look what my son gave me!](https://www.reddit.com/comments/1xvbcfp) | 484 | 118 | Discussion | 2026-11-13 15:49 UTC |
 
 
 ### r/MachineLearning
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [CVPR 2027 Author enrollment form \[D\]](https://www.reddit.com/comments/1xue879) | 21 | 27 | Discussion | 2026-11-12 14:30 UTC |
-| [What if NeurIPS, ICML, and ICLR capped accepted papers at...](https://www.reddit.com/comments/1xugl6c) | 19 | 28 | Discussion | 2026-11-12 16:02 UTC |
+| [ICML 2027 Changes \[D\]](https://www.reddit.com/comments/1xvkxbj) | 67 | 32 | Discussion | 2026-11-13 21:53 UTC |
+| [Back Propagation \[D\]](https://www.reddit.com/comments/1xvnob6) | 2 | 12 | Discussion | 2026-11-13 23:52 UTC |
 
 
 ### r/singularity
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | 4920 | 127 | Meme | 2026-11-12 22:21 UTC |
-| [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | 2755 | 217 | Meme | 2026-11-12 16:36 UTC |
-| [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | 2716 | 915 | Discussion | 2026-11-12 13:58 UTC |
+| [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | 2971 | 148 | Shitposting | 2026-11-13 15:06 UTC |
+| [The FAA rolled out its $875 million AI Air Traffic tool t...](https://www.reddit.com/comments/1xvl00y) | 1943 | 341 | AI | 2026-11-13 21:56 UTC |
+| [Nvidia should hire Lisa.&nbsp;AMD should hire Jensen.&nbs...](https://www.reddit.com/comments/1xvf4gd) | 1108 | 70 | Shitposting | 2026-11-13 18:09 UTC |
 
 
 
 
 ## 趋势分析
 
-# Reddit AI 趋势分析报告 — 2026-11-13
+# Reddit AI 社区趋势分析报告
+**报告日期：2026年11月14日**
+
 
 ## 1. 今日焦点
 
-### 行业地震：Jensen Huang 辞任 NVIDIA CEO
+过去24小时的讨论被一个戏剧性事件主导：**Jensen Huang（黄仁勋）据报已从NVIDIA卸任**，这一消息在r/singularity和r/LocalLLaMA等社区引发了海啸般的反应。与此同时，技术社区也迎来了几个重要的技术里程碑。
 
-- **NVIDIA CEO Jensen Huang 因涉嫌多起婚外情辞职，Colette Kress 出任临时CEO** — 据 Bloomberg 报道，NVIDIA 董事会在评估 Jensen Huang 与 Alice Huang 等人的关系后，Huang 正式辞去 CEO 一职，由 CFO Colette Kress 担任临时 CEO。这一消息在 r/singularity 和 r/LocalLLaMA 同时引爆，r/singularity 的讨论帖获得 2716 分和 915 条评论，成为今日评论量最高的帖子。
-*为何重要：* 这不仅是 NVIDIA 成立以来最重大的领导层变动，更直接牵动整个 AI 硬件生态的走向。社区反应呈现明显的两极分化——有人震惊于"这种事居然真的会导致辞职"，也有人认为这是"协调的政治行动"。
-帖子链接：[Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3)（评分：2716，评论数：915）
+### 行业地震：Jensen Huang 卸任风波
 
-- **NVIDIA 员工发起"Bring Back THE Boss"请愿** — Wired 报道称，NVIDIA 内部员工正在组织请愿，要求 Jensen Huang 回归。请愿者认为 Huang 是"不可替代的"领导者——他创立了 NVIDIA，带领公司从濒临破产走向游戏 GPU 霸主，再转型为 AI 革命的核心基础设施提供商。
-*为何重要：* 员工请愿反映出 Huang 在 NVIDIA 内部的深厚影响力，也暗示临时管理层可能面临内部阻力。社区评论中有人指出"无论爱他还是恨他，他都证明了自己是一位有能力的领导者"，也有人怀疑"美国政府部门或私人企业势力想让他离开"。
-帖子链接：[‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return](https://www.reddit.com/comments/1xuxxmb)（评分：1130，评论数：268）
+- **Jensen Huang 卸任NVIDIA CEO** - 据多个帖子报道，Jensen Huang已不再担任NVIDIA CEO。r/singularity上一条标题为"Jensen Huang Resigns"的讨论帖获得了2742分和932条评论，成为本周最具争议性的话题。社区情绪复杂——从震惊到讽刺性庆祝，再到对其"过于支持LocalAI"立场的怀念，各种声音交织。
+*为何重要：* 这标志着AI硬件领域一个时代的潜在终结。Huang在任期间将NVIDIA打造成AI计算领域的绝对霸主，但其个人丑闻（涉及多起"affair"报道）和争议性商业决策（如据报资助AI初创公司以吸收过剩芯片产能）最终导致了这一结局。正如一位评论者尖锐指出的："他用自己创造的AI技术被用来嘲讽他自己，这种讽刺感令人难以置信。"
+帖子链接：[Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3)（评分：2742，评论数：932）
 
-- **Jensen Huang 的"亲本地AI"立场被视为辞职的深层原因** — 一篇在 r/LocalLLaMA 获得 2111 分的讨论帖引用 Alex Chee 的推文，详述了 Huang 如何在 7 分钟内回复邮件、批准 NVIDIA 总部"war room"支持 exolabs 团队将本地 AI 性能提升 9.6 倍。帖子作者认为，Huang 对开源和本地 AI 的支持威胁到了即将 IPO 的 ClosedAI 和 Anthropic 等公司。
-*为何重要：* 这揭示了社区对事件背后动机的深层猜测——技术路线之争（本地 vs 云端）可能比表面的人事变动更具决定性。最高赞评论一针见血："他不是亲本地AI，他是亲GPU销售。" 但也有评论反驳："你们这些人疯狂地仇恨一个素不相识的人，编造阴谋论。"
-帖子链接：[Jensen Huang's mistake was being too pro LocalAI](https://www.reddit.com/comments/1xujb7c)（评分：2111，评论数：367）
+- **NVIDIA被指向AI初创公司注资以吸收过剩芯片** - 一则爆炸性报道称，Jensen Huang在任期间不是选择降低GPU价格，而是资助AI初创公司来吸收过剩的芯片产能，从而维持"芯片短缺"的市场假象。这一消息在r/LocalLLaMA上获得了1446分和309条评论。
+*为何重要：* 这直接触及了本地AI社区的核心痛点——GPU价格居高不下。社区成员愤怒地指出："他支持开源模型只是因为那是在向矿工卖铲子。"另一位用户评论道："过去十年我们学到的最重要一课，就是企业在'价值观'方面有多么虚伪。"
+帖子链接：[Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon](https://www.reddit.com/comments/1xvsb5f)（评分：1446，评论数：309）
 
-- **更多关于 Huang 快速响应文化的轶事浮出水面** — Simon Mo（vLLM 项目）分享了一个故事：今年 3 月，Inferact 的计算提供商收回容量，阻碍了 Blackwell 上 vLLM 的开发。他给 Huang 发邮件，Huang 在同一分钟内回复"我们能帮什么忙？"，问题在一夜之间解决。另一位用户 Alex Cheema 也分享了类似经历。
-*为何重要：* 这些故事塑造了一个"亲力亲为、极速响应"的 CEO 形象，与官方辞职理由形成鲜明对比，进一步加深了社区对事件背后动机的怀疑。一位高赞评论写道："你只需要去做就行了。我的企业家朋友向我展示他们冷邮件 CEO 并得到回复时，对我来说是个'震惊'时刻。"
-帖子链接：[Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw)（评分：1820，评论数：322）
-
-### 开源AI阵营的回应与焦虑
-
-- **Hugging Face CEO 誓言继续为开源AI而战** — 在 Huang 离职后，Hugging Face CEO 公开表态将继续推动开源 AI 发展。TechCrunch 报道了这一消息，但社区反应并不乐观——最高赞评论指出"他不得不说这句话本身就有点不祥。已经有传言称 HF 的收购将被阻止。"
-*为何重要：* 这反映出开源 AI 社区对失去 NVIDIA 这位关键盟友的焦虑。另一位评论者警告："下载并存储你无限制的大模型吧，孩子们。" 暗示未来开源模型的可获取性可能收紧。
-帖子链接：[Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit](https://www.reddit.com/comments/1xut4o7)（评分：1045，评论数：94）
+- **NVIDIA员工发起"Bring Back THE Boss"请愿** - 在Huang卸任消息传出后，NVIDIA内部员工发起请愿要求其回归，该帖子在r/LocalLLaMA获得1936分和551条评论。社区对此反应分裂——有人同情员工的忠诚，有人则认为这是对系统性问题的误判。
+*为何重要：* 这反映了Huang在NVIDIA内部的影响力以及公司文化对其个人的高度依赖，同时也引发了关于科技公司治理和创始人崇拜的讨论。
+帖子链接：[‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen...](https://www.reddit.com/comments/1xuxxmb)（评分：1936，评论数：551）
 
 ### 新模型发布与性能突破
 
-- **Google 发布 Gemini 4 Hydrogen 快速模型** — 在 r/singularity 获得 670 分，Gemini 4 系列新增"Hydrogen"变体，定位为快速推理模型。具体规格尚未在帖子标题中详述，但属于 Google 持续扩展 Gemini 4 家族（Carbon、Argon、Hydrogen）的一部分。
-*为何重要：* 在 NVIDIA 领导层动荡之际，Google 继续稳步推进模型迭代，显示出大厂在硬件供应链不确定性下的韧性。社区讨论相对平静，更多关注点在 Huang 事件上。
-帖子链接：[Google releases Gemini 4 Hydrogen, its new fast model](https://www.reddit.com/comments/1xujwqq)（评分：670，评论数：94）
+- **llama.cpp v1.0 正式发布** - 本地AI社区期待已久的里程碑终于到来！llama.cpp发布了v1.0版本，这是该项目从实验性工具成长为本地LLM推理核心基础设施的重要标志。该帖子在r/LocalLLaMA获得1625分和194条评论。
+*为何重要：* 正如一位社区成员深情地写道："没有这个项目，我永远不会学到我在本地运行模型过程中所学到的一切。致敬。"另一位用户则务实地指出："请为项目增加更多维护者，有大量的开放issue和PR等待处理。"这既是对项目成就的庆祝，也是对可持续发展的呼吁。
+帖子链接：[llama.cpp v1.0 is here 🦙](https://www.reddit.com/comments/1xv8t2e)（评分：1625，评论数：194）
 
-- **Ernie 5.5 Flash Preview 以低参数实现强劲性能** — 百度发布 Ernie 5.5 Flash Preview，仅 280B 总参数、14B 激活参数，在 Agentic Coding Index 上表现强劲。根据帖子中的柱状图，该模型在包含 Terminal-Bench v4.0、DeepSWE v1.1、SWE-bench Pro 等 12 项基准的复合评分中表现突出，虽未进入前三（Claude Fable 5.2 max 以 100.3 分居首），但在同等参数规模中属于领先水平。
-*为何重要：* 社区评论指出"DS Flash 在编码水平上以一半参数达到同等水平，令人印象深刻的新来者！"这标志着 MoE 架构在效率上的持续突破——用更少的激活参数实现接近前沿模型的编码能力。
-帖子链接：[New Model "Ernie 5.5 Flash Preview" hits strongly at a low parameter count](https://www.reddit.com/comments/1xune1i)（评分：169，评论数：59）
+- **DeepSeek V4.1 Flash 在SWE-sweep基准测试中首次突破1%** - DeepSeek V4.1 Flash (max)成为首个在SWE-sweep bug发现基准测试中达到1.7%解决率的模型，这是一个极具挑战性的基准，涉及100个代码仓库、22种编程语言和4000个bug。
+*为何重要：* 虽然1.7%的绝对数字看似不高，但这是该基准上首次有模型突破1%门槛，标志着LLM在大型代码库bug发现和修复能力上的重要进展。社区成员在讨论中要求添加Qwen3.8 Flash等模型的对比数据。
+帖子链接：[DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark](https://www.reddit.com/comments/1xvcgxq)（评分：108，评论数：47）
 
-- **Thinking Machines 发布 Inkling-2-Small** — 尽管名字带"Small"，实际参数量达 383B。社区评论调侃："哦哇，只有 3830 亿参数，我想我会在我的本地数据中心运行这个 ❤️" 以及"这些'small'模型我永远不知道是指'耶我可以在 8GB GPU 上跑'还是'嘿我们很高兴低于 1TB 参数，你可以在家跑（如果你是个百万富翁）！'"
-*为何重要：* 这反映了本地 AI 社区对"small"标签的普遍困惑和不满——模型命名与消费者实际可运行性之间的脱节正在成为社区反复吐槽的话题。
-帖子链接：[thinkingmachines/Inkling-2-Small is released!](https://www.reddit.com/comments/1xuqplg)（评分：109，评论数：38）
+- **Nace量化方法：权重空间编程实现2倍KL散度改善** - 一种名为"Nace quants"的新型量化方法在r/LocalLLaMA上发布，声称在Qwen 9B、27B、35B和Flash Next模型上实现了高达2倍的KL散度改善。配套的散点图展示了在128K上下文下各模型的Top-1准确率对比。
+*为何重要：* 量化技术是本地AI部署的核心瓶颈之一。从图表可以看出，Nace方法在相同文件大小下始终优于Unsloth、其他GGUF和EXL3等现有方案。一位社区研究者指出："我认为你可能还没有触及权重空间量化的极限。"这暗示该领域仍有巨大优化空间。
+帖子链接：[Weight Space Programming for Quantization](https://www.reddit.com/comments/1xvh4ag)（评分：205，评论数：29）
 
-### 硬件与本地部署
+### 研究创新与工具
 
-- **CMP 170Hx 矿卡电压毛刺破解，变身 80GB A100** — 一位技术人员通过电压毛刺攻击（voltage glitching）解锁了 NVIDIA CMP 170Hx 矿卡的全部 120 个 SM 和 80GB VRAM，将 2500 美元的 8GB 矿卡变成价值 20000 美元的 A100 等效物。方法涉及小心地烧断板载保险丝以解锁全部 VRAM 和着色器模块。
-*为何重要：* 社区反应热烈——最高赞评论惊呼"里面有 72GB 的休眠 VRAM？为什么？！"另一位用户分享实际体验："我运行了 4 张这样的卡一段时间了，它们真的很棒。在合适的条件下，GLM 5.3 Flash (FP4) 单流可以达到 400 tokens/秒——这还是在最新解锁之前。一年前我做梦都想不到能拥有 4 张 A100。"
-帖子链接：[CMP170hx now fully unlockable](https://www.reddit.com/comments/1xuijih)（评分：390，评论数：116）
+- **e-means：等损失下10倍加速的k-means算法** - 一项名为e-means的新算法发布，声称在保持相同损失的情况下实现10倍加速的k-means聚类。该帖子在r/LocalLLaMA获得132分和23条评论。
+*为何重要：* k-means是机器学习中最基础也最广泛使用的算法之一，其效率提升对大规模数据处理意义重大。社区讨论中有人指出这可能与在线k-means的指数移动平均更新规则有关，但项目页面未提及这一联系。一位用户评论道："k-means能保持如此核心地位，同时又存在这些明显缺陷，这本身就是一种讽刺。"
+帖子链接：[e-means: 10x faster k-means at equal loss](https://www.reddit.com/comments/1xvbith)（评分：132，评论数：23）
 
-- **中国出现疑似 96GB RTX 5090  listings** — VideoCardz 报道称中国市场上出现了搭载 96GB VRAM 的 GeForce RTX 5090 列表。社区评论反映出对美国市场定价的不满："美国向自己的公民卖 10 倍加价，因为大多数企业和 C-suite 都有双重国籍。"
-*为何重要：* 这进一步印证了本地 AI 社区对高 VRAM 消费级 GPU 的渴望，以及全球硬件市场分割带来的挫败感。
-帖子链接：[Alleged GeForce RTX 5090 with 96GB listed for sale in China](https://www.reddit.com/comments/1xucffq)（评分：234，评论数：44）
+- **AMD Loom：Strix Halo上的LLM内核优化框架** - 一个名为hrx-loom的新端到端栈发布，允许用户在AMD Strix Halo上为51个热门LLM编写和优化内核。根据展示的幻灯片，在449次测量中，Loom相比llama.cpp ROCm实现了1.14倍到1.50倍的中位数加速。
+*为何重要：* 这代表了AMD在AI推理软件栈上的重要推进。一位AMD工程师在评论中透露了后续计划，包括支持Radeon R9700 GPU和探索NPU能力。社区成员还分享了在Strix Halo上通过NPU+CPU并行运行Qwen3.8 27B Q4量化模型，实现超过600 t/s预填充速度的原型。
+帖子链接：[I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom](https://www.reddit.com/comments/1xvcmm0)（评分：45，评论数：32）
 
-- **llama.cpp 发布 v1.0.0 里程碑版本** — ggerganov 提交 PR 将 llama.cpp 版本号 bump 至 1.0.0。社区反应复杂——有人询问这是"修复版本号"还是"过去几周大量重构"的结果，也有人表示已经转向 Strata 因为"速度差异太大等不了"。
-*为何重要：* 作为本地推理的基石项目，llama.cpp 的 1.0.0 标志着其成熟度提升，但社区对性能竞争的敏感度也在上升。
-帖子链接：[llama.cpp : bump version to 1.0.0](https://www.reddit.com/comments/1xv3cyt)（评分：69，评论数：11）
+### 政策与监管
 
-### 地缘政治与监管
+- **FAA部署8.75亿美元AI空中交通管制工具** - 美国联邦航空管理局在全国范围内部署了一套价值8.75亿美元的AI空中交通管制工具，并声称不会影响安全。该帖子在r/singularity获得1943分和341条评论。
+*为何重要：* 社区反应充满了黑色幽默和对AI安全性的担忧。最高赞评论写道："如果事故原因最终被证明是AI，公众的反应将会非常疯狂。"另一条获得560赞的评论模拟了AI的道歉："你说得100%正确。我不应该让那架飞机坠毁。这完全是我的责任。"这反映了公众对AI在关键安全系统中应用的深层焦虑。
+帖子链接：[The FAA rolled out its $875 million AI Air Traffic tool today](https://www.reddit.com/comments/1xvl00y)（评分：1943，评论数：341）
 
-- **美国情报界对 Alice Huang 是否为中国间谍存疑** — CNN 报道称，美国情报机构不确定这位女商人是否为中国从事间谍活动，但"这并不意味着她没有风险"。社区评论直指这是"协调的政治行动"，目的是清除 Jensen——"他是唯一有动机用资金支持开源社区的人。"
-*为何重要：* 这一报道将 NVIDIA 领导层变动置于中美科技竞争的大背景下，社区普遍认为地缘政治因素是 Huang 离职的深层推手。
-帖子链接：[US intel isn't sure if businesswoman spied on Nvidia for China](https://www.reddit.com/comments/1xuwf9w)（评分：82，评论数：46）
+- **NVIDIA私下确认可追踪芯片以打击走私** - 据MIT Technology Review报道，NVIDIA私下确认其技术可以追踪芯片流向以打击走私，尽管业界公开质疑其可行性。该帖子在r/LocalLLaMA获得77分和42条评论。
+*为何重要：* 这涉及AI芯片的地缘政治维度。社区反应强烈，有用户表示"现在我更支持中国了"，还有人担忧这会导致"现有GPU的价格进一步上涨"。
+帖子链接：[Nvidia privately confirmed it could track chips to fight smuggling](https://www.reddit.com/comments/1xvcbbh)（评分：77，评论数：42）
 
 
 ## 2. 周趋势对比
 
-**持续存在的趋势：**
+### 持续主导的话题：Jensen Huang叙事
 
-- **Jensen Huang 叙事主导**：过去一周，r/singularity 和 r/LocalLLaMA 的头部帖子几乎被 Huang 相关内容垄断。从周榜第 1 名（"Judging by the current exponential rate" meme，4924 分）到第 6 名（"Jensen does not run his personal life in single thread" meme，2032 分），再到第 14 名（"A second affair has hit the Jensen" meme，1407 分），Huang 的个人戏剧与技术讨论深度交织。今日的新发展——正式辞职、员工请愿、HF CEO 表态——是这一周趋势的戏剧性高潮，而非全新话题。
+过去一周，r/singularity和r/LocalLLaMA几乎被Jensen Huang相关的内容淹没。从周榜前20名来看，至少有7条帖子直接与Huang相关：
 
-- **开源 vs 闭源的紧张关系**：周榜中"Sam Altman: Local inference is a terrible allocation of resources"（6686 分，2874 条评论）和"Official Statement: Qwen Models Will Stick to Open Source"（5297 分）持续发酵。今日的"Jensen was too pro LocalAI"讨论和 HF CEO 的表态是这一持续张力的延续。
+- "Judging by the current exponential rate, Jensen Huang's..."（6200分）
+- "China offers Jensen new opportunities"（3322分）
+- "Stories coming out about Jensen"（3033分）
+- "Jensen Huang's mistake was being too pro LocalAI"（2969分）
+- "Jensen Huang Resigns"（2742分）
+- "‘Bring Back THE Boss’: Nvidia Employees Petition"（1936分）
+- "A second affair has hit the Jensen"（1418分）
 
-**新出现的趋势：**
+**今日的新变化**：从最初的八卦和丑闻报道，讨论已经转向更深层的结构性分析——Huang的商业策略（资助初创公司吸收芯片）、NVIDIA的治理问题、以及这对本地AI社区的长期影响。这不再是简单的"名人八卦"，而是演变成了对AI硬件产业权力结构的批判性审视。
 
-- **从"猜测"到"后果"的转变**：周初的帖子多为 meme 和猜测（"A second affair"、"Jensen does not run his personal life in single thread"），而今日的帖子转向具体后果——正式辞职、临时 CEO 任命、员工请愿、HF 的战略回应。社区讨论从八卦转向对 AI 硬件生态未来的实质性担忧。
+### 新出现的话题
 
-- **本地 AI 硬件破解的新高度**：CMP 170Hx 电压毛刺破解（390 分）是本周新出现的硬件话题，与周榜中的"Dirt cheap GPUs coming next year"（2863 分）和"Maybe we'll get cheap RAM for Christmas"（2580 分）形成呼应，但技术深度和实操性更强。
+- **llama.cpp v1.0**：这是一个全新的里程碑事件，代表了本地AI工具链的成熟。与周趋势中偏重硬件和政治的话题不同，这是纯粹的技术成就。
+- **量化技术突破**：Nace quants和e-means代表了社区对效率优化的持续追求，这与周趋势中"GPU价格"和"本地AI可及性"的讨论形成呼应。
+- **AMD生态进展**：Loom框架的出现表明AMD正在缩小与NVIDIA在AI推理软件栈上的差距，这在Huang卸任的背景下具有特殊意义。
 
-- **小型社区的独特讨论**：r/AI_Agents 的"AI Fatigue"（117 分，61 条评论）和 r/LLMDevs 的"What are you still not letting your agents do?"（7 分，14 条评论）反映出从业者对 AI 代理实际落地中的疲劳感和边界问题的反思，这些话题在大型社区中较少出现。
+### 社区兴趣的转变
+
+从周趋势到今日趋势，可以观察到AI社区的兴趣正从**人物驱动的戏剧性事件**向**技术基础设施的实质性进展**转移。Huang的卸任似乎成为了一个分水岭——当"反派"离场后，社区开始更专注于解决实际问题：如何让本地AI更快、更便宜、更易用。
 
 
 ## 3. 月度技术演进
 
-从月度视角看，当前趋势呈现出几条清晰的技术演进线索：
+### 从"本地AI可行性"到"本地AI优化"
 
-**线索一：开源模型的效率革命。** 月榜中"Qwen Models Will Stick to Open Source"（5297 分）和"Qwen4 next week"（2373 分）奠定了开源阵营的信心基调。今日 Ernie 5.5 Flash Preview（280B/14B active）和 Inkling-2-Small（383B）的出现，延续了 MoE 架构下"更少激活参数、更强编码能力"的演进路径。这与月榜中"DeepSeek V4.1 Flash"等模型的发布形成了一条清晰的效率提升曲线——从千亿级 dense 模型向百亿级激活参数的 MoE 模型迁移。
+回顾过去一个月的热门帖子，可以看到一条清晰的技术演进线索：
 
-**线索二：本地 AI 的硬件民主化。** 月榜中"Dirt cheap GPUs coming next year"（2863 分）和"Maybe we'll get cheap RAM for Christmas"（2580 分）反映了社区对硬件成本下降的期待。今日的 CMP 170Hx 破解（390 分）和 96GB RTX 5090 中国 listings（234 分）则将这种期待具象化——社区不再只是等待，而是在主动寻找/创造硬件解锁方案。一位用户的实际体验（4 张 CMP 170Hx 跑 GLM 5.3 Flash 达 400 tok/s）证明了这种"灰色硬件"路线的可行性。
+**10月中旬-下旬**：社区关注焦点是本地AI的**可行性**和**可及性**。热门帖子包括：
+- "Sam Altman: 'Local inference is a terrible allocation of...'"（6693分，2872条评论）——引发了关于本地推理经济性的激烈辩论
+- "Dirt cheap GPUs coming next year"（2868分，885条评论）——对硬件成本下降的期待
+- "OpenAI and Anthropic blocked the reverse engineering of..."（4218分，626条评论）——关于模型开放性的争论
 
-**线索三：NVIDIA 领导层变动对开源生态的冲击。** 月榜中 Jensen Huang 尚未成为话题（月榜前 20 中无 Huang 相关帖子），但周榜中 Huang 叙事爆发，今日达到顶峰。这一从"无"到"主导"的转变仅用了一周，反映出 AI 社区对 NVIDIA 这位开源 AI 关键盟友的高度依赖和敏感。Hugging Face CEO 的表态和"HF 收购将被阻止"的传言，暗示开源 AI 的硬件支持基础可能面临结构性变化。
+**11月初**：焦点转向**开源模型生态**：
+- "Official Statement: Qwen Models Will Stick to Open Source"（5303分，587条评论）——Qwen承诺保持开源
+- "Hugging Face CEO vows to keep fighting for open source AI"（1391分，116条评论）
 
-**线索四：从模型能力到代理可靠性的关注转移。** 月榜中"Claude Opus 5.5 helps developer bring the entire Super Mario..."（3763 分）和"Claude Fable 5.2 built a playable Gears of War clone"（1803 分）聚焦于模型能力展示。而今日 r/AI_Agents 的"AI Fatigue"和 r/LLMDevs 的"agents 边界"讨论，则转向了代理在真实业务场景中的可靠性、安全性和人类监督问题。这标志着社区兴趣从"模型能做什么"向"模型做错了怎么办"的迁移。
+**11月中旬（当前）**：技术焦点进一步深化到**性能优化**和**工具链成熟**：
+- llama.cpp v1.0发布——工具链达到生产级成熟度
+- Nace量化方法——在相同大小下实现更好性能
+- AMD Loom——跨平台推理优化
+- e-means——基础算法的效率突破
+
+### 重大转变信号
+
+1. **从"能不能跑"到"跑得多快多好"**：社区不再满足于在本地运行模型，而是追求与云端相当甚至更优的性能。
+2. **硬件多元化**：AMD Strix Halo、PS4 GPU等非传统AI硬件的探索表明，社区正在积极寻找NVIDIA之外的替代方案。
+3. **量化技术成为核心竞争力**：随着模型规模增长，如何在有限硬件上高效运行成为关键挑战，Nace等新方法代表了这一方向的前沿。
+4. **基础算法的复兴**：e-means的出现表明，即使是k-means这样的经典算法，在AI时代仍有优化空间，这可能预示着对AI基础设施底层组件的重新审视。
 
 
 ## 4. 技术深度解析
 
-### CMP 170Hx 电压毛刺破解：从矿卡到 80GB A100 的硬件逆向工程
+### Nace量化：权重空间编程如何重新定义LLM压缩
 
-今日技术含量最高的讨论来自 r/LocalLLaMA 的 CMP 170Hx 破解帖（390 分，116 条评论）。这不是一个模型发布，而是一次**硬件层面的逆向工程突破**，其技术细节和对本地 AI 生态的影响值得深入剖析。
+在今天所有技术发展中，**Nace quants**代表了一种最具创新性的量化方法——它不是简单地在现有量化框架内做改进，而是提出了一种全新的"权重空间编程"范式。
 
-**技术原理：** CMP 170Hx 是 NVIDIA 专为加密货币挖矿设计的 GA100 核心显卡，出厂时被刻意限制为 8GB VRAM 和部分 SM 单元。该技术人员使用**电压毛刺攻击（voltage glitching）**——通过在特定时钟周期对 GPU 供电电压进行精确的瞬时扰动，绕过芯片的安全启动检查，从而**烧断板载保险丝（fuses）** 来解锁被禁用的 VRAM 和着色器模块。最终结果：120 个 SM 全部激活，80GB VRAM 全部可用——规格上与 A100 80GB 完全一致。
+#### 技术核心
 
-**为何这在此刻重要：** 这直接击中了本地 AI 社区最核心的痛点——**高 VRAM 硬件的可负担性**。在 Jensen Huang 离职、NVIDIA 未来战略不确定的背景下，社区对"官方渠道能否继续提供高性价比本地 AI 硬件"的担忧加剧。这一破解提供了一条"非官方"路径：以 2500 美元获得 80GB VRAM，而正规 A100 80GB 的价格约为 20000 美元。
+传统量化方法（如GPTQ、AWQ、GGUF的各种量化级别）通常采用**逐层或逐通道的数值近似**策略——将高精度权重映射到低精度表示，同时尽量减少信息损失。Nace方法的不同之处在于，它将量化过程重新概念化为**权重空间中的编程问题**。
 
-**社区反应中的技术洞察：** 最高赞评论（219 分）质疑"里面有 72GB 的休眠 VRAM？为什么？！"——这揭示了 NVIDIA 在硬件分层上的策略：同一物理芯片通过保险丝/固件限制来区分产品线，而非物理差异。另一位用户（79 分）分享了实际部署经验："我运行了 4 张这样的卡一段时间了……GLM 5.3 Flash (FP4) 单流可达 400 tokens/秒——这还是在最新解锁之前。一年前我做梦都想不到能拥有 4 张 A100。" 这证明了破解后的硬件在真实本地推理工作负载中的实用性。
+从配套的散点图可以清晰看到这种方法的优势。在Qwen3.8-27B上，Nace量化在约14GB文件大小时达到了约96%的Top-1准确率，而相同大小下其他GGUF方法仅能达到约94%。更引人注目的是，在Qwen3.5-9B上，Nace在约4GB时达到了约87%的准确率，显著优于Unsloth和EXL3。
 
-**对生态系统的影响：** 这一破解如果可复现，可能催生一个"灰市 A100"生态——类似于当年矿卡流入消费市场，但技术门槛更高（需要电压毛刺设备和操作知识）。对于本地 AI 开发者而言，这意味着**以消费级价格获得数据中心级 VRAM** 的可能性。但风险同样明显：硬件稳定性、保修失效、以及 NVIDIA 可能通过固件更新封堵。社区中有人指出 eBay/AliExpress 上相关卡已经"售罄或至少 7000 欧元"，说明市场需求已经响应。
+#### 为什么这很重要
 
-**与现有方法的对比：** 传统的本地 AI 硬件路线是购买消费级 GPU（如 RTX 4090/5090）或等待云服务降价。这一破解开辟了第三条路：**逆向工程废弃矿卡**。它与月榜中"Dirt cheap GPUs coming next year"的乐观预期形成有趣对比——社区既在等待官方降价，也在主动"创造"廉价硬件。
+1. **KL散度2倍改善的实际意义**：KL散度衡量的是量化后模型输出分布与原始模型之间的差异。2倍的改善意味着量化模型在生成质量上更接近全精度模型——这对于需要精确推理的任务（如代码生成、数学推理）至关重要。
+
+2. **128K上下文下的表现**：图表明确标注了"Top-1 accuracy at 128K context"，这表明Nace方法在长上下文场景下仍能保持优势。长上下文是当前LLM应用的关键需求，但也是量化最容易出问题的场景。
+
+3. **社区反应揭示的深层问题**：一位社区研究者的评论值得深思："我认为你可能还没有触及权重空间量化的极限。唯一真正的广泛兼容性要求是最终格式等同于GGUF。"这暗示Nace的方法论可能具有更广泛的适用性——不仅限于当前的实现。
+
+#### 技术争议与未解问题
+
+社区讨论中也出现了一些关键问题：
+- Nace方法与在线k-means的指数移动平均更新规则有何关系？
+- 是否适用于MoE架构（如Qwen3.6-35B-A3B）？
+- 计算开销如何？量化过程是否需要大量额外算力？
+
+这些问题尚未得到充分回答，但Nace方法已经为量化研究开辟了一个新方向：**不再将量化视为数值近似问题，而是视为权重空间中的优化编程问题**。
+
+#### 对AI生态的影响
+
+如果Nace方法能够被广泛采用和进一步优化，其影响将是深远的：
+- **本地AI门槛降低**：更好的量化意味着更小的模型文件可以实现更好的性能，直接降低了本地部署的硬件要求
+- **边缘设备AI**：在手机、嵌入式设备等资源受限环境中运行高质量LLM成为可能
+- **与AMD Loom等工具协同**：更好的量化+更好的推理引擎=本地AI性能的乘数效应
+
+这与今日另一个重要趋势——AMD Loom框架——形成了完美的互补。Loom优化推理速度，Nace优化模型大小和质量，两者结合可能真正实现"在消费级硬件上运行前沿AI"的愿景。
 
 
 ## 5. 社区亮点
 
-**r/singularity：戏剧性与技术乐观主义的交汇。** 作为最大的 AI 社区，r/singularity 今日完全被 Huang 叙事主导——前 3 名帖子全部相关（meme 4920 分、meme 2755 分、讨论 2716 分）。但值得注意的是，该社区的技术乐观主义底色并未消失：周榜中"Stanford researchers develop a new AI memory system"（1981 分）和"The Adeptus Mechanicus welcomes its first mathematics department"（1547 分，1294 条评论）显示，即使在大戏剧事件中，社区对技术突破（AI 记忆系统、数学推理）的关注仍然存在。meme 文化（"Judging by the current exponential rate"、"China offers Jensen new opportunities"）是该社区处理焦虑的主要方式——用幽默消解不确定性。
+### 各subreddit的关注焦点差异
 
-**r/LocalLLaMA：从八卦到实质担忧的快速迁移。** 这个社区今日的讨论层次更丰富：既有对 Huang 的怀念（"Stories coming out about Jensen" 1820 分），也有对开源 AI 未来的实质担忧（HF CEO 表态 1045 分），还有纯技术讨论（CMP 170Hx 破解 390 分、Ernie 5.5 Flash 169 分、llama.cpp 1.0.0 69 分）。与 r/singularity 的 meme 主导不同，r/LocalLLaMA 的讨论更偏向"这对我的本地部署意味着什么"——例如"Jensen Huang's mistake was being too pro LocalAI"帖中，最高赞评论（1199 分）直接指出"他不是亲本地AI，他是亲GPU销售"，反映出社区对硬件厂商动机的清醒认知。
+**r/singularity**：本周几乎成为Jensen Huang新闻的专属频道。该社区倾向于**戏剧性叙事**和**宏观讨论**——从Huang的个人丑闻到AI对社会的广泛影响。热门帖子类型包括Meme、Shitposting和Discussion。值得注意的是，该社区对FAA AI空中交通管制工具的讨论（1943分，341评论）显示了对AI在关键基础设施中应用的深切关注。
 
-**r/LocalLLM：小而精的讨论。** 该社区的"Aged like fine wine"（509 分，41 条评论）和"Uncensored models are awesome"（408 分，181 条评论）显示出对**无审查模型**的持续热情，以及"Confession: I'm rubber-stamping LLM code and my brain is..."（279 分，117 条评论）——一位开发者坦白自己正在"橡皮图章"式地审核 LLM 生成的代码，大脑正在萎缩。这种自我反思在大型社区中较少见，反映了本地 LLM 用户对**过度依赖 AI 编码**的焦虑。
+**r/LocalLLaMA**：更加**技术导向**和**务实**。虽然也讨论了Huang相关新闻（"Stories coming out about Jensen"获得3033分），但社区的核心关注点是技术突破：llama.cpp v1.0、Nace量化、AMD Loom、e-means等。该社区的讨论质量较高，经常出现项目维护者和研究者的直接参与。
 
-**r/AI_Agents：从业者的疲劳与边界思考。** "AI Fatigue"（117 分，61 条评论）和"what should an AI support bot do when your business literally..."（13 分，17 条评论）以及"I think AI agents should be judged by the meeting they eliminate"（11 分，13 条评论）——这些低分但高评论比的帖子揭示了一个独特视角：**AI 代理从业者正在经历落地疲劳**，关注点从"能不能做"转向"做了之后业务到底变好了没有"。这种务实的、甚至带有怀疑色彩的讨论，与 r/singularity 的宏大叙事形成鲜明对比。
+**r/LocalLLM**：作为较小的社区，r/LocalLLM提供了更**聚焦**的讨论。热门帖子"it feels like they just wanted Huang gone because he supported..."（646分，303评论）从本地AI支持者的角度分析了Huang卸任的影响，视角独特。
 
-**r/LLMDevs：安全与控制的边界。** "What are you still not letting your agents do?"（7 分，14 条评论）和"Can individually safe tool calls create an unsafe outcome?"（0 分，12 条评论）——这些帖子虽然分数极低，但提出了一个关键技术问题：**单个安全的工具调用组合起来是否可能产生不安全的结果？** 这涉及代理系统中的组合安全（compositional safety）问题，是当前 LLM 代理落地中的核心挑战之一。
+**r/MachineLearning**：保持了**学术导向**，讨论ICML 2027的变化和反向传播等基础话题，与其他社区的新闻驱动形成鲜明对比。
 
-**r/MachineLearning：学术界的元讨论。** "CVPR 2027 Author enrollment form"（21 分，27 条评论）和"What if NeurIPS, ICML, and ICLR capped accepted papers at..."（19 分，28 条评论）——该社区今日的讨论集中在**学术会议的规模膨胀问题**上，而非具体技术突破。这反映出 ML 学术界对论文数量爆炸、审稿质量下降的结构性焦虑，与工业界社区的关注点形成有趣对比。
+**r/AI_Agents**和**r/LLMDevs**：这两个较小的社区关注**实际应用**——如何构建AI代理、企业级AI代理平台选择等。讨论更加务实，适合从业者。
 
-**交叉话题：** 唯一贯穿多个社区的话题是 **Huang 离职**——r/singularity 用 meme 消解，r/LocalLLaMA 用技术讨论分析，r/LocalLLM 相对沉默（更关注无审查模型），r/AI_Agents 和 r/LLMDevs 几乎不涉及。这种分布反映出不同社区对同一事件的不同处理方式：大型社区关注戏剧性，技术社区关注生态影响，小型专业社区则保持自身话题的独立性。
+### 跨社区交叉话题
+
+1. **Huang卸任**：几乎所有AI相关社区都在讨论，但角度各异——r/singularity关注戏剧性，r/LocalLLaMA关注对本地AI的影响，r/LocalLLM关注其支持本地AI的立场。
+
+2. **开源vs闭源**：从月度趋势中的"Qwen承诺开源"到今日的"Hugging Face CEO vows to keep fighting"，开源AI的可持续性是一个贯穿各社区的核心议题。
+
+3. **硬件可及性**：从GPU价格到AMD替代方案，再到PS4运行LLM的实验，硬件民主化是本地AI社区的共同追求。
+
+### 小型社区的独特见解
+
+- **r/LocalLLM**中的讨论"it feels like they just wanted Huang gone because he supported local AI"提供了一个不同于主流叙事的视角——将Huang的卸任解读为对本地AI支持者的打击。
+- **r/AI_Agents**中"What I'm doing with my AI Agents as a normal person"（39分，31评论）展示了普通用户如何实际使用AI代理，这种草根视角在大社区中往往被忽视。
+- **r/LLMDevs**中"Agile was a revolution against waterfall. Does AI sl..."（7分，22评论）提出了AI如何改变软件开发方法论的深层问题，虽然分数不高但讨论质量很高。
+
+
+## 总结
+
+2026年11月14日的Reddit AI社区呈现出一幅**转折点**的图景：Jensen Huang时代的终结与本地AI技术基础设施的成熟同时发生。当社区从对个人的关注转向对技术的专注时，我们看到了llama.cpp v1.0、Nace量化、AMD Loom等实质性进展的涌现。这些技术发展——更高效的量化、更快的推理引擎、更成熟的工具链——正在共同推动本地AI从"极客玩具"向"生产级工具"的转变。
+
+值得关注的是，社区情绪中既有对Huang时代的怀念（"Bring Back THE Boss"请愿），也有对其商业策略的愤怒（"资助初创公司吸收过剩芯片"），更有对未来的期待（llama.cpp v1.0的庆祝）。这种复杂情绪反映了AI社区正处于一个关键的自我重新定义时刻——从依赖单一硬件供应商和魅力型领袖，转向更加多元化、社区驱动的发展模式。
