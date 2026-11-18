@@ -1,71 +1,71 @@
-# Reddit AI Trend Report - 2026-11-17
+# Reddit AI Trend Report - 2026-11-18
 
 ## Today's Trending Posts
 
 | Title | Community | Score | Comments | Category | Posted |
 |-------|-----------|-------|----------|----------|--------|
-| [Increase Productivity](https://www.reddit.com/comments/1xxolvw) | [r/singularity](https://www.reddit.com/r/singularity) | 1355 | 86 | Meme | 2026-11-16 12:53 UTC |
-| [The Banking Incident....](https://www.reddit.com/comments/1xxzds2) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 625 | 28 | Other | 2026-11-16 19:55 UTC |
-| [Altman: \"If the sales pitch is ...&nbsp;we are going to ...](https://www.reddit.com/comments/1xy1q6z) | [r/singularity](https://www.reddit.com/r/singularity) | 511 | 393 | Discussion | 2026-11-16 21:23 UTC |
-| [What a time to be alive.](https://www.reddit.com/comments/1xxq77l) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 414 | 25 | Discussion | 2026-11-16 14:06 UTC |
-| [Stop worrying about Qwen 4\'s AA index](https://www.reddit.com/comments/1xxqfqr) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 259 | 203 | Discussion | 2026-11-16 14:16 UTC |
-| [We built a chip prototype that runs Qwen 27B.&nbsp;You ca...](https://www.reddit.com/comments/1xy3dgz) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 246 | 86 | News | 2026-11-16 22:30 UTC |
-| [you may get your cheap ram and gpu after all, the AI cras...](https://www.reddit.com/comments/1xxss0i) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 217 | 262 | Discussion | 2026-11-16 15:48 UTC |
-| [maxwell-model/Maxwell-V1-Flash · Hugging Face](https://www.reddit.com/comments/1xyamk6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 215 | 40 | New Model | 2026-11-17 04:04 UTC |
-| [Silicon Valley leaders back call for Jensen Huang\'s retu...](https://www.reddit.com/comments/1xxwerg) | [r/singularity](https://www.reddit.com/r/singularity) | 214 | 73 | Compute | 2026-11-16 18:04 UTC |
-| [How long do you expect this transition to happen for AI d...](https://www.reddit.com/comments/1xy9rkk) | [r/singularity](https://www.reddit.com/r/singularity) | 210 | 124 | Engineering | 2026-11-17 03:21 UTC |
+| [Jensen Huang Breaks Silence](https://www.reddit.com/comments/1xyqwqo) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1965 | 681 | News | 2026-11-17 17:41 UTC |
+| [Introducing GPT-6.2 Astra and Sol](https://www.reddit.com/comments/1xyr3ia) | [r/singularity](https://www.reddit.com/r/singularity) | 1751 | 319 | AI | 2026-11-17 17:48 UTC |
+| [Person using Opus 5.5 indexed 150000 papers regarding the...](https://www.reddit.com/comments/1xyhuwd) | [r/singularity](https://www.reddit.com/r/singularity) | 865 | 97 | AI | 2026-11-17 11:16 UTC |
+| [The new gemini names are very cool.](https://www.reddit.com/comments/1xyxg84) | [r/singularity](https://www.reddit.com/r/singularity) | 839 | 113 | Meme | 2026-11-17 21:54 UTC |
+| [Theo on why 6.2 Astra is bad](https://www.reddit.com/comments/1xysrpg) | [r/singularity](https://www.reddit.com/r/singularity) | 546 | 188 | Discussion | 2026-11-17 18:51 UTC |
+| [Someone asked their teleoperated humanoid robot TAU to co...](https://www.reddit.com/comments/1xyxbej) | [r/singularity](https://www.reddit.com/r/singularity) | 479 | 269 | Robotics | 2026-11-17 21:48 UTC |
+| [Oh no](https://www.reddit.com/comments/1xys887) | [r/singularity](https://www.reddit.com/r/singularity) | 428 | 225 | AI | 2026-11-17 18:31 UTC |
+| [Intel Shares First Benchmarks of Its Next-Gen Crescent Is...](https://www.reddit.com/comments/1xyioi8) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 408 | 165 | Discussion | 2026-11-17 12:02 UTC |
+| [ETH Zurich researchers use reinforcement learning to teac...](https://www.reddit.com/comments/1xz88ri) | [r/singularity](https://www.reddit.com/r/singularity) | 402 | 63 | the Singularity is HERE | 2026-11-18 06:32 UTC |
+| [I\'ll quit my job to study the genius making of this graph](https://www.reddit.com/comments/1xyriqf) | [r/singularity](https://www.reddit.com/r/singularity) | 344 | 43 | LLM News | 2026-11-17 18:04 UTC |
 
 
 ## Weekly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6508 | 161 | Meme | 2026-11-12 22:21 UTC |
-| 2 | [Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all o...](https://www.reddit.com/comments/1xwvg9b) | [r/singularity](https://www.reddit.com/r/singularity) | 4403 | 159 | Shitposting | 2026-11-15 13:25 UTC |
-| 3 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3592 | 244 | Meme | 2026-11-12 16:36 UTC |
-| 4 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3561 | 639 | News | 2026-11-13 01:58 UTC |
-| 5 | [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 3527 | 161 | Shitposting | 2026-11-13 15:06 UTC |
-| 6 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3148 | 529 | Discussion | 2026-11-12 17:43 UTC |
-| 7 | [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3064 | 653 | News | 2026-11-14 03:40 UTC |
-| 8 | [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | [r/singularity](https://www.reddit.com/r/singularity) | 2743 | 928 | Discussion | 2026-11-12 13:58 UTC |
-| 9 | [Ts is too funny](https://www.reddit.com/comments/1xtjj5g) | [r/singularity](https://www.reddit.com/r/singularity) | 2604 | 84 | Meme | 2026-11-11 14:44 UTC |
-| 10 | [AI video has come pretty far](https://www.reddit.com/comments/1xw0rl8) | [r/singularity](https://www.reddit.com/r/singularity) | 2449 | 570 | AI | 2026-11-14 12:01 UTC |
-| 11 | [The FAA rolled out its $875 million AI Air Traffic tool t...](https://www.reddit.com/comments/1xvl00y) | [r/singularity](https://www.reddit.com/r/singularity) | 2349 | 386 | AI | 2026-11-13 21:56 UTC |
-| 12 | [Me when Chinese models](https://www.reddit.com/comments/1xsrvhm) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 2143 | 45 | Other | 2026-11-10 16:46 UTC |
-| 13 | [‘Bring Back THE Boss’: Nvidia Employees Petition for Jens...](https://www.reddit.com/comments/1xuxxmb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2018 | 565 | News | 2026-11-13 04:03 UTC |
-| 14 | [So this will be true in couple of years?](https://www.reddit.com/comments/1xukt9t) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1978 | 265 | Funny | 2026-11-12 18:38 UTC |
-| 15 | [The beginning of the becoming of the beginning begins](https://www.reddit.com/comments/1xxlich) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1900 | 393 | News | 2026-11-16 09:55 UTC |
-| 16 | [llama.cpp v1.0 is here 🦙](https://www.reddit.com/comments/1xv8t2e) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1898 | 242 | News | 2026-11-13 14:07 UTC |
-| 17 | [Reuters: \"The CEO\'s relationship with Alice Huang helpe...](https://www.reddit.com/comments/1xsucqc) | [r/singularity](https://www.reddit.com/r/singularity) | 1732 | 325 | Compute | 2026-11-10 18:19 UTC |
-| 18 | [Claude Fable 5.2 wrote a working Transformer AI, while Op...](https://www.reddit.com/comments/1xx8w9q) | [r/singularity](https://www.reddit.com/r/singularity) | 1510 | 173 | the Singularity is HERE | 2026-11-15 22:37 UTC |
-| 19 | [Hugging Face CEO vows to keep fighting for open source AI...](https://www.reddit.com/comments/1xut4o7) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1465 | 123 | News | 2026-11-13 00:11 UTC |
-| 20 | [Oh my, what do I do?](https://www.reddit.com/comments/1xvqubr) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1431 | 474 | Question | 2026-11-14 02:25 UTC |
+| 1 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6544 | 164 | Meme | 2026-11-12 22:21 UTC |
+| 2 | [Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all o...](https://www.reddit.com/comments/1xwvg9b) | [r/singularity](https://www.reddit.com/r/singularity) | 4579 | 165 | Shitposting | 2026-11-15 13:25 UTC |
+| 3 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3610 | 245 | Meme | 2026-11-12 16:36 UTC |
+| 4 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3607 | 641 | News | 2026-11-13 01:58 UTC |
+| 5 | [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 3602 | 163 | Shitposting | 2026-11-13 15:06 UTC |
+| 6 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3169 | 530 | Discussion | 2026-11-12 17:43 UTC |
+| 7 | [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3088 | 653 | News | 2026-11-14 03:40 UTC |
+| 8 | [Jensen Huang Resigns](https://www.reddit.com/comments/1xudfv3) | [r/singularity](https://www.reddit.com/r/singularity) | 2735 | 928 | Discussion | 2026-11-12 13:58 UTC |
+| 9 | [Ts is too funny](https://www.reddit.com/comments/1xtjj5g) | [r/singularity](https://www.reddit.com/r/singularity) | 2627 | 85 | Meme | 2026-11-11 14:44 UTC |
+| 10 | [AI video has come pretty far](https://www.reddit.com/comments/1xw0rl8) | [r/singularity](https://www.reddit.com/r/singularity) | 2480 | 578 | AI | 2026-11-14 12:01 UTC |
+| 11 | [The FAA rolled out its $875 million AI Air Traffic tool t...](https://www.reddit.com/comments/1xvl00y) | [r/singularity](https://www.reddit.com/r/singularity) | 2353 | 386 | AI | 2026-11-13 21:56 UTC |
+| 12 | [So this will be true in couple of years?](https://www.reddit.com/comments/1xukt9t) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2032 | 272 | Funny | 2026-11-12 18:38 UTC |
+| 13 | [‘Bring Back THE Boss’: Nvidia Employees Petition for Jens...](https://www.reddit.com/comments/1xuxxmb) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2025 | 565 | News | 2026-11-13 04:03 UTC |
+| 14 | [The beginning of the becoming of the beginning begins](https://www.reddit.com/comments/1xxlich) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2014 | 404 | News | 2026-11-16 09:55 UTC |
+| 15 | [Jensen Huang Breaks Silence](https://www.reddit.com/comments/1xyqwqo) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1962 | 681 | News | 2026-11-17 17:41 UTC |
+| 16 | [llama.cpp v1.0 is here 🦙](https://www.reddit.com/comments/1xv8t2e) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1924 | 245 | News | 2026-11-13 14:07 UTC |
+| 17 | [Introducing GPT-6.2 Astra and Sol](https://www.reddit.com/comments/1xyr3ia) | [r/singularity](https://www.reddit.com/r/singularity) | 1748 | 319 | AI | 2026-11-17 17:48 UTC |
+| 18 | [Claude Fable 5.2 wrote a working Transformer AI, while Op...](https://www.reddit.com/comments/1xx8w9q) | [r/singularity](https://www.reddit.com/r/singularity) | 1606 | 189 | the Singularity is HERE | 2026-11-15 22:37 UTC |
+| 19 | [Oh my, what do I do?](https://www.reddit.com/comments/1xvqubr) | [r/LocalLLM](https://www.reddit.com/r/LocalLLM) | 1487 | 482 | Question | 2026-11-14 02:25 UTC |
+| 20 | [Hugging Face CEO vows to keep fighting for open source AI...](https://www.reddit.com/comments/1xut4o7) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1472 | 123 | News | 2026-11-13 00:11 UTC |
 
 
 ## Monthly Popular Posts
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [Hacker reverse engineers his Samsung TV and finds on-devi...](https://www.reddit.com/comments/1xduimx) | [r/singularity](https://www.reddit.com/r/singularity) | 18080 | 1366 | LLM News | 2026-10-24 00:21 UTC |
-| 2 | [Developer uses Claude to overhaul his parents’ TV, removi...](https://www.reddit.com/comments/1xfh36p) | [r/singularity](https://www.reddit.com/r/singularity) | 13448 | 772 | The Singularity is Near | 2026-10-25 23:27 UTC |
-| 3 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6718 | 2885 | Funny | 2026-10-29 23:11 UTC |
-| 4 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6505 | 161 | Meme | 2026-11-12 22:21 UTC |
-| 5 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 5316 | 588 | News | 2026-11-02 16:42 UTC |
-| 6 | [Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all o...](https://www.reddit.com/comments/1xwvg9b) | [r/singularity](https://www.reddit.com/r/singularity) | 4404 | 159 | Shitposting | 2026-11-15 13:25 UTC |
-| 7 | [OpenAI and Anthropic blocked the reverse engineering of s...](https://www.reddit.com/comments/1xer30z) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4217 | 631 | Discussion | 2026-10-25 02:51 UTC |
-| 8 | [We did it everybody.&nbsp;Close the sub.](https://www.reddit.com/comments/1xawecs) | [r/singularity](https://www.reddit.com/r/singularity) | 4141 | 1506 | the Singularity is HERE | 2026-10-20 16:13 UTC |
-| 9 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 4010 | 558 | Meme | 2026-10-30 17:17 UTC |
-| 10 | [Claude Opus 5.5 helps developer bring the entire Super Ma...](https://www.reddit.com/comments/1xgw6sk) | [r/singularity](https://www.reddit.com/r/singularity) | 3772 | 268 | the Singularity is HERE | 2026-10-27 15:50 UTC |
-| 11 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3659 | 862 | Biotech/Longevity | 2026-10-29 11:21 UTC |
-| 12 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3591 | 244 | Meme | 2026-11-12 16:36 UTC |
-| 13 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3561 | 639 | News | 2026-11-13 01:58 UTC |
-| 14 | [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 3524 | 161 | Shitposting | 2026-11-13 15:06 UTC |
-| 15 | [Dario Amodei, CEO of Anthropic, speaking out against the ...](https://www.reddit.com/comments/1xekblx) | [r/singularity](https://www.reddit.com/r/singularity) | 3472 | 419 | AI | 2026-10-24 21:25 UTC |
-| 16 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 3297 | 793 | Robotics | 2026-11-03 21:16 UTC |
-| 17 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3158 | 529 | Discussion | 2026-11-12 17:43 UTC |
-| 18 | [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3056 | 653 | News | 2026-11-14 03:40 UTC |
-| 19 | [Dirt cheap GPUs coming next year](https://www.reddit.com/comments/1xhep6w) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2868 | 879 | Discussion | 2026-10-28 04:34 UTC |
-| 20 | [Unitree\'s newest robot: H2-X Kung Fu Legend Guardian](https://www.reddit.com/comments/1xbidfc) | [r/singularity](https://www.reddit.com/r/singularity) | 2798 | 890 | Robotics | 2026-10-21 09:19 UTC |
+| 1 | [Hacker reverse engineers his Samsung TV and finds on-devi...](https://www.reddit.com/comments/1xduimx) | [r/singularity](https://www.reddit.com/r/singularity) | 18091 | 1366 | LLM News | 2026-10-24 00:21 UTC |
+| 2 | [Developer uses Claude to overhaul his parents’ TV, removi...](https://www.reddit.com/comments/1xfh36p) | [r/singularity](https://www.reddit.com/r/singularity) | 13457 | 772 | The Singularity is Near | 2026-10-25 23:27 UTC |
+| 3 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6723 | 2887 | Funny | 2026-10-29 23:11 UTC |
+| 4 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6548 | 164 | Meme | 2026-11-12 22:21 UTC |
+| 5 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 5323 | 588 | News | 2026-11-02 16:42 UTC |
+| 6 | [Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all o...](https://www.reddit.com/comments/1xwvg9b) | [r/singularity](https://www.reddit.com/r/singularity) | 4581 | 165 | Shitposting | 2026-11-15 13:25 UTC |
+| 7 | [OpenAI and Anthropic blocked the reverse engineering of s...](https://www.reddit.com/comments/1xer30z) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 4217 | 633 | Discussion | 2026-10-25 02:51 UTC |
+| 8 | [We did it everybody.&nbsp;Close the sub.](https://www.reddit.com/comments/1xawecs) | [r/singularity](https://www.reddit.com/r/singularity) | 4145 | 1505 | the Singularity is HERE | 2026-10-20 16:13 UTC |
+| 9 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 4011 | 558 | Meme | 2026-10-30 17:17 UTC |
+| 10 | [Claude Opus 5.5 helps developer bring the entire Super Ma...](https://www.reddit.com/comments/1xgw6sk) | [r/singularity](https://www.reddit.com/r/singularity) | 3769 | 268 | the Singularity is HERE | 2026-10-27 15:50 UTC |
+| 11 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3663 | 862 | Biotech/Longevity | 2026-10-29 11:21 UTC |
+| 12 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3610 | 245 | Meme | 2026-11-12 16:36 UTC |
+| 13 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3601 | 641 | News | 2026-11-13 01:58 UTC |
+| 14 | [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 3597 | 163 | Shitposting | 2026-11-13 15:06 UTC |
+| 15 | [Dario Amodei, CEO of Anthropic, speaking out against the ...](https://www.reddit.com/comments/1xekblx) | [r/singularity](https://www.reddit.com/r/singularity) | 3474 | 419 | AI | 2026-10-24 21:25 UTC |
+| 16 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 3307 | 793 | Robotics | 2026-11-03 21:16 UTC |
+| 17 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3168 | 530 | Discussion | 2026-11-12 17:43 UTC |
+| 18 | [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3091 | 653 | News | 2026-11-14 03:40 UTC |
+| 19 | [Dirt cheap GPUs coming next year](https://www.reddit.com/comments/1xhep6w) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 2879 | 881 | Discussion | 2026-10-28 04:34 UTC |
+| 20 | [Unitree\'s newest robot: H2-X Kung Fu Legend Guardian](https://www.reddit.com/comments/1xbidfc) | [r/singularity](https://www.reddit.com/r/singularity) | 2801 | 888 | Robotics | 2026-10-21 09:19 UTC |
 
 
 ## Top Posts by Community (Past Week)
@@ -74,215 +74,245 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Anthropic\'s new \"Always-On Agents\" guide requires wiri...](https://www.reddit.com/comments/1xy9269) | 36 | 15 | Discussion | 2026-11-17 02:46 UTC |
-| [I am a believer in AI running my email inbox now](https://www.reddit.com/comments/1xy5q4x) | 24 | 32 | Discussion | 2026-11-17 00:09 UTC |
-| [Honest question: Has anyone here built a profitable busin...](https://www.reddit.com/comments/1xxnddc) | 10 | 21 | Discussion | 2026-11-16 11:48 UTC |
+| [OpenComputer - an Open Source, self hostable alternative ...](https://www.reddit.com/comments/1xz1seu) | 42 | 15 | Discussion | 2026-11-18 01:01 UTC |
+| [Agent and agentic system evals](https://www.reddit.com/comments/1xyuy0j) | 28 | 24 | Discussion | 2026-11-17 20:14 UTC |
+| [How to tell if you built a really good AI agent?](https://www.reddit.com/comments/1xypzl4) | 18 | 16 | Tutorial | 2026-11-17 17:07 UTC |
 
 
 ### r/LLMDevs
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Ok...&nbsp;I think this is really fast.&nbsp;Qwen 3.8 27B...](https://www.reddit.com/comments/1xy6z9o) | 42 | 23 | Discussion | 2026-11-17 01:07 UTC |
-| [So...&nbsp;was Jev actually useful?](https://www.reddit.com/comments/1xyd09i) | 26 | 25 | Discussion | 2026-11-17 06:15 UTC |
+| [For those running LLMs in banks or other regulated compan...](https://www.reddit.com/comments/1xyjokr) | 5 | 19 | Discussion | 2026-11-17 12:53 UTC |
 
 
 ### r/LocalLLM
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [The Banking Incident....](https://www.reddit.com/comments/1xxzds2) | 625 | 28 | Other | 2026-11-16 19:55 UTC |
-| [What a time to be alive.](https://www.reddit.com/comments/1xxq77l) | 414 | 25 | Discussion | 2026-11-16 14:06 UTC |
-| [We built a chip prototype that runs Qwen 27B.&nbsp;You ca...](https://www.reddit.com/comments/1xy3dgz) | 246 | 86 | News | 2026-11-16 22:30 UTC |
+| [6x 7900XTX rig finally complete!](https://www.reddit.com/comments/1xynsjt) | 237 | 77 | Project | 2026-11-17 15:46 UTC |
+| [Flash-Next is ridiculous](https://www.reddit.com/comments/1xysjoh) | 232 | 121 | Discussion | 2026-11-17 18:43 UTC |
+| [How Jensen Huang was hurting the LocalLLM Community](https://www.reddit.com/comments/1xynh55) | 64 | 68 | Discussion | 2026-11-17 15:33 UTC |
 
 
 ### r/LocalLLaMA
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Stop worrying about Qwen 4\'s AA index](https://www.reddit.com/comments/1xxqfqr) | 259 | 203 | Discussion | 2026-11-16 14:16 UTC |
-| [maxwell-model/Maxwell-V1-Flash · Hugging Face](https://www.reddit.com/comments/1xyamk6) | 215 | 40 | New Model | 2026-11-17 04:04 UTC |
-| [Your daily dose of Qwopium:](https://www.reddit.com/comments/1xy4xsx) | 200 | 62 | Resources | 2026-11-16 23:36 UTC |
+| [Jensen Huang Breaks Silence](https://www.reddit.com/comments/1xyqwqo) | 1965 | 681 | News | 2026-11-17 17:41 UTC |
+| [Intel Shares First Benchmarks of Its Next-Gen Crescent Is...](https://www.reddit.com/comments/1xyioi8) | 408 | 165 | Discussion | 2026-11-17 12:02 UTC |
+| [Y\'all\'s idea of \"slop\" is stuck in 2025](https://www.reddit.com/comments/1xz6tv9) | 298 | 155 | Discussion | 2026-11-18 05:11 UTC |
 
 
 ### r/MachineLearning
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Why are ViTs so popular? \[D\]](https://www.reddit.com/comments/1xyb8q6) | 61 | 27 | Discussion | 2026-11-17 04:37 UTC |
-| [ICLR 2027: PCs ran an AI detector on reviews, peer review...](https://www.reddit.com/comments/1xyf1tq) | 38 | 30 | Discussion | 2026-11-17 08:22 UTC |
-| [AISTATS 2027 paper discussion \[D\]](https://www.reddit.com/comments/1xxqa3i) | 30 | 36 | Discussion | 2026-11-16 14:09 UTC |
+| [Current ML PhD students, would you still choose to do an ...](https://www.reddit.com/comments/1xynl4o) | 46 | 38 | Discussion | 2026-11-17 15:37 UTC |
+| [ICLR 2027 rebuttal: two of three reviewers haven’t respon...](https://www.reddit.com/comments/1xz0020) | 15 | 32 | Discussion | 2026-11-17 23:41 UTC |
+| [0 Response from reviewer ICLR 2027 \[D\]](https://www.reddit.com/comments/1xz1as6) | 12 | 23 | Discussion | 2026-11-18 00:38 UTC |
 
 
 ### r/Rag
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Air-gapped RAG knowledge assistant for an engineering tea...](https://www.reddit.com/comments/1xxt03y) | 3 | 14 | Discussion | 2026-11-16 15:57 UTC |
+| [How I fixed RAG hallucinations on 1000-page books: loss-b...](https://www.reddit.com/comments/1xyphyw) | 19 | 20 | Showcase | 2026-11-17 16:49 UTC |
 
 
 ### r/singularity
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Increase Productivity](https://www.reddit.com/comments/1xxolvw) | 1355 | 86 | Meme | 2026-11-16 12:53 UTC |
-| [Altman: \"If the sales pitch is ...&nbsp;we are going to ...](https://www.reddit.com/comments/1xy1q6z) | 511 | 393 | Discussion | 2026-11-16 21:23 UTC |
-| [Silicon Valley leaders back call for Jensen Huang\'s retu...](https://www.reddit.com/comments/1xxwerg) | 214 | 73 | Compute | 2026-11-16 18:04 UTC |
+| [Introducing GPT-6.2 Astra and Sol](https://www.reddit.com/comments/1xyr3ia) | 1751 | 319 | AI | 2026-11-17 17:48 UTC |
+| [Person using Opus 5.5 indexed 150000 papers regarding the...](https://www.reddit.com/comments/1xyhuwd) | 865 | 97 | AI | 2026-11-17 11:16 UTC |
+| [The new gemini names are very cool.](https://www.reddit.com/comments/1xyxg84) | 839 | 113 | Meme | 2026-11-17 21:54 UTC |
 
 
 
 
 ## Trend Analysis
 
-# Reddit AI Trends Report — November 17, 2026
-
----
+# Reddit AI Trends Report — 2026-11-18
 
 ## 1. Today's Highlights
 
+### Industry Shakeup: The Jensen Huang Saga Reaches Its Climax
+
+- **Jensen Huang's Public Statement on His Exit** - After a week of silence following his resignation as NVIDIA CEO, Jensen Huang broke his silence with a lengthy tweet expressing gratitude to supporters, reflecting on his journey to American citizenship, acknowledging "personal mistakes" that affected the board, and stating he would "honorably accept" a return as CEO if the Board deemed it beneficial. The tweet amassed 6.9 million views within hours.
+*Why it matters:* The community is deeply divided — top comments range from "I don't care if he slept around. I do care about him artificially inflating the price of GPUs" to careful parsing of his conditional language about returning. This saga has become the defining narrative of the local AI community's relationship with NVIDIA.
+Post link: [Jensen Huang Breaks Silence](https://www.reddit.com/comments/1xyqwqo) (Score: 1965, Comments: 681)
+
+- **NVIDIA Reaffirms Open Source Commitment Post-Huang** - NVIDIA officially stated its open source AI strategy "remains intact" after Jensen Huang's exit, though the community remains skeptical. Some users noted the statement doesn't specifically mention continued quantization releases for models like Qwen.
+*Why it matters:* This is a critical signal for the local AI ecosystem — NVIDIA's QAD/QAT quantized model releases have been a lifeline for local inference enthusiasts, and any strategy shift would ripple across the entire community.
+Post link: [Nvidia says its open source AI strategy remains intact after Jensen Huang's exit](https://www.reddit.com/comments/1xzb9rz) (Score: 85, Comments: 18)
+
 ### New Model Releases and Performance Breakthroughs
 
-**[Maxwell-V1-Flash from maxwell-model]** - A new model surfaced on Hugging Face with strikingly high benchmark scores and a sparse attention architecture. The release immediately triggered speculation about whether it's a genuine architectural innovation or a fine-tune of an existing model. Community members noted the absence of llama.cpp support, raising concerns about CPU expert offloading performance. The sparse attention mechanism is generating particular interest for its potential KV-cache memory efficiency at full context compared to models like Qwen 3.6 35B or Gemma 4 26B.
-*Why it matters:* The community's skepticism — "Is this a Qwen fine-tune in a trenchcoat or actually a new model?" — reflects a growing fatigue with opaque model provenance, while the genuine excitement about sparse attention signals continued appetite for efficiency innovations.
-Post link: [maxwell-model/Maxwell-V1-Flash · Hugging Face](https://www.reddit.com/comments/1xyamk6) (Score: 215, Comments: 40)
+- **Tencent's Hy4-Flash Model** - Tencent released Hy4-Flash, a 220B total parameter model (including 64B Engram parameters) with only 12B active parameters per token, supporting native text and image inputs with a 1M token context window. The Engram architecture represents a novel approach to parameter efficiency.
+*Why it matters:* Community members expressed excitement about finally seeing a competitive sub-250B model with innovative architecture: "Finally a model under 250B (Comes with Engram which's awesome) after sometime." The Engram parameter concept is generating significant technical discussion.
+Post link: [tencent/Hy4-flash · Hugging Face](https://www.reddit.com/comments/1xz5tym) (Score: 241, Comments: 55)
 
-**[Qwen 4 Max — 2.4T Parameter Architecture]** - Alibaba's Qwen4 Max jumped 9 points on Artificial Analysis's Intelligence Index while cutting task costs by 67% and reasoning output by 39%. The new 2.4-trillion-parameter architecture activates 25% fewer parameters per token, representing a significant efficiency leap. However, community reaction was mixed, with some calling it "underwhelming" and speculating about distillation from closed-source models.
-*Why it matters:* This release embodies the industry's pivot from raw scale to efficiency-optimized architectures. As one commenter noted, Artificial Analysis's use of non-public benchmarks makes it "harder to benchmax and train against," suggesting evaluation methodology is evolving alongside model capabilities.
-Post link: [Alibaba's Qwen4 Max jumps 9 points on Artificial Analysis's Intelligence Index...](https://www.reddit.com/comments/1xxr3le) (Score: 177, Comments: 63)
+- **SenseNova-Loop-9B: Looped Transformer Breakthrough** - SenseNova's Loop-9B, a 9B parameter looped transformer, dramatically outperforms its own preview across benchmarks: AutomationBench jumped from 14.33 to 36.67, GAIA from 37.86 to 69.90, and Terminal-Bench 2.1 from 40.45 to 59.55. It features 512K context and runs at ~15 GiB at 256K with quantization.
+*Why it matters:* A 9B model competing with 27B-class models on selected benchmarks signals a potential paradigm shift in parameter efficiency. Community members noted it's "token efficient too" and runs at ~50 tok/s on a 5090 via vLLM, though some cautioned that claims of matching Qwen3.8-27B are overstated.
+Post link: [SenseNova-Loop-9B vs its own Preview](https://www.reddit.com/comments/1xymz9z) (Score: 222, Comments: 74) | [SenseNova Loop 9B is out of preview](https://www.reddit.com/comments/1xyqqqy) (Score: 66, Comments: 13)
 
-**[Karpo-Decision-31B Multimodal Decision Model]** - A new open multimodal decision model claims the #1 full score on the Decision Index, running 2x faster than Jev at 20% lower cost. The model focuses specifically on decision-making tasks rather than general-purpose capabilities.
-*Why it matters:* Community skepticism was sharp — "Seems like every other day some new model claims to be #1 on Decision Index. What's the point of an index if it's that easy to game?" — highlighting growing concerns about benchmark proliferation and the need for standardized, tamper-resistant evaluation.
-Post link: [Karpo-Decision-31B: open multimodal decision model...](https://www.reddit.com/comments/1xxrmt4) (Score: 19, Comments: 13)
+- **GPT-6.2 "Astra" and "Sol" Announced** - OpenAI introduced GPT-6.2 under the codenames Astra and Sol, generating massive discussion in r/singularity. The release sparked immediate debate, with a popular critical analysis post ("Theo on why 6.2 Astra is bad") gaining significant traction alongside the announcement.
+*Why it matters:* The split reaction — 1751 upvotes for the announcement vs. 546 upvotes for a critical take — reflects growing community skepticism about incremental frontier model releases. The naming convention itself became a meme topic.
+Post link: [Introducing GPT-6.2 Astra and Sol](https://www.reddit.com/comments/1xyr3ia) (Score: 1751, Comments: 319)
 
-### Industry Developments
+### Hardware and Infrastructure
 
-**[Silicon Valley Leaders Push for Jensen Huang's Return to Nvidia]** - A Reuters report revealed that prominent Silicon Valley figures are backing calls for Jensen Huang to return as Nvidia CEO, following his recent resignation. However, the board is reportedly not considering reinstatement. The situation has spawned a wave of memes and discussion about Nvidia's leadership vacuum and the circular financing dynamics of the AI compute boom.
-*Why it matters:* This story has dominated r/singularity and r/LocalLLaMA for the past week, reflecting deep community anxiety about Nvidia's direction and the broader compute supply chain. As one commenter observed: "The next CEO might not be as willing to circular finance through handshake deals."
-Post link: [Silicon Valley leaders back call for Jensen Huang's return to Nvidia](https://www.reddit.com/comments/1xxwerg) (Score: 214, Comments: 73)
+- **Intel's Crescent Island "D270" GPU Benchmarks** - Intel shared first benchmarks of its next-gen Crescent Island D270 GPU, claiming 5.9x throughput over RTX PRO 6000 in FP64 workloads. The card features 160GB LPDDR5X memory on a 1280-bit bus with 1.50 TB/s bandwidth.
+*Why it matters:* The community immediately called out the marketing: "Better at FP64 tests specifically. RTX PRO 6000 was not designed for FP64." However, the 1.5 TB/s from LPDDR5X impressed many: "I find it impressive they've managed to squeeze 1.5 TB/s from LPDDR5X." The question remains whether FP64 matters for AI workloads.
+Post link: [Intel Shares First Benchmarks of Its Next-Gen Crescent Island "D270" GPU](https://www.reddit.com/comments/1xyioi8) (Score: 408, Comments: 165)
 
-**[Fed Chair Kevin Warsh on AI-Driven Economic Transformation]** - Federal Reserve Chair Kevin Warsh stated that AI could "supercharge scientific innovation and sustain economic growth above historical averages," as the Fed begins modeling scenarios including AI-driven prosperity, mass job displacement, and investment busts. This marks a significant institutional acknowledgment of AI's macroeconomic impact.
-*Why it matters:* The Fed formally modeling AI scenarios signals that AI is no longer a tech-sector story but a systemic economic force. Community reactions ranged from cynical ("Hopefully all that money goes to billionaires") to structural ("AI companies should become the US's sovereign wealth fund").
-Post link: [Fed Chair Kevin Warsh says AI could supercharge scientific innovation...](https://www.reddit.com/comments/1xxz7s7) (Score: 143, Comments: 37)
+- **NVIDIA DGX Spark HPC Developer Kit** - NVIDIA introduced a new DGX Spark HPC Developer Kit, essentially a 4-pack of DGX Sparks for HPC workloads. Community reaction was mixed, with some noting the Spark platform is now two years old and questioning where the Vera Rubin update is.
+*Why it matters:* This signals NVIDIA's continued push into developer-focused hardware, though the local AI community seems more focused on consumer GPU pricing and availability.
+Post link: [NVIDIA is introducing the DGX Spark HPC Developer Kit](https://www.reddit.com/comments/1xyoyvc) (Score: 85, Comments: 67)
 
 ### Research Innovations
 
-**[miHoYo Gamer: A Generalist Game Agent]** - miHoYo released a generalist game agent framework, representing a notable entry by a major game studio into AI agent research. The project appears focused on automating gameplay and potentially game testing.
-*Why it matters:* As one commenter noted, "They know that bots are going to be rampant going forward... so might as well get ahead of it and understand how to build them well." This reflects a proactive industry stance on AI agents in gaming rather than purely defensive automation.
-Post link: [miHoYo Gamer: A Generalist Game Agent](https://www.reddit.com/comments/1xxy7eb) (Score: 198, Comments: 39)
+- **ETH Zurich's Reinforcement Learning for Robot Learning** - ETH Zurich researchers used reinforcement learning to teach robots new skills, posted in the "the Singularity is HERE" category. The work demonstrates advances in sim-to-real transfer for robotic manipulation.
+*Why it matters:* This represents the growing convergence of RL and robotics, a theme that has been building over the past month with Xiaomi's humanoid robots and Unitree's Kung Fu Legend Guardian.
+Post link: [ETH Zurich researchers use reinforcement learning to teach...](https://www.reddit.com/comments/1xz88ri) (Score: 402, Comments: 63)
 
-**[Google Fixes Gemma 4 Tokenizer Issues]** - Google recently updated small Gemma 4 tokenizers to fix an issue causing nonsense output when encountering certain tokens. The fix addresses a problem outside model weights that had been affecting output quality.
-*Why it matters:* Community reaction highlighted a broader concern: "How did they mess so much outside the model weights? Tokenizer, multiple chat templates issues." This raises questions about quality assurance in the model release pipeline and whether other models have similar unfixed issues.
-Post link: [Small Gemma 4 tokenizers were recently updated by Google...](https://www.reddit.com/comments/1xxxs0a) (Score: 143, Comments: 13)
+- **Opus 5.5 Indexes 150,000 Research Papers** - A user leveraged Claude Opus 5.5 to index and analyze 150,000 academic papers, demonstrating the growing capability of frontier models for large-scale research synthesis.
+*Why it matters:* This showcases the practical research applications of long-context models, moving beyond simple summarization to comprehensive literature analysis at scale.
+Post link: [Person using Opus 5.5 indexed 150000 papers](https://www.reddit.com/comments/1xyhuwd) (Score: 865, Comments: 97)
 
-### AI's Impact on Work and Productivity
+### Novel Applications and Community Projects
 
-**[AI Burnout — The Productivity Paradox]** - A viral comic on r/singularity illustrated a growing phenomenon: AI agents handle boring tasks, freeing humans for "deep work" and "10x output" — yet people report burnout. The top comment (193 upvotes) explained: "Turns out having simple tasks to work on made your mind rest in between complex tasks, now it's complex tasks and high-level thinking only and you can't do that shit for a whole day, everyday, without burning out."
-*Why it matters:* This resonates deeply — one commenter noted they "had to leave my SWE career due to AI burnout." Multiple companies reportedly see increased throughput but rising burnout complaints despite unchanged hours, suggesting AI-augmented work fundamentally alters cognitive load patterns.
-Post link: [Increase Productivity](https://www.reddit.com/comments/1xxolvw) (Score: 1355, Comments: 86)
+- **Gemma 3 270M Running on an Office Printer** - In a remarkable feat of embedded AI, a developer ran Gemma 3 270M directly on an office printer using Carbon to compile a small transformer engine into a PostScript job. The printer used 14MB peak RAM and processed at 60 seconds per token.
+*Why it matters:* The community loved the absurdity: "Great, now it can explain in 2,000 tokens why it refuses to print" and "CYAN TONER LOW." Beyond the humor, it demonstrates the extreme portability of small quantized models.
+Post link: [Gemma on a printer](https://www.reddit.com/comments/1xyjkts) (Score: 291, Comments: 46)
 
-**[Altman on Agency and Human Dignity]** - Sam Altman argued against a future where humans "live like a Labrador" — losing all agency in exchange for cures and cheap goods. The post generated 393 comments with sharply divided reactions. One top comment captured the tension: "Sam often talks like the enlightened hero of the AI sci-fi story and then acts like the genocidal villain of the same story."
-*Why it matters:* This reflects a deepening philosophical divide in the community between those who see AI as a tool for human flourishing and those who fear it as a mechanism for disempowerment. The debate over agency vs. comfort is becoming a central axis of AI discourse.
-Post link: [Altman: "If the sales pitch is... we are going to offer you a cure to cancer..."](https://www.reddit.com/comments/1xy1q6z) (Score: 511, Comments: 393)
+- **Blue TTS v3: 50x Real-Time TTS on CPU** - An open-source text-to-speech model achieving approximately 50x real-time performance on CPU was released. Community members suggested ggml/audio.cpp implementations for broader backend support.
+*Why it matters:* CPU-optimized TTS at this speed opens up voice interfaces for edge devices and privacy-focused applications without GPU requirements.
+Post link: [Blue TTS v3: open-source TTS, about 50x real-time on a CPU](https://www.reddit.com/comments/1xytrz9) (Score: 279, Comments: 63)
 
-### Infrastructure and Compute
-
-**[Custom Chip Prototype Runs Qwen 27B]** - A team built a chip prototype capable of running Qwen 27B, signaling continued momentum in custom silicon for local AI inference. This follows the broader trend of hardware innovation aimed at reducing dependence on Nvidia's ecosystem.
-*Why it matters:* With Nvidia in leadership turmoil and GPU prices remaining high, custom chip development represents a potential escape valve. The community's interest in local inference hardware continues to grow.
-Post link: [We built a chip prototype that runs Qwen 27B...](https://www.reddit.com/comments/1xy3dgz) (Score: 246, Comments: 86)
-
-**[AI Datacenter Transition Timeline Debate]** - A discussion on how long the transition to AI-optimized datacenters will take drew 124 comments with perspectives ranging from "never" to "already happening." The image comparison of 1940s room-sized computers vs. 2000s smartphones framed the debate about physical scaling limits.
-*Why it matters:* The debate highlights a fundamental tension: while AI capabilities grow exponentially, physical infrastructure constraints (transistor limits, power, cooling) may impose different timelines. As one commenter noted, "We're at the limit of how small transistors can physically get."
-Post link: [How long do you expect this transition to happen for AI datacenters?](https://www.reddit.com/comments/1xy9rkk) (Score: 210, Comments: 124)
+- **Harness Adapters: Fine-Tuning Qwen3.8-27B for Agentic Coding** - A new fine-tune of Qwen3.8-27B called "pi-adapted" demonstrates significantly improved agentic coding behavior on SWE-bench Pro tasks. The adapter finds, reads, edits, and tests code while the base model "keeps searching and reading." It runs with thinking disabled for speed.
+*Why it matters:* This represents the emerging trend of harness-specific fine-tuning — adapting models not just to tasks but to specific agentic frameworks. Community members debated the thinking-off approach but acknowledged potential performance gains.
+Post link: [Harness Adapters: Fine tune Qwen3.8-27B for Pi Agents](https://www.reddit.com/comments/1xykw4l) (Score: 194, Comments: 18)
 
 ---
 
 ## 2. Weekly Trend Comparison
 
-**Persistent Trends:**
-- **Jensen Huang / Nvidia Leadership Saga** continues to dominate both r/singularity and r/LocalLLaMA. The weekly top posts are saturated with Huang-related content (posts #1, #3, #4, #5, #6, #7, #8, #13), and today's Reuters report on Silicon Valley leaders backing his return extends this narrative. This story has become a proxy for broader anxieties about compute access, GPU pricing, and the concentration of AI power.
-- **Qwen Model Ecosystem** remains a central topic. The weekly #5 post about Qwen sticking to open source, today's Qwen4 Max benchmark discussion, and the "Qwopium" meme chart analyzing Qwen release patterns all point to sustained community investment in Alibaba's model family. The release-day analysis (Thursday being the favored launch day with 9 releases) shows the community is now tracking release patterns with near-sporting intensity.
-- **AI Productivity/Burnout Discourse** persists from the weekly "So this will be true in couple of years?" post (#14) to today's viral "Increase Productivity" comic. The theme has evolved from speculative ("will this happen?") to experiential ("this is happening and it's burning me out").
+**Persisting Trends:**
+- **The Jensen Huang narrative** has dominated both weekly and daily discussions, evolving from resignation news (Nov 12) through employee petitions (Nov 13) to his breaking silence (Nov 17). This is unprecedented — a single industry figure has sustained community attention for over a week across multiple subreddits.
+- **Qwen model ecosystem expansion** continues, with this week adding Hy4-Flash, Qwen3.8-Flash-Next-NVFP4-QAD, and harness-adapted variants. The weekly top posts featured "Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2" (4579 score), showing continued model competition drama.
+- **Local AI hardware enthusiasm** persists, evidenced by the "6x 7900XTX rig finally complete!" post (237 score) in r/LocalLLM and continued discussion of GPU pricing.
 
 **Newly Emerging Trends:**
-- **Custom Silicon and Hardware Innovation**: Today's chip prototype running Qwen 27B and the "cheap RAM and GPU after all" discussion represent a new hardware-focused thread. This differs from the weekly trend of complaining about GPU prices — now people are building alternatives.
-- **Institutional AI Policy Engagement**: The Fed Chair's speech on AI-driven economic scenarios is a new development. Unlike the weekly "FAA rolled out AI Air Traffic tool" (#11), which was about AI deployment, this is about AI's macroeconomic governance.
-- **Model Provenance Skepticism**: The Maxwell-V1-Flash discussion and Karpo-Decision-31B skepticism reflect a growing community demand for transparency about model origins and benchmark validity. This is a shift from the weekly trend of simply celebrating new releases.
+- **Looped transformer architectures** (SenseNova Loop 9B) represent a genuinely new direction, breaking from the "bigger is better" paradigm that has dominated model releases.
+- **Harness-specific fine-tuning** is a novel pattern — instead of general instruction tuning, models are being adapted to specific agentic frameworks (Pi agents), suggesting a maturation of the agent ecosystem.
+- **Embedded/edge AI absurdism** (Gemma on a printer) reflects community confidence in small model capabilities, moving beyond serious benchmarking to creative demonstrations.
+- **Post-Huang NVIDIA strategy questions** are new — the community is now actively debating whether NVIDIA's open-source commitments will survive leadership changes.
 
-**What These Changes Reflect:**
-The community is maturing from pure enthusiasm about capabilities to critical evaluation of claims, sustainability, and systemic impacts. The burnout discourse, benchmark skepticism, and institutional engagement all point to a community grappling with AI's real-world integration rather than its theoretical potential.
+**What This Reflects:**
+The community is maturing beyond pure hype cycles. While frontier model releases (GPT-6.2) still generate discussion, the most engaged technical discussions are about efficiency (looped transformers, Engram parameters), practical deployment (harness adapters, CPU TTS), and governance (NVIDIA's open-source future). The Jensen Huang saga has become a proxy for broader concerns about corporate control over AI infrastructure.
 
 ---
 
 ## 3. Monthly Technology Evolution
 
 **From Scale to Efficiency:**
-The monthly top posts show a clear arc. Early-month discussions (Oct 20-30) focused on capability breakthroughs: Claude Opus 5.5 helping rebuild Super Mario, biotech going vertical, Xiaomi's humanoid robots working 8-hour shifts. The emphasis was on what AI *can do*.
+The monthly top posts from late October featured massive projects — "Hacker reverse engineers his Samsung TV" (18091 score) and "Developer uses Claude to overhaul his parents' TV" (13457 score) — showcasing AI's transformative potential. November's trajectory has shifted toward optimization: SenseNova's looped transformer, Tencent's Engram parameters, and harness-specific fine-tuning all prioritize efficiency over raw scale.
 
-By mid-to-late November, the conversation has shifted to *how efficiently* AI can do it. Qwen4 Max's 67% cost reduction and 25% fewer activated parameters per token, Maxwell-V1-Flash's sparse attention for KV-cache efficiency, and the custom chip prototype all point to an industry-wide pivot toward optimization. This is a natural maturation: once capabilities are demonstrated, the focus turns to making them economically viable.
+**The Open Source Tension:**
+October's "Sam Altman: Local inference is a terrible allocation of compute" (6723 score, 2887 comments) sparked massive debate about the future of local AI. November has answered with action: Qwen's open-source commitment (5323 score), llama.cpp v1.0 (1924 score), and now multiple efficient model releases. The community is voting with its code.
 
-**The Nvidia Question:**
-The monthly #3 post — Sam Altman's "Local inference is a terrible allocation of resources" with 2,885 comments — set the stage for the Jensen Huang saga. The community's fierce reaction to Altman's dismissal of local inference, followed by Huang's resignation and the subsequent "bring back Jensen" movement, reveals a deep-seated concern about centralized control over AI infrastructure. The monthly #19 post "Dirt cheap GPUs coming next year" (2,868 score, 879 comments) further underscores this anxiety.
+**Robotics Acceleration:**
+From Xiaomi's humanoid robots (3307 score, Nov 3) to Unitree's Kung Fu Legend Guardian (2801 score, Oct 21) to today's ETH Zurich RL research, robotics has maintained steady momentum. The teleoperated humanoid TAU post today (479 score) suggests growing interest in human-robot interaction beyond industrial applications.
 
-**Open Source Momentum:**
-The monthly #5 post "Official Statement: Qwen Models Will Stick to Open Source" (5,316 score) and #19 "Hugging Face CEO vows to keep fighting for open source AI" (1,465 score) represent a persistent counter-narrative to closed-source dominance. Today's Maxwell-V1-Flash release, despite provenance questions, continues this trend of new open models entering the ecosystem.
+**The Huang Inflection Point:**
+The Jensen Huang saga represents a unique moment — a single executive's departure has crystallized community frustrations about GPU pricing, corporate control, and the future of open-source AI. The monthly view shows this wasn't sudden: "China offers Jensen new opportunities" (3610 score, Nov 12) and "Stories coming out about Jensen" (3607 score, Nov 13) built the narrative arc.
 
-**Emerging Technology Signals:**
-- **Sparse Attention Architectures**: Maxwell-V1-Flash's sparse attention and Qwen4 Max's reduced parameter activation both point to a broader architectural shift. This isn't just about making models smaller — it's about making inference fundamentally more efficient at scale.
-- **Multimodal Decision Models**: Karpo-Decision-31B represents a new category — models optimized specifically for decision-making tasks rather than general conversation. This specialization trend may signal the beginning of task-specific model architectures.
-- **AI Agent Frameworks**: miHoYo Gamer and Anthropic's "Always-On Agents" guide (from r/AI_Agents) suggest that agent frameworks are moving from research curiosity to production tooling.
+**Emerging Paradigm Shifts:**
+- **Looped/iterative architectures** may challenge the transformer scaling paradigm
+- **Engram parameters** suggest new approaches to knowledge storage vs. reasoning
+- **Harness-specific adaptation** points toward specialized rather than general-purpose models
+- **CPU-first inference** (Blue TTS) hints at a future where not everything needs a GPU
 
 ---
 
-## 4. Technical Deep Dive: Maxwell-V1-Flash's Sparse Attention Architecture
+## 4. Technical Deep Dive: SenseNova-Loop-9B and the Looped Transformer Renaissance
 
-The most technically intriguing development today is **Maxwell-V1-Flash**, a new model on Hugging Face that combines shockingly high benchmark scores with a sparse attention mechanism — and immediately triggered community debate about whether it's a genuine architectural innovation or a sophisticated fine-tune.
+The most technically significant development today is SenseNova-Loop-9B's release from preview, representing a genuine architectural departure from the dominant scaling paradigm. This isn't just another model release — it's a proof point for looped transformer architectures that may fundamentally change how we think about parameter efficiency.
 
-**The Technical Innovation:**
+**The Architecture:**
 
-What sets Maxwell-V1-Flash apart is its sparse attention architecture, which community members identified as "very compelling" for its potential memory efficiency. The key question raised was: "How much memory does its KV store take up at full context at bf16 compared to Qwen 3.6 35B or Gemma 4 26B?"
+Looped transformers (also called "recurrent-depth" or "iterative" transformers) process tokens through the same layers multiple times, effectively increasing computational depth without increasing parameter count. SenseNova-Loop-9B takes this further with what appears to be an adaptive looping mechanism — the model can dynamically determine how many iterations each token requires.
 
-This is the right question. Sparse attention fundamentally alters the compute and memory profile of transformer inference. In standard dense attention, every token attends to every other token, creating O(n²) complexity in both compute and KV-cache memory. Sparse attention reduces this by having each token attend to only a subset of other tokens — but the challenge has always been maintaining output quality while reducing the attention footprint.
+The benchmark improvements from preview to release are staggering:
+- **AutomationBench**: 14.33 → 36.67 (+156%)
+- **GAIA**: 37.86 → 69.90 (+85%)
+- **Terminal-Bench 2.1**: 40.45 → 59.55 (+47%)
+- **NL2Repo**: 19.91 → 41.36 (+108%)
 
-If Maxwell-V1-Flash achieves its benchmark scores with genuinely sparse attention, it would represent a meaningful advance in the efficiency-quality tradeoff. The fact that it's not yet supported in llama.cpp is a significant practical limitation — CPU expert offloading, a key technique for running large models on consumer hardware, won't work efficiently without framework support.
+These aren't incremental gains — they represent a model that has fundamentally changed its capability profile through architectural refinement rather than parameter scaling.
 
 **Why This Matters Now:**
 
-The timing is significant. Qwen4 Max just demonstrated that a 2.4-trillion-parameter model can activate 25% fewer parameters per token while improving benchmark scores. Maxwell-V1-Flash's sparse attention is a different approach to the same problem: how do you get more capability per unit of compute?
+The AI industry has been hitting diminishing returns on parameter scaling. GPT-6.2, Claude Fable 5.2, and Gemini 4 Hydrogen all represent massive compute investments for incremental improvements. SenseNova-Loop-9B suggests an alternative path: what if intelligence emerges not from storing more knowledge, but from iterating more deeply on existing knowledge?
 
-The community's skepticism — "Is this a Qwen fine-tune in a trenchcoat?" — is both a caution and a compliment. It's a caution because model provenance matters for trust and reproducibility. It's a compliment because the benchmark scores are high enough to warrant suspicion that they come from a proven architecture.
+Community reactions reveal both excitement and skepticism. One user noted: "It's so good, it's like we're entering a new era. It's token efficient too. Anyone who tells you it performs like Q3.8 27B is very, very wrong though." This nuanced take — acknowledging the breakthrough while tempering hype — reflects a maturing community that has been burned by overpromising before.
 
-**Implications for the Ecosystem:**
+**Technical Implications:**
 
-If sparse attention architectures prove viable at scale, they could fundamentally change the economics of local inference. The ability to run larger models with smaller KV-cache footprints would make high-context-window models practical on consumer hardware. This directly addresses the community's persistent concern about GPU memory constraints.
+1. **Memory-Compute Tradeoff**: Looped architectures shift the tradeoff from memory (parameters) to compute (iterations). This is significant for local deployment — a 9B model that runs at ~50 tok/s on a 5090 is more practical than a 27B model requiring more VRAM.
 
-However, the lack of llama.cpp support is a critical bottleneck. The local AI community has standardized on llama.cpp for CPU/GPU hybrid inference, and without support there, Maxwell-V1-Flash remains a curiosity rather than a practical tool. The community's reaction — "Sadly I don't see support in llamacpp which makes me feel like cpu expert offloading won't be the fast" — captures this tension between architectural innovation and ecosystem compatibility.
+2. **Adaptive Computation**: If the looping is truly adaptive, it represents a form of learned test-time compute scaling — the model "thinks harder" on difficult tokens without explicit chain-of-thought prompting.
 
-**The Broader Pattern:**
+3. **Quantization Synergy**: The model runs at ~15 GiB at 256K context with quantization, suggesting looped architectures may be particularly amenable to compression since the same weights are reused.
 
-Maxwell-V1-Flash is part of a larger trend visible across today's posts: the AI community is increasingly focused on *efficiency per unit of capability* rather than raw capability alone. Qwen4 Max's cost reductions, the custom chip prototype, and the sparse attention discussion all point in the same direction. The era of "just scale it up" is giving way to "make what we have work better."
+4. **Training Dynamics**: The massive preview-to-release improvement suggests the looping mechanism benefits disproportionately from extended training — the model learns *how* to iterate, not just *what* to compute.
 
-This shift has profound implications for who can participate in AI development. If efficiency innovations lower the compute barrier, the gap between well-resourced labs and the open-source community could narrow. If they don't, the concentration of AI power in a few hands will accelerate. The community's intense interest in these developments — and its skepticism about claims that don't hold up — suggests it understands what's at stake.
+**The Engram Connection:**
+
+Tencent's Hy4-Flash, also released today, introduces "Engram parameters" — 64B parameters that appear to function as a separate knowledge store from the 156B "active" parameters. Combined with SenseNova's looping, we're seeing a convergence toward architectures that separate knowledge storage from reasoning computation. This mirrors cognitive science models of human memory, where retrieval and reasoning are distinct processes.
+
+**Future Directions:**
+
+The community is already speculating about combining these approaches — looped transformers with Engram-style knowledge stores could theoretically achieve 27B-class performance at 9B inference costs. The GGUF release promised for tomorrow will be a critical test of whether these gains survive quantization.
+
+One developer's comment captures the moment: "Not the best model but stuff like this suggests we will keep getting better and better local models." The era of "just scale it up" may be ending. The era of "architect it smarter" is beginning.
 
 ---
 
 ## 5. Community Highlights
 
-**r/singularity** remains the dominant hub for AI news and cultural commentary, with today's top posts spanning memes (Increase Productivity), industry drama (Jensen Huang's return), and philosophical debate (Altman on agency). The community's tone is increasingly reflective, moving from pure techno-optimism to a more nuanced engagement with AI's societal implications. The Altman post's 393 comments — with top comments criticizing his perceived hypocrisy — show that the community is willing to challenge AI leaders directly.
+### Community Focus Areas
 
-**r/LocalLLaMA** is the technical heart of the open-source AI movement. Today's posts focus on model releases (Maxwell-V1-Flash, Sage-S2.1-Flash), tokenizer fixes (Gemma 4), and benchmark skepticism (Karpo-Decision-31B). The community's expertise is evident in discussions about KV-cache memory, sparse attention, and llama.cpp support. The "Qwopium" meme chart — analyzing Qwen release patterns by day of the week — shows a community that tracks model releases with the intensity of sports fans.
+**r/LocalLLaMA** remains the epicenter of practical AI deployment discussion. Today's focus spans the Jensen Huang fallout (1965 score), Intel's GPU benchmarks (408 score), and a meta-discussion titled "Y'all's idea of 'slop' is stuck in 2025" (298 score), suggesting the community is self-reflecting on quality standards. The subreddit is uniquely focused on the intersection of open-source models, consumer hardware, and corporate politics.
 
-**r/LocalLLM** is a smaller but growing community focused on practical local inference. Today's top posts include "The Banking Incident" (625 score), a chip prototype running Qwen 27B, and a discussion about cheap RAM and GPUs after an "AI crash." This community is more focused on hardware and deployment than on model architecture, reflecting its practitioner orientation.
+**r/singularity** continues as the broadest AI community, covering model releases (GPT-6.2), robotics (TAU humanoid), research (ETH Zurich RL), and memes (Gemini naming conventions). The community's emotional range is on display — from excitement about new models to existential humor ("Oh no" post with 428 score).
 
-**r/AI_Agents** is emerging as a distinct community focused on agent frameworks and applications. Today's top post about Anthropic's "Always-On Agents" guide requiring wiring — and a user sharing their experience with AI running their email inbox — suggests this community is moving from experimentation to production deployment.
+**r/LocalLLM** (distinct from r/LocalLLaMA) shows a more hardware-centric focus: "6x 7900XTX rig finally complete!" (237 score) and "Flash-Next is ridiculous" (232 score) demonstrate the community's emphasis on practical performance and build showcases. The smaller community size allows for more detailed technical discussions.
 
-**r/LLMDevs** is a developer-focused community with posts about Qwen 3.8 27B speed and a discussion about whether "Jev" (likely a reference to a specific model or tool) was useful. The small comment counts suggest this is a tight-knit, technically focused group.
+**r/MachineLearning** reveals the academic perspective: discussions about ML PhD career choices (46 score) and ICLR 2027 reviewer frustrations (15 and 12 score) show a community grappling with systemic issues in AI research. The reviewer no-response posts highlight growing pains in the conference review process.
 
-**r/MachineLearning** maintains its academic orientation with discussions about Vision Transformers (ViTs), ICLR 2027 peer review issues (AI detectors on reviews), and AISTATS 2027 paper discussions. The community's concerns are more methodological and meta-scientific than the other subreddits.
+**r/AI_Agents** and **r/LLMDevs** represent the practitioner-focused communities. The "OpenComputer" open-source alternative (42 score) and discussions about agent evaluation (28 score) suggest these communities are focused on building production systems rather than following hype cycles.
 
-**r/Rag** is a small, specialized community focused on retrieval-augmented generation. Today's top post about an air-gapped RAG knowledge assistant for an engineering team (3 score, 14 comments) shows the community is focused on practical, enterprise-oriented deployments rather than cutting-edge research.
+**r/Rag** remains a niche but active community, with today's top post about fixing RAG hallucinations on 1000-page books (19 score) showing the continued relevance of retrieval-augmented generation despite its "boring" reputation.
 
-**Cross-Cutting Themes:**
-- **Efficiency and Cost**: Across all communities, there's a shared focus on making AI more efficient — whether through sparse attention (r/LocalLLaMA), custom chips (r/LocalLLM), or cost-reduced models (r/singularity).
-- **Trust and Transparency**: The skepticism about Maxwell-V1-Flash's provenance, Karpo-Decision-31B's benchmark claims, and Sam Altman's rhetoric all point to a community that is increasingly demanding evidence over marketing.
-- **The Nvidia Question**: The Jensen Huang saga is the rare story that bridges all communities — from r/singularity's memes to r/LocalLLaMA's serious analysis of GPU pricing and compute access.
-- **Human Impact**: The burnout discussion on r/singularity and the "Always-On Agents" discussion on r/AI_Agents both reflect a growing awareness that AI's integration into work and life has psychological and organizational consequences that are not yet well understood.
+### Cross-Cutting Themes
+
+**The NVIDIA Question**: Across r/LocalLLaMA, r/LocalLLM, and r/singularity, the Jensen Huang saga and NVIDIA's future strategy dominate. The cross-community discussion reveals different concerns: r/LocalLLaMA worries about open-source model releases, r/LocalLLM focuses on GPU pricing, and r/singularity debates the broader implications for AI development.
+
+**Efficiency vs. Scale**: The SenseNova Loop 9B and Hy4-Flash discussions appear across multiple communities, united by a common theme: can smaller, smarter models compete with larger ones? This represents a potential paradigm shift that affects everyone from hobbyists to enterprises.
+
+**The Agent Ecosystem Matures**: Harness-specific fine-tuning (r/LocalLLaMA), agent evaluation (r/AI_Agents), and RAG improvements (r/Rag) all point to the agent ecosystem moving from experimentation to production. The focus is shifting from "can agents work?" to "how do we make them work reliably?"
+
+### Unique Insights from Smaller Communities
+
+**r/LLMDevs** offers a rare enterprise perspective: "For those running LLMs in banks or other regulated companies" (5 score, 19 comments) — a discussion about compliance, data governance, and deployment challenges that rarely surfaces in larger communities. This represents the "quiet majority" of AI practitioners building within constraints.
+
+**r/MachineLearning** provides academic grounding: the ICLR reviewer discussions reveal systemic issues in peer review that affect the entire field's knowledge production. The frustration with unresponsive reviewers (two of three haven't responded) is a recurring theme that deserves more attention.
+
+**r/Rag** demonstrates the value of focused communities: the loss-based approach to fixing RAG hallucinations on long documents (19 score) is a specific, actionable technique that would be lost in larger subreddits. This is where practitioners share hard-won lessons.
+
+**r/LocalLLM**'s hardware focus yields unique content: the 6x 7900XTX rig (237 score) with 77 comments represents detailed build documentation and performance discussion that serves as a reference for others. The community's willingness to share failures and successes creates a valuable knowledge base.
+
+The overall picture is of an ecosystem maturing rapidly — from hype-driven to practice-driven, from scale-obsessed to efficiency-aware, and from individual experimentation to community knowledge sharing. The Jensen Huang saga may be the headline, but the real story is the quiet revolution in how we build and deploy AI systems.
