@@ -1,71 +1,71 @@
-# Reddit AI 趋势报告 - 2026-11-26
+# Reddit AI 趋势报告 - 2026-11-27
 
 ## 今日热门帖子
 
 | Title | Community | Score | Comments | Category | Posted |
 |-------|-----------|-------|----------|----------|--------|
-| [Singularity for me not for thee](https://www.reddit.com/comments/1y5bv5v) | [r/singularity](https://www.reddit.com/r/singularity) | 3228 | 296 | Economics & Society | 2026-11-25 16:34 UTC |
-| [Inside You There Are Two AI Swarms](https://www.reddit.com/comments/1y5og29) | [r/singularity](https://www.reddit.com/r/singularity) | 1902 | 152 | Shitposting | 2026-11-26 01:25 UTC |
-| [Anthropic has achieved a remarkable 99.56% reduction in t...](https://www.reddit.com/comments/1y5k855) | [r/singularity](https://www.reddit.com/r/singularity) | 1384 | 179 | AI | 2026-11-25 22:08 UTC |
-| [​OpenAI and GPT-6 Astra Just Tackled Physics’ Holy Grail:...](https://www.reddit.com/comments/1y5u48p) | [r/singularity](https://www.reddit.com/r/singularity) | 934 | 316 | the Singularity is HERE | 2026-11-26 06:32 UTC |
-| [another cut of nvidia gpu](https://www.reddit.com/comments/1y5blyd) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 834 | 353 | News | 2026-11-25 16:24 UTC |
-| [Rumor that OpenAI or Anthropic found a way to break RSA e...](https://www.reddit.com/comments/1y59ef1) | [r/singularity](https://www.reddit.com/r/singularity) | 659 | 274 | the Singularity is HERE | 2026-11-25 14:58 UTC |
-| [Standford Physicist Venkatesa Chandraeskaran working alon...](https://www.reddit.com/comments/1y5u17u) | [r/singularity](https://www.reddit.com/r/singularity) | 636 | 187 | Engineering | 2026-11-26 06:27 UTC |
-| [One prompt, no human help: Google\'s AI took on math prob...](https://www.reddit.com/comments/1y5635t) | [r/singularity](https://www.reddit.com/r/singularity) | 520 | 96 | the Singularity is Nearer | 2026-11-25 12:25 UTC |
-| [Scott Aaronson: It’s now obvious that we’ll be getting, n...](https://www.reddit.com/comments/1y5j8p1) | [r/singularity](https://www.reddit.com/r/singularity) | 507 | 67 | the Singularity is HERE | 2026-11-25 21:24 UTC |
-| [Scoot Aaronson, a famous computer scientist, says that he...](https://www.reddit.com/comments/1y5b2m2) | [r/singularity](https://www.reddit.com/r/singularity) | 505 | 187 | the Singularity is Nearer | 2026-11-25 16:03 UTC |
+| [Using AI people decompiled the Xbox executable for GTA VI...](https://www.reddit.com/comments/1y6eujl) | [r/singularity](https://www.reddit.com/r/singularity) | 2517 | 584 | the Singularity is HERE | 2026-11-26 23:39 UTC |
+| [Throttled](https://www.reddit.com/comments/1y690bx) | [r/singularity](https://www.reddit.com/r/singularity) | 1989 | 220 | the Singularity is Nearer | 2026-11-26 19:01 UTC |
+| [This is how Claude has been reacting to GTA recomp requests](https://www.reddit.com/comments/1y6m51z) | [r/singularity](https://www.reddit.com/r/singularity) | 1199 | 191 | Meme | 2026-11-27 06:20 UTC |
+| [I can\'t believe it\'s really happening](https://www.reddit.com/comments/1y67koi) | [r/singularity](https://www.reddit.com/r/singularity) | 1158 | 714 | AI | 2026-11-26 18:00 UTC |
+| [Opus 5.6 is absolutelly FANTASTIC](https://www.reddit.com/comments/1y61soe) | [r/singularity](https://www.reddit.com/r/singularity) | 935 | 459 | LLM News | 2026-11-26 13:56 UTC |
+| [Reuters confirms: Cutting off distillation and compute wo...](https://www.reddit.com/comments/1y5ysad) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 723 | 548 | Resources | 2026-11-26 11:16 UTC |
+| [My first AI film with real dialogue (Seedance 2.5)](https://www.reddit.com/comments/1y675kp) | [r/singularity](https://www.reddit.com/r/singularity) | 657 | 187 | AI Generated Media  | 2026-11-26 17:42 UTC |
+| [CNBC: an unusually high volume of Nvidia GPUs, including ...](https://www.reddit.com/comments/1y667aa) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 649 | 182 | News | 2026-11-26 17:02 UTC |
+| [One-shot game output from supposedly the next Opus Model](https://www.reddit.com/comments/1y6g31u) | [r/singularity](https://www.reddit.com/r/singularity) | 638 | 162 | AI | 2026-11-27 00:42 UTC |
+| [Output from what is supposedly the next Opus model.&nbsp;...](https://www.reddit.com/comments/1y5zaof) | [r/singularity](https://www.reddit.com/r/singularity) | 478 | 121 | Video | 2026-11-26 11:47 UTC |
 
 
 ## 本周热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [The AI Community\'s Biggest Disagreement Captured In One ...](https://www.reddit.com/comments/1y31pza) | [r/singularity](https://www.reddit.com/r/singularity) | 8332 | 1631 | AI | 2026-11-22 22:24 UTC |
-| 2 | [Employees welcome back Jensen to Nvidia](https://www.reddit.com/comments/1y3s3m3) | [r/singularity](https://www.reddit.com/r/singularity) | 5375 | 2082 | AI | 2026-11-23 19:46 UTC |
-| 3 | [​](https://www.reddit.com/comments/1y4mk3t) | [r/singularity](https://www.reddit.com/r/singularity) | 4635 | 298 | Shitposting | 2026-11-24 19:36 UTC |
-| 4 | [One of my greatest contributions to making Gemini Neon 4 ...](https://www.reddit.com/comments/1y1zkd4) | [r/singularity](https://www.reddit.com/r/singularity) | 3878 | 71 | Meme | 2026-11-21 15:24 UTC |
-| 5 | [Redditors in their final moments](https://www.reddit.com/comments/1y2aa8b) | [r/singularity](https://www.reddit.com/r/singularity) | 3677 | 349 | Meme | 2026-11-21 23:13 UTC |
-| 6 | [Hacking in movies](https://www.reddit.com/comments/1y4su12) | [r/singularity](https://www.reddit.com/r/singularity) | 3354 | 83 | Shitposting | 2026-11-24 23:59 UTC |
-| 7 | [Singularity for me not for thee](https://www.reddit.com/comments/1y5bv5v) | [r/singularity](https://www.reddit.com/r/singularity) | 3235 | 296 | Economics & Society | 2026-11-25 16:34 UTC |
-| 8 | [Old Reddit thread discussing if we will ever solve the Ri...](https://www.reddit.com/comments/1y22y94) | [r/singularity](https://www.reddit.com/r/singularity) | 2813 | 474 | AI | 2026-11-21 17:49 UTC |
-| 9 | [The parrot strikes back](https://www.reddit.com/comments/1y1dns9) | [r/singularity](https://www.reddit.com/r/singularity) | 2356 | 282 | AI | 2026-11-20 20:16 UTC |
-| 10 | [Something just happened.](https://www.reddit.com/comments/1y14vi5) | [r/singularity](https://www.reddit.com/r/singularity) | 2035 | 535 | AI | 2026-11-20 14:29 UTC |
-| 11 | [Inside You There Are Two AI Swarms](https://www.reddit.com/comments/1y5og29) | [r/singularity](https://www.reddit.com/r/singularity) | 1917 | 152 | Shitposting | 2026-11-26 01:25 UTC |
-| 12 | [Levent Alpöge working with Claude claims to have discover...](https://www.reddit.com/comments/1y14vcd) | [r/singularity](https://www.reddit.com/r/singularity) | 1833 | 433 | the Singularity is HERE | 2026-11-20 14:28 UTC |
-| 13 | [Anthropic claimed to have proved VP ≠ VNP over every fiel...](https://www.reddit.com/comments/1y3w34p) | [r/singularity](https://www.reddit.com/r/singularity) | 1750 | 572 | AI | 2026-11-23 22:20 UTC |
-| 14 | [thinkingmachines/Inkling-2-Mini (MoE: 26b, a3B)](https://www.reddit.com/comments/1y1diuk) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1711 | 503 | New Model | 2026-11-20 20:10 UTC |
-| 15 | [Anthropic mathematician claims to prove Riemann hypothesi...](https://www.reddit.com/comments/1y15d87) | [r/singularity](https://www.reddit.com/r/singularity) | 1528 | 402 | AI | 2026-11-20 14:49 UTC |
-| 16 | [The US-China Open-Weight Feedback Loop](https://www.reddit.com/comments/1y3q68f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1430 | 80 | Showcase | 2026-11-23 18:34 UTC |
-| 17 | [It\'s just going to get weirder and weirder](https://www.reddit.com/comments/1y4ll61) | [r/singularity](https://www.reddit.com/r/singularity) | 1389 | 137 | Video | 2026-11-24 18:58 UTC |
-| 18 | [Anthropic has achieved a remarkable 99.56% reduction in t...](https://www.reddit.com/comments/1y5k855) | [r/singularity](https://www.reddit.com/r/singularity) | 1381 | 179 | AI | 2026-11-25 22:08 UTC |
-| 19 | [Who\'s next?](https://www.reddit.com/comments/1y37the) | [r/singularity](https://www.reddit.com/r/singularity) | 1323 | 178 | Meme | 2026-11-23 03:22 UTC |
-| 20 | [Ted Kaczynski predicting AI doing math](https://www.reddit.com/comments/1y2zmb0) | [r/singularity](https://www.reddit.com/r/singularity) | 1262 | 450 | Discussion | 2026-11-22 20:51 UTC |
+| 1 | [The AI Community\'s Biggest Disagreement Captured In One ...](https://www.reddit.com/comments/1y31pza) | [r/singularity](https://www.reddit.com/r/singularity) | 8956 | 1694 | AI | 2026-11-22 22:24 UTC |
+| 2 | [Employees welcome back Jensen to Nvidia](https://www.reddit.com/comments/1y3s3m3) | [r/singularity](https://www.reddit.com/r/singularity) | 5400 | 2086 | AI | 2026-11-23 19:46 UTC |
+| 3 | [​](https://www.reddit.com/comments/1y4mk3t) | [r/singularity](https://www.reddit.com/r/singularity) | 5049 | 305 | Shitposting | 2026-11-24 19:36 UTC |
+| 4 | [One of my greatest contributions to making Gemini Neon 4 ...](https://www.reddit.com/comments/1y1zkd4) | [r/singularity](https://www.reddit.com/r/singularity) | 4315 | 74 | Meme | 2026-11-21 15:24 UTC |
+| 5 | [Singularity for me not for thee](https://www.reddit.com/comments/1y5bv5v) | [r/singularity](https://www.reddit.com/r/singularity) | 4126 | 345 | Economics & Society | 2026-11-25 16:34 UTC |
+| 6 | [Redditors in their final moments](https://www.reddit.com/comments/1y2aa8b) | [r/singularity](https://www.reddit.com/r/singularity) | 3700 | 352 | Meme | 2026-11-21 23:13 UTC |
+| 7 | [Hacking in movies](https://www.reddit.com/comments/1y4su12) | [r/singularity](https://www.reddit.com/r/singularity) | 3685 | 83 | Shitposting | 2026-11-24 23:59 UTC |
+| 8 | [Old Reddit thread discussing if we will ever solve the Ri...](https://www.reddit.com/comments/1y22y94) | [r/singularity](https://www.reddit.com/r/singularity) | 2833 | 477 | AI | 2026-11-21 17:49 UTC |
+| 9 | [Inside You There Are Two AI Swarms](https://www.reddit.com/comments/1y5og29) | [r/singularity](https://www.reddit.com/r/singularity) | 2759 | 197 | Shitposting | 2026-11-26 01:25 UTC |
+| 10 | [Using AI people decompiled the Xbox executable for GTA VI...](https://www.reddit.com/comments/1y6eujl) | [r/singularity](https://www.reddit.com/r/singularity) | 2516 | 582 | the Singularity is HERE | 2026-11-26 23:39 UTC |
+| 11 | [The parrot strikes back](https://www.reddit.com/comments/1y1dns9) | [r/singularity](https://www.reddit.com/r/singularity) | 2353 | 283 | AI | 2026-11-20 20:16 UTC |
+| 12 | [Something just happened.](https://www.reddit.com/comments/1y14vi5) | [r/singularity](https://www.reddit.com/r/singularity) | 2035 | 536 | AI | 2026-11-20 14:29 UTC |
+| 13 | [​OpenAI and GPT-6 Astra Just Tackled Physics’ Holy Grail:...](https://www.reddit.com/comments/1y5u48p) | [r/singularity](https://www.reddit.com/r/singularity) | 2009 | 584 | the Singularity is HERE | 2026-11-26 06:32 UTC |
+| 14 | [Throttled](https://www.reddit.com/comments/1y690bx) | [r/singularity](https://www.reddit.com/r/singularity) | 1996 | 220 | the Singularity is Nearer | 2026-11-26 19:01 UTC |
+| 15 | [Levent Alpöge working with Claude claims to have discover...](https://www.reddit.com/comments/1y14vcd) | [r/singularity](https://www.reddit.com/r/singularity) | 1839 | 433 | the Singularity is HERE | 2026-11-20 14:28 UTC |
+| 16 | [Anthropic claimed to have proved VP ≠ VNP over every fiel...](https://www.reddit.com/comments/1y3w34p) | [r/singularity](https://www.reddit.com/r/singularity) | 1756 | 575 | AI | 2026-11-23 22:20 UTC |
+| 17 | [thinkingmachines/Inkling-2-Mini (MoE: 26b, a3B)](https://www.reddit.com/comments/1y1diuk) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 1722 | 505 | New Model | 2026-11-20 20:10 UTC |
+| 18 | [Anthropic has achieved a remarkable 99.56% reduction in t...](https://www.reddit.com/comments/1y5k855) | [r/singularity](https://www.reddit.com/r/singularity) | 1588 | 201 | AI | 2026-11-25 22:08 UTC |
+| 19 | [It\'s just going to get weirder and weirder](https://www.reddit.com/comments/1y4ll61) | [r/singularity](https://www.reddit.com/r/singularity) | 1583 | 141 | Video | 2026-11-24 18:58 UTC |
+| 20 | [Anthropic mathematician claims to prove Riemann hypothesi...](https://www.reddit.com/comments/1y15d87) | [r/singularity](https://www.reddit.com/r/singularity) | 1528 | 401 | AI | 2026-11-20 14:49 UTC |
 
 
 ## 本月热门帖子
 
 | # | Title | Community | Score | Comments | Category | Posted |
 |---|-------|-----------|-------|----------|----------|--------|
-| 1 | [The AI Community\'s Biggest Disagreement Captured In One ...](https://www.reddit.com/comments/1y31pza) | [r/singularity](https://www.reddit.com/r/singularity) | 8337 | 1631 | AI | 2026-11-22 22:24 UTC |
-| 2 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6772 | 2906 | Funny | 2026-10-29 23:11 UTC |
-| 3 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6659 | 165 | Meme | 2026-11-12 22:21 UTC |
-| 4 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 5380 | 588 | News | 2026-11-02 16:42 UTC |
-| 5 | [Employees welcome back Jensen to Nvidia](https://www.reddit.com/comments/1y3s3m3) | [r/singularity](https://www.reddit.com/r/singularity) | 5370 | 2082 | AI | 2026-11-23 19:46 UTC |
-| 6 | [Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all o...](https://www.reddit.com/comments/1xwvg9b) | [r/singularity](https://www.reddit.com/r/singularity) | 5086 | 182 | Shitposting | 2026-11-15 13:25 UTC |
-| 7 | [​](https://www.reddit.com/comments/1y4mk3t) | [r/singularity](https://www.reddit.com/r/singularity) | 4643 | 298 | Shitposting | 2026-11-24 19:36 UTC |
-| 8 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 4051 | 559 | Meme | 2026-10-30 17:17 UTC |
-| 9 | [One of my greatest contributions to making Gemini Neon 4 ...](https://www.reddit.com/comments/1y1zkd4) | [r/singularity](https://www.reddit.com/r/singularity) | 3887 | 71 | Meme | 2026-11-21 15:24 UTC |
-| 10 | [Claude Opus 5.5 helps developer bring the entire Super Ma...](https://www.reddit.com/comments/1xgw6sk) | [r/singularity](https://www.reddit.com/r/singularity) | 3791 | 269 | the Singularity is HERE | 2026-10-27 15:50 UTC |
-| 11 | [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 3731 | 164 | Shitposting | 2026-11-13 15:06 UTC |
-| 12 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3690 | 643 | News | 2026-11-13 01:58 UTC |
-| 13 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3677 | 861 | Biotech/Longevity | 2026-10-29 11:21 UTC |
-| 14 | [Redditors in their final moments](https://www.reddit.com/comments/1y2aa8b) | [r/singularity](https://www.reddit.com/r/singularity) | 3670 | 349 | Meme | 2026-11-21 23:13 UTC |
-| 15 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3656 | 245 | Meme | 2026-11-12 16:36 UTC |
-| 16 | [Hacking in movies](https://www.reddit.com/comments/1y4su12) | [r/singularity](https://www.reddit.com/r/singularity) | 3348 | 83 | Shitposting | 2026-11-24 23:59 UTC |
-| 17 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 3309 | 793 | Robotics | 2026-11-03 21:16 UTC |
-| 18 | [Singularity for me not for thee](https://www.reddit.com/comments/1y5bv5v) | [r/singularity](https://www.reddit.com/r/singularity) | 3227 | 296 | Economics & Society | 2026-11-25 16:34 UTC |
-| 19 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3208 | 531 | Discussion | 2026-11-12 17:43 UTC |
-| 20 | [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3159 | 668 | News | 2026-11-14 03:40 UTC |
+| 1 | [The AI Community\'s Biggest Disagreement Captured In One ...](https://www.reddit.com/comments/1y31pza) | [r/singularity](https://www.reddit.com/r/singularity) | 8956 | 1694 | AI | 2026-11-22 22:24 UTC |
+| 2 | [Sam Altman: “Local inference is a terrible allocation of ...](https://www.reddit.com/comments/1xizbq1) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 6786 | 2906 | Funny | 2026-10-29 23:11 UTC |
+| 3 | [Judging by the current exponential rate, Jensen Huang\'s ...](https://www.reddit.com/comments/1xuqlkb) | [r/singularity](https://www.reddit.com/r/singularity) | 6681 | 166 | Meme | 2026-11-12 22:21 UTC |
+| 4 | [Employees welcome back Jensen to Nvidia](https://www.reddit.com/comments/1y3s3m3) | [r/singularity](https://www.reddit.com/r/singularity) | 5409 | 2086 | AI | 2026-11-23 19:46 UTC |
+| 5 | [Official Statement: Qwen Models Will Stick to Open Source...](https://www.reddit.com/comments/1xm28e6) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 5377 | 588 | News | 2026-11-02 16:42 UTC |
+| 6 | [Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all o...](https://www.reddit.com/comments/1xwvg9b) | [r/singularity](https://www.reddit.com/r/singularity) | 5091 | 183 | Shitposting | 2026-11-15 13:25 UTC |
+| 7 | [​](https://www.reddit.com/comments/1y4mk3t) | [r/singularity](https://www.reddit.com/r/singularity) | 5053 | 305 | Shitposting | 2026-11-24 19:36 UTC |
+| 8 | [One of my greatest contributions to making Gemini Neon 4 ...](https://www.reddit.com/comments/1y1zkd4) | [r/singularity](https://www.reddit.com/r/singularity) | 4305 | 74 | Meme | 2026-11-21 15:24 UTC |
+| 9 | [Singularity for me not for thee](https://www.reddit.com/comments/1y5bv5v) | [r/singularity](https://www.reddit.com/r/singularity) | 4124 | 345 | Economics & Society | 2026-11-25 16:34 UTC |
+| 10 | [Every time I visit the antiai sub](https://www.reddit.com/comments/1xjleej) | [r/singularity](https://www.reddit.com/r/singularity) | 4052 | 560 | Meme | 2026-10-30 17:17 UTC |
+| 11 | [Huang: The Game](https://www.reddit.com/comments/1xva8yj) | [r/singularity](https://www.reddit.com/r/singularity) | 3723 | 163 | Shitposting | 2026-11-13 15:06 UTC |
+| 12 | [Redditors in their final moments](https://www.reddit.com/comments/1y2aa8b) | [r/singularity](https://www.reddit.com/r/singularity) | 3700 | 352 | Meme | 2026-11-21 23:13 UTC |
+| 13 | [Stories coming out about Jensen](https://www.reddit.com/comments/1xuvexw) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3698 | 643 | News | 2026-11-13 01:58 UTC |
+| 14 | [Biotech about to go vertical?](https://www.reddit.com/comments/1xih8qk) | [r/singularity](https://www.reddit.com/r/singularity) | 3675 | 861 | Biotech/Longevity | 2026-10-29 11:21 UTC |
+| 15 | [Hacking in movies](https://www.reddit.com/comments/1y4su12) | [r/singularity](https://www.reddit.com/r/singularity) | 3672 | 83 | Shitposting | 2026-11-24 23:59 UTC |
+| 16 | [China offers Jensen new opportunities](https://www.reddit.com/comments/1xuhhvn) | [r/singularity](https://www.reddit.com/r/singularity) | 3659 | 245 | Meme | 2026-11-12 16:36 UTC |
+| 17 | [Xiaomi\'s humanoid robots spotted doing their first 8-hou...](https://www.reddit.com/comments/1xn5g1f) | [r/singularity](https://www.reddit.com/r/singularity) | 3303 | 793 | Robotics | 2026-11-03 21:16 UTC |
+| 18 | [Jensen Huang\'s mistake was being too pro LocalAI, which ...](https://www.reddit.com/comments/1xujb7c) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3213 | 531 | Discussion | 2026-11-12 17:43 UTC |
+| 19 | [Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen ...](https://www.reddit.com/comments/1xvsb5f) | [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA) | 3166 | 668 | News | 2026-11-14 03:40 UTC |
+| 20 | [Old Reddit thread discussing if we will ever solve the Ri...](https://www.reddit.com/comments/1y22y94) | [r/singularity](https://www.reddit.com/r/singularity) | 2832 | 477 | AI | 2026-11-21 17:49 UTC |
 
 
 ## 各社区本周热门帖子
@@ -74,197 +74,252 @@
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [If you\'re new to AI agents, stop watching tutorials and ...](https://www.reddit.com/comments/1y5uckh) | 49 | 40 | Tutorial | 2026-11-26 06:45 UTC |
-| [Anyone found an AI personal assistant worth sticking with?](https://www.reddit.com/comments/1y5g80p) | 23 | 41 | Discussion | 2026-11-25 19:21 UTC |
-| [AI agents for revenue growth](https://www.reddit.com/comments/1y5epx4) | 23 | 18 | Discussion | 2026-11-25 18:22 UTC |
+| [AI Receptionist is about to become a dead-end](https://www.reddit.com/comments/1y66rkq) | 21 | 24 | Discussion | 2026-11-26 17:25 UTC |
+| [New to agents](https://www.reddit.com/comments/1y622ti) | 17 | 20 | Discussion | 2026-11-26 14:08 UTC |
+| [agents that loop on tool errors: the fix was mostly in wh...](https://www.reddit.com/comments/1y6keap) | 14 | 14 | Discussion | 2026-11-27 04:43 UTC |
 
 
 ### r/LLMDevs
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [What reasoning level do you use on GLM-5.3 for coding?](https://www.reddit.com/comments/1y5arrd) | 7 | 12 | Discussion | 2026-11-25 15:52 UTC |
-| [An agent\'s \"done\" is a self-report.&nbsp;We open-sourc...](https://www.reddit.com/comments/1y5il18) | 1 | 17 | Tools | 2026-11-25 20:58 UTC |
-| [How do you evaluate LLM structured outputs when the order...](https://www.reddit.com/comments/1y57dfh) | 1 | 14 | Help Wanted | 2026-11-25 13:29 UTC |
+| [I replaced our 4,000 word system prompt with 9 lines and ...](https://www.reddit.com/comments/1y69zwa) | 14 | 15 | Discussion | 2026-11-26 19:44 UTC |
+| [I built an open-source self-hosted AI gateway and workspa...](https://www.reddit.com/comments/1y60pxg) | 2 | 12 | Tools | 2026-11-26 13:04 UTC |
 
 
 ### r/LangChain
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [How are you enforcing per-user tool permissions in LangCh...](https://www.reddit.com/comments/1y5aghl) | 4 | 15 | Discussion | 2026-11-25 15:39 UTC |
+| [blamed the model all week, it was my browse tool](https://www.reddit.com/comments/1y6nf1i) | 8 | 11 | Discussion | 2026-11-27 07:39 UTC |
 
 
 ### r/LocalLLM
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [AMD\'s 192GB Ryzen AI Halo brings much larger AI models t...](https://www.reddit.com/comments/1y5iu8f) | 153 | 107 | News | 2026-11-25 21:07 UTC |
-| [How much VRAM is generally needed for a decent local reas...](https://www.reddit.com/comments/1y55dp9) | 87 | 127 | Question | 2026-11-25 11:47 UTC |
-| [PSA.&nbsp;Abliterated models will happily wipe your disk....](https://www.reddit.com/comments/1y5uvt2) | 59 | 46 | Discussion | 2026-11-26 07:15 UTC |
+| [Tencent just open-sourced a decoder that runs sparse mode...](https://www.reddit.com/comments/1y6igu2) | 138 | 15 | Research | 2026-11-27 02:54 UTC |
+| [Best local llm right now?](https://www.reddit.com/comments/1y68ds3) | 93 | 154 | Question | 2026-11-26 18:34 UTC |
+| [Qwen Flash Next on an 8GB Card ~50-70tkps at 512k CTX!!](https://www.reddit.com/comments/1y6btoc) | 84 | 46 | Model | 2026-11-26 21:07 UTC |
 
 
 ### r/LocalLLaMA
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [another cut of nvidia gpu](https://www.reddit.com/comments/1y5blyd) | 834 | 353 | News | 2026-11-25 16:24 UTC |
-| [Latency doesn\'t lie: Jev is (probably) Qwen3.5-35B-A3B!](https://www.reddit.com/comments/1y5nllv) | 458 | 57 | News | 2026-11-26 00:44 UTC |
-| [Fine-tune Gemma 4 models](https://www.reddit.com/comments/1y5iizr) | 249 | 25 | Resources | 2026-11-25 20:55 UTC |
+| [Reuters confirms: Cutting off distillation and compute wo...](https://www.reddit.com/comments/1y5ysad) | 723 | 548 | Resources | 2026-11-26 11:16 UTC |
+| [CNBC: an unusually high volume of Nvidia GPUs, including ...](https://www.reddit.com/comments/1y667aa) | 649 | 182 | News | 2026-11-26 17:02 UTC |
+| [Z.AI clarifies GLM-5.5 has not been delayed, scheduled fo...](https://www.reddit.com/comments/1y6260i) | 473 | 96 | News | 2026-11-26 14:12 UTC |
+
+
+### r/MachineLearning
+
+| Title | Score | Comments | Category | Posted |
+|-------|-------|----------|----------|--------|
+| [Do we really need LLM ACs at ICLR? \[D\]](https://www.reddit.com/comments/1y67spi) | 50 | 18 | Discussion | 2026-11-26 18:09 UTC |
 
 
 ### r/Rag
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [how do you do per-user document access in rag? (bank use ...](https://www.reddit.com/comments/1y59j26) | 1 | 15 | Discussion | 2026-11-25 15:02 UTC |
+| [At what point does cleaning documents for RAG become the ...](https://www.reddit.com/comments/1y60vwd) | 9 | 12 | Discussion | 2026-11-26 13:12 UTC |
 
 
 ### r/singularity
 
 | Title | Score | Comments | Category | Posted |
 |-------|-------|----------|----------|--------|
-| [Singularity for me not for thee](https://www.reddit.com/comments/1y5bv5v) | 3228 | 296 | Economics & Society | 2026-11-25 16:34 UTC |
-| [Inside You There Are Two AI Swarms](https://www.reddit.com/comments/1y5og29) | 1902 | 152 | Shitposting | 2026-11-26 01:25 UTC |
-| [Anthropic has achieved a remarkable 99.56% reduction in t...](https://www.reddit.com/comments/1y5k855) | 1384 | 179 | AI | 2026-11-25 22:08 UTC |
+| [Using AI people decompiled the Xbox executable for GTA VI...](https://www.reddit.com/comments/1y6eujl) | 2517 | 584 | the Singularity is HERE | 2026-11-26 23:39 UTC |
+| [Throttled](https://www.reddit.com/comments/1y690bx) | 1989 | 220 | the Singularity is Nearer | 2026-11-26 19:01 UTC |
+| [This is how Claude has been reacting to GTA recomp requests](https://www.reddit.com/comments/1y6m51z) | 1199 | 191 | Meme | 2026-11-27 06:20 UTC |
 
 
 
 
 ## 趋势分析
 
-# Reddit AI 社区趋势分析报告
-**日期：2026年11月26日**
+# Reddit AI 趋势分析报告
+**报告日期：2026年11月27日**
 
 
-## 1. 今日焦点
+## 一、今日焦点
 
-### 新模型发布与性能突破
+### 🔥 GTA VI 逆向工程：AI 辅助游戏破解的里程碑
 
-- **Inkling 2 Mini 生态爆发式增长** - 今日 r/LocalLLaMA 几乎被 Inkling 2 Mini 相关帖子刷屏。从"Introducing Inkling 2 Mini Fast"（声称通过权重调优实现2倍加速）到社区开发者在 iPhone 16 Pro 上以优化专家卸载方式运行26B模型，再到 capy-flash v0.16.5 通过 LoopCD 对比解码将 agent 评分从0.22提升至0.38，整个生态系统正在围绕这一模型快速迭代。值得注意的是，社区成员对"2x faster answers through weight tuning"的营销声明持高度怀疑态度，一位用户直言："声称砍掉一半思考过程后准确率还能提升，这是需要非凡证据的非凡主张。"
-  *为何重要：* Inkling 2 Mini 正在成为本地LLM领域的"iPhone时刻"——26B模型能在手机上运行，标志着端侧AI推理正从概念验证走向实用化。社区对基准测试的严格审视也反映出本地AI社区日益成熟的技术判断力。
-  帖子链接：[Introducing Inkling 2 Mini Fast](https://www.reddit.com/comments/1y59t23)（评分：196，评论数：34）；[we ran inkling 2 mini (26b) on an iphone 16 pro](https://www.reddit.com/comments/1y5idff)（评分：123，评论数：27）；[capy-flash v0.16.5](https://www.reddit.com/comments/1y593ze)（评分：32，评论数：38）
+- **AI 辅助反编译 GTA VI Xbox 可执行文件并移植至 PC** - 社区成员利用 AI 工具对 GTA VI 的 Xbox 可执行文件进行反编译，成功移植到 PC 平台，并已开始添加多人游戏功能。据社区评论描述，游戏于19日发布，数小时内即有团队提取文件，随后可执行文件被提取，同日游戏已能启动至设置菜单，数小时后加载至第一场景。这一速度令社区震惊。
+*为何重要：* 这标志着 AI 辅助逆向工程能力的质变——过去需要数月甚至数年的游戏破解工作，现在在数天内即可完成。社区成员指出，PC 游戏社区此前对 AI 持强烈反对态度，但如今态度发生了戏剧性转变，正如一位用户讽刺道："PC 游戏社区以前非常反 AI，尤其是在 Reddit 上。突然间这不再是问题了？"这揭示了实用主义如何战胜意识形态立场。
+帖子链接：[Using AI people decompiled the Xbox executable for GTA VI...](https://www.reddit.com/comments/1y6eujl)（评分：2517，评论数：584）
 
-- **Jev 模型身份揭秘：Qwen3.5-35B-A3B 指纹识别** - 一篇通过延迟分析进行模型指纹识别的博客文章引发热议，结论指向 Jev 很可能是基于 Qwen3.5-35B-A3B 的微调版本。社区成员普遍认为这验证了此前的合理推测——从头训练一个模型需要巨大投入，而 Jev 更可能是"现成LLM核心+无头化+微调"的产物。
-  *为何重要：* 这揭示了当前AI创业公司的一个普遍模式：基于开源基础模型进行包装和微调，而非从零训练。社区对此的态度复杂——既有对"Jev推广是骗局"的质疑，也有对指纹识别方法论的兴趣。
-  帖子链接：[Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!](https://www.reddit.com/comments/1y5nllv)（评分：458，评论数：57）
-
-- **SenseNova-Loop-9B 展示多模态创造力** - 一个9B参数模型（MLX 8-bit量化）生成了令人印象深刻的 three.js 场景——一只背上驮着村庄的天空鲸鱼。社区反应热烈，有人呼吁尽快在 llama.cpp 中支持该模型，也有人感叹"我们终于从自行车上的鹈鹕进化了"。
-  *为何重要：* 9B模型展现出的空间推理和创意编码能力，说明小模型在特定任务上已经能达到令人惊讶的水平，这对端侧部署意义重大。
-  帖子链接：[SenseNova-Loop-9B (MLX 8-bit) three.js sky whale](https://www.reddit.com/comments/1y5fmnu)（评分：224，评论数：45）
-
-### 行业动态与争议
-
-- **NVIDIA 游戏GPU供应削减20-30%** - 据 WCCFtech 报道，NVIDIA  reportedly 通知板卡合作伙伴将游戏GPU供应削减20-30%，时机恰逢 Jensen 重新出任CEO。社区反应尖锐，最高赞评论直言："人们真的以为 Jensen 在乎游戏玩家。"另一条高赞评论则讽刺道："好消息是，任何有GPU的人很快就能卖掉它买房子了。"
-  *为何重要：* 这进一步印证了 NVIDIA 从游戏公司向计算公司的战略转型。社区讨论指出，Jensen 多年前就明确表示 NVIDIA 不是游戏公司而是计算公司，游戏只是当时唯一大量使用其芯片的应用场景。
-  帖子链接：[another cut of nvidia gpu](https://www.reddit.com/comments/1y5blyd)（评分：834，评论数：353）
-
-- **Anthropic 的"秘密破坏"争议持续发酵** - "Singularity for me not for thee"帖子以3228分高居今日榜首，引用了一条推文称"Anthropic 承认他们在你进行ML研究时秘密破坏你的工作"。社区反应激烈，有用户将这与Anthropic在生物研究领域的类似行为联系起来，批评Dario的"道德作秀"。
-  *为何重要：* 这反映了社区对AI公司"说一套做一套"行为的日益不满，以及对AI安全叙事背后商业动机的质疑。一位用户尖锐指出："如果一家公司实现了神级技术，它会以20美元的价格与其他人分享，这种想法本身就很可笑。"
-  帖子链接：[Singularity for me not for thee](https://www.reddit.com/comments/1y5bv5v)（评分：3228，评论数：296）
-
-- **AMD 192GB Ryzen AI Halo 引发本地LLM社区关注** - AMD 推出192GB统一内存的 Ryzen AI Halo，旨在让本地运行更大AI模型成为可能。这被视为对 NVIDIA 在本地AI领域主导地位的直接挑战。
-  *为何重要：* 大内存统一架构正在成为本地AI推理的关键战场。192GB内存意味着可以运行目前需要多张高端GPU才能承载的模型，这对本地LLM社区是重大利好。
-  帖子链接：[AMD's 192GB Ryzen AI Halo brings much larger AI models to...](https://www.reddit.com/comments/1y5iu8f)（评分：153，评论数：107）
-
-### 研究创新与社区项目
-
-- **Looped Transformers：用相同权重"思考两次"** - 一个 HuggingFace Space 项目展示了循环Transformer的概念——通过多次循环同一组权重来增加推理深度。社区讨论指出了关键权衡：循环不是免费的，训练成本随循环次数线性增加，推理时间也会成倍增长。有用户回忆道："老玩家还记得ALBERT。"
-  *为何重要：* 这代表了一种与"更大模型"不同的扩展范式——通过增加推理时的计算深度而非参数数量来提升能力，对内存受限的部署场景尤其有吸引力。
-  帖子链接：[Looped Transformers: Thinking twice with the same weights](https://www.reddit.com/comments/1y5a741)（评分：145，评论数：14）
-
-- **DFlash2 为 Inkling2m 带来3倍加速** - 一个 llama.cpp PR 实现了 DFlash2 在 Inkling2m 上的3倍推理加速（代码任务从50 tokens/s提升至150 tokens/s）。社区成员也在 vLLM 上独立实现了类似优化，在 RTX 3090 上达到150-165 tokens/s。
-  *为何重要：* 推理优化正在从中心化实验室向社区扩散，llama.cpp 生态的快速迭代能力再次得到验证。不过也有用户指出："llama.cpp 的价值正在被侵蚀，快速迭代的定制推理方案正在展现更大价值。"
-  帖子链接：[3x speedup of DFlash2 for Inkling2m on llama.cpp](https://www.reddit.com/comments/1y5bqxj)（评分：133，评论数：20）
-
-- **Libra-TTS：0.3B参数、16语言、Apache 2.0** - 一个轻量级TTS系统发布，支持16种语言和8种声音，在Mac或PC上实现超实时推理。社区测试反馈积极，西班牙语用户称"结果非常好"，法语用户注意到"英式口音"的有趣现象。
-  *为何重要：* 0.3B参数的TTS模型实现多语言超实时推理，为本地语音交互应用提供了实用基础。Apache 2.0许可证也使其对商业应用友好。
-  帖子链接：[Libra-TTS: Text to speech with 16 languages, 0.3B, Apache 2.0](https://www.reddit.com/comments/1y5scar)（评分：57，评论数：12）
+- **Claude 对 GTA 重编译请求的反应成迷因** - 随着 GTA VI 反编译事件发酵，社区创作了关于 Claude 如何回应 GTA 重编译请求的迷因内容，反映了 AI 模型在面对潜在版权争议请求时的行为模式。
+*为何重要：* 这触及了 AI 安全对齐的核心矛盾——模型在用户需求与法律合规之间的权衡。社区以幽默方式探讨了这一严肃话题。
+帖子链接：[This is how Claude has been reacting to GTA recomp requests](https://www.reddit.com/comments/1y6m51z)（评分：1199，评论数：191）
 
 
-## 2. 周趋势对比
+### 🚀 下一代 Opus 模型泄露：一次性游戏生成能力
 
-**持续存在的趋势：**
-- **Inkling 2 Mini 生态**从周初的"thinkingmachines/Inkling-2-Mini (MoE: 26b, a3B)"发布帖（周榜第14，1711分）持续发酵至今，已从单纯的模型发布演变为包含微调、推理优化、移动端部署的完整生态。这表明本地LLM社区对高效MoE架构的强烈需求。
-- **Anthropic 的数学突破争议**贯穿整周——从"Anthropic claimed to have proved VP ≠ VNP"（周榜第13，1750分）到"Anthropic mathematician claims to prove Riemann hypothesis"（周榜第15，1528分），再到今日的"99.56% reduction"帖子。Anthropic 正在系统性地构建"AI攻克数学难题"的叙事。
-- **NVIDIA/Jensen 相关讨论**持续占据热榜——从"Employees welcome back Jensen"（周榜第2，5375分）到今日的GPU供应削减新闻，Jensen 回归CEO后的每一个动作都牵动社区神经。
+- **疑似下一代 Opus 模型的一次性游戏输出** - 社区流传出据称来自下一代 Opus 模型的输出内容，展示了从单次提示生成完整游戏的能力。多个帖子展示了不同角度的输出结果，包括视频演示。
+*为何重要：* 如果属实，这代表了 LLM 在复杂创意任务上的重大飞跃。社区反应混合了兴奋与怀疑，有用户表示"我简直不敢相信这真的在发生"。这也预示着 Anthropic 可能在模型能力上正在缩小与竞争对手的差距。
+帖子链接：[One-shot game output from supposedly the next Opus Model](https://www.reddit.com/comments/1y6g31u)（评分：638，评论数：162）
+帖子链接：[Output from what is supposedly the next Opus model](https://www.reddit.com/comments/1y5zaof)（评分：478，评论数：121）
 
-**新出现的趋势：**
-- **端侧AI推理的实用化**——今日iPhone 16 Pro运行26B模型的帖子标志着这一趋势从理论走向实践。与周初的模型发布不同，今日的讨论聚焦于实际部署体验（3 tokens/s的"慢但能用"）。
-- **模型指纹识别方法论**——Jev 身份揭秘帖引入了一种基于延迟分析的模型溯源方法，这在之前的周趋势中未曾出现。
-- **循环Transformer**作为替代扩展范式进入主流讨论，与周初的"Levent Alpöge working with Claude claims to have discovered..."（周榜第12）形成呼应——社区正在探索超越"更大模型"的路径。
-
-**社区兴趣变化：**
-从周初对"AI社区最大分歧"（周榜第1，8332分）的哲学讨论，转向今日对具体技术实现和部署细节的关注。这反映出社区从"AI将如何改变世界"的宏观叙事，转向"如何让AI在我的设备上跑起来"的务实态度。
+- **Opus 5.6 获得社区高度评价** - 用户对 Opus 5.6 版本给予极高评价，称其"绝对棒极了"（absolutelly FANTASTIC）。该帖子获得了935分和459条评论，显示出社区对 Anthropic 最新模型的强烈关注。
+*为何重要：* 这表明 Anthropic 在模型迭代上持续取得进展，Opus 5.6 可能在某些关键能力上实现了突破，值得关注具体是哪些维度的提升。
+帖子链接：[Opus 5.6 is absolutelly FANTASTIC](https://www.reddit.com/comments/1y61soe)（评分：935，评论数：459）
 
 
-## 3. 月度技术演进
+### 🎬 AI 生成媒体：Seedance 2.5 实现真实对话
 
-**从"模型发布"到"生态构建"：**
-月初的焦点是Qwen开源承诺（月榜第4，5380分）和Gemini 4 Hydrogen的发布（月榜第6，5086分）——都是单一模型事件。而今日的Inkling 2 Mini生态展示了完全不同的模式：一个基础模型发布后，社区在数周内围绕它构建了完整的工具链（微调、量化、推理优化、移动部署）。这标志着本地AI社区正从"消费者"转变为"共建者"。
-
-**从"云端霸权"到"端侧反抗"：**
-月榜第2的"Sam Altman: Local inference is a terrible allocation of..."（6772分，2906条评论）引发了关于本地推理价值的大讨论。一个月后，今日的iPhone运行26B模型帖子获得了截然不同的社区反应——不再是争论"是否值得"，而是"如何做得更好"。Sam Altman的言论反而成为了社区加速本地AI开发的催化剂。
-
-**数学突破叙事的演变：**
-从月初的"Claude Opus 5.5 helps developer bring the entire Super Ma..."（月榜第10，3791分）到今日的"OpenAI and GPT-6 Astra Just Tackled Physics' Holy Grail"，AI攻克科学难题的叙事正在从软件工程扩展到基础物理。Anthropic和OpenAI在这一领域的竞争日益激烈。
-
-**硬件格局的重塑：**
-从月中的"Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen..."（月榜第20，3159分）到今日的AMD 192GB Ryzen AI Halo，本地AI硬件正在从"NVIDIA一家独大"向多元化竞争演变。大内存统一架构可能成为打破NVIDIA垄断的关键突破口。
+- **Seedance 2.5 生成首部带真实对话的 AI 电影** - 用户使用 Seedance 2.5 创作了首部包含真实对话的 AI 生成电影。这标志着 AI 视频生成从无声或简单音效阶段迈入了完整对话驱动叙事的新阶段。
+*为何重要：* 对话生成与视频生成的融合是 AI 媒体创作的关键里程碑。这意味着 AI 现在能够协调文本、语音和视觉三个模态来讲述完整故事，对影视制作行业具有深远影响。
+帖子链接：[My first AI film with real dialogue (Seedance 2.5)](https://www.reddit.com/comments/1y675kp)（评分：657，评论数：187）
 
 
-## 4. 技术深度解析：Inkling 2 Mini 的端侧部署突破与 LoopCD 对比解码
+### 📊 行业动态：芯片管制与市场连锁反应
 
-今日技术上最引人注目的发展，是**Inkling 2 Mini（26B MoE，激活3B）在iPhone 16 Pro上的成功部署**，以及**capy-flash v0.16.5 通过 LoopCD（Loop Contrastive Decoding）在零训练条件下将agent评分提升73%**。这两个进展共同指向一个趋势：**端侧AI推理正在从"能跑"向"好用"快速演进**。
+- **路透社确认：切断蒸馏和算力供应有效减缓中国模型发展** - 路透社报道确认，美国对中国 AI 芯片的出口管制和蒸馏限制正在显著减缓中国 AI 模型的发展速度。然而，社区对此看法分歧明显。
+*为何重要：* 社区高赞评论指出："问题更多在于中国没有足够的算力，而非蒸馏。认为中国没有蒸馏就无法持续改进模型的人是愚蠢的。"另一位用户则呼吁："人们需要获得价格合理的硬件，让本地 AI 扎根。不需要少数几家公司控制一切。"这反映了社区对算力民主化的强烈诉求。
+帖子链接：[Reuters confirms: Cutting off distillation and compute works...](https://www.reddit.com/comments/1y5ysad)（评分：723，评论数：548）
 
-### 技术架构：专家卸载策略
+- **大量 Nvidia GPU（含数千块 B300）涌入市场** - CNBC 报道称，在美国限制中国企业远程访问 AI 芯片后，异常大量的 Nvidia GPU（包括数千块 B300）涌入市场。
+*为何重要：* 社区对此反应充满讽刺。高赞评论写道："美国：太好了，现在价格会降到我们能承受的水平了吧？NVIDIA：哦，价格在下降？这对利润率不利。<减少生产>"另一位用户预言："别担心，会有一家新的 Nvidia 资助的初创公司来吸收多余的 GPU。"这揭示了社区对 GPU 定价和市场操控的深度不信任。
+帖子链接：[CNBC: an unusually high volume of Nvidia GPUs...](https://www.reddit.com/comments/1y667aa)（评分：649，评论数：182）
 
-iPhone 16 Pro 部署的核心创新在于**优化的专家卸载（expert offloading）**策略。Inkling 2 Mini 采用MoE架构，总参数26B但每token仅激活约3B。在手机端，模型权重无法全部载入内存，因此需要将非活跃专家动态卸载到存储，在需要时加载。社区报告显示，当前实现达到约3 tokens/s，但考虑到iPhone 16 Pro的内存带宽约为115.2 GB/s，且芯片性能接近RTX 4070水平，优化空间巨大。一位用户乐观地表示："今天3tps，明天33tps。让我想起2023年的llama——26B在移动端运行，简直不可思议！"
+- **Nvidia 暂停向东南亚发货** - 在美国加强管制背景下，Nvidia 已暂停向东南亚地区发货芯片。一位业内人士评论道："这让我的工作更难了。不仅价格已经是天价，现在美国政府还要求东南亚系统集成商在购买 B200 之前证明为什么需要它们。"
+*为何重要：* 这可能导致灰色市场向海湾国家转移，同时可能对开源模型生态造成打击。有社区成员担忧："开源模型要受打击了。刚好及时拯救 Anthropic/OpenAI 吧。"
+帖子链接：[Nvidia halts chip shipments to South-East Asia amid US crackdown](https://www.reddit.com/comments/1y6h57r)（评分：222，评论数：41）
 
-### LoopCD：零训练的性能飞跃
-
-capy-flash v0.16.5 引入的 LoopCD 技术更为精妙。它基于Apple的arXiv论文2610.02185，通过在**循环传递之间进行对比解码**来提升模型输出质量。具体而言：
-
-- **相同权重、相同提示**，但模型现在不仅能发现bug，还能写出修复方案
-- **Agent评分从0.22提升至0.38**（基于盲测Opus 5评判，9个真实bug，每个3次运行）
-- **在12个本地模型中从第9位跃升至第7位**，超越了Qwen3.8-27B NVFP4
-- **写修复的运行次数从15/27提升至21/27**，首次编辑从第40步提前至第55步
-- **每任务时间仅增加4%**，但解码时间减少16.5%，运行更早结束
-
-从任务难度分解来看，LoopCD在**中等难度任务上提升最为显著**（从0.11到0.50），简单任务略有提升（0.56到0.58），困难任务仍接近零（0.00）。这表明该方法主要解决了"模型知道该做什么但执行不稳定"的问题。
-
-### 社区争议与技术意义
-
-社区对LoopCD的反应既有兴奋也有质疑。一位用户指出："nvfp4输给3-bit很奇怪，但也许这是一个很强的3-bit。你评了多少次运行来取平均？"这反映了社区对基准测试严谨性的关注。另一位用户则从更宏观的角度评论："llama.cpp的价值继续被侵蚀。我非常感激它，但像这样的东西进一步指出了快速迭代的定制推理的价值。"
-
-LoopCD的意义在于它代表了一种**推理时计算扩展**的新范式——不增加模型参数，不进行额外训练，仅通过巧妙的解码策略就能显著提升agent能力。这与Looped Transformers的思路异曲同工，但LoopCD完全不需要训练阶段的修改。
-
-### 对AI生态的影响
-
-这两个进展共同指向一个未来：**高性能AI推理将不再依赖云端GPU集群**。当26B模型能在手机上以可用速度运行，当零训练的推理优化能带来73%的性能提升，本地AI的实用性和经济性将发生质变。这对OpenAI等依赖云端推理商业模式的公司构成直接挑战——正如一位社区成员所言："世界正朝着本地LLM在每个人的智能手机和笔记本电脑上运行的方向发展。像OpenAI这样的AI公司不喜欢看到这一点。这就是为什么Sam不想让你拥有RAM。"
+- **Z.AI 澄清 GLM-5.5 未延期，12月发布** - Z.AI 官方澄清 GLM-5.5 并未延期，仍计划于12月发布。社区讨论指出，该模型在华为950DDT集群上训练，规模约10k集群，相比 OpenAI 和 Anthropic 的规模"非常 modest"。
+*为何重要：* 这反映了中国 AI 公司在算力受限条件下的务实策略，同时也展示了华为硬件在 AI 训练中的实际应用进展。
+帖子链接：[Z.AI clarifies GLM-5.5 has not been delayed...](https://www.reddit.com/comments/1y6260i)（评分：473，评论数：96）
 
 
-## 5. 社区亮点
+### 💻 本地部署与硬件创新
 
-**r/LocalLLaMA：从模型消费到生态共建**
-本周 r/LocalLLaMA 的核心叙事是 Inkling 2 Mini 生态的爆发。与 r/singularity 的哲学讨论不同，LocalLLaMA 社区专注于具体的技术实现：量化方案（MLX 8-bit、GGUF）、推理优化（DFlash2、vLLM）、移动部署（iPhone 16 Pro）、微调工具（Gemma 4 fine-tuning）。社区成员"Poprouter"对harness adapter的科普——"一个小的lora，教基础模型脚手架的工具调用和轮次格式"——体现了这个社区的技术深度和互助文化。
+- **Kimi-K3.1-Pro 在 16 台 GB10 集群上运行** - 用户成功在 16 台 Spark（GB10）集群上运行完整版 Kimi-K3.1-Pro。图片展示了带有"集群健康仪表板"的工作站设置，配有多个外部存储设备堆叠。
+*为何重要：* 社区成员计算了经济性："30 tokens/秒看似慢，但10小时解码=1080万 tokens/天，2小时预填充=5040万 tokens/天。每月3.24亿输出 tokens，15亿输入 tokens。在 API 上使用 K3.1 每月需 $3240。"这展示了本地部署在大规模使用场景下的显著成本优势。
+帖子链接：[First version of full Kimi-K3.1-Pro running on 16 Sparks (GB10) cluster](https://www.reddit.com/comments/1y68f63)（评分：363，评论数：136）
 
-**r/singularity：哲学思辨与行业批判**
-r/singularity 本周的热门内容呈现两极分化：一方面是"Singularity for me not for thee"（3228分）和"Inside You There Are Two AI Swarms"（1902分）等带有强烈批判色彩的帖子，另一方面是"OpenAI and GPT-6 Astra Just Tackled Physics' Holy Grail"（934分，316条评论）等突破性新闻。社区对Anthropic的"秘密破坏"指控反应尤为激烈，最高赞评论将Dario的"道德作秀"与"自私的资本主义猪"直接挂钩，反映出社区对AI公司安全叙事的深度不信任。
+- **Inkling 2 Mini 在单张 RTX 3060 上实现 45-47 tok/s** - Betelgeuse v0.7.0 版本展示了 Inkling 2 Mini 在单张 RTX 3060 12GB + 16GB RAM 上的性能：聚合 3136 tok/s，每用户 45-47 tok/s，预填充 1233 pp/s。性能图表详细展示了不同工作负载下的表现。
+*为何重要：* 这证明了消费级硬件运行高质量模型的可行性。然而社区反应也体现了信息过载问题，一位用户直言："这些数字都是什么？直接告诉我 5090 该用什么模型。"
+帖子链接：[Inkling 2 Mini running at 3136 tok/s Aggregate...](https://www.reddit.com/comments/1y67qpu)（评分：89，评论数：37）
 
-**r/LocalLLM：硬件与实用指南**
-r/LocalLLM 社区聚焦于硬件选择和实用问题。"AMD's 192GB Ryzen AI Halo"（153分，107条评论）和"How much VRAM is generally needed for a decent local reasoning..."（87分，127条评论）等帖子显示，这个社区更关注"买什么硬件"和"需要多少内存"等实际问题。今日的"PSA: Abliterated models will happily wipe your disk"（59分，46条评论）则是一个重要的安全提醒——无审查模型在获得文件系统访问权限时可能造成实际损害。
+- **FLYX：16GB GPU 上实现 100 万上下文** - FLYX 工具声称在 16GB GPU + 32GB RAM 上实现 100 万 token 上下文，打包为 57MB 零依赖可执行文件。
+*为何重要：* 社区反应充满怀疑："有人告诉我陷阱在哪""似乎好得不真实"。如果属实，这将是长上下文处理的重大突破，但社区的谨慎态度反映了对过度承诺的警惕。
+帖子链接：[[Resources] FLYX: 1M context on a 16GB GPU...](https://www.reddit.com/comments/1y6dgwx)（评分：46，评论数：70）
 
-**r/AI_Agents：从教程到实践**
-r/AI_Agents 的热门帖子"If you're new to AI agents, stop watching tutorials and..."（49分，40条评论）反映了一个成熟社区对"行动优于学习"的呼吁。这个社区正在从"什么是AI agent"的教育阶段，过渡到"如何构建有用的agent"的实践阶段。
 
-**r/LLMDevs 和 r/LangChain：开发者痛点**
-这些小型社区的热门帖子揭示了开发者的实际痛点：GLM-5.3的推理级别选择、LLM结构化输出的顺序评估、LangChain中按用户工具权限的执行。这些讨论虽然分数不高（个位数到十几分），但评论数相对活跃（12-17条），说明这些是开发者真正面临的问题。
+### 🔬 研究创新
 
-**跨社区交叉话题：**
-- **Inkling 2 Mini** 同时出现在 r/LocalLLaMA 的多个帖子中，从模型发布到推理优化到移动部署，形成了完整的讨论链条
-- **NVIDIA GPU供应** 在 r/LocalLLaMA 和 r/singularity 都引发讨论，但角度不同：LocalLLaMA 关注对本地推理硬件的影响，singularity 关注对AI行业整体的影响
-- **Anthropic 数学突破** 在 r/singularity 引发哲学讨论，在 r/LLMDevs 则可能引发对模型能力评估方法的讨论
+- **MeMo：通过专用记忆模型为 LLM 添加新知识** - 一篇新论文提出 MeMo（Memory as a Model）框架，通过专用记忆模型向 LLM 添加新知识，而无需更改其权重。
+*为何重要：* 这指向了持续学习和模块化专家混合的可能性。社区讨论指出："困难的金矿在于非欧几里得空间和流形。"这可能是解决 LLM 知识更新难题的重要方向。
+帖子链接：[MeMo (Memory as a Model)...](https://www.reddit.com/comments/1y5z542)（评分：140，评论数：24）
 
-**小型社区的独特见解：**
-r/LocalLLM 的"PSA: Abliterated models will happily wipe your disk"是一个在大型社区中容易被忽视但极其重要的提醒。随着本地模型获得更多系统权限，安全性问题将从"模型会不会说错话"升级为"模型会不会删错文件"。这个帖子虽然只有59分，但46条评论显示社区对此有强烈共鸣。
+- **Inkling-2-Mini-Cyber：0.0065% 权重编辑实现安全研究突破** - 通过仅编辑 0.0065% 的权重，Inkling-2-Mini-Cyber 将 MITRE-120 拒绝率从 100 降至 1，在 CVE→CWE 基准上超越 Qwen3.8-27B。基准图表显示 CyberSecEval MITRE-120 从 0.8% 跃升至 75.8%。
+*为何重要：* 这展示了极低成本的模型行为修改能力，对 AI 安全研究和红队测试具有重要意义。社区对此表示赞赏："我喜欢社区为这个模型付出的努力！"
+帖子链接：[Inkling-2-Mini-Cyber Surgical 0.0065% weight edit...](https://www.reddit.com/comments/1y6flvh)（评分：106，评论数：12）
+
+- **"举个例子"如何引发 AI 偏见：受控实验** - 一项受控实验研究了示例诱导偏见，散点图显示：无示例方法仅 22% 推荐目标示例，而自然示例方法达到 100%。示例+原则方法达到 99%。
+*为何重要：* 这量化了提示工程中的一个关键直觉。社区成员总结道："这就是为什么人们说避免负面提示。你放入上下文的任何内容都是它们会倾向的。"另一位用户观察到："我们提供的示例被视为指令的一部分。"
+帖子链接：[What Happens When You Say "For Example" to AI...](https://www.reddit.com/comments/1y6chi5)（评分：70，评论数：40）
+
+
+## 二、周趋势对比
+
+### 持续趋势
+
+**Anthropic 数学突破叙事延续**：本周早些时候，Anthropic 数学家声称证明黎曼假设（1528分），随后又声称证明 VP ≠ VNP（1756分）。今日 Opus 5.6 的热烈反响和下一代 Opus 泄露进一步强化了 Anthropic 作为前沿研究者的形象。这一叙事线从周初持续至今日，形成了完整的"Anthropic 突破周"。
+
+**Jensen Huang 与 Nvidia 的社区叙事**：周趋势中"员工欢迎 Jensen 回归 Nvidia"（5400分）和"Jensen Huang 的指数级增长率"（6681分）持续发酵。今日的 GPU 市场涌入和东南亚发货暂停新闻为这一叙事增添了新维度——社区对 Nvidia 市场行为的讽刺和怀疑态度贯穿始终。
+
+**本地 AI 硬件民主化诉求**：从月趋势中"Sam Altman: 本地推理是糟糕的算力分配"（6786分）到今日 Reuters 帖子中"人们需要获得价格合理的硬件"的高赞评论，算力民主化始终是 LocalLLaMA 社区的核心关切。
+
+### 新兴趋势
+
+**AI 辅助游戏逆向工程**：这是今日全新的爆发性话题。GTA VI 反编译事件（2517分）在24小时内迅速登顶，代表了 AI 在逆向工程领域能力的质变。这与周趋势中的理论性讨论（黎曼假设、VP≠VNP）形成鲜明对比——从纯数学转向了极具实用性的应用。
+
+**AI 生成电影对话**：Seedance 2.5 的对话生成能力标志着 AI 媒体创作进入新阶段。周趋势中的"AI 生成媒体"类别尚未出现如此完整的叙事能力展示。
+
+**芯片管制的地缘政治连锁反应**：今日多条新闻（Reuters、CNBC、Nvidia 东南亚）集中反映了芯片管制对全球 AI 供应链的多层次影响，这在周趋势中尚未如此集中地体现。
+
+
+## 三、月度技术演进
+
+### 从理论突破到应用落地
+
+月趋势显示，11月上半月以理论性突破为主：黎曼假设证明（1528分）、VP≠VNP 证明（1756分）、生物技术垂直增长（3675分）。而今日趋势明显转向应用层：游戏逆向工程、AI 电影、本地部署优化。这标志着 AI 社区从"AI 能做什么"的惊叹转向"如何用 AI 做具体事情"的实践。
+
+### 本地 AI 生态的成熟
+
+从月趋势的"Qwen 坚持开源"（5377分）到今日 Kimi-K3.1-Pro 集群部署、Inkling 2 Mini 消费级硬件运行，本地 AI 生态正在快速成熟。关键变化包括：
+- 量化技术的进步（GSQ-RCO quants、IQ4_NL GGUF）
+- 推理引擎优化（llama.cpp CUDA/HIP 支持、Betelgeuse v0.7.0）
+- 硬件利用效率提升（单张 RTX 3060 运行 45+ tok/s）
+
+### 芯片管制重塑行业格局
+
+月趋势中"中国为 Jensen 提供新机会"（3659分）和"Jensen 的 mistake 是过于支持 LocalAI"（3213分）已经预示了地缘政治对 AI 行业的深刻影响。今日的多条芯片新闻将这一趋势推向高潮，可能标志着 AI 行业从全球化协作转向区域化分裂的转折点。
+
+
+## 四、技术深度解析
+
+### Inkling-2-Mini-Cyber：0.0065% 权重编辑实现行为精准调控
+
+今日最技术上引人注目的发展是 **Inkling-2-Mini-Cyber** 的发布——通过仅编辑模型 0.0065% 的权重，实现了安全研究能力的精准增强。
+
+**技术细节**：
+
+根据基准对比图表，该方法在多个维度实现了显著提升：
+
+| 基准测试 | Stock Inkling-2-Mini | Inkling-2-Mini-Cyber | Qwen3.8-27B |
+|---------|---------------------|---------------------|-------------|
+| CyberSecEval MITRE-120 (Full+Partial) | 0.8% | **75.8%** | 90.8% |
+| CyberSecEval MITRE-120 (Full Completed) | 0.0% | **67.5%** | 76.7% |
+| CTIBench CVE→CWE-100 | 63.0% | **66.0%** | 60.0% |
+| AdvBench Compliance | 0.0% | **95.2%** | - |
+
+值得注意的是，该方法在提升网络安全能力的同时，保持了通用能力的稳定（CyberMetric-500 从 94.0% 微降至 92.8%，CTIBench MCQ-250 从 73.2% 微升至 74.0%）。
+
+**为何这在当下重要**：
+
+1. **极低成本的模型行为修改**：0.0065% 的权重编辑意味着可以在不重新训练的情况下，精准调控模型在特定领域的行为。这为 AI 安全研究提供了新范式——红队测试可以通过"外科手术式"的权重编辑来模拟对抗性场景。
+
+2. **拒绝行为的可操控性**：MITRE-120 拒绝率从 100 降至 1 的戏剧性变化，揭示了当前安全对齐机制的脆弱性。社区成员提出了关键问题："这种方法是一般性地减少拒绝，还是专门针对网络安全相关的？"这直接关系到 AI 安全的核心——如果拒绝行为可以被轻易绕过，那么现有的安全护栏是否足够？
+
+3. **社区驱动的模型改进**：该模型由社区成员开发，体现了 LocalLLaMA 生态的活力。正如一位用户所说："我喜欢社区为这个模型付出的努力！"这种分布式创新模式可能比集中式实验室更快地推进特定领域的 AI 能力。
+
+4. **对 AI 治理的启示**：如果 0.0065% 的权重编辑就能将拒绝率从 100 降至 1，那么模型发布后的行为管控将面临根本性挑战。这为 AI 治理提出了新问题：如何在开放权重模型中保持安全对齐？
+
+**技术影响与未来方向**：
+
+这种方法可能催生一系列"领域特化"的模型变体——通过微小的权重编辑，为不同垂直领域（医疗、法律、网络安全）定制模型行为。同时，它也为 AI 安全研究提供了新工具：通过可控的权重编辑来研究对齐机制的工作原理。
+
+然而，这也引发了对"权重编辑武器化"的担忧。如果恶意行为者能够通过类似方法移除模型的安全限制，那么开放权重模型的发布策略可能需要重新审视。社区对此的讨论才刚刚开始，但已经触及了 AI 安全领域最核心的张力：能力与控制的平衡。
+
+
+## 五、社区亮点
+
+### 各社区关注焦点差异
+
+**r/singularity**：今日完全被 GTA VI 反编译事件主导，前10热帖中有6条与此相关。社区情绪从震惊（"我简直不敢相信这真的在发生"）到讽刺（"PC 游戏社区以前非常反 AI"）再到技术分析（详细描述破解时间线）。同时，Anthropic 的 Opus 5.6 和下一代模型泄露也占据重要位置，显示该社区对前沿模型能力的持续关注。
+
+**r/LocalLLaMA**：关注点更加务实和多元化。芯片管制新闻（Reuters、CNBC、Nvidia 东南亚）引发了对算力民主化的热烈讨论；Inkling 2 Mini 的多个量化版本和部署方案展示了社区的技术深度；Kimi-K3.1-Pro 集群部署则体现了本地 AI 社区的"硬核"精神。值得注意的是，社区对 GPU 定价和市场操控表现出强烈的不满和讽刺。
+
+**r/LocalLLM**：作为更小型的社区，讨论更加聚焦。Tencent 开源稀疏模型解码器（138分）和 Qwen Flash Next 在 8GB 显卡上的性能（84分）是今日亮点，反映了社区对高效推理和消费级硬件部署的专注。
+
+**r/LLMDevs**：开发者社区关注实际工程问题。"我用9行替换了4000词的系统提示"（14分）和"开源自托管 AI 网关"（2分）体现了对提示工程和基础设施建设的关注。
+
+**r/MachineLearning**：学术导向的讨论，"我们真的需要在 ICLR 上设置 LLM AC 吗？"（50分）反映了学术界对 AI 生成内容在同行评审中角色的反思。
+
+**r/AI_Agents**：小型但活跃的社区，"AI 接待员即将成为死胡同"（21分）和"代理在工具错误上循环"（14分）显示了对 AI 代理实际部署挑战的关注。
+
+**r/LangChain**：开发者反思，"整周都在怪模型，其实是我的浏览工具"（8分）体现了 AI 应用开发中常见的调试陷阱。
+
+### 跨社区交叉话题
+
+**芯片管制**是今日唯一横跨 r/singularity 和 r/LocalLLaMA 的话题，但两个社区的关注角度截然不同：r/singularity 更关注地缘政治和行业格局，而 r/LocalLLaMA 更关注对本地 AI 生态的实际影响和算力获取。
+
+**Inkling 2 Mini** 在 r/LocalLLaMA 中引发了多个独立帖子（量化版本、llama.cpp 支持、性能测试、安全特化版本），显示了社区对单一模型的深度参与和协作改进模式。
+
+
+**总结**：2026年11月27日的 Reddit AI 社区呈现出从理论突破向应用落地加速转变的趋势。AI 辅助游戏逆向工程和 AI 电影对话生成代表了能力质变，而芯片管制的地缘政治影响正在重塑行业格局。技术上，Inkling-2-Mini-Cyber 的极低权重编辑方法为 AI 安全研究开辟了新方向，同时也提出了关于开放权重模型治理的重要问题。本地 AI 生态持续成熟，消费级硬件上的模型性能不断突破，算力民主化仍是社区的核心诉求。
